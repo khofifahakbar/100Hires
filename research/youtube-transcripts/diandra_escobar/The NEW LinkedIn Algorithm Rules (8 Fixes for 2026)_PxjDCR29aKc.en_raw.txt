@@ -1,0 +1,2373 @@
+Author: Diandra Escobar
+Source File: The NEW LinkedIn Algorithm Rules (8 Fixes for 2026)_PxjDCR29aKc.en.vtt
+
+WEBVTT
+Kind: captions
+Language: en
+00:00:00.160 --> 00:00:02.149 align:start position:0%
+I'll make you a bet. Pull up your
+00:00:02.149 --> 00:00:02.159 align:start position:0%
+I'll make you a bet. Pull up your
+00:00:02.159 --> 00:00:05.269 align:start position:0%
+I'll make you a bet. Pull up your
+LinkedIn profile right now. I can find
+00:00:05.269 --> 00:00:05.279 align:start position:0%
+LinkedIn profile right now. I can find
+00:00:05.279 --> 00:00:07.590 align:start position:0%
+LinkedIn profile right now. I can find
+at least one thing that's actively
+00:00:07.590 --> 00:00:07.600 align:start position:0%
+at least one thing that's actively
+00:00:07.600 --> 00:00:10.070 align:start position:0%
+at least one thing that's actively
+suppressing your reach. Not maybe. Every
+00:00:10.070 --> 00:00:10.080 align:start position:0%
+suppressing your reach. Not maybe. Every
+00:00:10.080 --> 00:00:12.150 align:start position:0%
+suppressing your reach. Not maybe. Every
+single account we've audited has at
+00:00:12.150 --> 00:00:12.160 align:start position:0%
+single account we've audited has at
+00:00:12.160 --> 00:00:14.549 align:start position:0%
+single account we've audited has at
+least one. By the end of this video,
+00:00:14.549 --> 00:00:14.559 align:start position:0%
+least one. By the end of this video,
+00:00:14.559 --> 00:00:16.630 align:start position:0%
+least one. By the end of this video,
+you'll know exactly what it is and how
+00:00:16.630 --> 00:00:16.640 align:start position:0%
+you'll know exactly what it is and how
+00:00:16.640 --> 00:00:19.029 align:start position:0%
+you'll know exactly what it is and how
+to fix it. And I'm not guessing.
+00:00:19.029 --> 00:00:19.039 align:start position:0%
+to fix it. And I'm not guessing.
+00:00:19.039 --> 00:00:21.109 align:start position:0%
+to fix it. And I'm not guessing.
+Everything I'm about to show you comes
+00:00:21.109 --> 00:00:21.119 align:start position:0%
+Everything I'm about to show you comes
+00:00:21.119 --> 00:00:24.390 align:start position:0%
+Everything I'm about to show you comes
+from LinkedIn's own research papers,
+00:00:24.390 --> 00:00:24.400 align:start position:0%
+from LinkedIn's own research papers,
+00:00:24.400 --> 00:00:27.670 align:start position:0%
+from LinkedIn's own research papers,
+their VP of engineering's public posts,
+00:00:27.670 --> 00:00:27.680 align:start position:0%
+their VP of engineering's public posts,
+00:00:27.680 --> 00:00:29.990 align:start position:0%
+their VP of engineering's public posts,
+and an official corporate announcement
+00:00:29.990 --> 00:00:30.000 align:start position:0%
+and an official corporate announcement
+00:00:30.000 --> 00:00:32.630 align:start position:0%
+and an official corporate announcement
+from 2 weeks ago. I'm going to give you
+00:00:32.630 --> 00:00:32.640 align:start position:0%
+from 2 weeks ago. I'm going to give you
+00:00:32.640 --> 00:00:35.110 align:start position:0%
+from 2 weeks ago. I'm going to give you
+eight rules, and after each one, I'll
+00:00:35.110 --> 00:00:35.120 align:start position:0%
+eight rules, and after each one, I'll
+00:00:35.120 --> 00:00:37.990 align:start position:0%
+eight rules, and after each one, I'll
+tell you the exact thing to go change
+00:00:37.990 --> 00:00:38.000 align:start position:0%
+tell you the exact thing to go change
+00:00:38.000 --> 00:00:40.069 align:start position:0%
+tell you the exact thing to go change
+right now. So, let's get into what
+00:00:40.069 --> 00:00:40.079 align:start position:0%
+right now. So, let's get into what
+00:00:40.079 --> 00:00:42.790 align:start position:0%
+right now. So, let's get into what
+happened. Earlier this year, LinkedIn
+00:00:42.790 --> 00:00:42.800 align:start position:0%
+happened. Earlier this year, LinkedIn
+00:00:42.800 --> 00:00:44.790 align:start position:0%
+happened. Earlier this year, LinkedIn
+started publishing research about their
+00:00:44.790 --> 00:00:44.800 align:start position:0%
+started publishing research about their
+00:00:44.800 --> 00:00:48.229 align:start position:0%
+started publishing research about their
+algorithm. One paper described a 150
+00:00:48.229 --> 00:00:48.239 align:start position:0%
+algorithm. One paper described a 150
+00:00:48.239 --> 00:00:51.510 align:start position:0%
+algorithm. One paper described a 150
+billion parameter AI model called 360
+00:00:51.510 --> 00:00:51.520 align:start position:0%
+billion parameter AI model called 360
+00:00:51.520 --> 00:00:53.830 align:start position:0%
+billion parameter AI model called 360
+Brew designed to unify their ranking
+00:00:53.830 --> 00:00:53.840 align:start position:0%
+Brew designed to unify their ranking
+00:00:53.840 --> 00:00:56.310 align:start position:0%
+Brew designed to unify their ranking
+systems. That paper got taken down from
+00:00:56.310 --> 00:00:56.320 align:start position:0%
+systems. That paper got taken down from
+00:00:56.320 --> 00:00:58.869 align:start position:0%
+systems. That paper got taken down from
+the archive for licensing reasons
+00:00:58.869 --> 00:00:58.879 align:start position:0%
+the archive for licensing reasons
+00:00:58.879 --> 00:01:01.430 align:start position:0%
+the archive for licensing reasons
+shortly after it went up. Then October
+00:01:01.430 --> 00:01:01.440 align:start position:0%
+shortly after it went up. Then October
+00:01:01.440 --> 00:01:03.670 align:start position:0%
+shortly after it went up. Then October
+2025, a second paper dropped from
+00:01:03.670 --> 00:01:03.680 align:start position:0%
+2025, a second paper dropped from
+00:01:03.680 --> 00:01:05.990 align:start position:0%
+2025, a second paper dropped from
+LinkedIn's own team describing a
+00:01:05.990 --> 00:01:06.000 align:start position:0%
+LinkedIn's own team describing a
+00:01:06.000 --> 00:01:08.950 align:start position:0%
+LinkedIn's own team describing a
+completely rebuilt retrieval system. I
+00:01:08.950 --> 00:01:08.960 align:start position:0%
+completely rebuilt retrieval system. I
+00:01:08.960 --> 00:01:11.190 align:start position:0%
+completely rebuilt retrieval system. I
+made a video breaking that down when it
+00:01:11.190 --> 00:01:11.200 align:start position:0%
+made a video breaking that down when it
+00:01:11.200 --> 00:01:14.310 align:start position:0%
+made a video breaking that down when it
+came out. Then two weeks ago on March
+00:01:14.310 --> 00:01:14.320 align:start position:0%
+came out. Then two weeks ago on March
+00:01:14.320 --> 00:01:18.390 align:start position:0%
+came out. Then two weeks ago on March
+12th, LinkedIn went fully public. Hristo
+00:01:18.390 --> 00:01:18.400 align:start position:0%
+12th, LinkedIn went fully public. Hristo
+00:01:18.400 --> 00:01:21.749 align:start position:0%
+12th, LinkedIn went fully public. Hristo
+Denkev, who works on LinkedIn's flagship
+00:01:21.749 --> 00:01:21.759 align:start position:0%
+Denkev, who works on LinkedIn's flagship
+00:01:21.759 --> 00:01:24.469 align:start position:0%
+Denkev, who works on LinkedIn's flagship
+AI team, published a deep technical
+00:01:24.469 --> 00:01:24.479 align:start position:0%
+AI team, published a deep technical
+00:01:24.479 --> 00:01:27.109 align:start position:0%
+AI team, published a deep technical
+breakdown on the engineering blog.
+00:01:27.109 --> 00:01:27.119 align:start position:0%
+breakdown on the engineering blog.
+00:01:27.119 --> 00:01:29.429 align:start position:0%
+breakdown on the engineering blog.
+LinkedIn's corporate communications team
+00:01:29.429 --> 00:01:29.439 align:start position:0%
+LinkedIn's corporate communications team
+00:01:29.439 --> 00:01:32.390 align:start position:0%
+LinkedIn's corporate communications team
+put out an official announcement and Tim
+00:01:32.390 --> 00:01:32.400 align:start position:0%
+put out an official announcement and Tim
+00:01:32.400 --> 00:01:35.190 align:start position:0%
+put out an official announcement and Tim
+Jerka, LinkedIn's VP of engineering, who
+00:01:35.190 --> 00:01:35.200 align:start position:0%
+Jerka, LinkedIn's VP of engineering, who
+00:01:35.200 --> 00:01:38.710 align:start position:0%
+Jerka, LinkedIn's VP of engineering, who
+spent 13 years building the feed, posted
+00:01:38.710 --> 00:01:38.720 align:start position:0%
+spent 13 years building the feed, posted
+00:01:38.720 --> 00:01:40.870 align:start position:0%
+spent 13 years building the feed, posted
+directly on LinkedIn explaining how it
+00:01:40.870 --> 00:01:40.880 align:start position:0%
+directly on LinkedIn explaining how it
+00:01:40.880 --> 00:01:43.590 align:start position:0%
+directly on LinkedIn explaining how it
+all works. Between those sources and
+00:01:43.590 --> 00:01:43.600 align:start position:0%
+all works. Between those sources and
+00:01:43.600 --> 00:01:45.590 align:start position:0%
+all works. Between those sources and
+what we've been seeing across client
+00:01:45.590 --> 00:01:45.600 align:start position:0%
+what we've been seeing across client
+00:01:45.600 --> 00:01:48.710 align:start position:0%
+what we've been seeing across client
+accounts at Distinctia, the picture is
+00:01:48.710 --> 00:01:48.720 align:start position:0%
+accounts at Distinctia, the picture is
+00:01:48.720 --> 00:01:51.190 align:start position:0%
+accounts at Distinctia, the picture is
+very clear. LinkedIn is rolling out a
+00:01:51.190 --> 00:01:51.200 align:start position:0%
+very clear. LinkedIn is rolling out a
+00:01:51.200 --> 00:01:53.590 align:start position:0%
+very clear. LinkedIn is rolling out a
+fundamentally rebuilt system that
+00:01:53.590 --> 00:01:53.600 align:start position:0%
+fundamentally rebuilt system that
+00:01:53.600 --> 00:01:56.630 align:start position:0%
+fundamentally rebuilt system that
+decides what content you see and the
+00:01:56.630 --> 00:01:56.640 align:start position:0%
+decides what content you see and the
+00:01:56.640 --> 00:01:59.749 align:start position:0%
+decides what content you see and the
+rules changed. And to be clear about
+00:01:59.749 --> 00:01:59.759 align:start position:0%
+rules changed. And to be clear about
+00:01:59.759 --> 00:02:01.830 align:start position:0%
+rules changed. And to be clear about
+where this comes from, the retrieval
+00:02:01.830 --> 00:02:01.840 align:start position:0%
+where this comes from, the retrieval
+00:02:01.840 --> 00:02:04.630 align:start position:0%
+where this comes from, the retrieval
+paper was written by LinkedIn engineers
+00:02:04.630 --> 00:02:04.640 align:start position:0%
+paper was written by LinkedIn engineers
+00:02:04.640 --> 00:02:08.070 align:start position:0%
+paper was written by LinkedIn engineers
+published from their LinkedIn.com emails
+00:02:08.070 --> 00:02:08.080 align:start position:0%
+published from their LinkedIn.com emails
+00:02:08.080 --> 00:02:10.869 align:start position:0%
+published from their LinkedIn.com emails
+describing experiments run on LinkedIn's
+00:02:10.869 --> 00:02:10.879 align:start position:0%
+describing experiments run on LinkedIn's
+00:02:10.879 --> 00:02:14.229 align:start position:0%
+describing experiments run on LinkedIn's
+actual platform with real AB test data.
+00:02:14.229 --> 00:02:14.239 align:start position:0%
+actual platform with real AB test data.
+00:02:14.239 --> 00:02:16.309 align:start position:0%
+actual platform with real AB test data.
+Then LinkedIn's own engineering blog
+00:02:16.309 --> 00:02:16.319 align:start position:0%
+Then LinkedIn's own engineering blog
+00:02:16.319 --> 00:02:18.949 align:start position:0%
+Then LinkedIn's own engineering blog
+published a companion piece describing
+00:02:18.949 --> 00:02:18.959 align:start position:0%
+published a companion piece describing
+00:02:18.959 --> 00:02:21.750 align:start position:0%
+published a companion piece describing
+the exact same architecture. Then
+00:02:21.750 --> 00:02:21.760 align:start position:0%
+the exact same architecture. Then
+00:02:21.760 --> 00:02:24.470 align:start position:0%
+the exact same architecture. Then
+corporate confirmed it's deployed. These
+00:02:24.470 --> 00:02:24.480 align:start position:0%
+corporate confirmed it's deployed. These
+00:02:24.480 --> 00:02:27.110 align:start position:0%
+corporate confirmed it's deployed. These
+aren't leaks. These aren't rumors.
+00:02:27.110 --> 00:02:27.120 align:start position:0%
+aren't leaks. These aren't rumors.
+00:02:27.120 --> 00:02:30.630 align:start position:0%
+aren't leaks. These aren't rumors.
+LinkedIn published this themselves. For
+00:02:30.630 --> 00:02:30.640 align:start position:0%
+LinkedIn published this themselves. For
+00:02:30.640 --> 00:02:33.990 align:start position:0%
+LinkedIn published this themselves. For
+years, LinkedIn ran multiple separate
+00:02:33.990 --> 00:02:34.000 align:start position:0%
+years, LinkedIn ran multiple separate
+00:02:34.000 --> 00:02:36.550 align:start position:0%
+years, LinkedIn ran multiple separate
+systems at the same time. One tracked
+00:02:36.550 --> 00:02:36.560 align:start position:0%
+systems at the same time. One tracked
+00:02:36.560 --> 00:02:38.550 align:start position:0%
+systems at the same time. One tracked
+your network's activity in chronological
+00:02:38.550 --> 00:02:38.560 align:start position:0%
+your network's activity in chronological
+00:02:38.560 --> 00:02:41.270 align:start position:0%
+your network's activity in chronological
+order. Another handled trending posts by
+00:02:41.270 --> 00:02:41.280 align:start position:0%
+order. Another handled trending posts by
+00:02:41.280 --> 00:02:44.390 align:start position:0%
+order. Another handled trending posts by
+geography. Another ran collaborative
+00:02:44.390 --> 00:02:44.400 align:start position:0%
+geography. Another ran collaborative
+00:02:44.400 --> 00:02:46.630 align:start position:0%
+geography. Another ran collaborative
+filtering based on similar members
+00:02:46.630 --> 00:02:46.640 align:start position:0%
+filtering based on similar members
+00:02:46.640 --> 00:02:49.350 align:start position:0%
+filtering based on similar members
+interests. Another tracked industry
+00:02:49.350 --> 00:02:49.360 align:start position:0%
+interests. Another tracked industry
+00:02:49.360 --> 00:02:52.070 align:start position:0%
+interests. Another tracked industry
+specific trending content. And several
+00:02:52.070 --> 00:02:52.080 align:start position:0%
+specific trending content. And several
+00:02:52.080 --> 00:02:54.710 align:start position:0%
+specific trending content. And several
+more ran on embedding based retrieval.
+00:02:54.710 --> 00:02:54.720 align:start position:0%
+more ran on embedding based retrieval.
+00:02:54.720 --> 00:02:57.509 align:start position:0%
+more ran on embedding based retrieval.
+Each system had its own infrastructure,
+00:02:57.509 --> 00:02:57.519 align:start position:0%
+Each system had its own infrastructure,
+00:02:57.519 --> 00:03:00.309 align:start position:0%
+Each system had its own infrastructure,
+its own logic, and its own biases.
+00:03:00.309 --> 00:03:00.319 align:start position:0%
+its own logic, and its own biases.
+00:03:00.319 --> 00:03:03.030 align:start position:0%
+its own logic, and its own biases.
+That's why the old advice worked. Go at
+00:03:03.030 --> 00:03:03.040 align:start position:0%
+That's why the old advice worked. Go at
+00:03:03.040 --> 00:03:05.110 align:start position:0%
+That's why the old advice worked. Go at
+8 a.m. Get your pod to comment
+00:03:05.110 --> 00:03:05.120 align:start position:0%
+8 a.m. Get your pod to comment
+00:03:05.120 --> 00:03:07.110 align:start position:0%
+8 a.m. Get your pod to comment
+immediately. Stuff your post with
+00:03:07.110 --> 00:03:07.120 align:start position:0%
+immediately. Stuff your post with
+00:03:07.120 --> 00:03:09.509 align:start position:0%
+immediately. Stuff your post with
+hashtags. You were gaming individual
+00:03:09.509 --> 00:03:09.519 align:start position:0%
+hashtags. You were gaming individual
+00:03:09.519 --> 00:03:11.430 align:start position:0%
+hashtags. You were gaming individual
+machines. And it worked because those
+00:03:11.430 --> 00:03:11.440 align:start position:0%
+machines. And it worked because those
+00:03:11.440 --> 00:03:14.550 align:start position:0%
+machines. And it worked because those
+machines were simple enough to trick.
+00:03:14.550 --> 00:03:14.560 align:start position:0%
+machines were simple enough to trick.
+00:03:14.560 --> 00:03:17.190 align:start position:0%
+machines were simple enough to trick.
+LinkedIn is replacing those separate
+00:03:17.190 --> 00:03:17.200 align:start position:0%
+LinkedIn is replacing those separate
+00:03:17.200 --> 00:03:19.910 align:start position:0%
+LinkedIn is replacing those separate
+systems with a unified retrieval model
+00:03:19.910 --> 00:03:19.920 align:start position:0%
+systems with a unified retrieval model
+00:03:19.920 --> 00:03:22.309 align:start position:0%
+systems with a unified retrieval model
+powered by a fine-tuned large language
+00:03:22.309 --> 00:03:22.319 align:start position:0%
+powered by a fine-tuned large language
+00:03:22.319 --> 00:03:25.670 align:start position:0%
+powered by a fine-tuned large language
+model, specifically Meta's Llama 3. And
+00:03:25.670 --> 00:03:25.680 align:start position:0%
+model, specifically Meta's Llama 3. And
+00:03:25.680 --> 00:03:28.390 align:start position:0%
+model, specifically Meta's Llama 3. And
+on top of that, they built a new ranking
+00:03:28.390 --> 00:03:28.400 align:start position:0%
+on top of that, they built a new ranking
+00:03:28.400 --> 00:03:31.270 align:start position:0%
+on top of that, they built a new ranking
+model called a generative recommener
+00:03:31.270 --> 00:03:31.280 align:start position:0%
+model called a generative recommener
+00:03:31.280 --> 00:03:34.309 align:start position:0%
+model called a generative recommener
+that uses transformer architecture to
+00:03:34.309 --> 00:03:34.319 align:start position:0%
+that uses transformer architecture to
+00:03:34.319 --> 00:03:36.869 align:start position:0%
+that uses transformer architecture to
+understand how you consume content over
+00:03:36.869 --> 00:03:36.879 align:start position:0%
+understand how you consume content over
+00:03:36.879 --> 00:03:39.990 align:start position:0%
+understand how you consume content over
+time. This isn't a small update. This is
+00:03:39.990 --> 00:03:40.000 align:start position:0%
+time. This isn't a small update. This is
+00:03:40.000 --> 00:03:43.030 align:start position:0%
+time. This isn't a small update. This is
+a groundup rebuild of both how content
+00:03:43.030 --> 00:03:43.040 align:start position:0%
+a groundup rebuild of both how content
+00:03:43.040 --> 00:03:46.070 align:start position:0%
+a groundup rebuild of both how content
+gets discovered and how it gets ranked,
+00:03:46.070 --> 00:03:46.080 align:start position:0%
+gets discovered and how it gets ranked,
+00:03:46.080 --> 00:03:49.670 align:start position:0%
+gets discovered and how it gets ranked,
+and it changes what works. Now, before I
+00:03:49.670 --> 00:03:49.680 align:start position:0%
+and it changes what works. Now, before I
+00:03:49.680 --> 00:03:51.509 align:start position:0%
+and it changes what works. Now, before I
+get into the eight rules, I need to
+00:03:51.509 --> 00:03:51.519 align:start position:0%
+get into the eight rules, I need to
+00:03:51.519 --> 00:03:53.990 align:start position:0%
+get into the eight rules, I need to
+correct something from my last video. A
+00:03:53.990 --> 00:03:54.000 align:start position:0%
+correct something from my last video. A
+00:03:54.000 --> 00:03:56.710 align:start position:0%
+correct something from my last video. A
+senior AI and machine learning leader
+00:03:56.710 --> 00:03:56.720 align:start position:0%
+senior AI and machine learning leader
+00:03:56.720 --> 00:03:59.750 align:start position:0%
+senior AI and machine learning leader
+named Adam Bird left a comment with two
+00:03:59.750 --> 00:03:59.760 align:start position:0%
+named Adam Bird left a comment with two
+00:03:59.760 --> 00:04:02.149 align:start position:0%
+named Adam Bird left a comment with two
+important clarifications, and he's
+00:04:02.149 --> 00:04:02.159 align:start position:0%
+important clarifications, and he's
+00:04:02.159 --> 00:04:05.670 align:start position:0%
+important clarifications, and he's
+right. First, not all your profile
+00:04:05.670 --> 00:04:05.680 align:start position:0%
+right. First, not all your profile
+00:04:05.680 --> 00:04:07.990 align:start position:0%
+right. First, not all your profile
+fields determine whether your post
+00:04:07.990 --> 00:04:08.000 align:start position:0%
+fields determine whether your post
+00:04:08.000 --> 00:04:10.630 align:start position:0%
+fields determine whether your post
+reaches someone else's feed. Only your
+00:04:10.630 --> 00:04:10.640 align:start position:0%
+reaches someone else's feed. Only your
+00:04:10.640 --> 00:04:13.429 align:start position:0%
+reaches someone else's feed. Only your
+author data gets encoded on the content
+00:04:13.429 --> 00:04:13.439 align:start position:0%
+author data gets encoded on the content
+00:04:13.439 --> 00:04:16.789 align:start position:0%
+author data gets encoded on the content
+side. That is your name, headline,
+00:04:16.789 --> 00:04:16.799 align:start position:0%
+side. That is your name, headline,
+00:04:16.799 --> 00:04:19.349 align:start position:0%
+side. That is your name, headline,
+company, industry, and title. Five
+00:04:19.349 --> 00:04:19.359 align:start position:0%
+company, industry, and title. Five
+00:04:19.359 --> 00:04:21.830 align:start position:0%
+company, industry, and title. Five
+fields. The full rich profile like your
+00:04:21.830 --> 00:04:21.840 align:start position:0%
+fields. The full rich profile like your
+00:04:21.840 --> 00:04:24.070 align:start position:0%
+fields. The full rich profile like your
+skills, a job history, certification,
+00:04:24.070 --> 00:04:24.080 align:start position:0%
+skills, a job history, certification,
+00:04:24.080 --> 00:04:26.550 align:start position:0%
+skills, a job history, certification,
+languages. That's used on the viewer
+00:04:26.550 --> 00:04:26.560 align:start position:0%
+languages. That's used on the viewer
+00:04:26.560 --> 00:04:28.870 align:start position:0%
+languages. That's used on the viewer
+side to understand what they want to
+00:04:28.870 --> 00:04:28.880 align:start position:0%
+side to understand what they want to
+00:04:28.880 --> 00:04:31.510 align:start position:0%
+side to understand what they want to
+see. Second, your engagement with other
+00:04:31.510 --> 00:04:31.520 align:start position:0%
+see. Second, your engagement with other
+00:04:31.520 --> 00:04:34.230 align:start position:0%
+see. Second, your engagement with other
+people's post doesn't affect whether
+00:04:34.230 --> 00:04:34.240 align:start position:0%
+people's post doesn't affect whether
+00:04:34.240 --> 00:04:37.510 align:start position:0%
+people's post doesn't affect whether
+your content reaches someone else. It
+00:04:37.510 --> 00:04:37.520 align:start position:0%
+your content reaches someone else. It
+00:04:37.520 --> 00:04:40.950 align:start position:0%
+your content reaches someone else. It
+only shapes what gets served in your own
+00:04:40.950 --> 00:04:40.960 align:start position:0%
+only shapes what gets served in your own
+00:04:40.960 --> 00:04:43.749 align:start position:0%
+only shapes what gets served in your own
+feed. Those distinctions change what you
+00:04:43.749 --> 00:04:43.759 align:start position:0%
+feed. Those distinctions change what you
+00:04:43.759 --> 00:04:46.230 align:start position:0%
+feed. Those distinctions change what you
+optimize for. So, let's get tactical
+00:04:46.230 --> 00:04:46.240 align:start position:0%
+optimize for. So, let's get tactical
+00:04:46.240 --> 00:04:49.990 align:start position:0%
+optimize for. So, let's get tactical
+now. Rule one, rewrite your headline.
+00:04:49.990 --> 00:04:50.000 align:start position:0%
+now. Rule one, rewrite your headline.
+00:04:50.000 --> 00:04:52.710 align:start position:0%
+now. Rule one, rewrite your headline.
+Not just for humans, for the AI, too.
+00:04:52.710 --> 00:04:52.720 align:start position:0%
+Not just for humans, for the AI, too.
+00:04:52.720 --> 00:04:55.670 align:start position:0%
+Not just for humans, for the AI, too.
+Your headline is one of only five fields
+00:04:55.670 --> 00:04:55.680 align:start position:0%
+Your headline is one of only five fields
+00:04:55.680 --> 00:04:57.510 align:start position:0%
+Your headline is one of only five fields
+that travel with your content into
+00:04:57.510 --> 00:04:57.520 align:start position:0%
+that travel with your content into
+00:04:57.520 --> 00:04:59.909 align:start position:0%
+that travel with your content into
+someone else's feed. The AI uses it to
+00:04:59.909 --> 00:04:59.919 align:start position:0%
+someone else's feed. The AI uses it to
+00:04:59.919 --> 00:05:02.550 align:start position:0%
+someone else's feed. The AI uses it to
+decide who should see your post. So if
+00:05:02.550 --> 00:05:02.560 align:start position:0%
+decide who should see your post. So if
+00:05:02.560 --> 00:05:05.189 align:start position:0%
+decide who should see your post. So if
+your headline says random things like
+00:05:05.189 --> 00:05:05.199 align:start position:0%
+your headline says random things like
+00:05:05.199 --> 00:05:07.749 align:start position:0%
+your headline says random things like
+thought leader and change maker, the
+00:05:07.749 --> 00:05:07.759 align:start position:0%
+thought leader and change maker, the
+00:05:07.759 --> 00:05:11.029 align:start position:0%
+thought leader and change maker, the
+system has zero semantic signal. It
+00:05:11.029 --> 00:05:11.039 align:start position:0%
+system has zero semantic signal. It
+00:05:11.039 --> 00:05:13.670 align:start position:0%
+system has zero semantic signal. It
+can't match you to anyone. Your headline
+00:05:13.670 --> 00:05:13.680 align:start position:0%
+can't match you to anyone. Your headline
+00:05:13.680 --> 00:05:16.230 align:start position:0%
+can't match you to anyone. Your headline
+needs to contain the words your ideal
+00:05:16.230 --> 00:05:16.240 align:start position:0%
+needs to contain the words your ideal
+00:05:16.240 --> 00:05:17.909 align:start position:0%
+needs to contain the words your ideal
+client would use to describe what they
+00:05:17.909 --> 00:05:17.919 align:start position:0%
+client would use to describe what they
+00:05:17.919 --> 00:05:20.629 align:start position:0%
+client would use to describe what they
+need, not what you do necessarily, what
+00:05:20.629 --> 00:05:20.639 align:start position:0%
+need, not what you do necessarily, what
+00:05:20.639 --> 00:05:23.670 align:start position:0%
+need, not what you do necessarily, what
+they need. The more specific your author
+00:05:23.670 --> 00:05:23.680 align:start position:0%
+they need. The more specific your author
+00:05:23.680 --> 00:05:26.870 align:start position:0%
+they need. The more specific your author
+data is, the more accurately the AI can
+00:05:26.870 --> 00:05:26.880 align:start position:0%
+data is, the more accurately the AI can
+00:05:26.880 --> 00:05:29.430 align:start position:0%
+data is, the more accurately the AI can
+deliver your content to the right
+00:05:29.430 --> 00:05:29.440 align:start position:0%
+deliver your content to the right
+00:05:29.440 --> 00:05:32.230 align:start position:0%
+deliver your content to the right
+people. So, here's what to do right now.
+00:05:32.230 --> 00:05:32.240 align:start position:0%
+people. So, here's what to do right now.
+00:05:32.240 --> 00:05:35.270 align:start position:0%
+people. So, here's what to do right now.
+Open your profile, read your headline,
+00:05:35.270 --> 00:05:35.280 align:start position:0%
+Open your profile, read your headline,
+00:05:35.280 --> 00:05:37.670 align:start position:0%
+Open your profile, read your headline,
+ask yourself, if my ideal client saw
+00:05:37.670 --> 00:05:37.680 align:start position:0%
+ask yourself, if my ideal client saw
+00:05:37.680 --> 00:05:40.070 align:start position:0%
+ask yourself, if my ideal client saw
+these word, would they immediately know
+00:05:40.070 --> 00:05:40.080 align:start position:0%
+these word, would they immediately know
+00:05:40.080 --> 00:05:42.230 align:start position:0%
+these word, would they immediately know
+this person can help me? If the answer
+00:05:42.230 --> 00:05:42.240 align:start position:0%
+this person can help me? If the answer
+00:05:42.240 --> 00:05:44.790 align:start position:0%
+this person can help me? If the answer
+is no, rewrite it before you close this
+00:05:44.790 --> 00:05:44.800 align:start position:0%
+is no, rewrite it before you close this
+00:05:44.800 --> 00:05:48.230 align:start position:0%
+is no, rewrite it before you close this
+video. Rule number two, your first 50
+00:05:48.230 --> 00:05:48.240 align:start position:0%
+video. Rule number two, your first 50
+00:05:48.240 --> 00:05:52.070 align:start position:0%
+video. Rule number two, your first 50
+words are your algorithm audition. In
+00:05:52.070 --> 00:05:52.080 align:start position:0%
+words are your algorithm audition. In
+00:05:52.080 --> 00:05:55.430 align:start position:0%
+words are your algorithm audition. In
+LinkedIn's tested model configuration,
+00:05:55.430 --> 00:05:55.440 align:start position:0%
+LinkedIn's tested model configuration,
+00:05:55.440 --> 00:05:58.390 align:start position:0%
+LinkedIn's tested model configuration,
+the retrieval system truncates your post
+00:05:58.390 --> 00:05:58.400 align:start position:0%
+the retrieval system truncates your post
+00:05:58.400 --> 00:06:01.270 align:start position:0%
+the retrieval system truncates your post
+text to the first 60 tokens when
+00:06:01.270 --> 00:06:01.280 align:start position:0%
+text to the first 60 tokens when
+00:06:01.280 --> 00:06:03.350 align:start position:0%
+text to the first 60 tokens when
+deciding whether to include you in the
+00:06:03.350 --> 00:06:03.360 align:start position:0%
+deciding whether to include you in the
+00:06:03.360 --> 00:06:07.110 align:start position:0%
+deciding whether to include you in the
+candidate pool. That's roughly 45 to 50
+00:06:07.110 --> 00:06:07.120 align:start position:0%
+candidate pool. That's roughly 45 to 50
+00:06:07.120 --> 00:06:09.590 align:start position:0%
+candidate pool. That's roughly 45 to 50
+words. Everything after that matters for
+00:06:09.590 --> 00:06:09.600 align:start position:0%
+words. Everything after that matters for
+00:06:09.600 --> 00:06:12.629 align:start position:0%
+words. Everything after that matters for
+ranking once you're already in the pool.
+00:06:12.629 --> 00:06:12.639 align:start position:0%
+ranking once you're already in the pool.
+00:06:12.639 --> 00:06:14.550 align:start position:0%
+ranking once you're already in the pool.
+But the initial filter, the part that
+00:06:14.550 --> 00:06:14.560 align:start position:0%
+But the initial filter, the part that
+00:06:14.560 --> 00:06:16.710 align:start position:0%
+But the initial filter, the part that
+decides whether your post even gets
+00:06:16.710 --> 00:06:16.720 align:start position:0%
+decides whether your post even gets
+00:06:16.720 --> 00:06:19.670 align:start position:0%
+decides whether your post even gets
+considered, focuses on the beginning. So
+00:06:19.670 --> 00:06:19.680 align:start position:0%
+considered, focuses on the beginning. So
+00:06:19.680 --> 00:06:22.309 align:start position:0%
+considered, focuses on the beginning. So
+your hook isn't just for humans. It's
+00:06:22.309 --> 00:06:22.319 align:start position:0%
+your hook isn't just for humans. It's
+00:06:22.319 --> 00:06:24.629 align:start position:0%
+your hook isn't just for humans. It's
+for the AI as well. If you spend your
+00:06:24.629 --> 00:06:24.639 align:start position:0%
+for the AI as well. If you spend your
+00:06:24.639 --> 00:06:27.830 align:start position:0%
+for the AI as well. If you spend your
+first 50 words on setup, context, or
+00:06:27.830 --> 00:06:27.840 align:start position:0%
+first 50 words on setup, context, or
+00:06:27.840 --> 00:06:29.510 align:start position:0%
+first 50 words on setup, context, or
+slow warm-up, the system doesn't have
+00:06:29.510 --> 00:06:29.520 align:start position:0%
+slow warm-up, the system doesn't have
+00:06:29.520 --> 00:06:31.590 align:start position:0%
+slow warm-up, the system doesn't have
+enough information to match you to the
+00:06:31.590 --> 00:06:31.600 align:start position:0%
+enough information to match you to the
+00:06:31.600 --> 00:06:34.070 align:start position:0%
+enough information to match you to the
+right audience. So here's what to do.
+00:06:34.070 --> 00:06:34.080 align:start position:0%
+right audience. So here's what to do.
+00:06:34.080 --> 00:06:36.790 align:start position:0%
+right audience. So here's what to do.
+Pull up your last five LinkedIn posts.
+00:06:36.790 --> 00:06:36.800 align:start position:0%
+Pull up your last five LinkedIn posts.
+00:06:36.800 --> 00:06:39.670 align:start position:0%
+Pull up your last five LinkedIn posts.
+Count the first 50 words of each one. Do
+00:06:39.670 --> 00:06:39.680 align:start position:0%
+Count the first 50 words of each one. Do
+00:06:39.680 --> 00:06:41.590 align:start position:0%
+Count the first 50 words of each one. Do
+these words actually contain enough
+00:06:41.590 --> 00:06:41.600 align:start position:0%
+these words actually contain enough
+00:06:41.600 --> 00:06:43.830 align:start position:0%
+these words actually contain enough
+signal for an AI and a human to
+00:06:43.830 --> 00:06:43.840 align:start position:0%
+signal for an AI and a human to
+00:06:43.840 --> 00:06:45.749 align:start position:0%
+signal for an AI and a human to
+understand what this post is about and
+00:06:45.749 --> 00:06:45.759 align:start position:0%
+understand what this post is about and
+00:06:45.759 --> 00:06:48.710 align:start position:0%
+understand what this post is about and
+who it's for? If those first 50 words
+00:06:48.710 --> 00:06:48.720 align:start position:0%
+who it's for? If those first 50 words
+00:06:48.720 --> 00:06:50.710 align:start position:0%
+who it's for? If those first 50 words
+could belong to anyone in your industry,
+00:06:50.710 --> 00:06:50.720 align:start position:0%
+could belong to anyone in your industry,
+00:06:50.720 --> 00:06:52.870 align:start position:0%
+could belong to anyone in your industry,
+they're too generic. Your hook needs
+00:06:52.870 --> 00:06:52.880 align:start position:0%
+they're too generic. Your hook needs
+00:06:52.880 --> 00:06:55.590 align:start position:0%
+they're too generic. Your hook needs
+your topic and your audience baked into
+00:06:55.590 --> 00:06:55.600 align:start position:0%
+your topic and your audience baked into
+00:06:55.600 --> 00:06:59.189 align:start position:0%
+your topic and your audience baked into
+the opening line. Rule number three, go
+00:06:59.189 --> 00:06:59.199 align:start position:0%
+the opening line. Rule number three, go
+00:06:59.199 --> 00:07:02.870 align:start position:0%
+the opening line. Rule number three, go
+deep or go invisible. The old LinkedIn
+00:07:02.870 --> 00:07:02.880 align:start position:0%
+deep or go invisible. The old LinkedIn
+00:07:02.880 --> 00:07:06.070 align:start position:0%
+deep or go invisible. The old LinkedIn
+rewarded breath. Hot takes. Generic
+00:07:06.070 --> 00:07:06.080 align:start position:0%
+rewarded breath. Hot takes. Generic
+00:07:06.080 --> 00:07:08.230 align:start position:0%
+rewarded breath. Hot takes. Generic
+advice. anything that could get the
+00:07:08.230 --> 00:07:08.240 align:start position:0%
+advice. anything that could get the
+00:07:08.240 --> 00:07:11.350 align:start position:0%
+advice. anything that could get the
+maximum number of people to engage. The
+00:07:11.350 --> 00:07:11.360 align:start position:0%
+maximum number of people to engage. The
+00:07:11.360 --> 00:07:14.629 align:start position:0%
+maximum number of people to engage. The
+new system is the opposite. LinkedIn's
+00:07:14.629 --> 00:07:14.639 align:start position:0%
+new system is the opposite. LinkedIn's
+00:07:14.639 --> 00:07:17.510 align:start position:0%
+new system is the opposite. LinkedIn's
+engineering blog explains this directly.
+00:07:17.510 --> 00:07:17.520 align:start position:0%
+engineering blog explains this directly.
+00:07:17.520 --> 00:07:20.150 align:start position:0%
+engineering blog explains this directly.
+The LLM uses world knowledge to
+00:07:20.150 --> 00:07:20.160 align:start position:0%
+The LLM uses world knowledge to
+00:07:20.160 --> 00:07:22.790 align:start position:0%
+The LLM uses world knowledge to
+understand connections between topics
+00:07:22.790 --> 00:07:22.800 align:start position:0%
+understand connections between topics
+00:07:22.800 --> 00:07:25.350 align:start position:0%
+understand connections between topics
+that keyword systems couldn't see
+00:07:25.350 --> 00:07:25.360 align:start position:0%
+that keyword systems couldn't see
+00:07:25.360 --> 00:07:28.070 align:start position:0%
+that keyword systems couldn't see
+before. Their example, if you are an
+00:07:28.070 --> 00:07:28.080 align:start position:0%
+before. Their example, if you are an
+00:07:28.080 --> 00:07:30.150 align:start position:0%
+before. Their example, if you are an
+electrical engineer who engages with
+00:07:30.150 --> 00:07:30.160 align:start position:0%
+electrical engineer who engages with
+00:07:30.160 --> 00:07:33.510 align:start position:0%
+electrical engineer who engages with
+posts about small modular reactors, the
+00:07:33.510 --> 00:07:33.520 align:start position:0%
+posts about small modular reactors, the
+00:07:33.520 --> 00:07:36.230 align:start position:0%
+posts about small modular reactors, the
+old system couldn't connect those. The
+00:07:36.230 --> 00:07:36.240 align:start position:0%
+old system couldn't connect those. The
+00:07:36.240 --> 00:07:38.309 align:start position:0%
+old system couldn't connect those. The
+new system understands the semantic
+00:07:38.309 --> 00:07:38.319 align:start position:0%
+new system understands the semantic
+00:07:38.319 --> 00:07:40.550 align:start position:0%
+new system understands the semantic
+relationship between electrical
+00:07:40.550 --> 00:07:40.560 align:start position:0%
+relationship between electrical
+00:07:40.560 --> 00:07:43.350 align:start position:0%
+relationship between electrical
+engineering, power grid optimization,
+00:07:43.350 --> 00:07:43.360 align:start position:0%
+engineering, power grid optimization,
+00:07:43.360 --> 00:07:45.510 align:start position:0%
+engineering, power grid optimization,
+renewable energy, and nuclear
+00:07:45.510 --> 00:07:45.520 align:start position:0%
+renewable energy, and nuclear
+00:07:45.520 --> 00:07:47.589 align:start position:0%
+renewable energy, and nuclear
+infrastructure. It makes those
+00:07:47.589 --> 00:07:47.599 align:start position:0%
+infrastructure. It makes those
+00:07:47.599 --> 00:07:50.629 align:start position:0%
+infrastructure. It makes those
+connections through world knowledge. And
+00:07:50.629 --> 00:07:50.639 align:start position:0%
+connections through world knowledge. And
+00:07:50.639 --> 00:07:53.749 align:start position:0%
+connections through world knowledge. And
+Tim Jerka confirmed this on his post.
+00:07:53.749 --> 00:07:53.759 align:start position:0%
+Tim Jerka confirmed this on his post.
+00:07:53.759 --> 00:07:56.390 align:start position:0%
+Tim Jerka confirmed this on his post.
+Exceptional content can be distributed
+00:07:56.390 --> 00:07:56.400 align:start position:0%
+Exceptional content can be distributed
+00:07:56.400 --> 00:07:59.749 align:start position:0%
+Exceptional content can be distributed
+broadly across LinkedIn to members who
+00:07:59.749 --> 00:07:59.759 align:start position:0%
+broadly across LinkedIn to members who
+00:07:59.759 --> 00:08:01.990 align:start position:0%
+broadly across LinkedIn to members who
+are interested in the type of content
+00:08:01.990 --> 00:08:02.000 align:start position:0%
+are interested in the type of content
+00:08:02.000 --> 00:08:04.309 align:start position:0%
+are interested in the type of content
+you post, even if they don't follow you.
+00:08:04.309 --> 00:08:04.319 align:start position:0%
+you post, even if they don't follow you.
+00:08:04.319 --> 00:08:06.950 align:start position:0%
+you post, even if they don't follow you.
+Every piece of content has its own path
+00:08:06.950 --> 00:08:06.960 align:start position:0%
+Every piece of content has its own path
+00:08:06.960 --> 00:08:11.110 align:start position:0%
+Every piece of content has its own path
+based on topic, format, and timing. So,
+00:08:11.110 --> 00:08:11.120 align:start position:0%
+based on topic, format, and timing. So,
+00:08:11.120 --> 00:08:14.230 align:start position:0%
+based on topic, format, and timing. So,
+if you try to be about everything, the
+00:08:14.230 --> 00:08:14.240 align:start position:0%
+if you try to be about everything, the
+00:08:14.240 --> 00:08:16.390 align:start position:0%
+if you try to be about everything, the
+AI can't build a clear embedding for
+00:08:16.390 --> 00:08:16.400 align:start position:0%
+AI can't build a clear embedding for
+00:08:16.400 --> 00:08:19.670 align:start position:0%
+AI can't build a clear embedding for
+you. You become unmatchable. But if you
+00:08:19.670 --> 00:08:19.680 align:start position:0%
+you. You become unmatchable. But if you
+00:08:19.680 --> 00:08:21.589 align:start position:0%
+you. You become unmatchable. But if you
+go deep on a specific professional
+00:08:21.589 --> 00:08:21.599 align:start position:0%
+go deep on a specific professional
+00:08:21.599 --> 00:08:24.390 align:start position:0%
+go deep on a specific professional
+topic, the system gets extremely good at
+00:08:24.390 --> 00:08:24.400 align:start position:0%
+topic, the system gets extremely good at
+00:08:24.400 --> 00:08:26.950 align:start position:0%
+topic, the system gets extremely good at
+finding exactly the right people to show
+00:08:26.950 --> 00:08:26.960 align:start position:0%
+finding exactly the right people to show
+00:08:26.960 --> 00:08:29.990 align:start position:0%
+finding exactly the right people to show
+your content to. So, here's what to do.
+00:08:29.990 --> 00:08:30.000 align:start position:0%
+your content to. So, here's what to do.
+00:08:30.000 --> 00:08:32.550 align:start position:0%
+your content to. So, here's what to do.
+Look at your last 20 posts. Could the AI
+00:08:32.550 --> 00:08:32.560 align:start position:0%
+Look at your last 20 posts. Could the AI
+00:08:32.560 --> 00:08:34.870 align:start position:0%
+Look at your last 20 posts. Could the AI
+identify a clear topical pattern? Or
+00:08:34.870 --> 00:08:34.880 align:start position:0%
+identify a clear topical pattern? Or
+00:08:34.880 --> 00:08:36.310 align:start position:0%
+identify a clear topical pattern? Or
+would it see a random mix of
+00:08:36.310 --> 00:08:36.320 align:start position:0%
+would it see a random mix of
+00:08:36.320 --> 00:08:38.949 align:start position:0%
+would it see a random mix of
+productivity tips, leadership quotes,
+00:08:38.949 --> 00:08:38.959 align:start position:0%
+productivity tips, leadership quotes,
+00:08:38.959 --> 00:08:41.829 align:start position:0%
+productivity tips, leadership quotes,
+and industry commentary? Pick your lane
+00:08:41.829 --> 00:08:41.839 align:start position:0%
+and industry commentary? Pick your lane
+00:08:41.839 --> 00:08:44.550 align:start position:0%
+and industry commentary? Pick your lane
+and commit to it for the next 90 days.
+00:08:44.550 --> 00:08:44.560 align:start position:0%
+and commit to it for the next 90 days.
+00:08:44.560 --> 00:08:48.389 align:start position:0%
+and commit to it for the next 90 days.
+The algorithm categorizes you over time.
+00:08:48.389 --> 00:08:48.399 align:start position:0%
+The algorithm categorizes you over time.
+00:08:48.399 --> 00:08:51.350 align:start position:0%
+The algorithm categorizes you over time.
+Give it something clear to work with.
+00:08:51.350 --> 00:08:51.360 align:start position:0%
+Give it something clear to work with.
+00:08:51.360 --> 00:08:53.910 align:start position:0%
+Give it something clear to work with.
+Now, if you want to actually run through
+00:08:53.910 --> 00:08:53.920 align:start position:0%
+Now, if you want to actually run through
+00:08:53.920 --> 00:08:57.030 align:start position:0%
+Now, if you want to actually run through
+all of this step by step, I built a free
+00:08:57.030 --> 00:08:57.040 align:start position:0%
+all of this step by step, I built a free
+00:08:57.040 --> 00:08:59.670 align:start position:0%
+all of this step by step, I built a free
+LinkedIn algorithm audit kit that walks
+00:08:59.670 --> 00:08:59.680 align:start position:0%
+LinkedIn algorithm audit kit that walks
+00:08:59.680 --> 00:09:02.310 align:start position:0%
+LinkedIn algorithm audit kit that walks
+you through every rule in this video
+00:09:02.310 --> 00:09:02.320 align:start position:0%
+you through every rule in this video
+00:09:02.320 --> 00:09:04.630 align:start position:0%
+you through every rule in this video
+with checklists and AI prompts you can
+00:09:04.630 --> 00:09:04.640 align:start position:0%
+with checklists and AI prompts you can
+00:09:04.640 --> 00:09:06.470 align:start position:0%
+with checklists and AI prompts you can
+use to audit your own profile and
+00:09:06.470 --> 00:09:06.480 align:start position:0%
+use to audit your own profile and
+00:09:06.480 --> 00:09:08.230 align:start position:0%
+use to audit your own profile and
+content. I'll link it in the description
+00:09:08.230 --> 00:09:08.240 align:start position:0%
+content. I'll link it in the description
+00:09:08.240 --> 00:09:10.310 align:start position:0%
+content. I'll link it in the description
+below. Grab that and let's keep going
+00:09:10.310 --> 00:09:10.320 align:start position:0%
+below. Grab that and let's keep going
+00:09:10.320 --> 00:09:12.870 align:start position:0%
+below. Grab that and let's keep going
+because the next five rules are where it
+00:09:12.870 --> 00:09:12.880 align:start position:0%
+because the next five rules are where it
+00:09:12.880 --> 00:09:17.509 align:start position:0%
+because the next five rules are where it
+gets really tactical. Rule four, write
+00:09:17.509 --> 00:09:17.519 align:start position:0%
+gets really tactical. Rule four, write
+00:09:17.519 --> 00:09:21.190 align:start position:0%
+gets really tactical. Rule four, write
+posts that earn saves, not likes.
+00:09:21.190 --> 00:09:21.200 align:start position:0%
+posts that earn saves, not likes.
+00:09:21.200 --> 00:09:23.350 align:start position:0%
+posts that earn saves, not likes.
+Authored Up ran an analysis on
+00:09:23.350 --> 00:09:23.360 align:start position:0%
+Authored Up ran an analysis on
+00:09:23.360 --> 00:09:25.990 align:start position:0%
+Authored Up ran an analysis on
+engagement impact across their platform
+00:09:25.990 --> 00:09:26.000 align:start position:0%
+engagement impact across their platform
+00:09:26.000 --> 00:09:29.030 align:start position:0%
+engagement impact across their platform
+and found that one save equals roughly
+00:09:29.030 --> 00:09:29.040 align:start position:0%
+and found that one save equals roughly
+00:09:29.040 --> 00:09:31.750 align:start position:0%
+and found that one save equals roughly
+five times the reach impact of a single
+00:09:31.750 --> 00:09:31.760 align:start position:0%
+five times the reach impact of a single
+00:09:31.760 --> 00:09:33.829 align:start position:0%
+five times the reach impact of a single
+like. And when you understand how the
+00:09:33.829 --> 00:09:33.839 align:start position:0%
+like. And when you understand how the
+00:09:33.839 --> 00:09:36.630 align:start position:0%
+like. And when you understand how the
+new system works, that tracks. The
+00:09:36.630 --> 00:09:36.640 align:start position:0%
+new system works, that tracks. The
+00:09:36.640 --> 00:09:39.110 align:start position:0%
+new system works, that tracks. The
+system is optimized to find what
+00:09:39.110 --> 00:09:39.120 align:start position:0%
+system is optimized to find what
+00:09:39.120 --> 00:09:42.710 align:start position:0%
+system is optimized to find what
+LinkedIn calls professional interactors.
+00:09:42.710 --> 00:09:42.720 align:start position:0%
+LinkedIn calls professional interactors.
+00:09:42.720 --> 00:09:45.030 align:start position:0%
+LinkedIn calls professional interactors.
+people who take meaningful actions, not
+00:09:45.030 --> 00:09:45.040 align:start position:0%
+people who take meaningful actions, not
+00:09:45.040 --> 00:09:47.990 align:start position:0%
+people who take meaningful actions, not
+passive scrollers. A like is the lowest
+00:09:47.990 --> 00:09:48.000 align:start position:0%
+passive scrollers. A like is the lowest
+00:09:48.000 --> 00:09:50.630 align:start position:0%
+passive scrollers. A like is the lowest
+effort signal you can send. A save is
+00:09:50.630 --> 00:09:50.640 align:start position:0%
+effort signal you can send. A save is
+00:09:50.640 --> 00:09:53.110 align:start position:0%
+effort signal you can send. A save is
+high intent. It tells the algorithm this
+00:09:53.110 --> 00:09:53.120 align:start position:0%
+high intent. It tells the algorithm this
+00:09:53.120 --> 00:09:55.590 align:start position:0%
+high intent. It tells the algorithm this
+person found so much value they want to
+00:09:55.590 --> 00:09:55.600 align:start position:0%
+person found so much value they want to
+00:09:55.600 --> 00:09:58.389 align:start position:0%
+person found so much value they want to
+come back to it. So the question is, are
+00:09:58.389 --> 00:09:58.399 align:start position:0%
+come back to it. So the question is, are
+00:09:58.399 --> 00:10:00.710 align:start position:0%
+come back to it. So the question is, are
+you writing content that people want to
+00:10:00.710 --> 00:10:00.720 align:start position:0%
+you writing content that people want to
+00:10:00.720 --> 00:10:03.110 align:start position:0%
+you writing content that people want to
+reference later? Frameworks they can
+00:10:03.110 --> 00:10:03.120 align:start position:0%
+reference later? Frameworks they can
+00:10:03.120 --> 00:10:05.910 align:start position:0%
+reference later? Frameworks they can
+apply, data they can site, playbooks
+00:10:05.910 --> 00:10:05.920 align:start position:0%
+apply, data they can site, playbooks
+00:10:05.920 --> 00:10:07.990 align:start position:0%
+apply, data they can site, playbooks
+they can follow, checklists they can use
+00:10:07.990 --> 00:10:08.000 align:start position:0%
+they can follow, checklists they can use
+00:10:08.000 --> 00:10:10.470 align:start position:0%
+they can follow, checklists they can use
+in their next meeting. That's what earns
+00:10:10.470 --> 00:10:10.480 align:start position:0%
+in their next meeting. That's what earns
+00:10:10.480 --> 00:10:13.269 align:start position:0%
+in their next meeting. That's what earns
+saves. Motivational content doesn't get
+00:10:13.269 --> 00:10:13.279 align:start position:0%
+saves. Motivational content doesn't get
+00:10:13.279 --> 00:10:16.389 align:start position:0%
+saves. Motivational content doesn't get
+saved. Tactical content does. Here's
+00:10:16.389 --> 00:10:16.399 align:start position:0%
+saved. Tactical content does. Here's
+00:10:16.399 --> 00:10:18.470 align:start position:0%
+saved. Tactical content does. Here's
+what to do. Before you publish your next
+00:10:18.470 --> 00:10:18.480 align:start position:0%
+what to do. Before you publish your next
+00:10:18.480 --> 00:10:21.110 align:start position:0%
+what to do. Before you publish your next
+post, ask yourself, would my ideal
+00:10:21.110 --> 00:10:21.120 align:start position:0%
+post, ask yourself, would my ideal
+00:10:21.120 --> 00:10:23.990 align:start position:0%
+post, ask yourself, would my ideal
+client bookmark this? Would they send it
+00:10:23.990 --> 00:10:24.000 align:start position:0%
+client bookmark this? Would they send it
+00:10:24.000 --> 00:10:26.870 align:start position:0%
+client bookmark this? Would they send it
+to a colleague? If the answer is no, add
+00:10:26.870 --> 00:10:26.880 align:start position:0%
+to a colleague? If the answer is no, add
+00:10:26.880 --> 00:10:28.949 align:start position:0%
+to a colleague? If the answer is no, add
+something specific, a framework, a set
+00:10:28.949 --> 00:10:28.959 align:start position:0%
+something specific, a framework, a set
+00:10:28.959 --> 00:10:31.350 align:start position:0%
+something specific, a framework, a set
+of numbers, a step-by-step breakdown.
+00:10:31.350 --> 00:10:31.360 align:start position:0%
+of numbers, a step-by-step breakdown.
+00:10:31.360 --> 00:10:35.030 align:start position:0%
+of numbers, a step-by-step breakdown.
+Give them a reason to hit save. Rule
+00:10:35.030 --> 00:10:35.040 align:start position:0%
+Give them a reason to hit save. Rule
+00:10:35.040 --> 00:10:38.870 align:start position:0%
+Give them a reason to hit save. Rule
+five. Early engagement can still matter,
+00:10:38.870 --> 00:10:38.880 align:start position:0%
+five. Early engagement can still matter,
+00:10:38.880 --> 00:10:41.750 align:start position:0%
+five. Early engagement can still matter,
+but not for the reason you think. When
+00:10:41.750 --> 00:10:41.760 align:start position:0%
+but not for the reason you think. When
+00:10:41.760 --> 00:10:44.550 align:start position:0%
+but not for the reason you think. When
+LinkedIn first tried feeding raw
+00:10:44.550 --> 00:10:44.560 align:start position:0%
+LinkedIn first tried feeding raw
+00:10:44.560 --> 00:10:46.949 align:start position:0%
+LinkedIn first tried feeding raw
+engagement numbers into their model, the
+00:10:46.949 --> 00:10:46.959 align:start position:0%
+engagement numbers into their model, the
+00:10:46.959 --> 00:10:50.150 align:start position:0%
+engagement numbers into their model, the
+AI treated them like random text. A post
+00:10:50.150 --> 00:10:50.160 align:start position:0%
+AI treated them like random text. A post
+00:10:50.160 --> 00:10:52.310 align:start position:0%
+AI treated them like random text. A post
+with 12,345
+00:10:52.310 --> 00:10:52.320 align:start position:0%
+with 12,345
+00:10:52.320 --> 00:10:54.710 align:start position:0%
+with 12,345
+views, the model just saw digits. The
+00:10:54.710 --> 00:10:54.720 align:start position:0%
+views, the model just saw digits. The
+00:10:54.720 --> 00:10:56.949 align:start position:0%
+views, the model just saw digits. The
+correlation between popularity and how
+00:10:56.949 --> 00:10:56.959 align:start position:0%
+correlation between popularity and how
+00:10:56.959 --> 00:10:58.710 align:start position:0%
+correlation between popularity and how
+well the model matched content to the
+00:10:58.710 --> 00:10:58.720 align:start position:0%
+well the model matched content to the
+00:10:58.720 --> 00:11:02.069 align:start position:0%
+well the model matched content to the
+right people was basically zero. So they
+00:11:02.069 --> 00:11:02.079 align:start position:0%
+right people was basically zero. So they
+00:11:02.079 --> 00:11:05.269 align:start position:0%
+right people was basically zero. So they
+converted everything into percentiles.
+00:11:05.269 --> 00:11:05.279 align:start position:0%
+converted everything into percentiles.
+00:11:05.279 --> 00:11:07.670 align:start position:0%
+converted everything into percentiles.
+Instead of raw numbers, the system now
+00:11:07.670 --> 00:11:07.680 align:start position:0%
+Instead of raw numbers, the system now
+00:11:07.680 --> 00:11:11.190 align:start position:0%
+Instead of raw numbers, the system now
+sees this post is in the 71st percentile
+00:11:11.190 --> 00:11:11.200 align:start position:0%
+sees this post is in the 71st percentile
+00:11:11.200 --> 00:11:13.750 align:start position:0%
+sees this post is in the 71st percentile
+of view counts. That change alone made
+00:11:13.750 --> 00:11:13.760 align:start position:0%
+of view counts. That change alone made
+00:11:13.760 --> 00:11:15.829 align:start position:0%
+of view counts. That change alone made
+the model significantly better at
+00:11:15.829 --> 00:11:15.839 align:start position:0%
+the model significantly better at
+00:11:15.839 --> 00:11:17.509 align:start position:0%
+the model significantly better at
+understanding which content was
+00:11:17.509 --> 00:11:17.519 align:start position:0%
+understanding which content was
+00:11:17.519 --> 00:11:19.750 align:start position:0%
+understanding which content was
+performing well. The engineering blog
+00:11:19.750 --> 00:11:19.760 align:start position:0%
+performing well. The engineering blog
+00:11:19.760 --> 00:11:22.790 align:start position:0%
+performing well. The engineering blog
+says the correlation jumped 30 times and
+00:11:22.790 --> 00:11:22.800 align:start position:0%
+says the correlation jumped 30 times and
+00:11:22.800 --> 00:11:25.350 align:start position:0%
+says the correlation jumped 30 times and
+recall improved by 15%. So what does
+00:11:25.350 --> 00:11:25.360 align:start position:0%
+recall improved by 15%. So what does
+00:11:25.360 --> 00:11:27.430 align:start position:0%
+recall improved by 15%. So what does
+this mean? Early engagement still
+00:11:27.430 --> 00:11:27.440 align:start position:0%
+this mean? Early engagement still
+00:11:27.440 --> 00:11:30.470 align:start position:0%
+this mean? Early engagement still
+matters not because of velocity like the
+00:11:30.470 --> 00:11:30.480 align:start position:0%
+matters not because of velocity like the
+00:11:30.480 --> 00:11:32.710 align:start position:0%
+matters not because of velocity like the
+old system because it moves your post
+00:11:32.710 --> 00:11:32.720 align:start position:0%
+old system because it moves your post
+00:11:32.720 --> 00:11:36.069 align:start position:0%
+old system because it moves your post
+into a higher popularity percentile
+00:11:36.069 --> 00:11:36.079 align:start position:0%
+into a higher popularity percentile
+00:11:36.079 --> 00:11:38.550 align:start position:0%
+into a higher popularity percentile
+which makes the AI more confident about
+00:11:38.550 --> 00:11:38.560 align:start position:0%
+which makes the AI more confident about
+00:11:38.560 --> 00:11:40.790 align:start position:0%
+which makes the AI more confident about
+showing it to a broader audience. But
+00:11:40.790 --> 00:11:40.800 align:start position:0%
+showing it to a broader audience. But
+00:11:40.800 --> 00:11:42.630 align:start position:0%
+showing it to a broader audience. But
+the engagement has to be real. The
+00:11:42.630 --> 00:11:42.640 align:start position:0%
+the engagement has to be real. The
+00:11:42.640 --> 00:11:44.790 align:start position:0%
+the engagement has to be real. The
+system is reading quality, not just
+00:11:44.790 --> 00:11:44.800 align:start position:0%
+system is reading quality, not just
+00:11:44.800 --> 00:11:47.190 align:start position:0%
+system is reading quality, not just
+counting. Here's what to do. Stop
+00:11:47.190 --> 00:11:47.200 align:start position:0%
+counting. Here's what to do. Stop
+00:11:47.200 --> 00:11:49.990 align:start position:0%
+counting. Here's what to do. Stop
+relying on pods or asking friends to
+00:11:49.990 --> 00:11:50.000 align:start position:0%
+relying on pods or asking friends to
+00:11:50.000 --> 00:11:52.550 align:start position:0%
+relying on pods or asking friends to
+drop a like in the first hour. Instead,
+00:11:52.550 --> 00:11:52.560 align:start position:0%
+drop a like in the first hour. Instead,
+00:11:52.560 --> 00:11:55.030 align:start position:0%
+drop a like in the first hour. Instead,
+focus on writing a hook strong enough
+00:11:55.030 --> 00:11:55.040 align:start position:0%
+focus on writing a hook strong enough
+00:11:55.040 --> 00:11:58.150 align:start position:0%
+focus on writing a hook strong enough
+that the first organic viewers actually
+00:11:58.150 --> 00:11:58.160 align:start position:0%
+that the first organic viewers actually
+00:11:58.160 --> 00:12:01.110 align:start position:0%
+that the first organic viewers actually
+engage and reply to every comment in the
+00:12:01.110 --> 00:12:01.120 align:start position:0%
+engage and reply to every comment in the
+00:12:01.120 --> 00:12:04.230 align:start position:0%
+engage and reply to every comment in the
+first 2 hours. Real conversations signal
+00:12:04.230 --> 00:12:04.240 align:start position:0%
+first 2 hours. Real conversations signal
+00:12:04.240 --> 00:12:05.829 align:start position:0%
+first 2 hours. Real conversations signal
+to the system that this post is
+00:12:05.829 --> 00:12:05.839 align:start position:0%
+to the system that this post is
+00:12:05.839 --> 00:12:08.629 align:start position:0%
+to the system that this post is
+generating genuine professional
+00:12:08.629 --> 00:12:08.639 align:start position:0%
+generating genuine professional
+00:12:08.639 --> 00:12:12.470 align:start position:0%
+generating genuine professional
+interaction. Rule number six, your
+00:12:12.470 --> 00:12:12.480 align:start position:0%
+interaction. Rule number six, your
+00:12:12.480 --> 00:12:15.990 align:start position:0%
+interaction. Rule number six, your
+engagement history trains your own feed.
+00:12:15.990 --> 00:12:16.000 align:start position:0%
+engagement history trains your own feed.
+00:12:16.000 --> 00:12:18.790 align:start position:0%
+engagement history trains your own feed.
+So use that strategically. The system
+00:12:18.790 --> 00:12:18.800 align:start position:0%
+So use that strategically. The system
+00:12:18.800 --> 00:12:22.470 align:start position:0%
+So use that strategically. The system
+maintains a timeordered list of every
+00:12:22.470 --> 00:12:22.480 align:start position:0%
+maintains a timeordered list of every
+00:12:22.480 --> 00:12:25.110 align:start position:0%
+maintains a timeordered list of every
+post you've positively engaged with and
+00:12:25.110 --> 00:12:25.120 align:start position:0%
+post you've positively engaged with and
+00:12:25.120 --> 00:12:27.910 align:start position:0%
+post you've positively engaged with and
+it only keeps the positive signals. They
+00:12:27.910 --> 00:12:27.920 align:start position:0%
+it only keeps the positive signals. They
+00:12:27.920 --> 00:12:29.910 align:start position:0%
+it only keeps the positive signals. They
+actually tested including negative
+00:12:29.910 --> 00:12:29.920 align:start position:0%
+actually tested including negative
+00:12:29.920 --> 00:12:32.550 align:start position:0%
+actually tested including negative
+signals, posts you saw but didn't engage
+00:12:32.550 --> 00:12:32.560 align:start position:0%
+signals, posts you saw but didn't engage
+00:12:32.560 --> 00:12:34.389 align:start position:0%
+signals, posts you saw but didn't engage
+with and it made the model actually
+00:12:34.389 --> 00:12:34.399 align:start position:0%
+with and it made the model actually
+00:12:34.399 --> 00:12:38.389 align:start position:0%
+with and it made the model actually
+worse. Removing negative signals reduced
+00:12:38.389 --> 00:12:38.399 align:start position:0%
+worse. Removing negative signals reduced
+00:12:38.399 --> 00:12:42.629 align:start position:0%
+worse. Removing negative signals reduced
+memory usage by 37% processed 40% more
+00:12:42.629 --> 00:12:42.639 align:start position:0%
+memory usage by 37% processed 40% more
+00:12:42.639 --> 00:12:44.870 align:start position:0%
+memory usage by 37% processed 40% more
+training data per batch and made
+00:12:44.870 --> 00:12:44.880 align:start position:0%
+training data per batch and made
+00:12:44.880 --> 00:12:47.430 align:start position:0%
+training data per batch and made
+training 2.6 times faster. better
+00:12:47.430 --> 00:12:47.440 align:start position:0%
+training 2.6 times faster. better
+00:12:47.440 --> 00:12:49.750 align:start position:0%
+training 2.6 times faster. better
+results and less compute at the same
+00:12:49.750 --> 00:12:49.760 align:start position:0%
+results and less compute at the same
+00:12:49.760 --> 00:12:53.110 align:start position:0%
+results and less compute at the same
+time. And LinkedIn built a generative
+00:12:53.110 --> 00:12:53.120 align:start position:0%
+time. And LinkedIn built a generative
+00:12:53.120 --> 00:12:55.509 align:start position:0%
+time. And LinkedIn built a generative
+recommener that treats your engagement
+00:12:55.509 --> 00:12:55.519 align:start position:0%
+recommener that treats your engagement
+00:12:55.519 --> 00:12:58.230 align:start position:0%
+recommener that treats your engagement
+history as a sequence. When you engage
+00:12:58.230 --> 00:12:58.240 align:start position:0%
+history as a sequence. When you engage
+00:12:58.240 --> 00:13:01.190 align:start position:0%
+history as a sequence. When you engage
+with machine learning content on Monday,
+00:13:01.190 --> 00:13:01.200 align:start position:0%
+with machine learning content on Monday,
+00:13:01.200 --> 00:13:04.310 align:start position:0%
+with machine learning content on Monday,
+distributed systems on Tuesday and open
+00:13:04.310 --> 00:13:04.320 align:start position:0%
+distributed systems on Tuesday and open
+00:13:04.320 --> 00:13:06.949 align:start position:0%
+distributed systems on Tuesday and open
+LinkedIn again on Wednesday, the system
+00:13:06.949 --> 00:13:06.959 align:start position:0%
+LinkedIn again on Wednesday, the system
+00:13:06.959 --> 00:13:09.590 align:start position:0%
+LinkedIn again on Wednesday, the system
+understands that as a professional
+00:13:09.590 --> 00:13:09.600 align:start position:0%
+understands that as a professional
+00:13:09.600 --> 00:13:12.629 align:start position:0%
+understands that as a professional
+learning journey, not three random data
+00:13:12.629 --> 00:13:12.639 align:start position:0%
+learning journey, not three random data
+00:13:12.639 --> 00:13:15.670 align:start position:0%
+learning journey, not three random data
+points. It maps your curiosity arc over
+00:13:15.670 --> 00:13:15.680 align:start position:0%
+points. It maps your curiosity arc over
+00:13:15.680 --> 00:13:19.269 align:start position:0%
+points. It maps your curiosity arc over
+time. Now, Adam Bird confirmed that your
+00:13:19.269 --> 00:13:19.279 align:start position:0%
+time. Now, Adam Bird confirmed that your
+00:13:19.279 --> 00:13:21.350 align:start position:0%
+time. Now, Adam Bird confirmed that your
+engagement with other post doesn't
+00:13:21.350 --> 00:13:21.360 align:start position:0%
+engagement with other post doesn't
+00:13:21.360 --> 00:13:23.269 align:start position:0%
+engagement with other post doesn't
+affect whether your content reaches
+00:13:23.269 --> 00:13:23.279 align:start position:0%
+affect whether your content reaches
+00:13:23.279 --> 00:13:25.509 align:start position:0%
+affect whether your content reaches
+someone else. This is about your own
+00:13:25.509 --> 00:13:25.519 align:start position:0%
+someone else. This is about your own
+00:13:25.519 --> 00:13:28.629 align:start position:0%
+someone else. This is about your own
+feed. But your feed shapes what inspires
+00:13:28.629 --> 00:13:28.639 align:start position:0%
+feed. But your feed shapes what inspires
+00:13:28.639 --> 00:13:31.269 align:start position:0%
+feed. But your feed shapes what inspires
+your content and what you create is what
+00:13:31.269 --> 00:13:31.279 align:start position:0%
+your content and what you create is what
+00:13:31.279 --> 00:13:33.110 align:start position:0%
+your content and what you create is what
+the algorithm distributes. Here's what
+00:13:33.110 --> 00:13:33.120 align:start position:0%
+the algorithm distributes. Here's what
+00:13:33.120 --> 00:13:35.110 align:start position:0%
+the algorithm distributes. Here's what
+to do. Be intentional about what you
+00:13:35.110 --> 00:13:35.120 align:start position:0%
+to do. Be intentional about what you
+00:13:35.120 --> 00:13:37.990 align:start position:0%
+to do. Be intentional about what you
+engage with. Engage heavily with content
+00:13:37.990 --> 00:13:38.000 align:start position:0%
+engage with. Engage heavily with content
+00:13:38.000 --> 00:13:41.350 align:start position:0%
+engage with. Engage heavily with content
+in your niche. like, comment on, and
+00:13:41.350 --> 00:13:41.360 align:start position:0%
+in your niche. like, comment on, and
+00:13:41.360 --> 00:13:43.750 align:start position:0%
+in your niche. like, comment on, and
+save posts from creators covering your
+00:13:43.750 --> 00:13:43.760 align:start position:0%
+save posts from creators covering your
+00:13:43.760 --> 00:13:45.910 align:start position:0%
+save posts from creators covering your
+topic area or people that are in your
+00:13:45.910 --> 00:13:45.920 align:start position:0%
+topic area or people that are in your
+00:13:45.920 --> 00:13:48.389 align:start position:0%
+topic area or people that are in your
+ICP. You're training the algorithm to
+00:13:48.389 --> 00:13:48.399 align:start position:0%
+ICP. You're training the algorithm to
+00:13:48.399 --> 00:13:50.550 align:start position:0%
+ICP. You're training the algorithm to
+show you the best thinking in your
+00:13:50.550 --> 00:13:50.560 align:start position:0%
+show you the best thinking in your
+00:13:50.560 --> 00:13:52.710 align:start position:0%
+show you the best thinking in your
+space, which will sharpen what you
+00:13:52.710 --> 00:13:52.720 align:start position:0%
+space, which will sharpen what you
+00:13:52.720 --> 00:13:55.350 align:start position:0%
+space, which will sharpen what you
+create or get you closer to the people
+00:13:55.350 --> 00:13:55.360 align:start position:0%
+create or get you closer to the people
+00:13:55.360 --> 00:13:57.670 align:start position:0%
+create or get you closer to the people
+you actually want to sell to. Rule
+00:13:57.670 --> 00:13:57.680 align:start position:0%
+you actually want to sell to. Rule
+00:13:57.680 --> 00:14:00.550 align:start position:0%
+you actually want to sell to. Rule
+number seven, LinkedIn is actively
+00:14:00.550 --> 00:14:00.560 align:start position:0%
+number seven, LinkedIn is actively
+00:14:00.560 --> 00:14:03.350 align:start position:0%
+number seven, LinkedIn is actively
+killing engagement baits and pods. This
+00:14:03.350 --> 00:14:03.360 align:start position:0%
+killing engagement baits and pods. This
+00:14:03.360 --> 00:14:06.550 align:start position:0%
+killing engagement baits and pods. This
+isn't speculation. LinkedIn's official
+00:14:06.550 --> 00:14:06.560 align:start position:0%
+isn't speculation. LinkedIn's official
+00:14:06.560 --> 00:14:09.590 align:start position:0%
+isn't speculation. LinkedIn's official
+announcement on March 12th says it
+00:14:09.590 --> 00:14:09.600 align:start position:0%
+announcement on March 12th says it
+00:14:09.600 --> 00:14:11.750 align:start position:0%
+announcement on March 12th says it
+directly. They are working to make
+00:14:11.750 --> 00:14:11.760 align:start position:0%
+directly. They are working to make
+00:14:11.760 --> 00:14:14.710 align:start position:0%
+directly. They are working to make
+engagement pods ineffective and curb
+00:14:14.710 --> 00:14:14.720 align:start position:0%
+engagement pods ineffective and curb
+00:14:14.720 --> 00:14:17.189 align:start position:0%
+engagement pods ineffective and curb
+comment automation and third-party tools
+00:14:17.189 --> 00:14:17.199 align:start position:0%
+comment automation and third-party tools
+00:14:17.199 --> 00:14:19.750 align:start position:0%
+comment automation and third-party tools
+that create fake conversations. They are
+00:14:19.750 --> 00:14:19.760 align:start position:0%
+that create fake conversations. They are
+00:14:19.760 --> 00:14:23.030 align:start position:0%
+that create fake conversations. They are
+reducing repetitive low substant posts
+00:14:23.030 --> 00:14:23.040 align:start position:0%
+reducing repetitive low substant posts
+00:14:23.040 --> 00:14:25.750 align:start position:0%
+reducing repetitive low substant posts
+and engagement bait where the caption
+00:14:25.750 --> 00:14:25.760 align:start position:0%
+and engagement bait where the caption
+00:14:25.760 --> 00:14:28.310 align:start position:0%
+and engagement bait where the caption
+doesn't really match the content. The
+00:14:28.310 --> 00:14:28.320 align:start position:0%
+doesn't really match the content. The
+00:14:28.320 --> 00:14:31.350 align:start position:0%
+doesn't really match the content. The
+new system tracks dwell time and genuine
+00:14:31.350 --> 00:14:31.360 align:start position:0%
+new system tracks dwell time and genuine
+00:14:31.360 --> 00:14:34.150 align:start position:0%
+new system tracks dwell time and genuine
+engagement patterns. It distinguishes
+00:14:34.150 --> 00:14:34.160 align:start position:0%
+engagement patterns. It distinguishes
+00:14:34.160 --> 00:14:36.470 align:start position:0%
+engagement patterns. It distinguishes
+between someone who read your post and
+00:14:36.470 --> 00:14:36.480 align:start position:0%
+between someone who read your post and
+00:14:36.480 --> 00:14:38.790 align:start position:0%
+between someone who read your post and
+left a thoughtful comment versus someone
+00:14:38.790 --> 00:14:38.800 align:start position:0%
+left a thoughtful comment versus someone
+00:14:38.800 --> 00:14:41.750 align:start position:0%
+left a thoughtful comment versus someone
+who typed great insight in two seconds
+00:14:41.750 --> 00:14:41.760 align:start position:0%
+who typed great insight in two seconds
+00:14:41.760 --> 00:14:43.750 align:start position:0%
+who typed great insight in two seconds
+without actually reading. So, here's
+00:14:43.750 --> 00:14:43.760 align:start position:0%
+without actually reading. So, here's
+00:14:43.760 --> 00:14:46.870 align:start position:0%
+without actually reading. So, here's
+what to do. If you're in a pod, get out.
+00:14:46.870 --> 00:14:46.880 align:start position:0%
+what to do. If you're in a pod, get out.
+00:14:46.880 --> 00:14:48.949 align:start position:0%
+what to do. If you're in a pod, get out.
+If you're using automation tools for
+00:14:48.949 --> 00:14:48.959 align:start position:0%
+If you're using automation tools for
+00:14:48.959 --> 00:14:51.990 align:start position:0%
+If you're using automation tools for
+comments, stop. If you're writing posts
+00:14:51.990 --> 00:14:52.000 align:start position:0%
+comments, stop. If you're writing posts
+00:14:52.000 --> 00:14:54.629 align:start position:0%
+comments, stop. If you're writing posts
+designed to gain distribution rather
+00:14:54.629 --> 00:14:54.639 align:start position:0%
+designed to gain distribution rather
+00:14:54.639 --> 00:14:57.189 align:start position:0%
+designed to gain distribution rather
+than deliver genuine value, understand
+00:14:57.189 --> 00:14:57.199 align:start position:0%
+than deliver genuine value, understand
+00:14:57.199 --> 00:14:59.110 align:start position:0%
+than deliver genuine value, understand
+that the system is now specifically
+00:14:59.110 --> 00:14:59.120 align:start position:0%
+that the system is now specifically
+00:14:59.120 --> 00:15:01.829 align:start position:0%
+that the system is now specifically
+built to identify that and suppress it,
+00:15:01.829 --> 00:15:01.839 align:start position:0%
+built to identify that and suppress it,
+00:15:01.839 --> 00:15:04.710 align:start position:0%
+built to identify that and suppress it,
+right? for humans. The I is watching
+00:15:04.710 --> 00:15:04.720 align:start position:0%
+right? for humans. The I is watching
+00:15:04.720 --> 00:15:07.829 align:start position:0%
+right? for humans. The I is watching
+whether the humans actually care. Learn
+00:15:07.829 --> 00:15:07.839 align:start position:0%
+whether the humans actually care. Learn
+00:15:07.839 --> 00:15:10.790 align:start position:0%
+whether the humans actually care. Learn
+how to create organic content that
+00:15:10.790 --> 00:15:10.800 align:start position:0%
+how to create organic content that
+00:15:10.800 --> 00:15:13.110 align:start position:0%
+how to create organic content that
+actually performs well instead of always
+00:15:13.110 --> 00:15:13.120 align:start position:0%
+actually performs well instead of always
+00:15:13.120 --> 00:15:15.030 align:start position:0%
+actually performs well instead of always
+trying to gain the system. And I know
+00:15:15.030 --> 00:15:15.040 align:start position:0%
+trying to gain the system. And I know
+00:15:15.040 --> 00:15:17.269 align:start position:0%
+trying to gain the system. And I know
+what you are thinking. You can see other
+00:15:17.269 --> 00:15:17.279 align:start position:0%
+what you are thinking. You can see other
+00:15:17.279 --> 00:15:19.910 align:start position:0%
+what you are thinking. You can see other
+creators doing all of this and their
+00:15:19.910 --> 00:15:19.920 align:start position:0%
+creators doing all of this and their
+00:15:19.920 --> 00:15:21.750 align:start position:0%
+creators doing all of this and their
+posts look like they're performing, but
+00:15:21.750 --> 00:15:21.760 align:start position:0%
+posts look like they're performing, but
+00:15:21.760 --> 00:15:24.310 align:start position:0%
+posts look like they're performing, but
+you're only seeing likes and comments.
+00:15:24.310 --> 00:15:24.320 align:start position:0%
+you're only seeing likes and comments.
+00:15:24.320 --> 00:15:26.389 align:start position:0%
+you're only seeing likes and comments.
+You don't see their impressions. You
+00:15:26.389 --> 00:15:26.399 align:start position:0%
+You don't see their impressions. You
+00:15:26.399 --> 00:15:28.710 align:start position:0%
+You don't see their impressions. You
+don't see their actual reach. You don't
+00:15:28.710 --> 00:15:28.720 align:start position:0%
+don't see their actual reach. You don't
+00:15:28.720 --> 00:15:30.470 align:start position:0%
+don't see their actual reach. You don't
+see whether any of it is actually
+00:15:30.470 --> 00:15:30.480 align:start position:0%
+see whether any of it is actually
+00:15:30.480 --> 00:15:33.269 align:start position:0%
+see whether any of it is actually
+converting into business. What you see
+00:15:33.269 --> 00:15:33.279 align:start position:0%
+converting into business. What you see
+00:15:33.279 --> 00:15:35.670 align:start position:0%
+converting into business. What you see
+on the surface doesn't tell you what's
+00:15:35.670 --> 00:15:35.680 align:start position:0%
+on the surface doesn't tell you what's
+00:15:35.680 --> 00:15:38.790 align:start position:0%
+on the surface doesn't tell you what's
+happening underneath. Play the long
+00:15:38.790 --> 00:15:38.800 align:start position:0%
+happening underneath. Play the long
+00:15:38.800 --> 00:15:41.590 align:start position:0%
+happening underneath. Play the long
+game. Learn how to create organic
+00:15:41.590 --> 00:15:41.600 align:start position:0%
+game. Learn how to create organic
+00:15:41.600 --> 00:15:43.910 align:start position:0%
+game. Learn how to create organic
+content good enough that you don't need
+00:15:43.910 --> 00:15:43.920 align:start position:0%
+content good enough that you don't need
+00:15:43.920 --> 00:15:46.790 align:start position:0%
+content good enough that you don't need
+to rely on hacks and cheat codes because
+00:15:46.790 --> 00:15:46.800 align:start position:0%
+to rely on hacks and cheat codes because
+00:15:46.800 --> 00:15:49.590 align:start position:0%
+to rely on hacks and cheat codes because
+the system is only getting smarter and
+00:15:49.590 --> 00:15:49.600 align:start position:0%
+the system is only getting smarter and
+00:15:49.600 --> 00:15:51.189 align:start position:0%
+the system is only getting smarter and
+the people who build their reach on
+00:15:51.189 --> 00:15:51.199 align:start position:0%
+the people who build their reach on
+00:15:51.199 --> 00:15:53.829 align:start position:0%
+the people who build their reach on
+shortcuts are the ones who are going to
+00:15:53.829 --> 00:15:53.839 align:start position:0%
+shortcuts are the ones who are going to
+00:15:53.839 --> 00:15:57.430 align:start position:0%
+shortcuts are the ones who are going to
+lose first. Rule number eight, smaller
+00:15:57.430 --> 00:15:57.440 align:start position:0%
+lose first. Rule number eight, smaller
+00:15:57.440 --> 00:15:59.670 align:start position:0%
+lose first. Rule number eight, smaller
+accounts just got a structural
+00:15:59.670 --> 00:15:59.680 align:start position:0%
+accounts just got a structural
+00:15:59.680 --> 00:16:01.590 align:start position:0%
+accounts just got a structural
+advantage. This is the most
+00:16:01.590 --> 00:16:01.600 align:start position:0%
+advantage. This is the most
+00:16:01.600 --> 00:16:04.550 align:start position:0%
+advantage. This is the most
+counterintuitive finding. LinkedIn's AB
+00:16:04.550 --> 00:16:04.560 align:start position:0%
+counterintuitive finding. LinkedIn's AB
+00:16:04.560 --> 00:16:07.030 align:start position:0%
+counterintuitive finding. LinkedIn's AB
+test data from the retrieval paper shows
+00:16:07.030 --> 00:16:07.040 align:start position:0%
+test data from the retrieval paper shows
+00:16:07.040 --> 00:16:10.629 align:start position:0%
+test data from the retrieval paper shows
+that the new system produced a 3.29%
+00:16:10.629 --> 00:16:10.639 align:start position:0%
+that the new system produced a 3.29%
+00:16:10.639 --> 00:16:13.110 align:start position:0%
+that the new system produced a 3.29%
+revenue increase for members with fewer
+00:16:13.110 --> 00:16:13.120 align:start position:0%
+revenue increase for members with fewer
+00:16:13.120 --> 00:16:15.749 align:start position:0%
+revenue increase for members with fewer
+connections and a 1.17%
+00:16:15.749 --> 00:16:15.759 align:start position:0%
+connections and a 1.17%
+00:16:15.759 --> 00:16:17.749 align:start position:0%
+connections and a 1.17%
+increase in professional interactions.
+00:16:17.749 --> 00:16:17.759 align:start position:0%
+increase in professional interactions.
+00:16:17.759 --> 00:16:20.790 align:start position:0%
+increase in professional interactions.
+The biggest beneficiaries of the rebuild
+00:16:20.790 --> 00:16:20.800 align:start position:0%
+The biggest beneficiaries of the rebuild
+00:16:20.800 --> 00:16:23.829 align:start position:0%
+The biggest beneficiaries of the rebuild
+are smaller, newer accounts. The old
+00:16:23.829 --> 00:16:23.839 align:start position:0%
+are smaller, newer accounts. The old
+00:16:23.839 --> 00:16:26.550 align:start position:0%
+are smaller, newer accounts. The old
+system was biased toward large networks.
+00:16:26.550 --> 00:16:26.560 align:start position:0%
+system was biased toward large networks.
+00:16:26.560 --> 00:16:29.350 align:start position:0%
+system was biased toward large networks.
+If you had 50,000 connections, you had a
+00:16:29.350 --> 00:16:29.360 align:start position:0%
+If you had 50,000 connections, you had a
+00:16:29.360 --> 00:16:31.590 align:start position:0%
+If you had 50,000 connections, you had a
+built-in distribution network just
+00:16:31.590 --> 00:16:31.600 align:start position:0%
+built-in distribution network just
+00:16:31.600 --> 00:16:34.230 align:start position:0%
+built-in distribution network just
+through network activity. The new system
+00:16:34.230 --> 00:16:34.240 align:start position:0%
+through network activity. The new system
+00:16:34.240 --> 00:16:37.269 align:start position:0%
+through network activity. The new system
+matches content interest regardless of
+00:16:37.269 --> 00:16:37.279 align:start position:0%
+matches content interest regardless of
+00:16:37.279 --> 00:16:39.749 align:start position:0%
+matches content interest regardless of
+network size. Shield Analytics just
+00:16:39.749 --> 00:16:39.759 align:start position:0%
+network size. Shield Analytics just
+00:16:39.759 --> 00:16:41.829 align:start position:0%
+network size. Shield Analytics just
+published their February 2026
+00:16:41.829 --> 00:16:41.839 align:start position:0%
+published their February 2026
+00:16:41.839 --> 00:16:44.550 align:start position:0%
+published their February 2026
+benchmarks. Medium impressions per post
+00:16:44.550 --> 00:16:44.560 align:start position:0%
+benchmarks. Medium impressions per post
+00:16:44.560 --> 00:16:48.069 align:start position:0%
+benchmarks. Medium impressions per post
+by follower count. Someone with 1 to 5K
+00:16:48.069 --> 00:16:48.079 align:start position:0%
+by follower count. Someone with 1 to 5K
+00:16:48.079 --> 00:16:51.189 align:start position:0%
+by follower count. Someone with 1 to 5K
+followers gets about 479 impressions. 5
+00:16:51.189 --> 00:16:51.199 align:start position:0%
+followers gets about 479 impressions. 5
+00:16:51.199 --> 00:16:56.710 align:start position:0%
+followers gets about 479 impressions. 5
+to 10K gets 774. 25 to 50K gets 2,143.
+00:16:56.710 --> 00:16:56.720 align:start position:0%
+to 10K gets 774. 25 to 50K gets 2,143.
+00:16:56.720 --> 00:16:59.030 align:start position:0%
+to 10K gets 774. 25 to 50K gets 2,143.
+And accounts with 100K plus followers
+00:16:59.030 --> 00:16:59.040 align:start position:0%
+And accounts with 100K plus followers
+00:16:59.040 --> 00:17:01.749 align:start position:0%
+And accounts with 100K plus followers
+get a median of 12,520
+00:17:01.749 --> 00:17:01.759 align:start position:0%
+get a median of 12,520
+00:17:01.759 --> 00:17:04.230 align:start position:0%
+get a median of 12,520
+impressions per post. These are medians.
+00:17:04.230 --> 00:17:04.240 align:start position:0%
+impressions per post. These are medians.
+00:17:04.240 --> 00:17:07.669 align:start position:0%
+impressions per post. These are medians.
+The top 10% and top 1% travel way
+00:17:07.669 --> 00:17:07.679 align:start position:0%
+The top 10% and top 1% travel way
+00:17:07.679 --> 00:17:09.270 align:start position:0%
+The top 10% and top 1% travel way
+further. And we're seeing this
+00:17:09.270 --> 00:17:09.280 align:start position:0%
+further. And we're seeing this
+00:17:09.280 --> 00:17:10.949 align:start position:0%
+further. And we're seeing this
+firsthand. One of our clients at
+00:17:10.949 --> 00:17:10.959 align:start position:0%
+firsthand. One of our clients at
+00:17:10.959 --> 00:17:13.990 align:start position:0%
+firsthand. One of our clients at
+Distinctiva has 17,000 followers. And in
+00:17:13.990 --> 00:17:14.000 align:start position:0%
+Distinctiva has 17,000 followers. And in
+00:17:14.000 --> 00:17:16.949 align:start position:0%
+Distinctiva has 17,000 followers. And in
+the last 28 days, he's generated over 1
+00:17:16.949 --> 00:17:16.959 align:start position:0%
+the last 28 days, he's generated over 1
+00:17:16.959 --> 00:17:20.230 align:start position:0%
+the last 28 days, he's generated over 1
+million impressions and reached 390,000
+00:17:20.230 --> 00:17:20.240 align:start position:0%
+million impressions and reached 390,000
+00:17:20.240 --> 00:17:22.309 align:start position:0%
+million impressions and reached 390,000
+unique members. That's numbers that
+00:17:22.309 --> 00:17:22.319 align:start position:0%
+unique members. That's numbers that
+00:17:22.319 --> 00:17:24.949 align:start position:0%
+unique members. That's numbers that
+accounts with 100K followers aren't
+00:17:24.949 --> 00:17:24.959 align:start position:0%
+accounts with 100K followers aren't
+00:17:24.959 --> 00:17:27.909 align:start position:0%
+accounts with 100K followers aren't
+hitting. Same platform, same algorithm.
+00:17:27.909 --> 00:17:27.919 align:start position:0%
+hitting. Same platform, same algorithm.
+00:17:27.919 --> 00:17:30.549 align:start position:0%
+hitting. Same platform, same algorithm.
+The difference is the content. Here's
+00:17:30.549 --> 00:17:30.559 align:start position:0%
+The difference is the content. Here's
+00:17:30.559 --> 00:17:33.270 align:start position:0%
+The difference is the content. Here's
+what to do. If you've been waiting to
+00:17:33.270 --> 00:17:33.280 align:start position:0%
+what to do. If you've been waiting to
+00:17:33.280 --> 00:17:35.270 align:start position:0%
+what to do. If you've been waiting to
+build a bigger audience before going
+00:17:35.270 --> 00:17:35.280 align:start position:0%
+build a bigger audience before going
+00:17:35.280 --> 00:17:38.150 align:start position:0%
+build a bigger audience before going
+serious on LinkedIn, stop waiting. The
+00:17:38.150 --> 00:17:38.160 align:start position:0%
+serious on LinkedIn, stop waiting. The
+00:17:38.160 --> 00:17:41.029 align:start position:0%
+serious on LinkedIn, stop waiting. The
+system just got rebuilt in your favor.
+00:17:41.029 --> 00:17:41.039 align:start position:0%
+system just got rebuilt in your favor.
+00:17:41.039 --> 00:17:43.350 align:start position:0%
+system just got rebuilt in your favor.
+Start posting now. Go deep on your
+00:17:43.350 --> 00:17:43.360 align:start position:0%
+Start posting now. Go deep on your
+00:17:43.360 --> 00:17:45.830 align:start position:0%
+Start posting now. Go deep on your
+topic. Write posts worth saving. The
+00:17:45.830 --> 00:17:45.840 align:start position:0%
+topic. Write posts worth saving. The
+00:17:45.840 --> 00:17:47.669 align:start position:0%
+topic. Write posts worth saving. The
+algorithm will find your audience for
+00:17:47.669 --> 00:17:47.679 align:start position:0%
+algorithm will find your audience for
+00:17:47.679 --> 00:17:49.830 align:start position:0%
+algorithm will find your audience for
+you. That is literally what it was
+00:17:49.830 --> 00:17:49.840 align:start position:0%
+you. That is literally what it was
+00:17:49.840 --> 00:17:52.150 align:start position:0%
+you. That is literally what it was
+designed to do. You don't need to be a
+00:17:52.150 --> 00:17:52.160 align:start position:0%
+designed to do. You don't need to be a
+00:17:52.160 --> 00:17:54.390 align:start position:0%
+designed to do. You don't need to be a
+huge creator now to be able to reach the
+00:17:54.390 --> 00:17:54.400 align:start position:0%
+huge creator now to be able to reach the
+00:17:54.400 --> 00:17:56.390 align:start position:0%
+huge creator now to be able to reach the
+right audience. And honestly, I love
+00:17:56.390 --> 00:17:56.400 align:start position:0%
+right audience. And honestly, I love
+00:17:56.400 --> 00:17:58.950 align:start position:0%
+right audience. And honestly, I love
+that about the new algorithm. Now, if
+00:17:58.950 --> 00:17:58.960 align:start position:0%
+that about the new algorithm. Now, if
+00:17:58.960 --> 00:18:01.029 align:start position:0%
+that about the new algorithm. Now, if
+you're watching this and thinking, I
+00:18:01.029 --> 00:18:01.039 align:start position:0%
+you're watching this and thinking, I
+00:18:01.039 --> 00:18:03.350 align:start position:0%
+you're watching this and thinking, I
+want to actually implement this with
+00:18:03.350 --> 00:18:03.360 align:start position:0%
+want to actually implement this with
+00:18:03.360 --> 00:18:05.110 align:start position:0%
+want to actually implement this with
+other people who are doing the same
+00:18:05.110 --> 00:18:05.120 align:start position:0%
+other people who are doing the same
+00:18:05.120 --> 00:18:07.510 align:start position:0%
+other people who are doing the same
+thing. I'm building a community for
+00:18:07.510 --> 00:18:07.520 align:start position:0%
+thing. I'm building a community for
+00:18:07.520 --> 00:18:09.750 align:start position:0%
+thing. I'm building a community for
+exactly that. people who are serious
+00:18:09.750 --> 00:18:09.760 align:start position:0%
+exactly that. people who are serious
+00:18:09.760 --> 00:18:12.710 align:start position:0%
+exactly that. people who are serious
+about LinkedIn content strategy and
+00:18:12.710 --> 00:18:12.720 align:start position:0%
+about LinkedIn content strategy and
+00:18:12.720 --> 00:18:15.430 align:start position:0%
+about LinkedIn content strategy and
+building real authority in their space.
+00:18:15.430 --> 00:18:15.440 align:start position:0%
+building real authority in their space.
+00:18:15.440 --> 00:18:17.669 align:start position:0%
+building real authority in their space.
+And this isn't just a course where you
+00:18:17.669 --> 00:18:17.679 align:start position:0%
+And this isn't just a course where you
+00:18:17.679 --> 00:18:19.909 align:start position:0%
+And this isn't just a course where you
+watch me go through slides and can't
+00:18:19.909 --> 00:18:19.919 align:start position:0%
+watch me go through slides and can't
+00:18:19.919 --> 00:18:22.950 align:start position:0%
+watch me go through slides and can't
+reach out or ask questions. This is a
+00:18:22.950 --> 00:18:22.960 align:start position:0%
+reach out or ask questions. This is a
+00:18:22.960 --> 00:18:25.190 align:start position:0%
+reach out or ask questions. This is a
+space where we get into your specific
+00:18:25.190 --> 00:18:25.200 align:start position:0%
+space where we get into your specific
+00:18:25.200 --> 00:18:28.390 align:start position:0%
+space where we get into your specific
+situation, personal questions answered,
+00:18:28.390 --> 00:18:28.400 align:start position:0%
+situation, personal questions answered,
+00:18:28.400 --> 00:18:31.430 align:start position:0%
+situation, personal questions answered,
+boot camps, live Q&amp;As's, a space to
+00:18:31.430 --> 00:18:31.440 align:start position:0%
+boot camps, live Q&amp;As's, a space to
+00:18:31.440 --> 00:18:34.230 align:start position:0%
+boot camps, live Q&amp;As's, a space to
+learn how to build organic content
+00:18:34.230 --> 00:18:34.240 align:start position:0%
+learn how to build organic content
+00:18:34.240 --> 00:18:36.549 align:start position:0%
+learn how to build organic content
+correctly, to create content you're
+00:18:36.549 --> 00:18:36.559 align:start position:0%
+correctly, to create content you're
+00:18:36.559 --> 00:18:39.270 align:start position:0%
+correctly, to create content you're
+actually proud of, to stop feeling FOMO
+00:18:39.270 --> 00:18:39.280 align:start position:0%
+actually proud of, to stop feeling FOMO
+00:18:39.280 --> 00:18:42.789 align:start position:0%
+actually proud of, to stop feeling FOMO
+over huge influencers gaming the system
+00:18:42.789 --> 00:18:42.799 align:start position:0%
+over huge influencers gaming the system
+00:18:42.799 --> 00:18:44.870 align:start position:0%
+over huge influencers gaming the system
+because that's what we are good at,
+00:18:44.870 --> 00:18:44.880 align:start position:0%
+because that's what we are good at,
+00:18:44.880 --> 00:18:47.990 align:start position:0%
+because that's what we are good at,
+organic, genuine content. And that's the
+00:18:47.990 --> 00:18:48.000 align:start position:0%
+organic, genuine content. And that's the
+00:18:48.000 --> 00:18:50.310 align:start position:0%
+organic, genuine content. And that's the
+whole point. If you want early access,
+00:18:50.310 --> 00:18:50.320 align:start position:0%
+whole point. If you want early access,
+00:18:50.320 --> 00:18:51.750 align:start position:0%
+whole point. If you want early access,
+the weight list link is in the
+00:18:51.750 --> 00:18:51.760 align:start position:0%
+the weight list link is in the
+00:18:51.760 --> 00:18:54.150 align:start position:0%
+the weight list link is in the
+description. Okay, now this was a lot.
+00:18:54.150 --> 00:18:54.160 align:start position:0%
+description. Okay, now this was a lot.
+00:18:54.160 --> 00:18:57.350 align:start position:0%
+description. Okay, now this was a lot.
+So, let me bring it all together. The
+00:18:57.350 --> 00:18:57.360 align:start position:0%
+So, let me bring it all together. The
+00:18:57.360 --> 00:18:59.750 align:start position:0%
+So, let me bring it all together. The
+algorithm didn't get worse, it got
+00:18:59.750 --> 00:18:59.760 align:start position:0%
+algorithm didn't get worse, it got
+00:18:59.760 --> 00:19:01.669 align:start position:0%
+algorithm didn't get worse, it got
+smarter, like every social media
+00:19:01.669 --> 00:19:01.679 align:start position:0%
+smarter, like every social media
+00:19:01.679 --> 00:19:04.070 align:start position:0%
+smarter, like every social media
+platform. And LinkedIn told us exactly
+00:19:04.070 --> 00:19:04.080 align:start position:0%
+platform. And LinkedIn told us exactly
+00:19:04.080 --> 00:19:07.190 align:start position:0%
+platform. And LinkedIn told us exactly
+how the research papers came first.
+00:19:07.190 --> 00:19:07.200 align:start position:0%
+how the research papers came first.
+00:19:07.200 --> 00:19:09.830 align:start position:0%
+how the research papers came first.
+Then, 360 Brew got taken down. Then, the
+00:19:09.830 --> 00:19:09.840 align:start position:0%
+Then, 360 Brew got taken down. Then, the
+00:19:09.840 --> 00:19:12.390 align:start position:0%
+Then, 360 Brew got taken down. Then, the
+engineering blog went up. Then, Tim
+00:19:12.390 --> 00:19:12.400 align:start position:0%
+engineering blog went up. Then, Tim
+00:19:12.400 --> 00:19:14.630 align:start position:0%
+engineering blog went up. Then, Tim
+Jerka, VP of engineering, posted
+00:19:14.630 --> 00:19:14.640 align:start position:0%
+Jerka, VP of engineering, posted
+00:19:14.640 --> 00:19:17.350 align:start position:0%
+Jerka, VP of engineering, posted
+publicly. Then corporate put out an
+00:19:17.350 --> 00:19:17.360 align:start position:0%
+publicly. Then corporate put out an
+00:19:17.360 --> 00:19:19.270 align:start position:0%
+publicly. Then corporate put out an
+official announcement confirming all of
+00:19:19.270 --> 00:19:19.280 align:start position:0%
+official announcement confirming all of
+00:19:19.280 --> 00:19:22.630 align:start position:0%
+official announcement confirming all of
+it. This isn't LinkedIn gurus guessing.
+00:19:22.630 --> 00:19:22.640 align:start position:0%
+it. This isn't LinkedIn gurus guessing.
+00:19:22.640 --> 00:19:26.390 align:start position:0%
+it. This isn't LinkedIn gurus guessing.
+This is LinkedIn's own people explaining
+00:19:26.390 --> 00:19:26.400 align:start position:0%
+This is LinkedIn's own people explaining
+00:19:26.400 --> 00:19:29.430 align:start position:0%
+This is LinkedIn's own people explaining
+what they built. Your checklist. Go do
+00:19:29.430 --> 00:19:29.440 align:start position:0%
+what they built. Your checklist. Go do
+00:19:29.440 --> 00:19:32.310 align:start position:0%
+what they built. Your checklist. Go do
+these right now. One, rewrite your
+00:19:32.310 --> 00:19:32.320 align:start position:0%
+these right now. One, rewrite your
+00:19:32.320 --> 00:19:35.909 align:start position:0%
+these right now. One, rewrite your
+headline with your ICP's language. Two,
+00:19:35.909 --> 00:19:35.919 align:start position:0%
+headline with your ICP's language. Two,
+00:19:35.919 --> 00:19:39.110 align:start position:0%
+headline with your ICP's language. Two,
+check your first 50 words on every post.
+00:19:39.110 --> 00:19:39.120 align:start position:0%
+check your first 50 words on every post.
+00:19:39.120 --> 00:19:41.990 align:start position:0%
+check your first 50 words on every post.
+Three, pick a clear topic lane and
+00:19:41.990 --> 00:19:42.000 align:start position:0%
+Three, pick a clear topic lane and
+00:19:42.000 --> 00:19:45.190 align:start position:0%
+Three, pick a clear topic lane and
+commit for 90 days. Four, write posts
+00:19:45.190 --> 00:19:45.200 align:start position:0%
+commit for 90 days. Four, write posts
+00:19:45.200 --> 00:19:48.070 align:start position:0%
+commit for 90 days. Four, write posts
+that earn saves, not just likes. Five,
+00:19:48.070 --> 00:19:48.080 align:start position:0%
+that earn saves, not just likes. Five,
+00:19:48.080 --> 00:19:50.470 align:start position:0%
+that earn saves, not just likes. Five,
+stop chasing early velocity. Focus on
+00:19:50.470 --> 00:19:50.480 align:start position:0%
+stop chasing early velocity. Focus on
+00:19:50.480 --> 00:19:53.270 align:start position:0%
+stop chasing early velocity. Focus on
+real engagement. Six, be intentional
+00:19:53.270 --> 00:19:53.280 align:start position:0%
+real engagement. Six, be intentional
+00:19:53.280 --> 00:19:55.110 align:start position:0%
+real engagement. Six, be intentional
+about what you engage with in your own
+00:19:55.110 --> 00:19:55.120 align:start position:0%
+about what you engage with in your own
+00:19:55.120 --> 00:19:57.990 align:start position:0%
+about what you engage with in your own
+feed. Seven, get out of pods and stop
+00:19:57.990 --> 00:19:58.000 align:start position:0%
+feed. Seven, get out of pods and stop
+00:19:58.000 --> 00:20:01.029 align:start position:0%
+feed. Seven, get out of pods and stop
+using automation. Eight, start posting
+00:20:01.029 --> 00:20:01.039 align:start position:0%
+using automation. Eight, start posting
+00:20:01.039 --> 00:20:04.310 align:start position:0%
+using automation. Eight, start posting
+now regardless of your audience size.
+00:20:04.310 --> 00:20:04.320 align:start position:0%
+now regardless of your audience size.
+00:20:04.320 --> 00:20:06.870 align:start position:0%
+now regardless of your audience size.
+Every source I referenced is linked in
+00:20:06.870 --> 00:20:06.880 align:start position:0%
+Every source I referenced is linked in
+00:20:06.880 --> 00:20:09.510 align:start position:0%
+Every source I referenced is linked in
+the description. the archive paper, the
+00:20:09.510 --> 00:20:09.520 align:start position:0%
+the description. the archive paper, the
+00:20:09.520 --> 00:20:11.430 align:start position:0%
+the description. the archive paper, the
+engineering blog, the official
+00:20:11.430 --> 00:20:11.440 align:start position:0%
+engineering blog, the official
+00:20:11.440 --> 00:20:14.070 align:start position:0%
+engineering blog, the official
+announcement, Tim Jerka's post. Read
+00:20:14.070 --> 00:20:14.080 align:start position:0%
+announcement, Tim Jerka's post. Read
+00:20:14.080 --> 00:20:16.150 align:start position:0%
+announcement, Tim Jerka's post. Read
+them yourself. The free audit kit is
+00:20:16.150 --> 00:20:16.160 align:start position:0%
+them yourself. The free audit kit is
+00:20:16.160 --> 00:20:18.710 align:start position:0%
+them yourself. The free audit kit is
+down there, too, with AI prompts to help
+00:20:18.710 --> 00:20:18.720 align:start position:0%
+down there, too, with AI prompts to help
+00:20:18.720 --> 00:20:21.430 align:start position:0%
+down there, too, with AI prompts to help
+you run through every rule. If you want
+00:20:21.430 --> 00:20:21.440 align:start position:0%
+you run through every rule. If you want
+00:20:21.440 --> 00:20:23.750 align:start position:0%
+you run through every rule. If you want
+us to do this for you, that's what the
+00:20:23.750 --> 00:20:23.760 align:start position:0%
+us to do this for you, that's what the
+00:20:23.760 --> 00:20:26.070 align:start position:0%
+us to do this for you, that's what the
+Sinctiva does. Links in the description
+00:20:26.070 --> 00:20:26.080 align:start position:0%
+Sinctiva does. Links in the description
+00:20:26.080 --> 00:20:29.750 align:start position:0%
+Sinctiva does. Links in the description
+or DM me on LinkedIn. And look, I see so
+00:20:29.750 --> 00:20:29.760 align:start position:0%
+or DM me on LinkedIn. And look, I see so
+00:20:29.760 --> 00:20:32.470 align:start position:0%
+or DM me on LinkedIn. And look, I see so
+many people saying LinkedIn is dead,
+00:20:32.470 --> 00:20:32.480 align:start position:0%
+many people saying LinkedIn is dead,
+00:20:32.480 --> 00:20:35.029 align:start position:0%
+many people saying LinkedIn is dead,
+that reaches down, that the platform
+00:20:35.029 --> 00:20:35.039 align:start position:0%
+that reaches down, that the platform
+00:20:35.039 --> 00:20:37.350 align:start position:0%
+that reaches down, that the platform
+doesn't work anymore. And at the same
+00:20:37.350 --> 00:20:37.360 align:start position:0%
+doesn't work anymore. And at the same
+00:20:37.360 --> 00:20:39.510 align:start position:0%
+doesn't work anymore. And at the same
+time, I'm watching people build
+00:20:39.510 --> 00:20:39.520 align:start position:0%
+time, I'm watching people build
+00:20:39.520 --> 00:20:42.230 align:start position:0%
+time, I'm watching people build
+businesses, close deals, and get in
+00:20:42.230 --> 00:20:42.240 align:start position:0%
+businesses, close deals, and get in
+00:20:42.240 --> 00:20:44.470 align:start position:0%
+businesses, close deals, and get in
+front of exactly the right audience
+00:20:44.470 --> 00:20:44.480 align:start position:0%
+front of exactly the right audience
+00:20:44.480 --> 00:20:47.110 align:start position:0%
+front of exactly the right audience
+every single day. Both are happening on
+00:20:47.110 --> 00:20:47.120 align:start position:0%
+every single day. Both are happening on
+00:20:47.120 --> 00:20:49.190 align:start position:0%
+every single day. Both are happening on
+the same platform. The difference isn't
+00:20:49.190 --> 00:20:49.200 align:start position:0%
+the same platform. The difference isn't
+00:20:49.200 --> 00:20:50.789 align:start position:0%
+the same platform. The difference isn't
+the algorithm. It's whether you
+00:20:50.789 --> 00:20:50.799 align:start position:0%
+the algorithm. It's whether you
+00:20:50.799 --> 00:20:52.950 align:start position:0%
+the algorithm. It's whether you
+understand how it works and create
+00:20:52.950 --> 00:20:52.960 align:start position:0%
+understand how it works and create
+00:20:52.960 --> 00:20:56.710 align:start position:0%
+understand how it works and create
+content worth distributing. Subscribe if
+00:20:56.710 --> 00:20:56.720 align:start position:0%
+content worth distributing. Subscribe if
+00:20:56.720 --> 00:20:58.549 align:start position:0%
+content worth distributing. Subscribe if
+you want more of this. I'll see you in
+00:20:58.549 --> 00:20:58.559 align:start position:0%
+you want more of this. I'll see you in
+00:20:58.559 --> 00:21:00.799 align:start position:0%
+you want more of this. I'll see you in
+the next

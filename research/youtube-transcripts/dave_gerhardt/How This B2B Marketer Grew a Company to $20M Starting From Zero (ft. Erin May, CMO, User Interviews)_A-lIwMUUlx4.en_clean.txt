@@ -1,0 +1,1362 @@
+Author: Dave Gerhardt
+Source File: How This B2B Marketer Grew a Company to $20M Starting From Zero (ft. Erin May, CMO, User Interviews)_A-lIwMUUlx4.en.vtt
+
+WEBVTT Kind: captions Language: en We had a two-page website.
+
+We didn't have a blog when I started.
+
+&gt;&gt; This week, I sat down with Erin May.
+
+She's the CMO at User Interviews.
+
+She's been there eight years.
+
+She joined as the first marketer when they had a two-page website and zero recurring revenue.
+
+&gt;&gt; I joined pre-recurring revenue.
+
+So, we were pre-recurring revenue.
+
+&gt;&gt; Today, she's helped grow the company to over 20 million in ARR.
+
+What I love about this conversation with Erin is that she's not talking about theory.
+
+She's talking about what she actually did in order over the eight years at user interviews.
+
+&gt;&gt; When I started very early, I was the eighth hire, first marketer, so super super early.
+
+&gt;&gt; She talks about how she picked one niche audience and went allin, how she stacked channels one at a time instead of trying to do everything at once, and how she built a marketing operating system around these things called bangers, which I love.
+
+Yep, bangers.
+
+&gt;&gt; Some people would call them a tent pole.
+
+I like bangers.
+
+Bangers are banging.
+
+They're quarterly 10pole moments that get the entire company involved from content to sales follow-up.
+
+And she actually incentivized employees to post about these with cash.
+
+Cold hard cash.
+
+We also got into podcasting, her expectations for AI with her team, and why she thinks the brand versus demand debate is stupid.
+
+Enjoy my conversation with Aaron May.
+
+&gt;&gt; 2.
+
+&gt;&gt; Okay, my guest is Aaron May.
+
+And uh what's what's great is Aaron just asked making sure that we can curse on this podcast which is &gt;&gt; we'll start we'll start modest.
+
+&gt;&gt; Yeah.
+
+Yeah.
+
+Um it's really yeah it's really interesting that to some people I found it's a great icebreaker.
+
+Um really really just changes changes the tone.
+
+But I'm excited to have you on.
+
+So you're CMO at uh user interviews.
+
+Can you tell me about user what does user interviews do?
+
+&gt;&gt; That's right.
+
+User interviews now by user testing.
+
+So it's an exciting time here.
+
+What user interviews does is if you need participants for literally any kind of research, we've got them.
+
+So I like to say any kind of safe and legal research, we will support it.
+
+So that's in person, moderated, unmodderated, doesn't matter.
+
+Uh we'll find your participants.
+
+&gt;&gt; Okay.
+
+And you said uh sorry, you said now at user user &gt;&gt; testing user test &gt;&gt; user test.
+
+There's so many users.
+
+Uh so so so company was acquired earlier this year last year.
+
+Just about two months ago.
+
+Yeah.
+
+&gt;&gt; Okay.
+
+Cool.
+
+And um your role, your CMO, what does that mean?
+
+&gt;&gt; That means I lead our marketing function.
+
+And because user interviews is a marketplace, that's on the researcher and the demand side.
+
+So mostly what I do is B2B marketing, but I get a little bit of consumer marketing in the mix too with our six million participants.
+
+And you've been there for what, the last eight years?
+
+&gt;&gt; Eight years.
+
+Yeah.
+
+&gt;&gt; And did you join pre-revenue?
+
+&gt;&gt; I joined pre-recurring revenue.
+
+So we were &gt;&gt; pre-recurring revenue.
+
+I mean that's basically that's the only revenue people care about, right?
+
+&gt;&gt; That's right.
+
+So yes.
+
+Yes, I did.
+
+&gt;&gt; And were you CMO when you joined or like did you was this part of your career career story?
+
+You've been there for &gt;&gt; Yes.
+
+I was the head of marketing actually.
+
+I think I was the VP of content and life cycle.
+
+Uh but that quickly escalated and head of marketing and then uh VP and then I took on the growth function which we can talk about a few few promotions along the way over the eight years but always the head of marketing.
+
+&gt;&gt; Okay, cool.
+
+So I I get a bunch of I get a bunch of like notes and questions in here.
+
+Um we've been learning that the thing that people like the most about this podcast lately is more about the like what did you do?
+
+How did you do it?
+
+How did it work?
+
+And it's it's even okay if it wasn't, you know, in the last week or so.
+
+I think that what we're learning is so many of the things that people are doing in marketing are are timeless.
+
+And um it seemed like one of the one of the big things that was transformational for you all was back in the day really niching down on kind of one core use case and one core persona.
+
+And you have some strong opinions about um brand and audience building and finding a niche.
+
+And I'd love to just kind of um unpack that a little bit.
+
+&gt;&gt; Yeah, absolutely.
+
+So when I started very early, I was the eighth hire, first marketer, so super super early.
+
+Uh we had a couple hunches of some marketing things we should do.
+
+So for example, we were uh transactional.
+
+Let's send some emails to folks who have used the product uh but not used it again and get them back.
+
+So we had a couple things we knew we needed to do, but really we were starting very very early.
+
+We had early product market fit, right?
+
+We had people who were using the product, getting good value, saying good things about it, but how are we going to scale this thing, right?
+
+So, what we did was we took a look at who is using this and getting value now.
+
+And we really had a couple of different personas.
+
+Uh we had researchers and then we had what we call powder, which is people who do research but are not researchers.
+
+Got it.
+
+&gt;&gt; It's like an acronym.
+
+&gt;&gt; It's an acronym.
+
+Love that.
+
+People who do research.
+
+people who do research but are not researchers and that really breaks down to your product folks, designers, UXers as well as founders, right?
+
+Founders who are doing kind of early stage uh research to validate, you know, their companies and ideas.
+
+Uh and so our hypothesis was these researchers are going to end up being our best customers, you know, for obvious reasons.
+
+They're doing the most research.
+
+They're doing it on a recurring basis.
+
+Not only are they doing research, but they are doing a lot of research recruiting.
+
+So that's the going hypothesis.
+
+And so uh what we decided to take a look at was you know how big can we make this thing with this research audience.
+
+Uh so we did some you know back of the envelope math and we thought we could we could get going with that.
+
+We knew they were getting the strongest experience from the product.
+
+And then from a goto market perspective we looked at who is serving this audience and how are they being served and what I found was a big gap which was great.
+
+And what do you do with that gap?
+
+You write write some write some blog post.
+
+&gt;&gt; You write some blog posts.
+
+Well, actually, that's funny you mentioned that, Dave.
+
+So, going just way back, you know, I've started early before with a relatively, you know, uh, open field, but we had a two-page website.
+
+We didn't have a blog when I started.
+
+So, me and my head of product, we actually hopped into Web Flow and built a blog in the, you know, my second day on the job to get things going because we needed to announce a product integration.
+
+But to answer your question, no, we didn't just create a bunch of blog posts.
+
+Uh we took a a really uh structured uh strategic approach to it.
+
+So um I've done content for quite a number of years.
+
+And uh this if we go back way back eight years ago, uh SEO is still a really thriving channel eight years ago.
+
+Um, so one of the things we did was we said, how could we build out an authoritative library of research content to serve this audience distributed primarily through SEO?
+
+So that was an early part of the plan.
+
+&gt;&gt; Well, take me into the the SEO approach cuz like I've been in the early stages of a startup and sometimes you have a good idea and you write an article, but I've never made any real SEO progress that way.
+
+Did you have a sense of the keywords that you were trying to target and you you kind of went after them over time?
+
+Like I I know today part of your story is like built, you know, going from this two-page website to content and having this really strong point of view on your your customer and your industry being the the cornerstone of your marketing machine.
+
+How did you turn that into content that actually drove real SEO growth?
+
+Can you kind of unpack your SEO strategy?
+
+&gt;&gt; Yeah, of course.
+
+So, in the case of the field guide, so we have we call it the UX research field guide.
+
+So, we got some SEO right there in the name of the thing, right?
+
+Uh, we build out the IIA, we build out the taxonomy.
+
+What are we going to cover here that hasn't been covered in the structured way, right?
+
+And then we match that with the keywords that have those gaps and build out the entire plan for it.
+
+But a cool thing about the way we did that was I'm a big fan of dog fooding our product.
+
+I've done a bunch of research.
+
+I've learned a bunch of research methods along the way.
+
+So we actually built out you know the structure of what is the content that's going to be in this thing right and then I validated that taxonomy with our researchers through research.
+
+So we said you know we did an open card sort and does the structure make sense what are the gaps so really lightweight fast research but validating that this actually matched the mental model of our audience before we went whole hog down you know a big SEO path.
+
+&gt;&gt; Okay.
+
+What else?
+
+&gt;&gt; What else?
+
+I'm a big, this is now I think quite trendy or maybe even settled science, but I'm a big ungated content person.
+
+And so from my previous life as a marketer, um I had this kind of theory that people will give you their email if you give them a compelling reason to do it, but you don't have to coers them to do it, right?
+
+Um and so the idea was let's build this all out.
+
+let's package it and deliver it as an ecourse experience so you can kind of choose your own adventure and really you know start from I don't know anything about research methods or I don't know anything about insights and really have a structured learning experience around that we'll deliver it as an email if you want it and then that will be more than just a whole bunch of blog posts you know to your earlier point but the way we did that was we said do you want this as an email you don't have to you can get the whole thing for free right here on the web &gt;&gt; yeah and I think the I think the thing with like the thing that wi with with the content approach I think that intuitively it makes sense like I just want to make my I want to create good stuff that's relevant for my potential customers and I want to distribute that everywhere.
+
+&gt;&gt; Yeah.
+
+&gt;&gt; But the problem is as a marketer if you're inside of a company how do I know that the right people are seeing that?
+
+And so it's always been like, well, I want to know.
+
+So like I want to know, oh, you want this article, Aaron, put your email in.
+
+So then I can go back and show my company, look, Aaron, you know, Aaron.
+
+May at use this this legit CMO.
+
+&gt;&gt; Yeah, look at our &gt;&gt; Yeah, this legit CMO got our content.
+
+&gt;&gt; Um, so I always kind of go have gone back and forth with that.
+
+But inside of the inside of a company, how do you think about the measurement of of content?
+
+Because I think really that that's like the root cause of the the gated content thing.
+
+It's like how do we prove the effectiveness of our content if we're not if we don't exactly know who's reading it?
+
+&gt;&gt; Yeah.
+
+Well, and part of the bet there too is we could have our cake or eat it too.
+
+We're not anti- capturing emails.
+
+I'm anti-coercion, right?
+
+So, and so the idea was, you know, we're going to pop up a box, give people, you know, you can push the button, we're not going to force it at you.
+
+And we had a 13% conversion rate on this thing.
+
+So, we got our emails.
+
+We just didn't make anyone give them to us.
+
+And I think that comes from having a really compelling experience and a really compelling offer.
+
+&gt;&gt; How how did you measure just while we're talking about how did you how did you measure how did you tell a story about the meas measuring content?
+
+&gt;&gt; Um &gt;&gt; yeah.
+
+So &gt;&gt; because at the same time like I think about this a lot when it comes up in in these conversations is even if that piece of content was really helpful the way people buy it's very rare that I'm gonna read an article and then immediately buy the thing.
+
+Mhm.
+
+&gt;&gt; And so I'm always interested in like how do you tell intuitively we we know that content works.
+
+You got to get people to know, like, and trust you, share your stuff, but how do you tell the story of, hey, this is what it looks like.
+
+This is how it takes.
+
+How how have you how would how did Aaron May measure content?
+
+&gt;&gt; Yeah, for sure.
+
+So we'll talk about some of these boxes, right?
+
+So what topics are you covering and the channels you're distributing and the format you're putting the content in, right?
+
+But in the early days, there were a couple of advantages that that made this work and made this measurable.
+
+One was we weren't doing any other marketing, so we were going to know quickly if it was working or not.
+
+The second is we have a relatively short sales cycle at user interviews.
+
+So, we don't have to wait for months and years to know if that top of funnel is working.
+
+We're going to know pretty quickly and we're going to be able to nurture folks to, you know, self-s serve or talk to sales pretty quickly as well.
+
+So I think it, you know, it depends on how your funnel works and how you're going to obviously measure success and that has evolved over the years, but in the early days we're looking for are people coming to our website?
+
+Are we seeing them raise their hand to talk to sales or sign up, you know, to use the product?
+
+And they &gt;&gt; okay.
+
+Do you ever what would change today if you were doing this today?
+
+&gt;&gt; How would your approach to content be any different?
+
+I would not make a big SEO play as my first play today.
+
+I would obviously be looking at AEO instead of SEO.
+
+We're calling it XO here because, you know, there is a lot of overlap between the two things.
+
+Um, but I think the first principles of how we started this would would apply, right?
+
+So again, the first thing we looked at is who's the audience we're really trying to reach?
+
+What's that minimum viable audience?
+
+In our case, it was researchers.
+
+then I'm going to do some lightweight research to understand that audience and that's what I did.
+
+So I did a whole bunch of research in like a week and it was a combination of dog fooding our product and finding researchers to talk to and literally like talking to them like this on Zoom calls.
+
+Um and then it was doing internal stakeholder interviews and then it was doing some desk research and you know finding out where do these people hang out, what are they complaining about and these sorts of basic things.
+
+So, I would definitely start with that if I were, you know, to do it again.
+
+And then I would find those gaps.
+
+Where are they being underserved?
+
+You know, they're hanging out in this channel.
+
+Let's say it's YouTube, right?
+
+Um, what is there on YouTube for them?
+
+Is this crowded?
+
+Is there open space?
+
+That's kind of where I'm starting, right?
+
+Is just &gt;&gt; I love I love the point about the gaps.
+
+And I think that's what's really fun about the job of marketing that I think gets missed in the nuance of like, you know, definitive takes on like LinkedIn about which channel is working or not.
+
+It's like every company I see such a good eye roll.
+
+Every every company it's like every company is different, right?
+
+They have different funding.
+
+They're at a different stage.
+
+They're a different size.
+
+They everyone says like, "Oh, attract attract a players." It's like, "Well, actually, we can't because we have no budget and no one knows who we are and so we just kind of get a couple interns." or like in your case, let's look at the competitive landscape.
+
+I remember um at one of the companies that I worked at, it was like, yeah, so obvious podcasting.
+
+Wow, you're a genius, man.
+
+It was like, well, nobody in our niche is doing a podcast.
+
+And so, I think we have an opportunity here.
+
+And it turned out that worked really well.
+
+And so, I think that's what's fun is kind of like running that analysis of like, what are the opportunities?
+
+Because every everything is mark everything in marketing has been proven to work at some point in time.
+
+It's like, but which guard rails do you have and which plays are you going to run?
+
+&gt;&gt; Yeah.
+
+Exactly.
+
+And then that's what's been fun about being in this role for eight years is I've seen it all and I've seen it all change, right?
+
+But that framework that you know the basic idea of find out where your audience is, understand deeply what they care about and then go find those gaps and reach them, that's never going to change, right?
+
+The particulars will change, but that framework won't change.
+
+Seems like one thing that you did really well was whether it was the audience that you went after or one particular channel, you you have this kind of playbook of stacking channels over time as opposed to being like we're going to do all these things.
+
+Can you explain that a little bit?
+
+&gt;&gt; Yeah, for sure.
+
+I'm a big believer in, you know, the power law of distribution and if you can get 90% of your pipeline from two channels, that makes things a lot simpler.
+
+on the other side of you know the equation you want to be somewhat diversified right I've seen experiences where you are very invested in SEO Google changes their algorithm and now you have a big problem right so it's finding that balance of where can you really dominate but also having a portfolio so the way we approached that was through stacking these channel content medium combinations one at a time and then as we stacked them over the years we sort of throttled and dialed up and down where we're placing our bets based on what's working well for us and based on how those channels and audiences are changing over time.
+
+&gt;&gt; How did you think about planning for the next phase of growth because a lot of times you have like you said these one or two core channels but then the the growth plan for the company continues to grow.
+
+You can't just like I have this argument with Dan, my business partner, all the time like we can't just it doesn't work like you you can't just like do more podcast because the podcast is growing.
+
+You can't just like do more episodes and it works.
+
+You need to find new channels.
+
+And a mistake I made as a first-time VP of marketing was &gt;&gt; almost being so overindexed on like what's working right now and not having enough plans for the future and having enough space that things might fail, but I got to plant some seeds that you know when we're ready to turn up the dial on this channel, we can do it.
+
+&gt;&gt; Yeah.
+
+balancing the long-term and the short term is always really difficult as you as you know.
+
+Um I think if something is working and you can find more scale with it, you do not want to slow down on that.
+
+That's first things first, right?
+
+But to your point, you've always got to have the next thing lined up.
+
+So when I'm if let's say I'm I'm looking at this from a channel perspective, I'm looking at what is the ceiling for this channel and like how do we get there and how fast can we get there?
+
+So is it if we 10x our content, we will 10x our pipeline.
+
+Well, let's do that.
+
+Like, does the math make sense?
+
+Then let's do it, right?
+
+And so for the podcast example, the constraint is I don't know how many of these episodes does your audience want to listen to, right?
+
+That might be a constraint.
+
+Um, very often it's not production.
+
+And in theory, you could produce as much as you wanted.
+
+So, you have your audience appetite for consumption.
+
+Um, you have paid budgets, whatever it might be.
+
+&gt;&gt; Anything that didn't work that you can share?
+
+I always like to say there's things that haven't worked yet because to your point, right, it's the timing.
+
+It's all those combinations of things.
+
+I've had things that haven't worked and we've tried them again and it and it did work.
+
+So, as an example, uh when I was leading our growth team on the participant side of things, we wanted to get a referral program going, right?
+
+We're like, this is going to make a lot of sense.
+
+Uh we'll, you know, do an incentivized referral.
+
+We'll pay the participants to refer other participants.
+
+This is a no-brainer.
+
+First version did not work.
+
+If we had quit there, we would have lost what is now one of our biggest growth channels on the participant side.
+
+And I think that's a big lesson, too, is knowing when to quit and knowing when to try again.
+
+&gt;&gt; Yeah.
+
+It's like, can you can you go long enough until you hit that in inflection point, right?
+
+It's like I've been doing the same I got I got injured a couple months ago and I've been trying to work my way back and I've been doing the same workout for two and a half months and literally just now I'm starting to feel like man I'm noticing like a huge difference and a month ago I was really bored and ready to change something up and I I think that's a weakness of mine in all aspects of life is like how do you balance the &gt;&gt; you know the patience because you're like well let's kill this the team is busy everyone's stressed out they got we got 15 other priorities it's It's hard to know sometimes what what's worth continuing to invest in.
+
+&gt;&gt; It is very hard.
+
+It's always very clear in hindsight, but I think it's, you know, just having a hypothesis of why isn't this working?
+
+You know, did we did we really think through if this channel makes sense for us?
+
+And there's a lot of, you know, things you can think through there.
+
+But I'll tell you, for example, one that hasn't worked for us yet is influencer.
+
+We haven't quite figured that out, right?
+
+Is it because we don't have influencers with a large enough audience?
+
+Is it because we haven't armed them with the right offer?
+
+You know, is it a tactical question or is it a structural question?
+
+But I would say I have faith in this one.
+
+I think this one's going to work for us, but it it has not worked yet.
+
+So, we're not going to drop everything else we're doing that is working to put everything behind figuring that out.
+
+Um, but my my gut sense is that that's one that can work for us.
+
+&gt;&gt; What about any lessons as far as like structuring your your team?
+
+You've had a team of uh 16 people.
+
+Obviously that you know will fluctuates over time and things change, but how do you what's your what's your kind of operating system for for running marketing?
+
+Do you have any particular routines and rhythms that you like certain cadences around campaigns or planning or week to week running the team?
+
+&gt;&gt; I do.
+
+I love an operating rhythm and that's something that you know we're always uh tweaking over time.
+
+But uh we pretty much run things on a quarterly cadence.
+
+uh you know, one of the content types, if you will, that has been very uh instrumental in our success is we call them bangers.
+
+Some people would call them a tent pole.
+
+Uh whatever.
+
+&gt;&gt; I like bangers.
+
+Bangers is nice.
+
+&gt;&gt; Bangers are banging, you know.
+
+&gt;&gt; And so we really orient a lot of our calendar around these bangers.
+
+And so we'll have two to three bangers a quarter.
+
+In the past, you know, we've tried to structure them around a theme.
+
+Um, but &gt;&gt; sorry.
+
+And is it is it a piece of is it a content?
+
+Is it like an article?
+
+&gt;&gt; Yeah.
+
+So there's a mix of top off ofunnel and bottom ofunnel bangers, right?
+
+And so what they are is they're really our major launches of the quarter.
+
+&gt;&gt; Nice.
+
+&gt;&gt; Yeah.
+
+And um you know so we talk about stacking these different channels, right?
+
+And we started with this kind of very pragmatic SEO driven field guide.
+
+The next thing we added was these bangers, which we didn't call them that at the time, but it was even back then eight years ago.
+
+I knew doing a bunch of, you know, keyword driven meto blog posts was not going to be the secret to our success.
+
+So, it was how do we take these pain points, right, these motivations that we know our heroes, these researchers have and do something meaningful with that, do something unique with that.
+
+And so, our first true banger was our UX research tools map.
+
+And now we do this every year.
+
+And the general idea there was um you know the loom escapes I'm sure you know the the marketing tech stack and you've got your zillion logos and the sort of point of it is like oh my god there's so many logos right uh so the idea was let's do that but for UX research but let's actually make it visually kind of beautiful and interesting to look at and my big thing as a marketer was I don't know about you Dave but I always was irritated with the box I ended up in like with what what my company was in when I'd done Martekch.
+
+It's like that's the wrong box.
+
+Stop putting me in the wrong box.
+
+&gt;&gt; Of course.
+
+&gt;&gt; And so I had this idea of like not only am I in the wrong box, but I should be in four boxes, you know?
+
+I want I want to be in as many boxes as possible.
+
+&gt;&gt; Well, the worst is when you get the it's forwarded to you from the CEO.
+
+And it's like, why are we not in &gt;&gt; Yeah, exactly.
+
+You're like, I don't know.
+
+I didn't pay enough to the analyst relations.
+
+Um.
+
+&gt;&gt; Right.
+
+And so I took all my personal pet peeves and got to make my own.
+
+&gt;&gt; I I love the I love the concept of banger.
+
+So So a couple things just talking to our listeners for a second.
+
+Like I think &gt;&gt; it's a perfect example of just kind of like making up the rules.
+
+Like there's no there's no school that you would have went to that's like and once a quarter you're going to do a banger and a a banger and and um but I love this because I think I like to think about this like operating cadence for for marketing.
+
+I think so much of the success of a marketing team whether we want to admit it or not like you know what really matters like the pro product engineering the roadmap like what do I got it's like what ingredients do I have from the company &gt;&gt; y &gt;&gt; and a lot of times you you don't you might not have a big product like of course marketing is easy when like product ships a banger and then you're like okay cool we have a big launch we're going to do like that's a lot of work and it's stressful &gt;&gt; but it that makes marketing pretty easy it's like when we don't have all those things like what the hell are we going to talk about?
+
+And so I like what you have, which is like I'm going to go map out, okay, I know that I got a road map from the head of product.
+
+I know what the next kind of six months are going to look like.
+
+We got this in April.
+
+We got this thing in June, but I don't have anything in May.
+
+Oh, that's a great month to do our banger.
+
+Like, let's let's get the UX research tool report lined up to now we have to now we do that over time and we have this steady drum beat of of stuff for marketing.
+
+I also think it's really healthy to have like a forcing function.
+
+Um, when I was at Drift, we called them marketable moments.
+
+And it was like, we are going to do a product launch the first Tuesday of every month, no matter what.
+
+I don't know what the one three months from now is, but like, I know we're going to do it.
+
+And it just was a great discipline to get on.
+
+And I believe that like marketing creates momentum for the rest of the company.
+
+Do you feel anything I just kind of riffed on there?
+
+&gt;&gt; No, 100%.
+
+And the marketable moments, I've heard you talk about those and very much, you know, the similar idea here.
+
+I think there's so much not in our control as marketing teams.
+
+The market always wins, right?
+
+This has been a a huge learning for me.
+
+But there's a lot in our control.
+
+And that's what you have to optimize for.
+
+And that's what this is is like we can control putting something totally awesome and unique and differentiated that our audience is going to love and we can do it at the cadence that we set.
+
+And that's &gt;&gt; how you come up &gt;&gt; how would you come up with bangers?
+
+like it was like a me it was a creative process like anybody could pitch ideas for bangers.
+
+How do we come up with them?
+
+&gt;&gt; Yeah, we have quarterly planning processes and over time some of these became recurring once a year things.
+
+So those go on the calendar but then you &gt;&gt; right that that's like the ultimate thing, right?
+
+If you like you you hit a home run with the UX research tool and now you're like oh let's plug this in and like let's do this every every year.
+
+I worked at uh Constant Contact back in the day and they did this like &gt;&gt; small business they did like this survey every year and it was like this massive thing for them.
+
+It worked so hey let's do it.
+
+Every May we're going to run the UX research tools report.
+
+&gt;&gt; Yep.
+
+Exactly.
+
+And so we do a state of user research state of, you know, lots of people do state ofs.
+
+We used our own technology to do it.
+
+We, you know, it was all about just doing it better, right?
+
+Like having a great experience, having a big sample size, really getting into the weeds of the data, pulling out insights that are actually interesting to people.
+
+So doing it, but kicking it up a notch.
+
+That was our approach to that one.
+
+And it is again, there was a gap.
+
+No one was doing it.
+
+If someone were doing it, we would have done something else.
+
+&gt;&gt; Okay.
+
+So, you're you're doing quarterly planning.
+
+You're you're planning out the bangers.
+
+How do you figure out like what should what should be in it?
+
+Like, and maybe let's think about today.
+
+If you were doing this today, how do you decide is it an article?
+
+Is it a blog post?
+
+Is it an email?
+
+Are we doing a webinar?
+
+Is there a press release?
+
+Are we doing event?
+
+How do you figure out all the pieces around it?
+
+&gt;&gt; Yeah.
+
+So, uh what what did people used to say is like content is king and distribution is queen.
+
+I you know I think something that we've really really leaned into is a channel first approach.
+
+Meaning we're not building our content calendar until we have a strong sense of what our channels are and what they can do for us.
+
+So we start from the channel and then we fit in our calendar.
+
+So doing it today it's where's our pipeline going to come from?
+
+What channels do we need to be active in?
+
+And where are these bangers going to get distributed?
+
+And for us right now that is absolutely social media, right?
+
+LinkedIn is killing it for us despite all the challenges with the LinkedIn algorithm and everything else.
+
+&gt;&gt; Let's let's let's just double click on that.
+
+What what does that where what are you posting on LinkedIn?
+
+Is it from the company page, personal pages?
+
+Can we can you explain some of the strategy when you say LinkedIn is working?
+
+&gt;&gt; Yeah, 100%.
+
+So it's it's all of those things together.
+
+So we have our founders doing founderled.
+
+Uh we have employee advocacy and I'll talk about how that fits in with the bangers.
+
+Uh so we do something called PG Palooa.
+
+This is part of our quarterly operating rhythm and what we do is we get the entire company involved in basically amplifying these bangers throughout the entire funnel.
+
+So everyone in the company is encouraged to participate in sharing this stuff on social.
+
+There is a paid incentivized contest for whoever gets the most shares on this stuff, right?
+
+Um we do that for a week or so.
+
+Um, and then &gt;&gt; what do what do you get if you win that?
+
+How do you incentivize that?
+
+&gt;&gt; Cash.
+
+&gt;&gt; Oh, that's why it works.
+
+&gt;&gt; Yeah, exactly.
+
+Right.
+
+&gt;&gt; Exactly.
+
+C called her cash.
+
+Um, so we do that.
+
+And then on the sales side of things, and we've tweaked this over time about a week or two weeks later, they're going to follow up with everyone we could see that engaged with that content with those bangers, and then they're going to reach out and try to try to book a meeting and and make a call.
+
+So, and they get incentivized for booking those meetings as well.
+
+So, that kind of two-phase, one two punch has been a great way to get the whole company involved and turning these bangers into actual pipeline.
+
+&gt;&gt; Do you tell people what to write or is it like here's a link, here's a link that the banger is coming out on Tuesday.
+
+Write whatever you want about it and we'll see who gets the most.
+
+&gt;&gt; Yeah.
+
+Yes.
+
+And yes, yes and yes.
+
+We always give them some starter copy, right?
+
+links and images and you know the all the resources they need but very much encouraged to to make it your own.
+
+&gt;&gt; Okay, what else?
+
+This that was great.
+
+I love the topic of bangers and having an oper operating system.
+
+What what else is kind of key to your marketing success?
+
+&gt;&gt; So there's two kinds of bangers.
+
+There's the top ofunnel bangers that are really 100% in our control and then there's the bottom ofunnel bangers also known as a product launch and those are less in our control.
+
+And we have certainly taken the step of we said we were going to launch this on March 15th and we do it come hell or high water.
+
+We've also taken the step of this would really be better if we did it in a couple weeks once we actually have the product.
+
+Um so we've done that both ways but they're always on the calendar but the reality is we have to be a little bit more flexible and those are a little bit less in in our control which is why we love our top of funnel bangers.
+
+But we give those the same treatment.
+
+We give those the PG palooa treatment.
+
+And so you put all that together and you've got a kind of all hands on deck, full company, fullfunnel social media explosion happening.
+
+So that's an important part of our operating rhythm.
+
+&gt;&gt; What would you say to someone who is struggling to who likes this idea but is struggling to maybe get their whole company on board and and wants wants multiple people to post?
+
+Uh be beyond the founders like I think you've tapped into something where you have employees and you're incentivizing them.
+
+How do you how would you how would you get over that hump?
+
+&gt;&gt; Start small.
+
+Um I think with when you're trying to make a new thing happen, get a get a band of believers together, right, to workshop how you're going to do this with and get them on board and get them excited and telling other people to participate.
+
+I really do think that cash is helpful here.
+
+Uh it's motivating even if it's not a lot of cash.
+
+And you got to have a great idea.
+
+I think that um the user interviews crew has taken a lot of pride in the bangers we've put out there because they're really good and people want to share them whether they be in sales or some other team they're excited and proud to share that stuff and they know that people you know their customers their prospects that they're sharing it with are going to like it so it reflect &gt;&gt; it's a good it's you're not asking everyone to like I think the cringy thing or the people that don't like doing is like when you ask the whole company to promote ote something that's kind of like uh I don't want to I don't promote this webinar or like I know we we won some award like I don't want to post that.
+
+&gt;&gt; I'm so excited to share that da da da da.
+
+No you aren't.
+
+&gt;&gt; Exactly.
+
+But like you created something like hey we published like the definitive guide to like UX research tools.
+
+This is genuinely helpful to people in our ICP.
+
+Right.
+
+&gt;&gt; That's right.
+
+That's right.
+
+&gt;&gt; I like all the versions of the bangers.
+
+Tofu bangers.
+
+&gt;&gt; Tofu bangers.
+
+Bofu bangers.
+
+Bofu bangers.
+
+That's like Doug's new band, right?
+
+Tofu.
+
+&gt;&gt; Um, tell me about your podcast.
+
+You've done You've been podcasting for a long time.
+
+175 episodes.
+
+&gt;&gt; Why Why do a podcast?
+
+Everyone's got a podcast.
+
+How do you measure the ROI on a podcast?
+
+&gt;&gt; Seven years ago, everyone did not have a podcast.
+
+And that is very much part of why we did started the podcast.
+
+So, it was that same approach of where's the gaps?
+
+&gt;&gt; So, I did some desk research.
+
+I talked to some researchers.
+
+Do you listen to podcasts?
+
+again, like we're not going to start a podcast if they're not listening to podcasts.
+
+That's that's a big hurdle to be like, "Hey guys, you should listen to this new media that you don't naturally want to do otherwise." Um, but they did listen to podcasts.
+
+There were a couple of podcasts around that some of them had posted once a month.
+
+You know, they're not posting regularly.
+
+They're not dominating the conversation.
+
+We've gotten in.
+
+Let's try it out.
+
+And I did not ask for permission to do this.
+
+I uh learned Garage Band.
+
+Like it was hacky.
+
+&gt;&gt; Me too.
+
+&gt;&gt; Yeah, it was very very hacky in the beginning, which of course is like the most fun.
+
+&gt;&gt; Um so we we just did it.
+
+We did it on Anchor, which is now owned by Spotify.
+
+Got a couple of guests.
+
+I think Maggie Crowley, you know, back in the day was one of our first 10 guests probably.
+
+Um, and I will say that researchers have been the easiest, most fun audience to market to.
+
+I've ever worked with, which is a lot of why I've been here for so long.
+
+They have been very willing participants in our marketing.
+
+It has never been hard to get researchers to be podcast guests.
+
+They're very invested in um the craft and, you know, giving back to the community and all of that.
+
+So, it wasn't hard to get guests.
+
+Once we learned Garage Band, it wasn't hard to produce the thing.
+
+Yeah.
+
+&gt;&gt; And people were listening to it like right away.
+
+I couldn't believe it.
+
+Um, and so it just felt &gt;&gt; this is fun for us.
+
+We're getting good feedback from researchers.
+
+People are listening to it.
+
+Let's just do this for a while and see where it goes.
+
+Um, one of the curses and benefits of podcasts is the attribution, but we knew that up front.
+
+We knew we were not going to be able to tell a super clear ROI story.
+
+And fortunately, I work with founders uh who are okay with that.
+
+And that was very helpful.
+
+&gt;&gt; I think you got into it for the right reasons.
+
+I think when it if you get into if you're like, we're going to we we need 10 incremental sales meetings this month and so therefore we're going to start a podcast.
+
+Then it's like, well, how are we going to measure it?
+
+But the fact that maybe because &gt;&gt; the head of marketing kind of like &gt;&gt; skunk works, like she's got GarageBand on her laptop, she's doing the editing.
+
+like we're just going to we're just going to try this thing and it works.
+
+And I think so many people that I've talked to you learn the value of a podcast like months in or like all the you know you're doing it and then one day you just get like a DM from someone like damn I didn't know she listened to that podcast like that's crazy.
+
+Did you know the CMO of Salesforce like the messages I've gotten over the years from having this podcast?
+
+I'm like wait what?
+
+You listen to my little podcast?
+
+Like &gt;&gt; I know it's you know and at first it was just like then you saw the charts going up.
+
+Okay, somebody's downloading it.
+
+I don't know who, but somebody.
+
+They live in the United States.
+
+That's great.
+
+That's where we do most of our business.
+
+Um, they're probably into research cuz why the hell else would you listen to a user research podcast, right?
+
+Um, &gt;&gt; did did you look at did you think about the like the return of it as fueling some other part of your content machine too, like beyond just like the the actual episode?
+
+&gt;&gt; Yeah, for sure.
+
+But I I was going to say, you know, I had the same experience as you Dave where when I really got it was after co when we started doing a lot of events again and I would go to these events and people would come up to me like I was a celebrity because I host this podcast and I swear to God this is not why I got into this at all.
+
+But it was like wow like people who I really respect who are very important in this industry are actually listening to this thing.
+
+That's all the attribution I really need here.
+
+Um, but yes, &gt;&gt; well, it's like different.
+
+It's different than like if I just got your email.
+
+If I just got your emails, I'm like, "Oh, that's not really Erin.
+
+That's just like the, you know, marketing automation system at our company." But &gt;&gt; someone that's actually listening to you for hours and hours and hours that builds up &gt;&gt; relationship.
+
+Yeah, &gt;&gt; for sure.
+
+Like if we could measure &gt;&gt; It's like if you could measure marketing by like time spent on a channel.
+
+&gt;&gt; Yes.
+
+&gt;&gt; And that we were able to weight that somehow and we knew who everyone everyone was that was listening, it would be insane.
+
+&gt;&gt; Yes.
+
+Yeah.
+
+I think the depth of the connection as you know it's you can't see that in an attribution dashboard but you meet &gt;&gt; what's the state of the are you still doing the podcast today &gt;&gt; we are we are I'm hosting one next week we had Ben was stepping in for a while but I'm I'm back I'm back to being our lead host so still going yes it fuels to your question it fuels our our LinkedIn and and many of our other channels and what those channels are and what we do with the podcast has changed a lot over time as those channels have developed.
+
+Let's wrap up and tell me about your feelings about I'm going to ask you a very simple question and I'm going to let you take it wherever you want.
+
+What What is your feelings about AI and marketing?
+
+&gt;&gt; Oh, I thought you were going to ask me about brand and demand.
+
+People tell you about that, too.
+
+Um, my feelings about AI and marketing, I think I agree with, you know, there's a lot of just sort of consensus thinking that I actually agree with, right, which is that AI isn't going to take your job.
+
+The person who learns AI will.
+
+I agree with that.
+
+I don't, you know, think that's particularly unique, but I think that's probably true.
+
+Um, I think that part of why I love tech marketing, in particular, UXR marketing is this intersection of technology and humanity, of the tech and the people.
+
+And for someone like me, this is very exciting because the technology has never been more powerful, better, and more in need of humanity, right?
+
+Like we've all experienced the AI slop.
+
+Nothing new, guys.
+
+Like marketing slop has been around for a long time.
+
+It's just faster and worse and higher scale now.
+
+So I think back to those fundamentals, those are all still true of knowing your audience.
+
+Now we have AI to do that even better, even faster.
+
+Use it, but don't create AI slop with it.
+
+So I think it's an amazing opportunity uh that I am super pumped about.
+
+Do you have expectations like within your team about how people are using AI?
+
+Do you expect them to be using these tools?
+
+&gt;&gt; Yeah, they need to be.
+
+And I think I've tried to um be supportive and somewhat patient and do it in phases.
+
+So last year was the year of you got to be using this stuff.
+
+I'm going to meet you where you are.
+
+Um we're going to enable you.
+
+We're going to, you know, give you budget, give you L &amp; D time.
+
+We're going to do showand tells.
+
+We're going to do hackathons.
+
+all this stuff to to help everyone start from where you are and end up somewhere sort of more AI mature.
+
+That was our approach last year.
+
+This year it's like let's go faster.
+
+&gt;&gt; Well, now it's like you just really don't have any excuse because now I I have such FOMO like I'm think of myself as like I'm an early adopter and all this stuff but man I I'm sure you feel I open up like LinkedIn or I go to YouTube I'm like I'm not doing anything.
+
+I'm not scratching the surface of AI, but I think the the part that there's no excuse on is like most of the time I'm literally like if I'm using Claude as an example, I'm asking Claude how to better use Claude.
+
+Like the AI can help tell you.
+
+So like I that's hey, I want to I want to try to create this deck.
+
+I'm speaking at an event next week and I want to try to create this deck like you know without having to do Google Slides.
+
+How would you do it?
+
+&gt;&gt; Yeah.
+
+And and if you're a smart person with some experience, which I think you and I both are, you can be like you can be like, "Claude, &gt;&gt; wrong." You know, that's terrible advice.
+
+&gt;&gt; Actually, I shared this with my team yesterday because I think it's real.
+
+Like I've been, you know, annoyingly pushing AI like we should be doing this, we should be doing this, we should be doing this.
+
+And I, you know, I spent, no joke, I spent an hour gathering all the material.
+
+I was like, I'm going to write my deck with Claude.
+
+And I know there's a bunch of AI apps that people love to make slides and it just didn't it didn't work for me.
+
+It did not work for me because of my the process of like how I write and how I talk and how I want to deliver that on stage.
+
+I use a lot of like there's kind of a slide that might have like one word and a picture of my daughter on it or something.
+
+And it's like how would how would how do I teach that's my transition.
+
+So I just was like you know what I got to I'm going to use Claude to maybe do some research and get some data and get some points here.
+
+But I I actually I've been spending the last few days building this myself and I think it's a perfect example that that's not something that is can be outsourced.
+
+It's like outsourcing stand up.
+
+Hey, hey, you're a stand-up comedian.
+
+Like have AI like write your whole talk and it's not going to be the same.
+
+&gt;&gt; Yeah.
+
+Exactly.
+
+Exactly.
+
+&gt;&gt; Uh you you want to talk about branded demand.
+
+So &gt;&gt; yeah, I just was anticipating what you might ask me.
+
+&gt;&gt; Oh, well tell me what's your opinion on it.
+
+Go ahead.
+
+You have you have a couple minutes.
+
+Say shoot your shot.
+
+&gt;&gt; Well, I just think the whole argument is stupid.
+
+I think that like brand and demand are both very important.
+
+It's a funnel, guys, you know, and and like we were talking about earlier, I think, you know, this idea that 10% is the right amount to spend on brand or 20 or what.
+
+It's stupid because &gt;&gt; like it like it could be quantified to be like, no, said we need to spend this amount.
+
+&gt;&gt; What do you even mean by that first of all, right?
+
+Like is that a brand channel or a demand channel?
+
+Like, and how do you determine?
+
+&gt;&gt; Well, they both feed each other.
+
+It's like &gt;&gt; feed each other.
+
+It's it's just so silly.
+
+And so that's my &gt;&gt; But why what do you think the silly do you think the silliness comes from like internal like CFO CEO marketing not being able to like articulate the the ROI of a of a billboard or of a podcast?
+
+Like what what's the where does it come from?
+
+&gt;&gt; It's a very good question.
+
+I think that's probably you know I think the what the post zer was very ROI heavy and you know created a lot of these kinds of conversations but I think we just want to be very is it this or is it this?
+
+It's like it's both.
+
+It's both.
+
+Yeah, &gt;&gt; it's both.
+
+&gt;&gt; Well, it's like I I actually I would use the the the to your point about the Zer thing.
+
+Like I would use um the example of like Zoom as an example during like COVID.
+
+I was like, do you think do you think selling is easier for the sales team when everyone in the world is using Zoom and everyone is talking about Zoom?
+
+Like of course that is that is brand, &gt;&gt; right?
+
+&gt;&gt; And I'm even thinking like the little sandwich shop down the street.
+
+Like if they make a better sandwich and people like it and the food's really good, that builds brand which then helps create demand.
+
+like there it is all interconnected.
+
+when we everything breaks down when we have to try to like justify the spend and like yeah we're 25% of our budget is going to go to brand but like sending shitty outbound emails also like hurts your brand you know like &gt;&gt; yeah no exactly exactly so I don't know I think it came from like it's the what do they say if you're explaining you're losing I think it was just marketers found themselves in this really um difficult position and I think that's where a lot of it came from but brand is very important I'll I'll say that.
+
+&gt;&gt; Yeah, that that topic does come up all the time though.
+
+It's like how do I hit the sales goal this quarter while also building a brand for the future?
+
+&gt;&gt; Got to do that.
+
+&gt;&gt; Okay.
+
+Anything else?
+
+Anything I should have asked you?
+
+What's the question?
+
+If you're a podcast host, what should I have asked you that I didn't ask you?
+
+&gt;&gt; Nothing.
+
+You asked me good stuff.
+
+Is there anything we didn't cover?
+
+You know, we didn't get into the the researchers and how we reached them.
+
+I'll just say quickly.
+
+I think that &gt;&gt; Sure.
+
+The um I think the thing that we have done this entire eight years in making researchers our heroes and our core audience is we have consistently told them that they matter that research matters that the work that they do matters and that humans matter to research so what we do matters and I think you know it's the the particular topics that are top of mind will change and that's what keeps it fun and exciting the channels change.
+
+That's fun and exciting.
+
+But how you reach an audience doesn't change and that's been very fun for me to get the experience to to do that for such a long period of time in all these different ways.
+
+&gt;&gt; Well, let me I'll I'll jump I'll take your thing and just kind of like raise it up.
+
+So, obviously like Aaron is the CMO of a company that sells to researchers, right?
+
+The thing you said though is like that the real thing is you you're the whole the center of your marketing strategy is making your customer the hero.
+
+&gt;&gt; And so everything you're doing is trying to like elevate them, elevate their profession, like create things they care about.
+
+Like that that's the secret.
+
+So someone could take I'm trying to come up with like what's the takeaway that someone could apply to any industry.
+
+&gt;&gt; You sell to HR, finance, accounting, research.
+
+It's like &gt;&gt; you made them the star.
+
+you made them the start and you tell them that they matter and that you care about them.
+
+And you know, I think that there has been a move to make B2B marketing more exciting, more consumer-like in some ways over the years, but at the end of the day, we're all people with emotions and we want to feel connected to something.
+
+And uh work is emotional for people.
+
+And so I think if you can convince them and actually mean it that you care about them and have their back, I think that will take you pretty far.
+
+&gt;&gt; Yeah, we put a lot of stock into like what our what our job is like.
+
+It's just everybody has told me it's a very American thing when I use this line at an event, but like &gt;&gt; I'm a marketer like that m like hey you meet someone out I go meet a kid's friend and they're like oh what do you do for work?
+
+It's like the first question out of their mouth.
+
+&gt;&gt; Yeah.
+
+Yeah, 40 hours a week, you know, plus &gt;&gt; 40.
+
+What are you talking about?
+
+I work I work &gt;&gt; starting point &gt;&gt; 996 40.
+
+That's like half time.
+
+No, this is great.
+
+Um, okay.
+
+Aaron made, thank you for coming on the podcast.
+
+Go find Aarin on LinkedIn.
+
+Obviously, you probably all follow her.
+
+How many Let me I'm going to look you up real quick.
+
+I don't even know.
+
+Let's see.
+
+&gt;&gt; I don't even know.
+
+Tell me.
+
+&gt;&gt; She has 7, I'm going to mark this time stamp this 7,776 followers for now.
+
+four.
+
+Now, &gt;&gt; you will at least have 7,770.
+
+That's four more by the time cuz I'm going to make everybody on the team go follow you.
+
+&gt;&gt; Okay, great.
+
+&gt;&gt; But this is awesome.
+
+Send her a message.
+
+Tell her that you heard her on this podcast and that uh you related to what what she's saying and and go follow her on LinkedIn because you need more good people who are actually out there doing the work to follow.
+
+Erin, good to see you.
+
+&gt;&gt; You, too.
+
+&gt;&gt; Thanks for coming and hanging out.
+
+I appreciate you.
+
+&gt;&gt; Yeah.
+
+Thanks, Dave.

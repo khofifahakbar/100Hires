@@ -1,0 +1,1078 @@
+Author: Tyler Denk
+Source File: Newsletter Growth, Automations, and Monetization Explained by beehiiv CEO_MKN7VopfXKY.en.vtt
+
+WEBVTT Kind: captions Language: en Hi everyone, welcome back to the Ravit show.
+
+Today's episode is one special episode because I'm joined by Tyler Deng, co-founder and CEO of Behive.
+
+Tyler, uh first of all, long view and I'm so happy to have you on the Ravit show.
+
+Today we're going to discuss about various things uh and just for our audience if you ever thought about you know starting a newsletter, growing one or actually turning it into a real business, this episode is going to be a blast for you.
+
+So instead of talking theory, uh Tyler and I decided that Tyler should come and talk us and walk us behind the scenes how the newsletter is built.
+
+Uh talk about his own newsletter, Big Desk Energy because I've seen it grow massively in the last one year or at least one and a half year uh and exactly tell us how he runs day-to-day uh stuff using behive.
+
+Uh we'll also cover website setup, automations, other growth hacks and also the AI.
+
+Uh obviously we can't go about without talking about AI and what is realistically possible when you stay consistent.
+
+So Tyler once again uh great to have you on the Ravit show.
+
+Excited to chat today.
+
+&gt;&gt; Hell of an intro.
+
+Glad to be here.
+
+I'm pumped.
+
+Let's do [laughter] it.
+
+&gt;&gt; Awesome.
+
+Uh Tyler, to start with before we jump into tools, uh let's set the context right for our audience.
+
+The Big Dest Energy has grown like I said massively in the last one year.
+
+Tell me a little bit about what the newsletter is, who is it for and uh what growth looked like recently.
+
+Share a little bit about that with our audience.
+
+&gt;&gt; Yeah, I'll take a step back and say I obviously as you gave in the introduction am the co-founder and CEO of Beehive.
+
+So Beehive is primarily a newsletter platform.
+
+We also do a lot of other things.
+
+We have a full website builder.
+
+We help you grow faster.
+
+We help you monetize.
+
+And we are home to tens of thousands of like the top newsletters in the world.
+
+And so after the first two years of building the platform and seeing all of these content creators have amazing success, I decided that I wanted to launch my own newsletter on the platform for a few different reasons.
+
+One, I've already kind of been building in public and sharing kind of the journey of building behive behind the scenes on X and LinkedIn.
+
+And then I'm just such I I also run product here and so I can do my job so much better if I'm actually using the product every single day and building my own newsletter.
+
+So when people reach out and our users ask about um the different features and what they want, what they don't like about the platform and what they love about the platform because I myself am a user, it just is such an easier way to be able to resonate and build product for them.
+
+&gt;&gt; So two years ago, &gt;&gt; you were right.
+
+You said one year, year and a half, you were you were almost there.
+
+two years.
+
+Um, yes, &gt;&gt; two year, two years ago, I launched a newsletter called Big Desk Energy.
+
+It's named after my Spotify playlist, which you should check out.
+
+[laughter] And it's basically building in public, but instead of on X, it is extended to a 1500word essay that I send once a week on Tuesdays.
+
+So, the people who typically read my newsletter fall into a few different categories.
+
+One would be they are a entrepreneur or startup founder or early startup employee who's interested in like the behind the scenes of building a company.
+
+And then there's definitely people who are just interested in in Beehive and the story and the journey that I'm trying to share how we raise money, how we build product.
+
+And so I basically am super transparent and put all of that into my weekly newsletter.
+
+&gt;&gt; And then I didn't answer your growth question.
+
+So we launched two years ago.
+
+We are at about 120,000 subscribers today.
+
+And so &gt;&gt; good growth it it's led I mean I've probably made half a million dollars through sponsorships and events through the newsletter.
+
+So it's like a I think the power of newsletters, right?
+
+It's it's so low cost and easy to set up yet I've generated half a million dollars of revenue from doing this as a side project.
+
+I put five five hours a week into this.
+
+Um &gt;&gt; wow.
+
+So, that's what I'm excited about today because I think the plan here is I'm going to screen share and show the full behind the scenes.
+
+How have I taken this newsletter from nothing two years ago to 120,000 subscribers, half a million dollars in revenue, and how you can use the same platform and tools to do the same.
+
+&gt;&gt; Very impressive.
+
+I love the it and you know having I I'm pretty sure all the audience that are kind of listening and all the creators listening uh and even the founders entrepreneurs they would want to understand how it all works because I know for a fact where a lot of parts are also automated.
+
+So uh before we get into and you know you share your screen and tell give us like behind the scenes what parts of the business of now for Louisa automated versus what still needs your input uh directly which actually takes those five hours in a week.
+
+Uh so tell us a little bit about that as well Tyler.
+
+&gt;&gt; Yeah I'd say I mean we have an automation suite where you can build different types of automations but the core platform is to create content and a lot of that is still not automated for good reason.
+
+I think a lot of our users and our writers enjoy writing.
+
+They're very talented and probably better than any of these LLM and like different models that you can use for writing.
+
+And so we you create the newsletter yourself.
+
+We do have an AI editor into the newsletter where you can kind of chat with it.
+
+You can translate.
+
+You can have it re rework and edit your content.
+
+So that that exists.
+
+Um and then we have the automation suite.
+
+And then we've used AI, we have an AI website builder.
+
+So you can imagine like &gt;&gt; a lovable type experience where you can chat directly with AI and we'll build different web pages.
+
+&gt;&gt; Um and we're working on building more AI into the platform.
+
+But it is like this delicate balance because we are working with creators of what's the right mix of science and art where AI helps do things that you don't want to do like data retrieval and understanding who your audience is but it actually encourages the creation of these really talented users that we have to build the best Yeah.
+
+No, I love it.
+
+Uh awesome.
+
+Uh I feel uh and just for the audience as well, full transparency, I myself use behive uh and I've been using it for more than a year now.
+
+And uh that's one of the reasons I was so excited to have Tyler.
+
+I think I remember it very well when I actually started using it in the first month itself.
+
+I told Tyler, we need to do a show and we need to discuss about it.
+
+And we finally found the right time obviously because I think the the platform has evolved so much but at the same time it has become so user friendly because creators like ourselves.
+
+Uh the biggest challenge for us is when we have to work around our newsletter and there's a lot of either coding that needs to be done or if the website is not right we need 10 other people or a team of people who should be helping for the website which is not the case here.
+
+Yeah, it's drag and drop a lot of things is so so good in terms of you know obviously making the the website look uh you know you can structure it easily and creator friendly as well.
+
+So uh yeah that's my uh obviously disclaimer mode that I've been using and that's one of the reasons now we chatting and I'm getting more into the details.
+
+So let's get started.
+
+Let's let's start from you know obviously you mentioned about website Tyler uh do you want to start there?
+
+Give us a sneak peek into what you have built as well.
+
+I can uh pull up the screen if you would like.
+
+&gt;&gt; Yeah, let's do it.
+
+I think the hardest part about this podcast is going to be can we cover everything that behive can offer in [laughter] 45 minutes and usually no, but we'll see what we can do here.
+
+Yeah, feel free to &gt;&gt; So, I we did we have our own website builder and so we're not just a newsletter platform.
+
+So, I thought it was important to show like what is possible using our website builder.
+
+Then we can dive into my specific website.
+
+This is actually very meta of us.
+
+This is a website called very good websites which is actually built on beehive showcasing all of the different websites that we want to highlight.
+
+And so to give you an idea like this is a sample website that was built on our platform.
+
+This is another beautiful website uh that was built on Beehive um and as was this.
+
+So kind of giving you like a wide range of the different types of websites you can build using our website builder.
+
+And then that kind of leads us to &gt;&gt; my website.
+
+So this is Big Desk Energy.
+
+Everything you see here, this uh kind of crappy Windows 98 retro theme is all [laughter] I love it.
+
+Um I built this entirely using our website builder.
+
+Um and so you can kind of see um just like the design customization and flexibility that you have.
+
+And then you can see jumping into different posts.
+
+This is like the content that I'm creating.
+
+Um and this is a sample newsletter that I've sent, which is also a blog post.
+
+Uh, so I kind of wanted to start there just kind of showing like what's possible and I can jump into the actual behive dashboard and show you how you build one of those websites.
+
+So this is &gt;&gt; this is the core dashboard.
+
+You can see again very transparent about everything.
+
+You can see the 120,000 subs, clickthrough rate, open rate, earnings in the past 12 months.
+
+Um, and I can explain why that's not the half million that I described earlier.
+
+A lot of my earnings are actually all platform.
+
+So I'm not lying there.
+
+Um yeah, &gt;&gt; then before jumping into the website builder, one thing I think is awesome to show is actually website analytics.
+
+&gt;&gt; And so we actually built a full suite of analytics as if to replace Google Analytics where you can see traffic &gt;&gt; uh page views, sessions over the past three months.
+
+What's really interesting is you can see obviously where all of the different pages that people are visiting.
+
+lots of other cool stuff too in terms of like platform like iOS, Mac, Windows, Android, you can see down here.
+
+Um, same with the traffic sources and where people are actually coming from.
+
+So, Facebook ads direct.
+
+Um, so I think this is really powerful because I think what you're going to notice in this video is one of our core philosophies at Behive is we think consolidation and being able to bring all of the best tools and functionality into one platform is much better than you having to use 15 different platforms as a creator.
+
+So true.
+
+&gt;&gt; Yep.
+
+&gt;&gt; So I'll jump into the actual website builder now that So here obviously you can see I just showed you what my website looks like.
+
+Um &gt;&gt; And you can see here this is exactly where I was able to build it.
+
+So I can jump into any of these elements here.
+
+And you can see along on the right side I can edit everything from the layout, the colors, the sides.
+
+Um I'm going to go to a different page actually and show you what is possible.
+
+So, this is my subscribe page.
+
+&gt;&gt; As you could with any other website builder, can drag stuff in here, make it super easy.
+
+Let's add this heading.
+
+And we'll call this new section.
+
+And then, of course, over here, you can do whatever you want.
+
+We'll make that red.
+
+Um, &gt;&gt; nice.
+
+&gt;&gt; And and it's super flexible.
+
+So, we have all these elements here from authors, posts, social, but I think the most flexible would be like the HTML element.
+
+And so you can drop HTML wherever you want into your website.
+
+&gt;&gt; Wow.
+
+&gt;&gt; One thing that is cool, we built this website called very good components.
+
+And these are like different web components that we've helped our users um create for the website.
+
+And so if I go into this HTML block, let me jump into the code.
+
+&gt;&gt; And so I I copied this code directly from this website that we built to help our users.
+
+And now you can see this like beautiful &gt;&gt; Wow, I love it.
+
+&gt;&gt; But what what's really cool here is you can actually jump back into this code and then using AI, I can say, can you update that middle image to be a city landscape?
+
+So full like AI vibe coding, you can describe whatever you want and it'll start just coding for you.
+
+&gt;&gt; And so taking this element and I started with a custom HTML element.
+
+The truth is you can actually chat with anything.
+
+So I could have chatted and that one header that I added I could have said can you make it bigger and add some hover effect and that would also work.
+
+Um &gt;&gt; So here it looks like it is done updating and then you can see when I go to this middle image it's now updated to what I asked right &gt;&gt; yeah it can do all of the different coding for you.
+
+Um so this is like a bit of like the flexibility of the website builder and again I showed you all of the different examples.
+
+There's other like integrations that I think are nice with the platform here in the subscribe form, which is obviously very important.
+
+You can see that when someone puts in their email, I can choose which automation they're going to be enrolled into.
+
+Um, and obviously this one is just like the normal welcome one, but a key thing that I do for growth is I have a bunch of lead magnets.
+
+I'll show you what that looks like.
+
+So, if I come up here, &gt;&gt; that would be interesting.
+
+If I go to and just to take a step back, a lead magnet essentially for anyone who's watching and is unaware is I want to provide value to someone.
+
+In order for them to receive that reward or whatever it is, they have to put in their email &gt;&gt; and because I am very transparent about everything, I have our C deck, which is what we used to raise $2.5 million when we first started the company.
+
+And a lot of founders don't actually share their decks of like how they were.
+
+&gt;&gt; So I post on X or uh LinkedIn or I'll even run ads occasionally saying if you want to see the deck that we created to raise $2.5 million, you can sign up and receive it for free.
+
+People click on that, &gt;&gt; they come to this page, again this was built using the Beehive website builder.
+
+they put in their email and they'll receive the uh the seed deck and so here let me go to under resources beehive seed deck so this is the actual page that I created &gt;&gt; page got it &gt;&gt; but what's cool &gt;&gt; they get this in the email itself once they kind of you know put in the email right &gt;&gt; right so that's what I was going to show you right here in this subscribe form if you go over here again like I have all of the customization to make the subscribe form look and say exactly what I want but what's really powerful is &gt;&gt; I can choose the automation and the automation that I chose is the beehive seed deck lead magnet.
+
+So, anyone who lands on this page and puts in their email will automatically be enrolled into that automation, which is a great segue to show you our automation suite.
+
+And I'll show you, &gt;&gt; wow, &gt;&gt; the Beehive Seed lead magnet.
+
+Very simple automation.
+
+It's just two steps, right?
+
+It is once someone submits an email, um, and obviously what is triggered is from that subscribe form that I just showed you.
+
+um they they will receive &gt;&gt; this very simple email from me and this is a link to the deck.
+
+&gt;&gt; So fullfunnel is they I you know I send traffic from social to this website they put in their email here they are enrolled into this automation they receive the deck they get the seed deck and I get a new subscriber and that's like one of the great growth strategies that I've used.
+
+&gt;&gt; Love it.
+
+Um, another thing I think while we're in automations world, I use a lot of automations.
+
+You can kind of see how we've been able to build our automation suite.
+
+You can see of So, I've gotten 7,600 subscribers from this lead magnet.
+
+&gt;&gt; The open rate of that email, 80% incredibly good.
+
+&gt;&gt; You can see day by day exactly how many people are receiving the and then there's a list of like the people who have received it.
+
+And then you can go into the performance and this is like the actual recipients opens clicks and you can kind of see in the past four weeks um open rate etc.
+
+&gt;&gt; Wow this is massive this so this is again you know there are a lot of automations that can be done uh and we can customize these automations.
+
+So one example is where Tyler it kind of goes directly you someone puts in the email it triggers sends them across.
+
+What are the other sort of automations that we can do here?
+
+&gt;&gt; Yeah, so that was for the seed or the seed deck and the lead magnet.
+
+This is my normal.
+
+So, I'll zoom out a little bit.
+
+This is a bigger one that has a bunch more steps.
+
+And you can see like you can get pretty complex with the automations.
+
+Here we have a true false branch.
+
+Basically, what I do is after you sign up um to my newsletter, I created a survey form that asks basic information like your age, your profession, what you're interested in.
+
+&gt;&gt; That's super valuable to me because I want to know exactly who my audience is so I can eventually sell ads to different advertisers based on &gt;&gt; and and that automation, by the way, is built directly here, I'll show you the survey.
+
+Uh, we have a built-in survey feature and you can see it here.
+
+Um, and let me go into the form builder.
+
+So, this is like the form that I created.
+
+First name, when's when's your birthday?
+
+What describes you?
+
+And it's like founder, investor, employee, um, and then primary skill set because I want to know is my audience mostly engineering, marketing, sales, etc.
+
+So, this is a form that everyone will fill out once they subscribe to the newsletter.
+
+And &gt;&gt; yep, &gt;&gt; I would say maybe half people um will fill that out.
+
+So what I do in my welcome journey, which is so this is the automation that I set up right after someone signs up.
+
+This is a welcome email and I can show you what that looks like.
+
+&gt;&gt; Uh this is like the pretty standard introduction and I just kind of introduce who I am and what Big Desk Energy is.
+
+&gt;&gt; So this is an email that everyone receives.
+
+Um, but then it gets a little bit more advanced where I wait.
+
+You can see I wait one day.
+
+&gt;&gt; Nice.
+
+&gt;&gt; And then I ask whether or not that they submitted.
+
+This is I mean it's not a great name, but this is the name of the form that I created, the survey form.
+
+&gt;&gt; And so it basically says like was it submitted or not?
+
+And if it was not submitted, what I actually do is I send this other email that says you forgot something and I asked them to submit the I asked them to submit the form again.
+
+Well, they didn't submit it the first time, so I ask again to submit the form.
+
+&gt;&gt; Wow.
+
+So that leads to I think about a third of my audience has completed the survey form which helps me sell advertising.
+
+&gt;&gt; Um and then there's like other things I do here.
+
+But yeah, this is like more an advanced automation.
+
+But I think the main touch points as a content creator or entrepreneur that you want to be aware of is when someone signs up for your email, you want to give them a a notice or like an alert or a welcome that they were successfully subscribed and introduce yourself.
+
+So I think the welcome series is kind of like the the standard of what you would want to do.
+
+&gt;&gt; I love it.
+
+I love this.
+
+Uh and you know the biggest thing what I feel is like whereas we are in the world of agents now what happens is basically a creator kind of goes out and uses various agents separately.
+
+We kind of use agents to you know trigger these kind of steps.
+
+But looks like B has it internally and to be honest Tyler I haven't tried it myself all of these features as well like uh I didn't know about multiple triggers that we could kind of go about and you know obviously do because it is such a like it saves so much time but it also gives you uh obviously reminders to various things.
+
+It's not only just limited to my own survey, but then it could be maybe a client survey that I want to run with maybe a few data and AI experts and uh it could be where they are incentivized for filling the form.
+
+But then this could be such a game changer where I don't have to it doesn't feel like a spam.
+
+It just gives you a reminder.
+
+It is very well customized as well.
+
+So 100% game changer.
+
+&gt;&gt; Yeah.
+
+At the end of the day, as a creator, what you want to do is you, especially if you're exploring email, you want to collect emails.
+
+And we make it so easy to create landing pages, to create content, um to build automations, and to like keep engaging your audience.
+
+So, yeah, I I have a bunch of triggers.
+
+One of my automations actually.
+
+So, in that last question of that survey, I ask um what your goal is for the next year.
+
+And exactly 12 months from when you subscribe, I send you a reminder of what your goal was.
+
+Um and people love that email.
+
+And so I think there's like a lot of really interesting cool touch points and things that you can do as a creator that we make it so simple to do on the platform.
+
+&gt;&gt; Um yeah, cool.
+
+&gt;&gt; It just becomes more personalized as well, but at the same time you don't have to worry about these automations.
+
+It's pretty straightforward.
+
+It's very well defined and then like you said those touch points kind of help you make uh and stay connected with your audience as well.
+
+So &gt;&gt; 100%.
+
+Um I think from there I'll I'll jump into post.
+
+Um so this is like this is post do two things right so post for us you can send to a newsletter which is like the core functionality you can also send uh to the website as a blog right so when I go to content &gt;&gt; um like these are all posts essentially that I have created and when I hit send they do two things they post to the website like an article and they send a newsletter to my audience and so posts allow you to do either you can only post the Uh, but you can only post the email or you could do both, which is what most people do.
+
+Um, &gt;&gt; let me jump into what exactly it looks like.
+
+Um, so when going to a post, again, this is my newsletter.
+
+This was a newsletter that I sent a few weeks ago.
+
+And you can see how I style it.
+
+&gt;&gt; Performance, we have tons of awesome data here in terms of how many people received it, opens, clicks, and you can go pretty granular, too, in terms of exactly who clicked everything.
+
+Yeah.
+
+&gt;&gt; And here's, you know, every subscriber who clicked on a specific link.
+
+So, you can go pretty deep there.
+
+Um, as far as the actual editor, I think it's the best in the industry.
+
+It's very flexible.
+
+You can customize absolutely everything here.
+
+&gt;&gt; Everything.
+
+&gt;&gt; Um, let me scroll down to the bottom so I don't mess this up and I can show you like a few different things, right?
+
+So, it's a simple can do H1.
+
+This is a header.
+
+You can add uh list, files, etc.
+
+So, let's go to an image and this new image library that we actually just launched.
+
+So, you can like basically sort and filter by a bunch of different things, but we actually &gt;&gt; Oh, very cool.
+
+&gt;&gt; This generate image.
+
+Um, I'll let you do the honors, but what's the image we should generate with AI here?
+
+&gt;&gt; Uh, I think maybe um maybe some mountains.
+
+&gt;&gt; Cool.
+
+We'll do some mountains.
+
+We'll do mountains that with a I don't know tropical storm.
+
+Let's make it interesting.
+
+&gt;&gt; I don't know.
+
+Tropical storms happen in the mountains, but [laughter] &gt;&gt; you never know.
+
+It would create something.
+
+Let's uh test the AI there.
+
+&gt;&gt; Yeah.
+
+Let's see how good this AI is.
+
+So, this will probably take a second or two, but this is like a new image generation that we're pulling in.
+
+And our team is con that looks pretty sweet.
+
+&gt;&gt; Oh, wow.
+
+Very cool.
+
+Yeah.
+
+&gt;&gt; Um, so we're going to keep that.
+
+We're going to drop that into the newsletter.
+
+And so you can see like just the different ways and how customizable everything is.
+
+And you can you can embed links, Twitter, Tik Toks, uh Instagram, YouTube, like what whatever you want.
+
+All of the different features that we offer are um able to be put directly in here.
+
+And then we even have like if for whatever reason you can't style something, we actually have a custom HTML block as well.
+
+And so I actually did this a little bit earlier.
+
+You can drop code into the newsletter.
+
+You can preview exactly what that will look like.
+
+And so our editor is extremely customizable, but if for whatever reason there's something that you couldn't do, you can always drop in custom code.
+
+&gt;&gt; Um, and you can imagine a world where you saw that I had to jump over to chatbt to grab that code, we should be able to bring that code directly in here.
+
+So you could describe it and it will generate the code for you.
+
+&gt;&gt; Yes, I love it.
+
+Uh yeah, this is one of the features I loved because it is so hands-on in terms of you know editing our stuff as well and sometimes even after publishing right if you published it and there's you know obviously your own library where you have your uh newsletters published but now when I need to actually I've made a spelling mistake and because you I've written it and I can go back and actually change and edit the published article as well which is fantastic.
+
+&gt;&gt; Exactly.
+
+you get.
+
+So once it lives on the web, you can edit it whenever.
+
+This is a live post.
+
+I'm probably not going to save this, but there's also plenty of things you can do in terms of uh to for us to make it as easy as possible.
+
+We've created all these different templates.
+
+&gt;&gt; And so &gt;&gt; down here you can see a bunch of quick start templates that we have created.
+
+I can jump to let's say the signal.
+
+Um so this is a template that we've already designed for you.
+
+You can obviously make it your own.
+
+Um, and you can just jump in here, use template, and now this is my post.
+
+I can go in and edit however I'd like.
+
+This is an ad, which we can get to in a moment when we get to monetization.
+
+Um, but yeah, so here I could change this copy and and edit however I'd like, but like copy the style and aesthetic of these different newsletters.
+
+And then again, you can preview everything here.
+
+Um, so you can see what it looks like on email.
+
+This is what it will look like on my website if I were to publish it.
+
+you can see what it looks like on mobile and then you can even see exactly what it would look like for a specific subscriber.
+
+Um, and so you can see here you can read the whole thing on web.
+
+Um, but if you're actually not a subscriber, you actually can't read the entire thing.
+
+Um, and so you get hit with this subscribe gate, which means you have to put in your email to subscribe.
+
+&gt;&gt; Um, so it's kind of cool that that's how it actually works on the website.
+
+And this is an ability to basically preview exactly how before you publish, right?
+
+So like if I'm if I'm a creator who's thinking about writing this post and I want to know exactly how it's going to work on my website, this is how it would work for &gt;&gt; a new visitor and then I can see exactly how it would look for a specific subscriber.
+
+&gt;&gt; Love it.
+
+Yeah.
+
+No, 100%.
+
+That is one of the other actually hidden uh lead magnet because what I feel is sometimes people want to read it and they don't want to share the email but then this could be an opportunity that okay you still need to share your email to uh get all the great insights as well.
+
+So yeah it's fantastic.
+
+&gt;&gt; Let me before I jump over to growth I was going to scroll down to the bottom of my newsletter.
+
+This was the newsletter I sent this week.
+
+And at the bottom, you'll notice that I have this down here, which is what I call, well, it's called a referral program.
+
+And so, &gt;&gt; this is my personal referral program.
+
+The purpose of the referral program is to incentivize your existing readers to share with more people.
+
+And if I am a reader of Big Desk Energy and I see this, I have my own link which this is updated and everyone has their very own link here.
+
+&gt;&gt; Um, and you can see I for this well this is a sample but I have zero referrals.
+
+But if I was a reader and I shared my link with someone else, my mom, my friend, whoever, and I get one referral, then I get this series B deck, which is the deck that we use to raise $33 million.
+
+And if I share with three people, so I drop it in my group chat and three of my friends sign up, then I get $10 off my merch, &gt;&gt; which I've &gt;&gt; Yeah.
+
+&gt;&gt; And so this as we transition into how to grow your audience.
+
+The referral program is this is how it looks like in my newsletter.
+
+And this is a feature that we've built directly into the platform.
+
+So the referral program here, like you can see at the top, 780 of my readers have referred someone.
+
+I have a thousand subscribers from referrals.
+
+You can see different data of how many people received the the deck and how many people received the merch.
+
+Um, and that kind of breakdown there.
+
+And then you can see here, this is like where I actually went to set up the Beehive deck.
+
+Um, you can see &gt;&gt; nice &gt;&gt; the name of it, the reward type, how many referrals needed, uh, the image, and then you actually create the email, which is what is sent.
+
+Um, which is this right here.
+
+We have file attachments and everything built into the platform.
+
+So, you don't have to do anything.
+
+I don't have to keep track of this referral program at all.
+
+I set this up once a year and a half ago.
+
+And whenever someone gets a referral, they will receive an automated email from me to receive this reward.
+
+And when they get three referrals, they will receive an automatic email for me to receive this.
+
+So, I think this is a pretty interesting and powerful growth tool that &gt;&gt; y &gt;&gt; we built at Morning Brew and it led to over a million readers.
+
+we built it directly into Beehive and now anyone with a newsletter in Beehive can take advantage of it.
+
+So, it's uh really powerful and has worked well for me.
+
+&gt;&gt; Yeah, for sure.
+
+No, I love it.
+
+I love how the referral programs kind of work and it also helps the creators to reach places but at the same time there's so much incentive for the readers out there as well and they always love all these kind of things.
+
+It's great.
+
+&gt;&gt; So, I think this is actually where the Behive platform shines.
+
+Obviously, we have tons of data.
+
+It's super easy to create content.
+
+you can build your website and post.
+
+Uh but growth is really interesting.
+
+And so the referral program is one.
+
+&gt;&gt; Recommendations is another feature that we have.
+
+And so the way that this works is after you subscribe to a newsletter who's using recommendations.
+
+So let me see if I can go to this page and get this to pop up.
+
+If I were to type in my email.com, what you will see is these are newsletters that I am recommending.
+
+So, I'm a a new subscriber.
+
+I signed up for Biges Energy and now Biges Energy is telling me here are four other newsletters that I really like.
+
+I can subscribe to each of them individually or I can subscribe to all of them.
+
+The way that this is set up is actually right here.
+
+So, you probably recognize those logos that I just showed you.
+
+That's these are my what we call the top four.
+
+You can set up to four recommendations.
+
+And these are the ones that I have set up.
+
+&gt;&gt; You can see that I've sent 35,000 subscribers to other people.
+
+&gt;&gt; Massive.
+
+&gt;&gt; So, I'm I'm a giver, right?
+
+I' I've donated and given [laughter] lots of subscribers to lots of different different publishers.
+
+And then in return, you can see recommending me.
+
+773 letters are recommending me and I've gotten 33,000 subscribers in return.
+
+&gt;&gt; Um, wow.
+
+&gt;&gt; And so you can actually see all of them and the longtail lots like have just recently started.
+
+Um, &gt;&gt; So you can see and I I guess they're sorted in in an odd order, but yeah, it adds up the 34,000 subscribers that I've received.
+
+These are totally free subscribers that I've I've set up through recommendations.
+
+Um, and you can invite [clears throat] others to recommend you as well using this link.
+
+Um, and you can discover publications.
+
+So, I could say I'm looking for a I don't know design newsletter in English.
+
+And you can search by name, category, etc.
+
+And &gt;&gt; so, yeah, &gt;&gt; recommendations is like the altruistic like I want to recommend and give other people subscribers.
+
+They give me subscribers in return.
+
+Boost is basically paid recommendations.
+
+Um, so I've put quite a lot of money into it.
+
+You can see this is over two years.
+
+So about $6,000 a month I've put into Boost.
+
+Um, you can see the open rate of the subscribers and how many subscribers I've gotten from Boost.
+
+&gt;&gt; Um, &gt;&gt; very cool.
+
+&gt;&gt; And and what Boost are, you can basically think of it as I've created an offer which is $2.50 and anyone can apply.
+
+They can go into the storefront and marketplace and say, "I want to promote Big Desk Energy." When they promote Big Desk Energy, boost show up here as well.
+
+It just says sponsored.
+
+&gt;&gt; And so they basically apply to me.
+
+And if they send me a subscriber, I pay them $2.50 and that's handled automatically.
+
+So, if I go to applications, you can see here, these are the people who want to promote Big Desk Energy, and it's super transparent.
+
+So, I can jump into here and see that this person's pretty new.
+
+They just signed up.
+
+They have one post.
+
+Here's their website.
+
+&gt;&gt; That's it.
+
+&gt;&gt; Um, but you can also see their audience breakdown.
+
+So, US, Indonesia, Spain, Canada, the UK.
+
+You can see how big they are.
+
+They're less than 5,000 subscribers.
+
+They grow a little slow.
+
+Um, and their engagement is great.
+
+And so I can choose to accept or reject them.
+
+If I were to accept this application, then they whenever someone signs up to their newsletter, Big Desk Energy will pop up in that little modal.
+
+They will send subscribers to me and I will pay them $2.50.
+
+&gt;&gt; Um, so &gt;&gt; that is this is one of the most powerful growth loops in the platform.
+
+It's built on the same rails as recommendations.
+
+Recommendations and boost are very similar.
+
+I'd say recommendations are just free.
+
+booster or paid recommendations.
+
+Um, but &gt;&gt; and I can show you the flip side.
+
+So, when you go to monetize, this is how much money I've generated by promoting other newsletters via boost.
+
+You can see &gt;&gt; some of the ones that I have promoted.
+
+They're paused now.
+
+Um, and you can explore different offers.
+
+So, this is me looking through and and for example, this the final tally, they're giving $4 per subscriber.
+
+And so I could come here, apply, give them the reason why I want to promote their newsletter.
+
+That will show up as an application to them.
+
+If they approve, then their newsletter will show up here on my website.
+
+So I can start getting paid for sending them subscribers.
+
+Um, so boost is super powerful and one of the more important like growth levers and monetization levers in the platform.
+
+&gt;&gt; Nice.
+
+Yeah, I love it.
+
+I love uh you know how simple it is first of all to do all the referral program but at the same time the boosts as well and I feel as a creator as well there are so many different opportunities that can play a very important role you're and the best part is where for the smaller creators as well who are just starting out and if they want to you know and I've seen it myself where okay if someone who has like maybe 20,000 subscribers can make more money than what they pay to the platform maybe 3x or 4x times as well.
+
+And uh that is that is where the differentiation kind of comes into the game which is why where oh we're using a platform for free but wait we are actually making money out of it and we are reaching places we are actually advertising.
+
+So it's like a one-stop shop for the creators who are kind of thinking about the growth.
+
+They're thinking about the boost.
+
+They're thinking about monetizing and they're thinking about you know advertising at the same time about what they are doing in the space and growing.
+
+So it's like a good full circle but to make sure where the growth is in place and obviously monetization plays an important role too.
+
+&gt;&gt; 100%.
+
+Our our goal as a platform is for our users to be making more revenue than they are paying us.
+
+&gt;&gt; So right if we can help our users generate revenue that's really what we're trying to help them and like that's where most I think creators view success is like how much money they're able to generate.
+
+&gt;&gt; Um so two more I have two more monetization things to show you.
+
+&gt;&gt; Yeah, please tell me.
+
+So boost is the first the beehive ad network is the other big um monetization thing that we do in platform.
+
+So every week we send new ad opportunities to publishers that they can run into their newsletter.
+
+Here you see that deal is an open advertiser an opportunity that I have that I can run.
+
+&gt;&gt; They're paying $243 per click.
+
+Based on the data they think that I'm going to earn $270.
+
+I think that actually is pretty conservative.
+
+It's pretty low.
+
+And these are the dates that I can run.
+
+So I basically have till the 20th of February to run this ad.
+
+So if I click set up and accept, we can see exactly what this ad looks like.
+
+And it even is styled into my newsletter, right?
+
+And so &gt;&gt; this is an ad with a logo at the top.
+
+And you can see there's different copy that I can choose from.
+
+So me as the publisher can see which ad I like the most.
+
+or maybe if I don't like the logo at the top, they have smaller uh creative that's a little bit &gt;&gt; that is at the bottom.
+
+It does pay a little bit less without the logo.
+
+So, it's like a primary ad and a secondary ad.
+
+Um, but the with logo is what most people will choose.
+
+And let's say that I like this ad here.
+
+And so without me ever having to talk to a salesperson or um at deal or a growth person at deal, I can actually accept this ad, drop it directly into the newsletter, and then get paid $2.50 per click without having to do any additional work.
+
+Um so monetization with premium sponsors is definitely one of the most powerful features on the platform and that is the Beehive ad network.
+
+&gt;&gt; Yeah.
+
+Uh I love it.
+
+And then the very last thing I'm going to show is one that I'm actually one of the most excited about which is digital products.
+
+And so we re recently launched the ability to sell digital products directly on the platform.
+
+So let me show you exactly what that looks like.
+
+And this is the survey I was talking about earlier by the way.
+
+&gt;&gt; Nice.
+
+Got it.
+
+&gt;&gt; And [clears throat] then welcome.
+
+So, I built this newsletter playbook, um, which you can see here.
+
+It is the newsletter playbook for founders.
+
+It is some of what I went over in this call or video today.
+
+Basically, how I was able to actually scale my newsletter to a 100,000 people.
+
+Um, but I built a digital product for $10.
+
+And so anyone can go to this page, they can pay $10 and they will receive a 60s slide deck of how I was able to scale my newsletter behind the scenes and a 30 minute recording of me explaining and so it's all integrated here.
+
+Important that Beehive does not take a cut of revenue.
+
+So when people purchase this for $10, I get all $10 minus the Stripe fees.
+
+That's very different from most platforms in the creator economy.
+
+typically take 10 or even 15% of revenue.
+
+Beehive does not take revenue.
+
+So this right here, as you can imagine, I built directly into the platform.
+
+Beehive handles everything.
+
+So &gt;&gt; you can see of $864 sales.
+
+That's $8,600 for a $10 product.
+
+&gt;&gt; Um it took, you know, minutes to set up.
+
+This is the entire form.
+
+&gt;&gt; Um you can add multiple images down here.
+
+You can set up the URL.
+
+You can set the different price.
+
+Um, but that is what created this page.
+
+Um, so literally it took five minutes to set up and in those five minutes has turned into $8,600.
+
+&gt;&gt; Wow.
+
+Massive.
+
+&gt;&gt; And and we've built a full suite here, right?
+
+So you have we you have full order management.
+
+So you can see who ordered, you can do refunds, you can create codes for discounts.
+
+Um there's product reviews as well.
+
+Um I'm I'm going to accept that review.
+
+Um yeah.
+
+Yeah.
+
+So, it's like a full digital product suite.
+
+And not only can you sell digital products, um, this one has no sales yet, but I I have a coaching session that I set up for $1,000 where I will do an hour-long call &gt;&gt; and you can book time with me directly.
+
+And you can see this calendar pop up here.
+
+And so we've built the ability for content creators and experts to be able to sell their time directly on the platform and again doesn't take a cut.
+
+&gt;&gt; I love it.
+
+And one quick question Tyler in terms of you know obviously these products as well is it limited to just the ebooks or coaching or can we do maybe a complete video course that we can also put in here because that is a different ballgame which has like a lot of heavy files that come into the game.
+
+Is that also can that be a part of the products as well?
+
+&gt;&gt; Yeah, so that's what we're working on.
+
+We we have the ability to do different templates and guides and ebooks and you can upload files and video files as well to enroll into like an actual multi-step course that we host on the platform is one of the things that we're working on now.
+
+So yeah, that's what I would expect.
+
+It's going to be a game changer for sure once and this itself uh because what we've been doing we use multiple platforms like comro other stuff or you know obviously and as you mentioned in the start itself we you guys are making sure where the creators don't have to use 10 different uh tools together just to do one thing but they can actually find everything in your and obviously having an ad network having you know obviously these products into the is uh non-negotiable for me after looking at this because I feel like yes it has to be everything has to be in just one place where I can uh see who's signing up and then the best thing is the even the pay structure right you're saying anyone who buys the product uh and the complete amount goes there's no commission deduction because sometimes it's it even goes up to 20% at a lot of platforms but here it is like okay whatever you charge you get the full money, which is great for the creators for sure.
+
+&gt;&gt; And we're a super affordable platform, right?
+
+We are not expensive.
+
+We're one of the cheaper in the in the in the industry, and we don't take a cut of any revenue.
+
+So, I I didn't get a chance to show everything, but I think I showed some of the core highlights.
+
+You can see kind of everything from segments, we didn't show, polls, we didn't go into subscribe forms.
+
+We did most of the growth.
+
+We did a lot of monetize.
+
+I don't have a paid subscription, so I don't I didn't show that off.
+
+the website we showed and we didn't go into analyze either.
+
+But I think the biggest takeaway is it really is like a full suite of tools to do everything from website, newsletter, digital products, paid subscriptions, advertising allin one.
+
+Um it's it's pretty powerful and so hopefully people found this valuable and can take some of the tips and from the behind the scenes and apply it to their own newsletter.
+
+&gt;&gt; Totally.
+
+I love this Tyler.
+
+This was incredibly practical uh a good show and tell and this is what I love uh you know about founders like yourself and creators like yourself to be honest you've made more than half a million just through the newsletter in last two two years which is great uh first of all thanks for walking us through the real setup not just the highlights and also giving us in depth about how it all works for everyone watching obviously we have a special offer for you guys as well so uh stay tuned uh you can actually get 30% off on BI for your first three months using the code ravit30.
+
+Uh I'll share everything in the comments so you can go and apply for that.
+
+Uh and thanks to BI for uh doing that for the community like I always say they kind of make sure where the creators feel confident about the platform and it's a creator platform more than anything is what I feel because me and my team have been using it for years and I've seen immense uh value and also uh you know the the ads the monetization it is pretty straightforward I don't think and even you know one thing Tyler you didn't mention is like for those uh who actually are on platform your team is A+ to work with because even if I have like the smallest thing I reach out to the team I don't even think about it and I get the response in maybe 30 minutes to 1 hour and in detail helping out so that is like the big big win to be honest and uh yeah I'll make sure to share the link with you guys in the chat but if you're serious about building a newsletter then I that can actually scale this is worth checking out for sure.
+
+Tyler, any uh any words for our audience who wants to start with the newsletter?
+
+Where should they start?
+
+&gt;&gt; No.
+
+Well, I'm glad you brought up our customer support.
+
+We have like 20 of the most talented, smart, like not automated human people that are experts in the platform who who really do care and we do have a great customer support.
+
+Um and I hopefully that comes from the top.
+
+I'm available whenever you can find me, but on LinkedIn X or definitely to subscribe to my newsletter, Big Desk Energy.
+
+Um, I respond I respond to every email.
+
+Um, so if you want to get in touch with me, I'd be more than happy to help.
+
+And I'm pumped that we were able to hook you up with a discount code.
+
+We don't do that often, so definitely take advantage of it.
+
+Um, go to behive.com, sign up, and and I'm excited to see what you build.
+
+&gt;&gt; Yes.
+
+Uh, I love it.
+
+Uh, thanks once again, Tyler, for doing this.
+
+Obviously, we can't wait to do a 2.0 our session with you very soon uh as you know the platform evolves so quickly and there's so many different things you all keep adding I can't wait to see you very soon uh but everyone thanks for joining us thanks for uh you know putting in questions like Tyler mentioned if you all have any other questions as well you all can connect with him on LinkedIn obviously you've seen us uh you know the newsletter you can go sign up get all the benefits and obviously check out the B platform but until next time uh Tyler, uh, see you again uh, very soon and thank you everyone for joining us today.
+
+&gt;&gt; We'll be back with a part two soon &gt;&gt; for sure.
+
+Thank you.
+
+Thank you everyone for joining us.

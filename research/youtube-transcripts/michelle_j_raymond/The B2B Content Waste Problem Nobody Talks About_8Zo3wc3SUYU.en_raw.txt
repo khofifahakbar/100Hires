@@ -1,0 +1,3933 @@
+Author: Michelle J Raymond
+Source File: The B2B Content Waste Problem Nobody Talks About_8Zo3wc3SUYU.en.vtt
+
+WEBVTT
+Kind: captions
+Language: en
+00:00:00.160 --> 00:00:01.910 align:start position:0%
+Good day everyone. It's Michelle J.
+00:00:01.910 --> 00:00:01.920 align:start position:0%
+Good day everyone. It's Michelle J.
+00:00:01.920 --> 00:00:03.990 align:start position:0%
+Good day everyone. It's Michelle J.
+Raymond and listeners. This week I'm
+00:00:03.990 --> 00:00:04.000 align:start position:0%
+Raymond and listeners. This week I'm
+00:00:04.000 --> 00:00:05.910 align:start position:0%
+Raymond and listeners. This week I'm
+excited because we've got another guest
+00:00:05.910 --> 00:00:05.920 align:start position:0%
+excited because we've got another guest
+00:00:05.920 --> 00:00:09.270 align:start position:0%
+excited because we've got another guest
+on the show who normally I say this is
+00:00:09.270 --> 00:00:09.280 align:start position:0%
+on the show who normally I say this is
+00:00:09.280 --> 00:00:11.990 align:start position:0%
+on the show who normally I say this is
+someone I'm friends with, but we're
+00:00:11.990 --> 00:00:12.000 align:start position:0%
+someone I'm friends with, but we're
+00:00:12.000 --> 00:00:14.549 align:start position:0%
+someone I'm friends with, but we're
+actually talking for the first time
+00:00:14.549 --> 00:00:14.559 align:start position:0%
+actually talking for the first time
+00:00:14.559 --> 00:00:17.590 align:start position:0%
+actually talking for the first time
+after I've been secretly stalking pretty
+00:00:17.590 --> 00:00:17.600 align:start position:0%
+after I've been secretly stalking pretty
+00:00:17.600 --> 00:00:19.750 align:start position:0%
+after I've been secretly stalking pretty
+much newsletters, content, anything I
+00:00:19.750 --> 00:00:19.760 align:start position:0%
+much newsletters, content, anything I
+00:00:19.760 --> 00:00:22.070 align:start position:0%
+much newsletters, content, anything I
+could get my hands on. Lee Denma,
+00:00:22.070 --> 00:00:22.080 align:start position:0%
+could get my hands on. Lee Denma,
+00:00:22.080 --> 00:00:23.509 align:start position:0%
+could get my hands on. Lee Denma,
+welcome to the show.
+00:00:23.509 --> 00:00:23.519 align:start position:0%
+welcome to the show.
+00:00:23.519 --> 00:00:25.189 align:start position:0%
+welcome to the show.
+&gt;&gt; Thank you. I'm so happy to be here. But
+00:00:25.189 --> 00:00:25.199 align:start position:0%
+&gt;&gt; Thank you. I'm so happy to be here. But
+00:00:25.199 --> 00:00:27.509 align:start position:0%
+&gt;&gt; Thank you. I'm so happy to be here. But
+we're friends now. I It's legit now. We
+00:00:27.509 --> 00:00:27.519 align:start position:0%
+we're friends now. I It's legit now. We
+00:00:27.519 --> 00:00:29.109 align:start position:0%
+we're friends now. I It's legit now. We
+We've spoken for half an hour. We're
+00:00:29.109 --> 00:00:29.119 align:start position:0%
+We've spoken for half an hour. We're
+00:00:29.119 --> 00:00:30.150 align:start position:0%
+We've spoken for half an hour. We're
+friends now.
+00:00:30.150 --> 00:00:30.160 align:start position:0%
+friends now.
+00:00:30.160 --> 00:00:32.310 align:start position:0%
+friends now.
+&gt;&gt; That is exactly it. And I knew we would
+00:00:32.310 --> 00:00:32.320 align:start position:0%
+&gt;&gt; That is exactly it. And I knew we would
+00:00:32.320 --> 00:00:34.630 align:start position:0%
+&gt;&gt; That is exactly it. And I knew we would
+be talking a lot because honestly, like
+00:00:34.630 --> 00:00:34.640 align:start position:0%
+be talking a lot because honestly, like
+00:00:34.640 --> 00:00:38.150 align:start position:0%
+be talking a lot because honestly, like
+when I see your posts and I sit there
+00:00:38.150 --> 00:00:38.160 align:start position:0%
+when I see your posts and I sit there
+00:00:38.160 --> 00:00:39.990 align:start position:0%
+when I see your posts and I sit there
+and I'm like, "Yes, that's the same
+00:00:39.990 --> 00:00:40.000 align:start position:0%
+and I'm like, "Yes, that's the same
+00:00:40.000 --> 00:00:42.150 align:start position:0%
+and I'm like, "Yes, that's the same
+thing I see with my clients, and I'm
+00:00:42.150 --> 00:00:42.160 align:start position:0%
+thing I see with my clients, and I'm
+00:00:42.160 --> 00:00:44.470 align:start position:0%
+thing I see with my clients, and I'm
+like high-fiving you from a distance."
+00:00:44.470 --> 00:00:44.480 align:start position:0%
+like high-fiving you from a distance."
+00:00:44.480 --> 00:00:46.549 align:start position:0%
+like high-fiving you from a distance."
+And as I said, I read your newsletter as
+00:00:46.549 --> 00:00:46.559 align:start position:0%
+And as I said, I read your newsletter as
+00:00:46.559 --> 00:00:47.750 align:start position:0%
+And as I said, I read your newsletter as
+well because
+00:00:47.750 --> 00:00:47.760 align:start position:0%
+well because
+00:00:47.760 --> 00:00:50.389 align:start position:0%
+well because
+&gt;&gt; today's episode listeners, we are here
+00:00:50.389 --> 00:00:50.399 align:start position:0%
+&gt;&gt; today's episode listeners, we are here
+00:00:50.399 --> 00:00:53.910 align:start position:0%
+&gt;&gt; today's episode listeners, we are here
+to help you stamp out corporate content
+00:00:53.910 --> 00:00:53.920 align:start position:0%
+to help you stamp out corporate content
+00:00:53.920 --> 00:00:57.270 align:start position:0%
+to help you stamp out corporate content
+waste because Lee, you and I, we've seen
+00:00:57.270 --> 00:00:57.280 align:start position:0%
+waste because Lee, you and I, we've seen
+00:00:57.280 --> 00:00:59.910 align:start position:0%
+waste because Lee, you and I, we've seen
+too much and this just has to stop,
+00:00:59.910 --> 00:00:59.920 align:start position:0%
+too much and this just has to stop,
+00:00:59.920 --> 00:01:00.549 align:start position:0%
+too much and this just has to stop,
+right?
+00:01:00.549 --> 00:01:00.559 align:start position:0%
+right?
+00:01:00.559 --> 00:01:02.389 align:start position:0%
+right?
+&gt;&gt; Has to stop.
+00:01:02.389 --> 00:01:02.399 align:start position:0%
+&gt;&gt; Has to stop.
+00:01:02.399 --> 00:01:07.030 align:start position:0%
+&gt;&gt; Has to stop.
+So in today's episode, let's start with
+00:01:07.030 --> 00:01:07.040 align:start position:0%
+So in today's episode, let's start with
+00:01:07.040 --> 00:01:10.070 align:start position:0%
+So in today's episode, let's start with
+when we talk about content waste, what
+00:01:10.070 --> 00:01:10.080 align:start position:0%
+when we talk about content waste, what
+00:01:10.080 --> 00:01:12.390 align:start position:0%
+when we talk about content waste, what
+does that actually look like in a B2B
+00:01:12.390 --> 00:01:12.400 align:start position:0%
+does that actually look like in a B2B
+00:01:12.400 --> 00:01:14.230 align:start position:0%
+does that actually look like in a B2B
+company and your experience?
+00:01:14.230 --> 00:01:14.240 align:start position:0%
+company and your experience?
+00:01:14.240 --> 00:01:15.750 align:start position:0%
+company and your experience?
+&gt;&gt; Yeah, let me tell you a story. It's
+00:01:15.750 --> 00:01:15.760 align:start position:0%
+&gt;&gt; Yeah, let me tell you a story. It's
+00:01:15.760 --> 00:01:17.910 align:start position:0%
+&gt;&gt; Yeah, let me tell you a story. It's
+going to demonstrate all of it. So I had
+00:01:17.910 --> 00:01:17.920 align:start position:0%
+going to demonstrate all of it. So I had
+00:01:17.920 --> 00:01:19.670 align:start position:0%
+going to demonstrate all of it. So I had
+a client a couple years back now and I
+00:01:19.670 --> 00:01:19.680 align:start position:0%
+a client a couple years back now and I
+00:01:19.680 --> 00:01:21.350 align:start position:0%
+a client a couple years back now and I
+walked in and began auditing their
+00:01:21.350 --> 00:01:21.360 align:start position:0%
+walked in and began auditing their
+00:01:21.360 --> 00:01:24.789 align:start position:0%
+walked in and began auditing their
+content. And after a couple days, I
+00:01:24.789 --> 00:01:24.799 align:start position:0%
+content. And after a couple days, I
+00:01:24.799 --> 00:01:26.469 align:start position:0%
+content. And after a couple days, I
+realized that they had in the the
+00:01:26.469 --> 00:01:26.479 align:start position:0%
+realized that they had in the the
+00:01:26.479 --> 00:01:28.950 align:start position:0%
+realized that they had in the the
+thousands of pieces of content. They
+00:01:28.950 --> 00:01:28.960 align:start position:0%
+thousands of pieces of content. They
+00:01:28.960 --> 00:01:31.270 align:start position:0%
+thousands of pieces of content. They
+had, I think, 1,700 pieces of content
+00:01:31.270 --> 00:01:31.280 align:start position:0%
+had, I think, 1,700 pieces of content
+00:01:31.280 --> 00:01:34.149 align:start position:0%
+had, I think, 1,700 pieces of content
+that I found on SharePoint drives and
+00:01:34.149 --> 00:01:34.159 align:start position:0%
+that I found on SharePoint drives and
+00:01:34.159 --> 00:01:36.310 align:start position:0%
+that I found on SharePoint drives and
+here and there and on hard drives and
+00:01:36.310 --> 00:01:36.320 align:start position:0%
+here and there and on hard drives and
+00:01:36.320 --> 00:01:38.390 align:start position:0%
+here and there and on hard drives and
+people kept sending me content and I was
+00:01:38.390 --> 00:01:38.400 align:start position:0%
+people kept sending me content and I was
+00:01:38.400 --> 00:01:41.190 align:start position:0%
+people kept sending me content and I was
+like, "This stuff isn't updated. It's
+00:01:41.190 --> 00:01:41.200 align:start position:0%
+like, "This stuff isn't updated. It's
+00:01:41.200 --> 00:01:43.990 align:start position:0%
+like, "This stuff isn't updated. It's
+not maintained. It's not findable. Sales
+00:01:43.990 --> 00:01:44.000 align:start position:0%
+not maintained. It's not findable. Sales
+00:01:44.000 --> 00:01:46.389 align:start position:0%
+not maintained. It's not findable. Sales
+isn't using it." That's what waste looks
+00:01:46.389 --> 00:01:46.399 align:start position:0%
+isn't using it." That's what waste looks
+00:01:46.399 --> 00:01:47.990 align:start position:0%
+isn't using it." That's what waste looks
+like. Somebody spent money to write each
+00:01:47.990 --> 00:01:48.000 align:start position:0%
+like. Somebody spent money to write each
+00:01:48.000 --> 00:01:50.950 align:start position:0%
+like. Somebody spent money to write each
+of those pieces and nobody was using it.
+00:01:50.950 --> 00:01:50.960 align:start position:0%
+of those pieces and nobody was using it.
+00:01:50.960 --> 00:01:53.910 align:start position:0%
+of those pieces and nobody was using it.
+&gt;&gt; That makes me cry. And I'm also at the
+00:01:53.910 --> 00:01:53.920 align:start position:0%
+&gt;&gt; That makes me cry. And I'm also at the
+00:01:53.920 --> 00:01:56.469 align:start position:0%
+&gt;&gt; That makes me cry. And I'm also at the
+same time not judging anyone out there
+00:01:56.469 --> 00:01:56.479 align:start position:0%
+same time not judging anyone out there
+00:01:56.479 --> 00:01:58.310 align:start position:0%
+same time not judging anyone out there
+because I'm pretty sure my website is
+00:01:58.310 --> 00:01:58.320 align:start position:0%
+because I'm pretty sure my website is
+00:01:58.320 --> 00:02:00.870 align:start position:0%
+because I'm pretty sure my website is
+where great blog articles go to die and
+00:02:00.870 --> 00:02:00.880 align:start position:0%
+where great blog articles go to die and
+00:02:00.880 --> 00:02:03.910 align:start position:0%
+where great blog articles go to die and
+very rarely make their way back. And the
+00:02:03.910 --> 00:02:03.920 align:start position:0%
+very rarely make their way back. And the
+00:02:03.920 --> 00:02:05.429 align:start position:0%
+very rarely make their way back. And the
+thing that also makes me cry a little
+00:02:05.429 --> 00:02:05.439 align:start position:0%
+thing that also makes me cry a little
+00:02:05.439 --> 00:02:07.429 align:start position:0%
+thing that also makes me cry a little
+bit is with how much effort and
+00:02:07.429 --> 00:02:07.439 align:start position:0%
+bit is with how much effort and
+00:02:07.439 --> 00:02:10.550 align:start position:0%
+bit is with how much effort and
+sometimes cost also goes into content
+00:02:10.550 --> 00:02:10.560 align:start position:0%
+sometimes cost also goes into content
+00:02:10.560 --> 00:02:13.430 align:start position:0%
+sometimes cost also goes into content
+that goes out onto LinkedIn that for me
+00:02:13.430 --> 00:02:13.440 align:start position:0%
+that goes out onto LinkedIn that for me
+00:02:13.440 --> 00:02:15.910 align:start position:0%
+that goes out onto LinkedIn that for me
+this waste is often content that's not
+00:02:15.910 --> 00:02:15.920 align:start position:0%
+this waste is often content that's not
+00:02:15.920 --> 00:02:18.070 align:start position:0%
+this waste is often content that's not
+helping anybody. Like it's just
+00:02:18.070 --> 00:02:18.080 align:start position:0%
+helping anybody. Like it's just
+00:02:18.080 --> 00:02:20.869 align:start position:0%
+helping anybody. Like it's just
+literally done for the sake of it. And
+00:02:20.869 --> 00:02:20.879 align:start position:0%
+literally done for the sake of it. And
+00:02:20.879 --> 00:02:22.550 align:start position:0%
+literally done for the sake of it. And
+I'm pretty sure you would see that as
+00:02:22.550 --> 00:02:22.560 align:start position:0%
+I'm pretty sure you would see that as
+00:02:22.560 --> 00:02:25.030 align:start position:0%
+I'm pretty sure you would see that as
+well. But post after post with no
+00:02:25.030 --> 00:02:25.040 align:start position:0%
+well. But post after post with no
+00:02:25.040 --> 00:02:26.710 align:start position:0%
+well. But post after post with no
+strategy. You don't know where it's
+00:02:26.710 --> 00:02:26.720 align:start position:0%
+strategy. You don't know where it's
+00:02:26.720 --> 00:02:28.470 align:start position:0%
+strategy. You don't know where it's
+going. You don't know who it's for. And
+00:02:28.470 --> 00:02:28.480 align:start position:0%
+going. You don't know who it's for. And
+00:02:28.480 --> 00:02:31.830 align:start position:0%
+going. You don't know who it's for. And
+I'm thinking, how much time and money is
+00:02:31.830 --> 00:02:31.840 align:start position:0%
+I'm thinking, how much time and money is
+00:02:31.840 --> 00:02:33.190 align:start position:0%
+I'm thinking, how much time and money is
+going into this? And it's just going
+00:02:33.190 --> 00:02:33.200 align:start position:0%
+going into this? And it's just going
+00:02:33.200 --> 00:02:35.670 align:start position:0%
+going into this? And it's just going
+down the drain. Like, it's crazy.
+00:02:35.670 --> 00:02:35.680 align:start position:0%
+down the drain. Like, it's crazy.
+00:02:35.680 --> 00:02:36.949 align:start position:0%
+down the drain. Like, it's crazy.
+&gt;&gt; Yeah. I guess there's two forms of
+00:02:36.949 --> 00:02:36.959 align:start position:0%
+&gt;&gt; Yeah. I guess there's two forms of
+00:02:36.959 --> 00:02:39.030 align:start position:0%
+&gt;&gt; Yeah. I guess there's two forms of
+waste. One is good content that nobody's
+00:02:39.030 --> 00:02:39.040 align:start position:0%
+waste. One is good content that nobody's
+00:02:39.040 --> 00:02:41.110 align:start position:0%
+waste. One is good content that nobody's
+using, and then the other one is content
+00:02:41.110 --> 00:02:41.120 align:start position:0%
+using, and then the other one is content
+00:02:41.120 --> 00:02:43.430 align:start position:0%
+using, and then the other one is content
+that never had any purpose. And either
+00:02:43.430 --> 00:02:43.440 align:start position:0%
+that never had any purpose. And either
+00:02:43.440 --> 00:02:45.430 align:start position:0%
+that never had any purpose. And either
+way, you've wasted time, you've wasted
+00:02:45.430 --> 00:02:45.440 align:start position:0%
+way, you've wasted time, you've wasted
+00:02:45.440 --> 00:02:48.150 align:start position:0%
+way, you've wasted time, you've wasted
+money, you've lost an opportunity. The
+00:02:48.150 --> 00:02:48.160 align:start position:0%
+money, you've lost an opportunity. The
+00:02:48.160 --> 00:02:50.309 align:start position:0%
+money, you've lost an opportunity. The
+opportunity cost of this crappy content
+00:02:50.309 --> 00:02:50.319 align:start position:0%
+opportunity cost of this crappy content
+00:02:50.319 --> 00:02:51.509 align:start position:0%
+opportunity cost of this crappy content
+is pretty high.
+00:02:51.509 --> 00:02:51.519 align:start position:0%
+is pretty high.
+00:02:51.519 --> 00:02:53.350 align:start position:0%
+is pretty high.
+&gt;&gt; Yeah, it sure is. And the other thing
+00:02:53.350 --> 00:02:53.360 align:start position:0%
+&gt;&gt; Yeah, it sure is. And the other thing
+00:02:53.360 --> 00:02:55.990 align:start position:0%
+&gt;&gt; Yeah, it sure is. And the other thing
+that I look at that is as someone that's
+00:02:55.990 --> 00:02:56.000 align:start position:0%
+that I look at that is as someone that's
+00:02:56.000 --> 00:02:57.589 align:start position:0%
+that I look at that is as someone that's
+putting out the content, I don't think
+00:02:57.589 --> 00:02:57.599 align:start position:0%
+putting out the content, I don't think
+00:02:57.599 --> 00:03:00.390 align:start position:0%
+putting out the content, I don't think
+anyone Lee is sitting there going, "Oh,
+00:03:00.390 --> 00:03:00.400 align:start position:0%
+anyone Lee is sitting there going, "Oh,
+00:03:00.400 --> 00:03:02.149 align:start position:0%
+anyone Lee is sitting there going, "Oh,
+today I'm going to go to work and I'm
+00:03:02.149 --> 00:03:02.159 align:start position:0%
+today I'm going to go to work and I'm
+00:03:02.159 --> 00:03:04.390 align:start position:0%
+today I'm going to go to work and I'm
+going to write some great content that
+00:03:04.390 --> 00:03:04.400 align:start position:0%
+going to write some great content that
+00:03:04.400 --> 00:03:06.229 align:start position:0%
+going to write some great content that
+no one sees and I'm going to feel good
+00:03:06.229 --> 00:03:06.239 align:start position:0%
+no one sees and I'm going to feel good
+00:03:06.239 --> 00:03:08.949 align:start position:0%
+no one sees and I'm going to feel good
+about myself or I'm never going to get
+00:03:08.949 --> 00:03:08.959 align:start position:0%
+about myself or I'm never going to get
+00:03:08.959 --> 00:03:11.430 align:start position:0%
+about myself or I'm never going to get
+trained in how to do great content or
+00:03:11.430 --> 00:03:11.440 align:start position:0%
+trained in how to do great content or
+00:03:11.440 --> 00:03:14.070 align:start position:0%
+trained in how to do great content or
+build a strategy or understand things.
+00:03:14.070 --> 00:03:14.080 align:start position:0%
+build a strategy or understand things.
+00:03:14.080 --> 00:03:15.430 align:start position:0%
+build a strategy or understand things.
+So then I'm going to put it out there
+00:03:15.430 --> 00:03:15.440 align:start position:0%
+So then I'm going to put it out there
+00:03:15.440 --> 00:03:18.149 align:start position:0%
+So then I'm going to put it out there
+and it's going to flop. It just feels
+00:03:18.149 --> 00:03:18.159 align:start position:0%
+and it's going to flop. It just feels
+00:03:18.159 --> 00:03:20.149 align:start position:0%
+and it's going to flop. It just feels
+awful for people when that that's
+00:03:20.149 --> 00:03:20.159 align:start position:0%
+awful for people when that that's
+00:03:20.159 --> 00:03:22.070 align:start position:0%
+awful for people when that that's
+happening. And I think that's why I want
+00:03:22.070 --> 00:03:22.080 align:start position:0%
+happening. And I think that's why I want
+00:03:22.080 --> 00:03:24.229 align:start position:0%
+happening. And I think that's why I want
+to have this conversation today and make
+00:03:24.229 --> 00:03:24.239 align:start position:0%
+to have this conversation today and make
+00:03:24.239 --> 00:03:26.630 align:start position:0%
+to have this conversation today and make
+it practical for our listeners so that
+00:03:26.630 --> 00:03:26.640 align:start position:0%
+it practical for our listeners so that
+00:03:26.640 --> 00:03:29.030 align:start position:0%
+it practical for our listeners so that
+they don't get stuck in feeling like I'm
+00:03:29.030 --> 00:03:29.040 align:start position:0%
+they don't get stuck in feeling like I'm
+00:03:29.040 --> 00:03:30.789 align:start position:0%
+they don't get stuck in feeling like I'm
+working my butt off.
+00:03:30.789 --> 00:03:30.799 align:start position:0%
+working my butt off.
+00:03:30.799 --> 00:03:32.949 align:start position:0%
+working my butt off.
+&gt;&gt; I feel like I'm getting nowhere and
+00:03:32.949 --> 00:03:32.959 align:start position:0%
+&gt;&gt; I feel like I'm getting nowhere and
+00:03:32.959 --> 00:03:34.470 align:start position:0%
+&gt;&gt; I feel like I'm getting nowhere and
+everyone in the business is actually
+00:03:34.470 --> 00:03:34.480 align:start position:0%
+everyone in the business is actually
+00:03:34.480 --> 00:03:36.630 align:start position:0%
+everyone in the business is actually
+judging me thinking, you know, marketing
+00:03:36.630 --> 00:03:36.640 align:start position:0%
+judging me thinking, you know, marketing
+00:03:36.640 --> 00:03:40.149 align:start position:0%
+judging me thinking, you know, marketing
+or content is pointless and my job isn't
+00:03:40.149 --> 00:03:40.159 align:start position:0%
+or content is pointless and my job isn't
+00:03:40.159 --> 00:03:42.070 align:start position:0%
+or content is pointless and my job isn't
+really that important. So, I think we
+00:03:42.070 --> 00:03:42.080 align:start position:0%
+really that important. So, I think we
+00:03:42.080 --> 00:03:44.550 align:start position:0%
+really that important. So, I think we
+can change that conversation today. But
+00:03:44.550 --> 00:03:44.560 align:start position:0%
+can change that conversation today. But
+00:03:44.560 --> 00:03:48.070 align:start position:0%
+can change that conversation today. But
+why do you think that so much good
+00:03:48.070 --> 00:03:48.080 align:start position:0%
+why do you think that so much good
+00:03:48.080 --> 00:03:49.990 align:start position:0%
+why do you think that so much good
+content out there never actually gets
+00:03:49.990 --> 00:03:50.000 align:start position:0%
+content out there never actually gets
+00:03:50.000 --> 00:03:50.550 align:start position:0%
+content out there never actually gets
+used?
+00:03:50.550 --> 00:03:50.560 align:start position:0%
+used?
+00:03:50.560 --> 00:03:52.229 align:start position:0%
+used?
+&gt;&gt; Right? If we're talking about good
+00:03:52.229 --> 00:03:52.239 align:start position:0%
+&gt;&gt; Right? If we're talking about good
+00:03:52.239 --> 00:03:53.750 align:start position:0%
+&gt;&gt; Right? If we're talking about good
+content, you know, you did understand
+00:03:53.750 --> 00:03:53.760 align:start position:0%
+content, you know, you did understand
+00:03:53.760 --> 00:03:55.430 align:start position:0%
+content, you know, you did understand
+the buyer, right? You did understand
+00:03:55.430 --> 00:03:55.440 align:start position:0%
+the buyer, right? You did understand
+00:03:55.440 --> 00:03:57.429 align:start position:0%
+the buyer, right? You did understand
+your audience and and it's good content.
+00:03:57.429 --> 00:03:57.439 align:start position:0%
+your audience and and it's good content.
+00:03:57.439 --> 00:03:59.589 align:start position:0%
+your audience and and it's good content.
+It's well written. It's unique. It's
+00:03:59.589 --> 00:03:59.599 align:start position:0%
+It's well written. It's unique. It's
+00:03:59.599 --> 00:04:01.589 align:start position:0%
+It's well written. It's unique. It's
+even differentiated.
+00:04:01.589 --> 00:04:01.599 align:start position:0%
+even differentiated.
+00:04:01.599 --> 00:04:03.670 align:start position:0%
+even differentiated.
+It never gets used. It goes to waste
+00:04:03.670 --> 00:04:03.680 align:start position:0%
+It never gets used. It goes to waste
+00:04:03.680 --> 00:04:06.149 align:start position:0%
+It never gets used. It goes to waste
+because no one knows about it. So, your
+00:04:06.149 --> 00:04:06.159 align:start position:0%
+because no one knows about it. So, your
+00:04:06.159 --> 00:04:07.589 align:start position:0%
+because no one knows about it. So, your
+sales team doesn't even know it exists.
+00:04:07.589 --> 00:04:07.599 align:start position:0%
+sales team doesn't even know it exists.
+00:04:07.599 --> 00:04:09.110 align:start position:0%
+sales team doesn't even know it exists.
+You never told people that you published
+00:04:09.110 --> 00:04:09.120 align:start position:0%
+You never told people that you published
+00:04:09.120 --> 00:04:11.270 align:start position:0%
+You never told people that you published
+it and wrote it. Nobody can find it.
+00:04:11.270 --> 00:04:11.280 align:start position:0%
+it and wrote it. Nobody can find it.
+00:04:11.280 --> 00:04:12.789 align:start position:0%
+it and wrote it. Nobody can find it.
+You're not working in a tool that's
+00:04:12.789 --> 00:04:12.799 align:start position:0%
+You're not working in a tool that's
+00:04:12.799 --> 00:04:15.190 align:start position:0%
+You're not working in a tool that's
+searchable and nobody knows how to use
+00:04:15.190 --> 00:04:15.200 align:start position:0%
+searchable and nobody knows how to use
+00:04:15.200 --> 00:04:17.349 align:start position:0%
+searchable and nobody knows how to use
+it. And this is sales enablement I talk
+00:04:17.349 --> 00:04:17.359 align:start position:0%
+it. And this is sales enablement I talk
+00:04:17.359 --> 00:04:19.110 align:start position:0%
+it. And this is sales enablement I talk
+about all the time. You've not literally
+00:04:19.110 --> 00:04:19.120 align:start position:0%
+about all the time. You've not literally
+00:04:19.120 --> 00:04:21.749 align:start position:0%
+about all the time. You've not literally
+not trained people who aren't content
+00:04:21.749 --> 00:04:21.759 align:start position:0%
+not trained people who aren't content
+00:04:21.759 --> 00:04:23.590 align:start position:0%
+not trained people who aren't content
+people how to use content to do their
+00:04:23.590 --> 00:04:23.600 align:start position:0%
+people how to use content to do their
+00:04:23.600 --> 00:04:25.510 align:start position:0%
+people how to use content to do their
+jobs. They don't know what to do with an
+00:04:25.510 --> 00:04:25.520 align:start position:0%
+jobs. They don't know what to do with an
+00:04:25.520 --> 00:04:27.990 align:start position:0%
+jobs. They don't know what to do with an
+ebook. So that needs to be discussed.
+00:04:27.990 --> 00:04:28.000 align:start position:0%
+ebook. So that needs to be discussed.
+00:04:28.000 --> 00:04:30.310 align:start position:0%
+ebook. So that needs to be discussed.
+Another thing that really contributes to
+00:04:30.310 --> 00:04:30.320 align:start position:0%
+Another thing that really contributes to
+00:04:30.320 --> 00:04:33.270 align:start position:0%
+Another thing that really contributes to
+this is silos in your organization. So
+00:04:33.270 --> 00:04:33.280 align:start position:0%
+this is silos in your organization. So
+00:04:33.280 --> 00:04:35.030 align:start position:0%
+this is silos in your organization. So
+the marketing team goes about creating
+00:04:35.030 --> 00:04:35.040 align:start position:0%
+the marketing team goes about creating
+00:04:35.040 --> 00:04:37.510 align:start position:0%
+the marketing team goes about creating
+content. Who is using it internally?
+00:04:37.510 --> 00:04:37.520 align:start position:0%
+content. Who is using it internally?
+00:04:37.520 --> 00:04:39.110 align:start position:0%
+content. Who is using it internally?
+It's your sales team using it. It's your
+00:04:39.110 --> 00:04:39.120 align:start position:0%
+It's your sales team using it. It's your
+00:04:39.120 --> 00:04:40.629 align:start position:0%
+It's your sales team using it. It's your
+account team. It's maybe the product
+00:04:40.629 --> 00:04:40.639 align:start position:0%
+account team. It's maybe the product
+00:04:40.639 --> 00:04:43.590 align:start position:0%
+account team. It's maybe the product
+team, but since they're silos, there's
+00:04:43.590 --> 00:04:43.600 align:start position:0%
+team, but since they're silos, there's
+00:04:43.600 --> 00:04:45.590 align:start position:0%
+team, but since they're silos, there's
+no synergy. There's no information
+00:04:45.590 --> 00:04:45.600 align:start position:0%
+no synergy. There's no information
+00:04:45.600 --> 00:04:47.110 align:start position:0%
+no synergy. There's no information
+passed back and forth. There's
+00:04:47.110 --> 00:04:47.120 align:start position:0%
+passed back and forth. There's
+00:04:47.120 --> 00:04:49.510 align:start position:0%
+passed back and forth. There's
+absolutely no way that you can help them
+00:04:49.510 --> 00:04:49.520 align:start position:0%
+absolutely no way that you can help them
+00:04:49.520 --> 00:04:52.310 align:start position:0%
+absolutely no way that you can help them
+do their jobs if you never talk to them.
+00:04:52.310 --> 00:04:52.320 align:start position:0%
+do their jobs if you never talk to them.
+00:04:52.320 --> 00:04:55.430 align:start position:0%
+do their jobs if you never talk to them.
+&gt;&gt; I know that we laugh around that, but I
+00:04:55.430 --> 00:04:55.440 align:start position:0%
+&gt;&gt; I know that we laugh around that, but I
+00:04:55.440 --> 00:04:57.830 align:start position:0%
+&gt;&gt; I know that we laugh around that, but I
+remember having a conversation with a
+00:04:57.830 --> 00:04:57.840 align:start position:0%
+remember having a conversation with a
+00:04:57.840 --> 00:05:00.070 align:start position:0%
+remember having a conversation with a
+client and I got to talk to both sides.
+00:05:00.070 --> 00:05:00.080 align:start position:0%
+client and I got to talk to both sides.
+00:05:00.080 --> 00:05:02.310 align:start position:0%
+client and I got to talk to both sides.
+I got to talk to the marketing team who
+00:05:02.310 --> 00:05:02.320 align:start position:0%
+I got to talk to the marketing team who
+00:05:02.320 --> 00:05:04.390 align:start position:0%
+I got to talk to the marketing team who
+had a goal of what they wanted to
+00:05:04.390 --> 00:05:04.400 align:start position:0%
+had a goal of what they wanted to
+00:05:04.400 --> 00:05:07.110 align:start position:0%
+had a goal of what they wanted to
+achieve and then I took that and had a
+00:05:07.110 --> 00:05:07.120 align:start position:0%
+achieve and then I took that and had a
+00:05:07.120 --> 00:05:08.870 align:start position:0%
+achieve and then I took that and had a
+conversation to understand a few things
+00:05:08.870 --> 00:05:08.880 align:start position:0%
+conversation to understand a few things
+00:05:08.880 --> 00:05:12.070 align:start position:0%
+conversation to understand a few things
+more with the sales manager and I asked
+00:05:12.070 --> 00:05:12.080 align:start position:0%
+more with the sales manager and I asked
+00:05:12.080 --> 00:05:14.150 align:start position:0%
+more with the sales manager and I asked
+him why he hadn't been sharing any of
+00:05:14.150 --> 00:05:14.160 align:start position:0%
+him why he hadn't been sharing any of
+00:05:14.160 --> 00:05:16.230 align:start position:0%
+him why he hadn't been sharing any of
+the content and quite frankly he
+00:05:16.230 --> 00:05:16.240 align:start position:0%
+the content and quite frankly he
+00:05:16.240 --> 00:05:18.710 align:start position:0%
+the content and quite frankly he
+embarrassed because it didn't sound like
+00:05:18.710 --> 00:05:18.720 align:start position:0%
+embarrassed because it didn't sound like
+00:05:18.720 --> 00:05:20.950 align:start position:0%
+embarrassed because it didn't sound like
+him. It wasn't aligned with who they
+00:05:20.950 --> 00:05:20.960 align:start position:0%
+him. It wasn't aligned with who they
+00:05:20.960 --> 00:05:23.189 align:start position:0%
+him. It wasn't aligned with who they
+were targeting. It wasn't speaking to
+00:05:23.189 --> 00:05:23.199 align:start position:0%
+were targeting. It wasn't speaking to
+00:05:23.199 --> 00:05:25.670 align:start position:0%
+were targeting. It wasn't speaking to
+the problems he'd discovered. And I know
+00:05:25.670 --> 00:05:25.680 align:start position:0%
+the problems he'd discovered. And I know
+00:05:25.680 --> 00:05:28.070 align:start position:0%
+the problems he'd discovered. And I know
+that that's not good content, but it
+00:05:28.070 --> 00:05:28.080 align:start position:0%
+that that's not good content, but it
+00:05:28.080 --> 00:05:30.230 align:start position:0%
+that that's not good content, but it
+like for me it kind of underpins the
+00:05:30.230 --> 00:05:30.240 align:start position:0%
+like for me it kind of underpins the
+00:05:30.240 --> 00:05:32.150 align:start position:0%
+like for me it kind of underpins the
+problem here when teams are working as
+00:05:32.150 --> 00:05:32.160 align:start position:0%
+problem here when teams are working as
+00:05:32.160 --> 00:05:35.189 align:start position:0%
+problem here when teams are working as
+you say in silos and nobody's actually
+00:05:35.189 --> 00:05:35.199 align:start position:0%
+you say in silos and nobody's actually
+00:05:35.199 --> 00:05:36.629 align:start position:0%
+you say in silos and nobody's actually
+getting in a room and having a
+00:05:36.629 --> 00:05:36.639 align:start position:0%
+getting in a room and having a
+00:05:36.639 --> 00:05:38.710 align:start position:0%
+getting in a room and having a
+conversation and saying what should we
+00:05:38.710 --> 00:05:38.720 align:start position:0%
+conversation and saying what should we
+00:05:38.720 --> 00:05:41.189 align:start position:0%
+conversation and saying what should we
+be doing to help you sell more and the
+00:05:41.189 --> 00:05:41.199 align:start position:0%
+be doing to help you sell more and the
+00:05:41.199 --> 00:05:43.510 align:start position:0%
+be doing to help you sell more and the
+feedback from the sales team around what
+00:05:43.510 --> 00:05:43.520 align:start position:0%
+feedback from the sales team around what
+00:05:43.520 --> 00:05:45.430 align:start position:0%
+feedback from the sales team around what
+they're hearing, what kinds of content
+00:05:45.430 --> 00:05:45.440 align:start position:0%
+they're hearing, what kinds of content
+00:05:45.440 --> 00:05:47.270 align:start position:0%
+they're hearing, what kinds of content
+would make good content for them to be
+00:05:47.270 --> 00:05:47.280 align:start position:0%
+would make good content for them to be
+00:05:47.280 --> 00:05:49.110 align:start position:0%
+would make good content for them to be
+able to share. So, who would have
+00:05:49.110 --> 00:05:49.120 align:start position:0%
+able to share. So, who would have
+00:05:49.120 --> 00:05:52.150 align:start position:0%
+able to share. So, who would have
+thought, Lee, that a conversation
+00:05:52.150 --> 00:05:52.160 align:start position:0%
+thought, Lee, that a conversation
+00:05:52.160 --> 00:05:54.710 align:start position:0%
+thought, Lee, that a conversation
+between teams is the secret to good
+00:05:54.710 --> 00:05:54.720 align:start position:0%
+between teams is the secret to good
+00:05:54.720 --> 00:05:56.469 align:start position:0%
+between teams is the secret to good
+content? Do we have to really repeat
+00:05:56.469 --> 00:05:56.479 align:start position:0%
+content? Do we have to really repeat
+00:05:56.479 --> 00:05:57.670 align:start position:0%
+content? Do we have to really repeat
+this? I think we do.
+00:05:57.670 --> 00:05:57.680 align:start position:0%
+this? I think we do.
+00:05:57.680 --> 00:05:59.590 align:start position:0%
+this? I think we do.
+&gt;&gt; We do. It is one of the secrets. It's
+00:05:59.590 --> 00:05:59.600 align:start position:0%
+&gt;&gt; We do. It is one of the secrets. It's
+00:05:59.600 --> 00:06:01.270 align:start position:0%
+&gt;&gt; We do. It is one of the secrets. It's
+one of the hacks, if you will. Get your
+00:06:01.270 --> 00:06:01.280 align:start position:0%
+one of the hacks, if you will. Get your
+00:06:01.280 --> 00:06:03.430 align:start position:0%
+one of the hacks, if you will. Get your
+people to talk to each other. Sales
+00:06:03.430 --> 00:06:03.440 align:start position:0%
+people to talk to each other. Sales
+00:06:03.440 --> 00:06:05.350 align:start position:0%
+people to talk to each other. Sales
+tells the content team about customer
+00:06:05.350 --> 00:06:05.360 align:start position:0%
+tells the content team about customer
+00:06:05.360 --> 00:06:07.590 align:start position:0%
+tells the content team about customer
+conversations. The content team tells
+00:06:07.590 --> 00:06:07.600 align:start position:0%
+conversations. The content team tells
+00:06:07.600 --> 00:06:09.110 align:start position:0%
+conversations. The content team tells
+sales about what formats they're
+00:06:09.110 --> 00:06:09.120 align:start position:0%
+sales about what formats they're
+00:06:09.120 --> 00:06:10.550 align:start position:0%
+sales about what formats they're
+experimenting or where they want to
+00:06:10.550 --> 00:06:10.560 align:start position:0%
+experimenting or where they want to
+00:06:10.560 --> 00:06:13.110 align:start position:0%
+experimenting or where they want to
+publish content. and events team gets
+00:06:13.110 --> 00:06:13.120 align:start position:0%
+publish content. and events team gets
+00:06:13.120 --> 00:06:14.870 align:start position:0%
+publish content. and events team gets
+involved and tells people what
+00:06:14.870 --> 00:06:14.880 align:start position:0%
+involved and tells people what
+00:06:14.880 --> 00:06:16.309 align:start position:0%
+involved and tells people what
+conversations they had at events and
+00:06:16.309 --> 00:06:16.319 align:start position:0%
+conversations they had at events and
+00:06:16.319 --> 00:06:17.430 align:start position:0%
+conversations they had at events and
+where they're going and what they're
+00:06:17.430 --> 00:06:17.440 align:start position:0%
+where they're going and what they're
+00:06:17.440 --> 00:06:18.070 align:start position:0%
+where they're going and what they're
+planning.
+00:06:18.070 --> 00:06:18.080 align:start position:0%
+planning.
+00:06:18.080 --> 00:06:20.950 align:start position:0%
+planning.
+&gt;&gt; Yeah. And that's the thing is when we
+00:06:20.950 --> 00:06:20.960 align:start position:0%
+&gt;&gt; Yeah. And that's the thing is when we
+00:06:20.960 --> 00:06:23.189 align:start position:0%
+&gt;&gt; Yeah. And that's the thing is when we
+all work together and come up with the
+00:06:23.189 --> 00:06:23.199 align:start position:0%
+all work together and come up with the
+00:06:23.199 --> 00:06:25.590 align:start position:0%
+all work together and come up with the
+strategy that is actually aligned to the
+00:06:25.590 --> 00:06:25.600 align:start position:0%
+strategy that is actually aligned to the
+00:06:25.600 --> 00:06:28.230 align:start position:0%
+strategy that is actually aligned to the
+whole team's business goals, then you
+00:06:28.230 --> 00:06:28.240 align:start position:0%
+whole team's business goals, then you
+00:06:28.240 --> 00:06:30.309 align:start position:0%
+whole team's business goals, then you
+can actually start creating content that
+00:06:30.309 --> 00:06:30.319 align:start position:0%
+can actually start creating content that
+00:06:30.319 --> 00:06:32.230 align:start position:0%
+can actually start creating content that
+really lands, really sticks, it
+00:06:32.230 --> 00:06:32.240 align:start position:0%
+really lands, really sticks, it
+00:06:32.240 --> 00:06:34.230 align:start position:0%
+really lands, really sticks, it
+performs. Everybody's high-fiving
+00:06:34.230 --> 00:06:34.240 align:start position:0%
+performs. Everybody's high-fiving
+00:06:34.240 --> 00:06:36.710 align:start position:0%
+performs. Everybody's high-fiving
+themselves. And it's kind of funny
+00:06:36.710 --> 00:06:36.720 align:start position:0%
+themselves. And it's kind of funny
+00:06:36.720 --> 00:06:39.670 align:start position:0%
+themselves. And it's kind of funny
+because obviously like my specialty that
+00:06:39.670 --> 00:06:39.680 align:start position:0%
+because obviously like my specialty that
+00:06:39.680 --> 00:06:41.590 align:start position:0%
+because obviously like my specialty that
+I talk about is all things LinkedIn,
+00:06:41.590 --> 00:06:41.600 align:start position:0%
+I talk about is all things LinkedIn,
+00:06:41.600 --> 00:06:43.270 align:start position:0%
+I talk about is all things LinkedIn,
+LinkedIn company pages and getting your
+00:06:43.270 --> 00:06:43.280 align:start position:0%
+LinkedIn company pages and getting your
+00:06:43.280 --> 00:06:46.629 align:start position:0%
+LinkedIn company pages and getting your
+employees active as well. But I realized
+00:06:46.629 --> 00:06:46.639 align:start position:0%
+employees active as well. But I realized
+00:06:46.639 --> 00:06:50.150 align:start position:0%
+employees active as well. But I realized
+a long time ago that when I was creating
+00:06:50.150 --> 00:06:50.160 align:start position:0%
+a long time ago that when I was creating
+00:06:50.160 --> 00:06:51.830 align:start position:0%
+a long time ago that when I was creating
+content on LinkedIn and it could be some
+00:06:51.830 --> 00:06:51.840 align:start position:0%
+content on LinkedIn and it could be some
+00:06:51.840 --> 00:06:53.590 align:start position:0%
+content on LinkedIn and it could be some
+of my best work, you know, there there
+00:06:53.590 --> 00:06:53.600 align:start position:0%
+of my best work, you know, there there
+00:06:53.600 --> 00:06:55.029 align:start position:0%
+of my best work, you know, there there
+are sometimes when you create something
+00:06:55.029 --> 00:06:55.039 align:start position:0%
+are sometimes when you create something
+00:06:55.039 --> 00:06:57.590 align:start position:0%
+are sometimes when you create something
+and you're like high-fiving yourself,
+00:06:57.590 --> 00:06:57.600 align:start position:0%
+and you're like high-fiving yourself,
+00:06:57.600 --> 00:06:59.749 align:start position:0%
+and you're like high-fiving yourself,
+but what actually was happening was it
+00:06:59.749 --> 00:06:59.759 align:start position:0%
+but what actually was happening was it
+00:06:59.759 --> 00:07:01.909 align:start position:0%
+but what actually was happening was it
+was drowning down the feed, down the
+00:07:01.909 --> 00:07:01.919 align:start position:0%
+was drowning down the feed, down the
+00:07:01.919 --> 00:07:04.469 align:start position:0%
+was drowning down the feed, down the
+gurgler, never to be seen again. At that
+00:07:04.469 --> 00:07:04.479 align:start position:0%
+gurgler, never to be seen again. At that
+00:07:04.479 --> 00:07:07.589 align:start position:0%
+gurgler, never to be seen again. At that
+time it was 24 to 48 hours. Maybe now
+00:07:07.589 --> 00:07:07.599 align:start position:0%
+time it was 24 to 48 hours. Maybe now
+00:07:07.599 --> 00:07:09.909 align:start position:0%
+time it was 24 to 48 hours. Maybe now
+content lasts for a couple of weeks. But
+00:07:09.909 --> 00:07:09.919 align:start position:0%
+content lasts for a couple of weeks. But
+00:07:09.919 --> 00:07:11.350 align:start position:0%
+content lasts for a couple of weeks. But
+when I was putting my heart and soul
+00:07:11.350 --> 00:07:11.360 align:start position:0%
+when I was putting my heart and soul
+00:07:11.360 --> 00:07:13.270 align:start position:0%
+when I was putting my heart and soul
+into this thing and only putting it in
+00:07:13.270 --> 00:07:13.280 align:start position:0%
+into this thing and only putting it in
+00:07:13.280 --> 00:07:16.150 align:start position:0%
+into this thing and only putting it in
+the LinkedIn feed, that's when I went,
+00:07:16.150 --> 00:07:16.160 align:start position:0%
+the LinkedIn feed, that's when I went,
+00:07:16.160 --> 00:07:19.350 align:start position:0%
+the LinkedIn feed, that's when I went,
+"Oh no. Oh no. This this has to stop
+00:07:19.350 --> 00:07:19.360 align:start position:0%
+"Oh no. Oh no. This this has to stop
+00:07:19.360 --> 00:07:22.309 align:start position:0%
+"Oh no. Oh no. This this has to stop
+because I want to put it in other places
+00:07:22.309 --> 00:07:22.319 align:start position:0%
+because I want to put it in other places
+00:07:22.319 --> 00:07:24.550 align:start position:0%
+because I want to put it in other places
+where people can find it. So this is how
+00:07:24.550 --> 00:07:24.560 align:start position:0%
+where people can find it. So this is how
+00:07:24.560 --> 00:07:27.189 align:start position:0%
+where people can find it. So this is how
+this podcast was born because it's
+00:07:27.189 --> 00:07:27.199 align:start position:0%
+this podcast was born because it's
+00:07:27.199 --> 00:07:29.110 align:start position:0%
+this podcast was born because it's
+searchable. The longevity was there."
+00:07:29.110 --> 00:07:29.120 align:start position:0%
+searchable. The longevity was there."
+00:07:29.120 --> 00:07:31.749 align:start position:0%
+searchable. The longevity was there."
+And same with my YouTube channel. And I
+00:07:31.749 --> 00:07:31.759 align:start position:0%
+And same with my YouTube channel. And I
+00:07:31.759 --> 00:07:33.270 align:start position:0%
+And same with my YouTube channel. And I
+guess you would see that with businesses
+00:07:33.270 --> 00:07:33.280 align:start position:0%
+guess you would see that with businesses
+00:07:33.280 --> 00:07:35.029 align:start position:0%
+guess you would see that with businesses
+as well where they're putting all this
+00:07:35.029 --> 00:07:35.039 align:start position:0%
+as well where they're putting all this
+00:07:35.039 --> 00:07:37.510 align:start position:0%
+as well where they're putting all this
+effort into some really cool content but
+00:07:37.510 --> 00:07:37.520 align:start position:0%
+effort into some really cool content but
+00:07:37.520 --> 00:07:40.070 align:start position:0%
+effort into some really cool content but
+maybe only using it once. That to me is
+00:07:40.070 --> 00:07:40.080 align:start position:0%
+maybe only using it once. That to me is
+00:07:40.080 --> 00:07:41.189 align:start position:0%
+maybe only using it once. That to me is
+another waste.
+00:07:41.189 --> 00:07:41.199 align:start position:0%
+another waste.
+00:07:41.199 --> 00:07:44.870 align:start position:0%
+another waste.
+&gt;&gt; It's insane. Yeah. I see LinkedIn as one
+00:07:44.870 --> 00:07:44.880 align:start position:0%
+&gt;&gt; It's insane. Yeah. I see LinkedIn as one
+00:07:44.880 --> 00:07:47.430 align:start position:0%
+&gt;&gt; It's insane. Yeah. I see LinkedIn as one
+distribution channel for content. It's a
+00:07:47.430 --> 00:07:47.440 align:start position:0%
+distribution channel for content. It's a
+00:07:47.440 --> 00:07:50.309 align:start position:0%
+distribution channel for content. It's a
+channel. Channel meaning where people go
+00:07:50.309 --> 00:07:50.319 align:start position:0%
+channel. Channel meaning where people go
+00:07:50.319 --> 00:07:52.710 align:start position:0%
+channel. Channel meaning where people go
+for information. LinkedIn is a big place
+00:07:52.710 --> 00:07:52.720 align:start position:0%
+for information. LinkedIn is a big place
+00:07:52.720 --> 00:07:55.270 align:start position:0%
+for information. LinkedIn is a big place
+where B2B businesses, buyers go for
+00:07:55.270 --> 00:07:55.280 align:start position:0%
+where B2B businesses, buyers go for
+00:07:55.280 --> 00:07:57.350 align:start position:0%
+where B2B businesses, buyers go for
+information, but it's one channel. So
+00:07:57.350 --> 00:07:57.360 align:start position:0%
+information, but it's one channel. So
+00:07:57.360 --> 00:07:58.790 align:start position:0%
+information, but it's one channel. So
+there are other channels you should be
+00:07:58.790 --> 00:07:58.800 align:start position:0%
+there are other channels you should be
+00:07:58.800 --> 00:08:01.189 align:start position:0%
+there are other channels you should be
+exploring with the content. Your content
+00:08:01.189 --> 00:08:01.199 align:start position:0%
+exploring with the content. Your content
+00:08:01.199 --> 00:08:02.550 align:start position:0%
+exploring with the content. Your content
+should be going out in multiple
+00:08:02.550 --> 00:08:02.560 align:start position:0%
+should be going out in multiple
+00:08:02.560 --> 00:08:03.430 align:start position:0%
+should be going out in multiple
+channels.
+00:08:03.430 --> 00:08:03.440 align:start position:0%
+channels.
+00:08:03.440 --> 00:08:06.230 align:start position:0%
+channels.
+&gt;&gt; Is it because we don't have a strategy
+00:08:06.230 --> 00:08:06.240 align:start position:0%
+&gt;&gt; Is it because we don't have a strategy
+00:08:06.240 --> 00:08:08.869 align:start position:0%
+&gt;&gt; Is it because we don't have a strategy
+that we end up just the goal is post
+00:08:08.869 --> 00:08:08.879 align:start position:0%
+that we end up just the goal is post
+00:08:08.879 --> 00:08:11.029 align:start position:0%
+that we end up just the goal is post
+three times a week? Is that the
+00:08:11.029 --> 00:08:11.039 align:start position:0%
+three times a week? Is that the
+00:08:11.039 --> 00:08:13.350 align:start position:0%
+three times a week? Is that the
+underpinning problem that we need to
+00:08:13.350 --> 00:08:13.360 align:start position:0%
+underpinning problem that we need to
+00:08:13.360 --> 00:08:14.790 align:start position:0%
+underpinning problem that we need to
+solve first?
+00:08:14.790 --> 00:08:14.800 align:start position:0%
+solve first?
+00:08:14.800 --> 00:08:17.990 align:start position:0%
+solve first?
+&gt;&gt; I think that it's possible that there
+00:08:17.990 --> 00:08:18.000 align:start position:0%
+&gt;&gt; I think that it's possible that there
+00:08:18.000 --> 00:08:20.629 align:start position:0%
+&gt;&gt; I think that it's possible that there
+just isn't the awareness of the way
+00:08:20.629 --> 00:08:20.639 align:start position:0%
+just isn't the awareness of the way
+00:08:20.639 --> 00:08:22.150 align:start position:0%
+just isn't the awareness of the way
+different channels and different content
+00:08:22.150 --> 00:08:22.160 align:start position:0%
+different channels and different content
+00:08:22.160 --> 00:08:24.550 align:start position:0%
+different channels and different content
+types should fit together. So, for
+00:08:24.550 --> 00:08:24.560 align:start position:0%
+types should fit together. So, for
+00:08:24.560 --> 00:08:27.029 align:start position:0%
+types should fit together. So, for
+example, you've got your spicy point of
+00:08:27.029 --> 00:08:27.039 align:start position:0%
+example, you've got your spicy point of
+00:08:27.039 --> 00:08:28.950 align:start position:0%
+example, you've got your spicy point of
+view, right? You you're taking a stand
+00:08:28.950 --> 00:08:28.960 align:start position:0%
+view, right? You you're taking a stand
+00:08:28.960 --> 00:08:30.230 align:start position:0%
+view, right? You you're taking a stand
+on something in the market and you've
+00:08:30.230 --> 00:08:30.240 align:start position:0%
+on something in the market and you've
+00:08:30.240 --> 00:08:32.389 align:start position:0%
+on something in the market and you've
+written a blog post about it. You use
+00:08:32.389 --> 00:08:32.399 align:start position:0%
+written a blog post about it. You use
+00:08:32.399 --> 00:08:34.949 align:start position:0%
+written a blog post about it. You use
+that post on social media. You write
+00:08:34.949 --> 00:08:34.959 align:start position:0%
+that post on social media. You write
+00:08:34.959 --> 00:08:37.430 align:start position:0%
+that post on social media. You write
+zero-click content based on that post.
+00:08:37.430 --> 00:08:37.440 align:start position:0%
+zero-click content based on that post.
+00:08:37.440 --> 00:08:38.949 align:start position:0%
+zero-click content based on that post.
+So, you're putting the idea on your
+00:08:38.949 --> 00:08:38.959 align:start position:0%
+So, you're putting the idea on your
+00:08:38.959 --> 00:08:40.230 align:start position:0%
+So, you're putting the idea on your
+website. You're putting it on social
+00:08:40.230 --> 00:08:40.240 align:start position:0%
+website. You're putting it on social
+00:08:40.240 --> 00:08:41.509 align:start position:0%
+website. You're putting it on social
+media and then you also send a
+00:08:41.509 --> 00:08:41.519 align:start position:0%
+media and then you also send a
+00:08:41.519 --> 00:08:43.509 align:start position:0%
+media and then you also send a
+newsletter on it. And then your
+00:08:43.509 --> 00:08:43.519 align:start position:0%
+newsletter on it. And then your
+00:08:43.519 --> 00:08:46.550 align:start position:0%
+newsletter on it. And then your
+employees also post around those
+00:08:46.550 --> 00:08:46.560 align:start position:0%
+employees also post around those
+00:08:46.560 --> 00:08:48.310 align:start position:0%
+employees also post around those
+concepts on their pages. So, it's one
+00:08:48.310 --> 00:08:48.320 align:start position:0%
+concepts on their pages. So, it's one
+00:08:48.320 --> 00:08:50.870 align:start position:0%
+concepts on their pages. So, it's one
+concept, right? Multiple channels. and
+00:08:50.870 --> 00:08:50.880 align:start position:0%
+concept, right? Multiple channels. and
+00:08:50.880 --> 00:08:53.110 align:start position:0%
+concept, right? Multiple channels. and
+LinkedIn, you know, in your corporate
+00:08:53.110 --> 00:08:53.120 align:start position:0%
+LinkedIn, you know, in your corporate
+00:08:53.120 --> 00:08:55.750 align:start position:0%
+LinkedIn, you know, in your corporate
+page, on your employee handles, in a
+00:08:55.750 --> 00:08:55.760 align:start position:0%
+page, on your employee handles, in a
+00:08:55.760 --> 00:08:57.509 align:start position:0%
+page, on your employee handles, in a
+newsletter that's also on the platform.
+00:08:57.509 --> 00:08:57.519 align:start position:0%
+newsletter that's also on the platform.
+00:08:57.519 --> 00:09:00.870 align:start position:0%
+newsletter that's also on the platform.
+So, it's one content piece, multiple
+00:09:00.870 --> 00:09:00.880 align:start position:0%
+So, it's one content piece, multiple
+00:09:00.880 --> 00:09:01.910 align:start position:0%
+So, it's one content piece, multiple
+venues.
+00:09:01.910 --> 00:09:01.920 align:start position:0%
+venues.
+00:09:01.920 --> 00:09:03.829 align:start position:0%
+venues.
+&gt;&gt; Yeah. And the cool thing about this that
+00:09:03.829 --> 00:09:03.839 align:start position:0%
+&gt;&gt; Yeah. And the cool thing about this that
+00:09:03.839 --> 00:09:05.269 align:start position:0%
+&gt;&gt; Yeah. And the cool thing about this that
+I'm seeing right now with all the
+00:09:05.269 --> 00:09:05.279 align:start position:0%
+I'm seeing right now with all the
+00:09:05.279 --> 00:09:08.150 align:start position:0%
+I'm seeing right now with all the
+research and dare I say the words AI
+00:09:08.150 --> 00:09:08.160 align:start position:0%
+research and dare I say the words AI
+00:09:08.160 --> 00:09:10.230 align:start position:0%
+research and dare I say the words AI
+when we're talking about content because
+00:09:10.230 --> 00:09:10.240 align:start position:0%
+when we're talking about content because
+00:09:10.240 --> 00:09:12.070 align:start position:0%
+when we're talking about content because
+I know it's meant to be the solution to
+00:09:12.070 --> 00:09:12.080 align:start position:0%
+I know it's meant to be the solution to
+00:09:12.080 --> 00:09:13.990 align:start position:0%
+I know it's meant to be the solution to
+everything. But what I've been reading
+00:09:13.990 --> 00:09:14.000 align:start position:0%
+everything. But what I've been reading
+00:09:14.000 --> 00:09:16.470 align:start position:0%
+everything. But what I've been reading
+is large language models, even if
+00:09:16.470 --> 00:09:16.480 align:start position:0%
+is large language models, even if
+00:09:16.480 --> 00:09:18.310 align:start position:0%
+is large language models, even if
+they're reading your LinkedIn content,
+00:09:18.310 --> 00:09:18.320 align:start position:0%
+they're reading your LinkedIn content,
+00:09:18.320 --> 00:09:20.150 align:start position:0%
+they're reading your LinkedIn content,
+whether it's a newsletter or posts or
+00:09:20.150 --> 00:09:20.160 align:start position:0%
+whether it's a newsletter or posts or
+00:09:20.160 --> 00:09:21.990 align:start position:0%
+whether it's a newsletter or posts or
+things along those lines, actually
+00:09:21.990 --> 00:09:22.000 align:start position:0%
+things along those lines, actually
+00:09:22.000 --> 00:09:24.470 align:start position:0%
+things along those lines, actually
+looking for credibility that comes not
+00:09:24.470 --> 00:09:24.480 align:start position:0%
+looking for credibility that comes not
+00:09:24.480 --> 00:09:27.110 align:start position:0%
+looking for credibility that comes not
+just from one source, but how you show
+00:09:27.110 --> 00:09:27.120 align:start position:0%
+just from one source, but how you show
+00:09:27.120 --> 00:09:29.509 align:start position:0%
+just from one source, but how you show
+up on your website, how you show up with
+00:09:29.509 --> 00:09:29.519 align:start position:0%
+up on your website, how you show up with
+00:09:29.519 --> 00:09:32.070 align:start position:0%
+up on your website, how you show up with
+blog or YouTube or LinkedIn post. And
+00:09:32.070 --> 00:09:32.080 align:start position:0%
+blog or YouTube or LinkedIn post. And
+00:09:32.080 --> 00:09:34.870 align:start position:0%
+blog or YouTube or LinkedIn post. And
+they all work together, which makes this
+00:09:34.870 --> 00:09:34.880 align:start position:0%
+they all work together, which makes this
+00:09:34.880 --> 00:09:37.269 align:start position:0%
+they all work together, which makes this
+even more important to take the good
+00:09:37.269 --> 00:09:37.279 align:start position:0%
+even more important to take the good
+00:09:37.279 --> 00:09:40.310 align:start position:0%
+even more important to take the good
+stuff and make sure we repurpose it. So
+00:09:40.310 --> 00:09:40.320 align:start position:0%
+stuff and make sure we repurpose it. So
+00:09:40.320 --> 00:09:43.430 align:start position:0%
+stuff and make sure we repurpose it. So
+to your point, I currently write an
+00:09:43.430 --> 00:09:43.440 align:start position:0%
+to your point, I currently write an
+00:09:43.440 --> 00:09:45.750 align:start position:0%
+to your point, I currently write an
+email newsletter. That's my baby email
+00:09:45.750 --> 00:09:45.760 align:start position:0%
+email newsletter. That's my baby email
+00:09:45.760 --> 00:09:47.509 align:start position:0%
+email newsletter. That's my baby email
+newsletter. So hopefully all of my
+00:09:47.509 --> 00:09:47.519 align:start position:0%
+newsletter. So hopefully all of my
+00:09:47.519 --> 00:09:49.670 align:start position:0%
+newsletter. So hopefully all of my
+listeners today, you'll subscribe to it.
+00:09:49.670 --> 00:09:49.680 align:start position:0%
+listeners today, you'll subscribe to it.
+00:09:49.680 --> 00:09:52.550 align:start position:0%
+listeners today, you'll subscribe to it.
+But I started that and that has like 600
+00:09:52.550 --> 00:09:52.560 align:start position:0%
+But I started that and that has like 600
+00:09:52.560 --> 00:09:55.190 align:start position:0%
+But I started that and that has like 600
+subscribers roughly, right? And so
+00:09:55.190 --> 00:09:55.200 align:start position:0%
+subscribers roughly, right? And so
+00:09:55.200 --> 00:09:57.910 align:start position:0%
+subscribers roughly, right? And so
+that's my, you know, favorite kind of
+00:09:57.910 --> 00:09:57.920 align:start position:0%
+that's my, you know, favorite kind of
+00:09:57.920 --> 00:09:59.190 align:start position:0%
+that's my, you know, favorite kind of
+audience that I can have, you know,
+00:09:59.190 --> 00:09:59.200 align:start position:0%
+audience that I can have, you know,
+00:09:59.200 --> 00:10:01.269 align:start position:0%
+audience that I can have, you know,
+particular conversations with in a much
+00:10:01.269 --> 00:10:01.279 align:start position:0%
+particular conversations with in a much
+00:10:01.279 --> 00:10:03.829 align:start position:0%
+particular conversations with in a much
+closer kind of way. And I enjoy that,
+00:10:03.829 --> 00:10:03.839 align:start position:0%
+closer kind of way. And I enjoy that,
+00:10:03.839 --> 00:10:05.670 align:start position:0%
+closer kind of way. And I enjoy that,
+but it takes time. Everything that you
+00:10:05.670 --> 00:10:05.680 align:start position:0%
+but it takes time. Everything that you
+00:10:05.680 --> 00:10:07.910 align:start position:0%
+but it takes time. Everything that you
+create takes time. So then I realized,
+00:10:07.910 --> 00:10:07.920 align:start position:0%
+create takes time. So then I realized,
+00:10:07.920 --> 00:10:09.509 align:start position:0%
+create takes time. So then I realized,
+oh actually I've spent a lot of time on
+00:10:09.509 --> 00:10:09.519 align:start position:0%
+oh actually I've spent a lot of time on
+00:10:09.519 --> 00:10:11.190 align:start position:0%
+oh actually I've spent a lot of time on
+that. Maybe I could create like a
+00:10:11.190 --> 00:10:11.200 align:start position:0%
+that. Maybe I could create like a
+00:10:11.200 --> 00:10:13.269 align:start position:0%
+that. Maybe I could create like a
+LinkedIn newsletter from it. And then
+00:10:13.269 --> 00:10:13.279 align:start position:0%
+LinkedIn newsletter from it. And then
+00:10:13.279 --> 00:10:15.190 align:start position:0%
+LinkedIn newsletter from it. And then
+from there there are ideas that go to
+00:10:15.190 --> 00:10:15.200 align:start position:0%
+from there there are ideas that go to
+00:10:15.200 --> 00:10:17.030 align:start position:0%
+from there there are ideas that go to
+the website and you know sometimes
+00:10:17.030 --> 00:10:17.040 align:start position:0%
+the website and you know sometimes
+00:10:17.040 --> 00:10:18.949 align:start position:0%
+the website and you know sometimes
+podcast ideas and they all come
+00:10:18.949 --> 00:10:18.959 align:start position:0%
+podcast ideas and they all come
+00:10:18.959 --> 00:10:21.990 align:start position:0%
+podcast ideas and they all come
+together. But even I was like wasting so
+00:10:21.990 --> 00:10:22.000 align:start position:0%
+together. But even I was like wasting so
+00:10:22.000 --> 00:10:24.230 align:start position:0%
+together. But even I was like wasting so
+many good ideas only putting it in one
+00:10:24.230 --> 00:10:24.240 align:start position:0%
+many good ideas only putting it in one
+00:10:24.240 --> 00:10:27.190 align:start position:0%
+many good ideas only putting it in one
+spot because that was the thing. I wrote
+00:10:27.190 --> 00:10:27.200 align:start position:0%
+spot because that was the thing. I wrote
+00:10:27.200 --> 00:10:29.350 align:start position:0%
+spot because that was the thing. I wrote
+this for my email newsletter. It must
+00:10:29.350 --> 00:10:29.360 align:start position:0%
+this for my email newsletter. It must
+00:10:29.360 --> 00:10:31.750 align:start position:0%
+this for my email newsletter. It must
+stay in that bucket. And actually no,
+00:10:31.750 --> 00:10:31.760 align:start position:0%
+stay in that bucket. And actually no,
+00:10:31.760 --> 00:10:34.470 align:start position:0%
+stay in that bucket. And actually no,
+you can adapt it into so many different
+00:10:34.470 --> 00:10:34.480 align:start position:0%
+you can adapt it into so many different
+00:10:34.480 --> 00:10:36.389 align:start position:0%
+you can adapt it into so many different
+ways. And you know the podcast is the
+00:10:36.389 --> 00:10:36.399 align:start position:0%
+ways. And you know the podcast is the
+00:10:36.399 --> 00:10:38.870 align:start position:0%
+ways. And you know the podcast is the
+classic example of ends up in a
+00:10:38.870 --> 00:10:38.880 align:start position:0%
+classic example of ends up in a
+00:10:38.880 --> 00:10:40.470 align:start position:0%
+classic example of ends up in a
+newsletter, ends up a blog on the
+00:10:40.470 --> 00:10:40.480 align:start position:0%
+newsletter, ends up a blog on the
+00:10:40.480 --> 00:10:42.550 align:start position:0%
+newsletter, ends up a blog on the
+website, ends up in the emails, short
+00:10:42.550 --> 00:10:42.560 align:start position:0%
+website, ends up in the emails, short
+00:10:42.560 --> 00:10:44.790 align:start position:0%
+website, ends up in the emails, short
+form video clips. Like there are so many
+00:10:44.790 --> 00:10:44.800 align:start position:0%
+form video clips. Like there are so many
+00:10:44.800 --> 00:10:46.949 align:start position:0%
+form video clips. Like there are so many
+cool tools now. That's what I love AI
+00:10:46.949 --> 00:10:46.959 align:start position:0%
+cool tools now. That's what I love AI
+00:10:46.959 --> 00:10:49.430 align:start position:0%
+cool tools now. That's what I love AI
+for. Take the good long stuff and turn
+00:10:49.430 --> 00:10:49.440 align:start position:0%
+for. Take the good long stuff and turn
+00:10:49.440 --> 00:10:51.269 align:start position:0%
+for. Take the good long stuff and turn
+it into some cool short stuff.
+00:10:51.269 --> 00:10:51.279 align:start position:0%
+it into some cool short stuff.
+00:10:51.279 --> 00:10:53.030 align:start position:0%
+it into some cool short stuff.
+&gt;&gt; It's a really So I like to think of
+00:10:53.030 --> 00:10:53.040 align:start position:0%
+&gt;&gt; It's a really So I like to think of
+00:10:53.040 --> 00:10:56.310 align:start position:0%
+&gt;&gt; It's a really So I like to think of
+content strategy as it's a discussion
+00:10:56.310 --> 00:10:56.320 align:start position:0%
+content strategy as it's a discussion
+00:10:56.320 --> 00:10:57.750 align:start position:0%
+content strategy as it's a discussion
+around your center of gravity. Your
+00:10:57.750 --> 00:10:57.760 align:start position:0%
+around your center of gravity. Your
+00:10:57.760 --> 00:10:59.110 align:start position:0%
+around your center of gravity. Your
+center of gravity, Michelle, is your
+00:10:59.110 --> 00:10:59.120 align:start position:0%
+center of gravity, Michelle, is your
+00:10:59.120 --> 00:11:01.110 align:start position:0%
+center of gravity, Michelle, is your
+podcast. That's your anchor center of
+00:11:01.110 --> 00:11:01.120 align:start position:0%
+podcast. That's your anchor center of
+00:11:01.120 --> 00:11:02.550 align:start position:0%
+podcast. That's your anchor center of
+gravity. And from your center of
+00:11:02.550 --> 00:11:02.560 align:start position:0%
+gravity. And from your center of
+00:11:02.560 --> 00:11:05.430 align:start position:0%
+gravity. And from your center of
+gravity, you have other kind of planets
+00:11:05.430 --> 00:11:05.440 align:start position:0%
+gravity, you have other kind of planets
+00:11:05.440 --> 00:11:08.310 align:start position:0%
+gravity, you have other kind of planets
+in the orbit, right? LinkedIn post, a
+00:11:08.310 --> 00:11:08.320 align:start position:0%
+in the orbit, right? LinkedIn post, a
+00:11:08.320 --> 00:11:10.710 align:start position:0%
+in the orbit, right? LinkedIn post, a
+newsletter, a LinkedIn article, and so
+00:11:10.710 --> 00:11:10.720 align:start position:0%
+newsletter, a LinkedIn article, and so
+00:11:10.720 --> 00:11:12.790 align:start position:0%
+newsletter, a LinkedIn article, and so
+an offplatform newsletter, an onplatform
+00:11:12.790 --> 00:11:12.800 align:start position:0%
+an offplatform newsletter, an onplatform
+00:11:12.800 --> 00:11:15.030 align:start position:0%
+an offplatform newsletter, an onplatform
+newsletter. So some of the companies
+00:11:15.030 --> 00:11:15.040 align:start position:0%
+newsletter. So some of the companies
+00:11:15.040 --> 00:11:16.630 align:start position:0%
+newsletter. So some of the companies
+that I work with have their blog is
+00:11:16.630 --> 00:11:16.640 align:start position:0%
+that I work with have their blog is
+00:11:16.640 --> 00:11:18.230 align:start position:0%
+that I work with have their blog is
+their center of gravity, and that's
+00:11:18.230 --> 00:11:18.240 align:start position:0%
+their center of gravity, and that's
+00:11:18.240 --> 00:11:20.389 align:start position:0%
+their center of gravity, and that's
+great. It's great. It's a good mid
+00:11:20.389 --> 00:11:20.399 align:start position:0%
+great. It's great. It's a good mid
+00:11:20.399 --> 00:11:23.670 align:start position:0%
+great. It's great. It's a good mid
+mid-length content format. So, I think I
+00:11:23.670 --> 00:11:23.680 align:start position:0%
+mid-length content format. So, I think I
+00:11:23.680 --> 00:11:25.110 align:start position:0%
+mid-length content format. So, I think I
+would encourage listeners to think about
+00:11:25.110 --> 00:11:25.120 align:start position:0%
+would encourage listeners to think about
+00:11:25.120 --> 00:11:26.949 align:start position:0%
+would encourage listeners to think about
+what their center of gravity is and how
+00:11:26.949 --> 00:11:26.959 align:start position:0%
+what their center of gravity is and how
+00:11:26.959 --> 00:11:28.949 align:start position:0%
+what their center of gravity is and how
+they're going to put forward big ideas
+00:11:28.949 --> 00:11:28.959 align:start position:0%
+they're going to put forward big ideas
+00:11:28.959 --> 00:11:31.190 align:start position:0%
+they're going to put forward big ideas
+in that venue and then distribute it in
+00:11:31.190 --> 00:11:31.200 align:start position:0%
+in that venue and then distribute it in
+00:11:31.200 --> 00:11:34.470 align:start position:0%
+in that venue and then distribute it in
+other ways across channels. So, a
+00:11:34.470 --> 00:11:34.480 align:start position:0%
+other ways across channels. So, a
+00:11:34.480 --> 00:11:36.069 align:start position:0%
+other ways across channels. So, a
+podcast is a very logical center of
+00:11:36.069 --> 00:11:36.079 align:start position:0%
+podcast is a very logical center of
+00:11:36.079 --> 00:11:37.670 align:start position:0%
+podcast is a very logical center of
+gravity, but I won't tell everybody to
+00:11:37.670 --> 00:11:37.680 align:start position:0%
+gravity, but I won't tell everybody to
+00:11:37.680 --> 00:11:40.389 align:start position:0%
+gravity, but I won't tell everybody to
+go start a podcast. No way.
+00:11:40.389 --> 00:11:40.399 align:start position:0%
+go start a podcast. No way.
+00:11:40.399 --> 00:11:42.069 align:start position:0%
+go start a podcast. No way.
+&gt;&gt; Yeah. Who would have thought that it's
+00:11:42.069 --> 00:11:42.079 align:start position:0%
+&gt;&gt; Yeah. Who would have thought that it's
+00:11:42.079 --> 00:11:44.790 align:start position:0%
+&gt;&gt; Yeah. Who would have thought that it's
+not right for everybody? And this is the
+00:11:44.790 --> 00:11:44.800 align:start position:0%
+not right for everybody? And this is the
+00:11:44.800 --> 00:11:46.470 align:start position:0%
+not right for everybody? And this is the
+thing that I'm getting a a little
+00:11:46.470 --> 00:11:46.480 align:start position:0%
+thing that I'm getting a a little
+00:11:46.480 --> 00:11:49.030 align:start position:0%
+thing that I'm getting a a little
+worried for people out there that are
+00:11:49.030 --> 00:11:49.040 align:start position:0%
+worried for people out there that are
+00:11:49.040 --> 00:11:52.550 align:start position:0%
+worried for people out there that are
+going to tools like chat GPT or the
+00:11:52.550 --> 00:11:52.560 align:start position:0%
+going to tools like chat GPT or the
+00:11:52.560 --> 00:11:54.870 align:start position:0%
+going to tools like chat GPT or the
+large language models and saying give me
+00:11:54.870 --> 00:11:54.880 align:start position:0%
+large language models and saying give me
+00:11:54.880 --> 00:11:57.350 align:start position:0%
+large language models and saying give me
+a strategy and the strategy comes up the
+00:11:57.350 --> 00:11:57.360 align:start position:0%
+a strategy and the strategy comes up the
+00:11:57.360 --> 00:11:59.269 align:start position:0%
+a strategy and the strategy comes up the
+one-sizefits-all for everybody. You know
+00:11:59.269 --> 00:11:59.279 align:start position:0%
+one-sizefits-all for everybody. You know
+00:11:59.279 --> 00:12:00.870 align:start position:0%
+one-sizefits-all for everybody. You know
+based on the averages out on the
+00:12:00.870 --> 00:12:00.880 align:start position:0%
+based on the averages out on the
+00:12:00.880 --> 00:12:02.710 align:start position:0%
+based on the averages out on the
+internet this is what we think that you
+00:12:02.710 --> 00:12:02.720 align:start position:0%
+internet this is what we think that you
+00:12:02.720 --> 00:12:05.350 align:start position:0%
+internet this is what we think that you
+should do. And I know you and I are very
+00:12:05.350 --> 00:12:05.360 align:start position:0%
+should do. And I know you and I are very
+00:12:05.360 --> 00:12:07.590 align:start position:0%
+should do. And I know you and I are very
+aligned in the fact that no that is not
+00:12:07.590 --> 00:12:07.600 align:start position:0%
+aligned in the fact that no that is not
+00:12:07.600 --> 00:12:10.870 align:start position:0%
+aligned in the fact that no that is not
+a one-sizefits-all approach to this but
+00:12:10.870 --> 00:12:10.880 align:start position:0%
+a one-sizefits-all approach to this but
+00:12:10.880 --> 00:12:12.150 align:start position:0%
+a one-sizefits-all approach to this but
+finding the thing that you're really
+00:12:12.150 --> 00:12:12.160 align:start position:0%
+finding the thing that you're really
+00:12:12.160 --> 00:12:13.750 align:start position:0%
+finding the thing that you're really
+good at. So, one of my clients, you
+00:12:13.750 --> 00:12:13.760 align:start position:0%
+good at. So, one of my clients, you
+00:12:13.760 --> 00:12:15.190 align:start position:0%
+good at. So, one of my clients, you
+know, shout out to the team at
+00:12:15.190 --> 00:12:15.200 align:start position:0%
+know, shout out to the team at
+00:12:15.200 --> 00:12:17.990 align:start position:0%
+know, shout out to the team at
+Pluggable. They have this amazing
+00:12:17.990 --> 00:12:18.000 align:start position:0%
+Pluggable. They have this amazing
+00:12:18.000 --> 00:12:21.509 align:start position:0%
+Pluggable. They have this amazing
+YouTube channel that is just really has
+00:12:21.509 --> 00:12:21.519 align:start position:0%
+YouTube channel that is just really has
+00:12:21.519 --> 00:12:23.030 align:start position:0%
+YouTube channel that is just really has
+picked up and grown in the last 12
+00:12:23.030 --> 00:12:23.040 align:start position:0%
+picked up and grown in the last 12
+00:12:23.040 --> 00:12:24.550 align:start position:0%
+picked up and grown in the last 12
+months. They've been doing it for like
+00:12:24.550 --> 00:12:24.560 align:start position:0%
+months. They've been doing it for like
+00:12:24.560 --> 00:12:26.629 align:start position:0%
+months. They've been doing it for like
+10 plus years, but in the last 12
+00:12:26.629 --> 00:12:26.639 align:start position:0%
+10 plus years, but in the last 12
+00:12:26.639 --> 00:12:28.949 align:start position:0%
+10 plus years, but in the last 12
+months, they've nailed it. And so, what
+00:12:28.949 --> 00:12:28.959 align:start position:0%
+months, they've nailed it. And so, what
+00:12:28.959 --> 00:12:30.710 align:start position:0%
+months, they've nailed it. And so, what
+we were able to do is look and go, well,
+00:12:30.710 --> 00:12:30.720 align:start position:0%
+we were able to do is look and go, well,
+00:12:30.720 --> 00:12:33.509 align:start position:0%
+we were able to do is look and go, well,
+what's working over there? What can we
+00:12:33.509 --> 00:12:33.519 align:start position:0%
+what's working over there? What can we
+00:12:33.519 --> 00:12:35.670 align:start position:0%
+what's working over there? What can we
+bring to LinkedIn with your employees
+00:12:35.670 --> 00:12:35.680 align:start position:0%
+bring to LinkedIn with your employees
+00:12:35.680 --> 00:12:37.910 align:start position:0%
+bring to LinkedIn with your employees
+and with your company page? And so I
+00:12:37.910 --> 00:12:37.920 align:start position:0%
+and with your company page? And so I
+00:12:37.920 --> 00:12:40.150 align:start position:0%
+and with your company page? And so I
+can't wait to see when they enable that
+00:12:40.150 --> 00:12:40.160 align:start position:0%
+can't wait to see when they enable that
+00:12:40.160 --> 00:12:43.670 align:start position:0%
+can't wait to see when they enable that
+strategy to number one get so much more
+00:12:43.670 --> 00:12:43.680 align:start position:0%
+strategy to number one get so much more
+00:12:43.680 --> 00:12:44.870 align:start position:0%
+strategy to number one get so much more
+return on the effort that they're
+00:12:44.870 --> 00:12:44.880 align:start position:0%
+return on the effort that they're
+00:12:44.880 --> 00:12:46.949 align:start position:0%
+return on the effort that they're
+putting into a lot of that video content
+00:12:46.949 --> 00:12:46.959 align:start position:0%
+putting into a lot of that video content
+00:12:46.959 --> 00:12:49.430 align:start position:0%
+putting into a lot of that video content
+and switching up the formats. But I
+00:12:49.430 --> 00:12:49.440 align:start position:0%
+and switching up the formats. But I
+00:12:49.440 --> 00:12:51.430 align:start position:0%
+and switching up the formats. But I
+think LinkedIn works really great for
+00:12:51.430 --> 00:12:51.440 align:start position:0%
+think LinkedIn works really great for
+00:12:51.440 --> 00:12:53.509 align:start position:0%
+think LinkedIn works really great for
+that distribution side of things. you
+00:12:53.509 --> 00:12:53.519 align:start position:0%
+that distribution side of things. you
+00:12:53.519 --> 00:12:55.910 align:start position:0%
+that distribution side of things. you
+know, you've built communities and you
+00:12:55.910 --> 00:12:55.920 align:start position:0%
+know, you've built communities and you
+00:12:55.920 --> 00:12:58.949 align:start position:0%
+know, you've built communities and you
+can get that message in front of as many
+00:12:58.949 --> 00:12:58.959 align:start position:0%
+can get that message in front of as many
+00:12:58.959 --> 00:13:01.269 align:start position:0%
+can get that message in front of as many
+people as possible because Lee, one of
+00:13:01.269 --> 00:13:01.279 align:start position:0%
+people as possible because Lee, one of
+00:13:01.279 --> 00:13:02.629 align:start position:0%
+people as possible because Lee, one of
+the things that I think people get
+00:13:02.629 --> 00:13:02.639 align:start position:0%
+the things that I think people get
+00:13:02.639 --> 00:13:06.470 align:start position:0%
+the things that I think people get
+worried about is but if everyone posts
+00:13:06.470 --> 00:13:06.480 align:start position:0%
+worried about is but if everyone posts
+00:13:06.480 --> 00:13:08.550 align:start position:0%
+worried about is but if everyone posts
+all at the same time or, you know, in a
+00:13:08.550 --> 00:13:08.560 align:start position:0%
+all at the same time or, you know, in a
+00:13:08.560 --> 00:13:10.069 align:start position:0%
+all at the same time or, you know, in a
+similar kind of period around the same
+00:13:10.069 --> 00:13:10.079 align:start position:0%
+similar kind of period around the same
+00:13:10.079 --> 00:13:12.069 align:start position:0%
+similar kind of period around the same
+topic, won't people get bored of that?
+00:13:12.069 --> 00:13:12.079 align:start position:0%
+topic, won't people get bored of that?
+00:13:12.079 --> 00:13:13.670 align:start position:0%
+topic, won't people get bored of that?
+Won't they judge us? Won't they hate us
+00:13:13.670 --> 00:13:13.680 align:start position:0%
+Won't they judge us? Won't they hate us
+00:13:13.680 --> 00:13:15.350 align:start position:0%
+Won't they judge us? Won't they hate us
+because we keep saying the same thing?
+00:13:15.350 --> 00:13:15.360 align:start position:0%
+because we keep saying the same thing?
+00:13:15.360 --> 00:13:15.829 align:start position:0%
+because we keep saying the same thing?
+Not at all.
+00:13:15.829 --> 00:13:15.839 align:start position:0%
+Not at all.
+00:13:15.839 --> 00:13:17.590 align:start position:0%
+Not at all.
+&gt;&gt; What's your opinion on this? Because I
+00:13:17.590 --> 00:13:17.600 align:start position:0%
+&gt;&gt; What's your opinion on this? Because I
+00:13:17.600 --> 00:13:18.949 align:start position:0%
+&gt;&gt; What's your opinion on this? Because I
+have a pretty strong one, but I'll I'll
+00:13:18.949 --> 00:13:18.959 align:start position:0%
+have a pretty strong one, but I'll I'll
+00:13:18.959 --> 00:13:20.470 align:start position:0%
+have a pretty strong one, but I'll I'll
+let you do some talking. So,
+00:13:20.470 --> 00:13:20.480 align:start position:0%
+let you do some talking. So,
+00:13:20.480 --> 00:13:22.790 align:start position:0%
+let you do some talking. So,
+&gt;&gt; let's agree. You will get bored of your
+00:13:22.790 --> 00:13:22.800 align:start position:0%
+&gt;&gt; let's agree. You will get bored of your
+00:13:22.800 --> 00:13:24.629 align:start position:0%
+&gt;&gt; let's agree. You will get bored of your
+point of view way before your audience
+00:13:24.629 --> 00:13:24.639 align:start position:0%
+point of view way before your audience
+00:13:24.639 --> 00:13:27.990 align:start position:0%
+point of view way before your audience
+does. And if you have two, three, four,
+00:13:27.990 --> 00:13:28.000 align:start position:0%
+does. And if you have two, three, four,
+00:13:28.000 --> 00:13:30.310 align:start position:0%
+does. And if you have two, three, four,
+five, you know, pillars, points of view
+00:13:30.310 --> 00:13:30.320 align:start position:0%
+five, you know, pillars, points of view
+00:13:30.320 --> 00:13:32.710 align:start position:0%
+five, you know, pillars, points of view
+on specific things that you stand by,
+00:13:32.710 --> 00:13:32.720 align:start position:0%
+on specific things that you stand by,
+00:13:32.720 --> 00:13:34.629 align:start position:0%
+on specific things that you stand by,
+you must be, it's mandatory for you to
+00:13:34.629 --> 00:13:34.639 align:start position:0%
+you must be, it's mandatory for you to
+00:13:34.639 --> 00:13:36.790 align:start position:0%
+you must be, it's mandatory for you to
+repeat those. Don't start coming up with
+00:13:36.790 --> 00:13:36.800 align:start position:0%
+repeat those. Don't start coming up with
+00:13:36.800 --> 00:13:38.870 align:start position:0%
+repeat those. Don't start coming up with
+opinions outside of those lanes because
+00:13:38.870 --> 00:13:38.880 align:start position:0%
+opinions outside of those lanes because
+00:13:38.880 --> 00:13:40.150 align:start position:0%
+opinions outside of those lanes because
+pretty soon your market's not going to
+00:13:40.150 --> 00:13:40.160 align:start position:0%
+pretty soon your market's not going to
+00:13:40.160 --> 00:13:42.710 align:start position:0%
+pretty soon your market's not going to
+know what you really stand for. But keep
+00:13:42.710 --> 00:13:42.720 align:start position:0%
+know what you really stand for. But keep
+00:13:42.720 --> 00:13:44.230 align:start position:0%
+know what you really stand for. But keep
+repeating the four or five things where
+00:13:44.230 --> 00:13:44.240 align:start position:0%
+repeating the four or five things where
+00:13:44.240 --> 00:13:46.230 align:start position:0%
+repeating the four or five things where
+you really want to plant your flag.
+00:13:46.230 --> 00:13:46.240 align:start position:0%
+you really want to plant your flag.
+00:13:46.240 --> 00:13:49.990 align:start position:0%
+you really want to plant your flag.
+Yeah, the repetition I think is the
+00:13:49.990 --> 00:13:50.000 align:start position:0%
+Yeah, the repetition I think is the
+00:13:50.000 --> 00:13:53.670 align:start position:0%
+Yeah, the repetition I think is the
+biggest easiest thing that you can do to
+00:13:53.670 --> 00:13:53.680 align:start position:0%
+biggest easiest thing that you can do to
+00:13:53.680 --> 00:13:56.790 align:start position:0%
+biggest easiest thing that you can do to
+have wins across all the platforms that
+00:13:56.790 --> 00:13:56.800 align:start position:0%
+have wins across all the platforms that
+00:13:56.800 --> 00:13:59.110 align:start position:0%
+have wins across all the platforms that
+most people go. We already posted about
+00:13:59.110 --> 00:13:59.120 align:start position:0%
+most people go. We already posted about
+00:13:59.120 --> 00:14:01.030 align:start position:0%
+most people go. We already posted about
+that. We did a post on that two months
+00:14:01.030 --> 00:14:01.040 align:start position:0%
+that. We did a post on that two months
+00:14:01.040 --> 00:14:03.110 align:start position:0%
+that. We did a post on that two months
+ago. We've already talked about that.
+00:14:03.110 --> 00:14:03.120 align:start position:0%
+ago. We've already talked about that.
+00:14:03.120 --> 00:14:05.269 align:start position:0%
+ago. We've already talked about that.
+And if you think about organic
+00:14:05.269 --> 00:14:05.279 align:start position:0%
+And if you think about organic
+00:14:05.279 --> 00:14:07.110 align:start position:0%
+And if you think about organic
+distribution, especially on social
+00:14:07.110 --> 00:14:07.120 align:start position:0%
+distribution, especially on social
+00:14:07.120 --> 00:14:09.829 align:start position:0%
+distribution, especially on social
+platforms like LinkedIn, we know that
+00:14:09.829 --> 00:14:09.839 align:start position:0%
+platforms like LinkedIn, we know that
+00:14:09.839 --> 00:14:12.230 align:start position:0%
+platforms like LinkedIn, we know that
+our content more and more and more is
+00:14:12.230 --> 00:14:12.240 align:start position:0%
+our content more and more and more is
+00:14:12.240 --> 00:14:14.710 align:start position:0%
+our content more and more and more is
+not being shown to as many people. And
+00:14:14.710 --> 00:14:14.720 align:start position:0%
+not being shown to as many people. And
+00:14:14.720 --> 00:14:17.189 align:start position:0%
+not being shown to as many people. And
+you're relying on your ideal audience
+00:14:17.189 --> 00:14:17.199 align:start position:0%
+you're relying on your ideal audience
+00:14:17.199 --> 00:14:20.230 align:start position:0%
+you're relying on your ideal audience
+having been online at the time that you
+00:14:20.230 --> 00:14:20.240 align:start position:0%
+having been online at the time that you
+00:14:20.240 --> 00:14:22.069 align:start position:0%
+having been online at the time that you
+spoke about that once, right?
+00:14:22.069 --> 00:14:22.079 align:start position:0%
+spoke about that once, right?
+00:14:22.079 --> 00:14:24.389 align:start position:0%
+spoke about that once, right?
+&gt;&gt; And when I say it like this, it sounds
+00:14:24.389 --> 00:14:24.399 align:start position:0%
+&gt;&gt; And when I say it like this, it sounds
+00:14:24.399 --> 00:14:26.870 align:start position:0%
+&gt;&gt; And when I say it like this, it sounds
+crazy that people think it, but our
+00:14:26.870 --> 00:14:26.880 align:start position:0%
+crazy that people think it, but our
+00:14:26.880 --> 00:14:29.269 align:start position:0%
+crazy that people think it, but our
+brains, I think, protect us and go, we
+00:14:29.269 --> 00:14:29.279 align:start position:0%
+brains, I think, protect us and go, we
+00:14:29.279 --> 00:14:30.629 align:start position:0%
+brains, I think, protect us and go, we
+don't want to say it too much. What if
+00:14:30.629 --> 00:14:30.639 align:start position:0%
+don't want to say it too much. What if
+00:14:30.639 --> 00:14:32.150 align:start position:0%
+don't want to say it too much. What if
+we say it too much? And it's the
+00:14:32.150 --> 00:14:32.160 align:start position:0%
+we say it too much? And it's the
+00:14:32.160 --> 00:14:33.829 align:start position:0%
+we say it too much? And it's the
+repetition
+00:14:33.829 --> 00:14:33.839 align:start position:0%
+repetition
+00:14:33.839 --> 00:14:36.629 align:start position:0%
+repetition
+&gt;&gt; that is critical. And this is why I try
+00:14:36.629 --> 00:14:36.639 align:start position:0%
+&gt;&gt; that is critical. And this is why I try
+00:14:36.639 --> 00:14:38.949 align:start position:0%
+&gt;&gt; that is critical. And this is why I try
+and say to people, if you've got 10,000
+00:14:38.949 --> 00:14:38.959 align:start position:0%
+and say to people, if you've got 10,000
+00:14:38.959 --> 00:14:41.030 align:start position:0%
+and say to people, if you've got 10,000
+different products that you can sell,
+00:14:41.030 --> 00:14:41.040 align:start position:0%
+different products that you can sell,
+00:14:41.040 --> 00:14:42.870 align:start position:0%
+different products that you can sell,
+pick your five favorites that are your
+00:14:42.870 --> 00:14:42.880 align:start position:0%
+pick your five favorites that are your
+00:14:42.880 --> 00:14:44.629 align:start position:0%
+pick your five favorites that are your
+best sellers or the one that you want to
+00:14:44.629 --> 00:14:44.639 align:start position:0%
+best sellers or the one that you want to
+00:14:44.639 --> 00:14:47.350 align:start position:0%
+best sellers or the one that you want to
+promote and just talk non-stop about
+00:14:47.350 --> 00:14:47.360 align:start position:0%
+promote and just talk non-stop about
+00:14:47.360 --> 00:14:49.670 align:start position:0%
+promote and just talk non-stop about
+five instead of trying to talk a little
+00:14:49.670 --> 00:14:49.680 align:start position:0%
+five instead of trying to talk a little
+00:14:49.680 --> 00:14:52.550 align:start position:0%
+five instead of trying to talk a little
+bit about 10,000 because everyone's like
+00:14:52.550 --> 00:14:52.560 align:start position:0%
+bit about 10,000 because everyone's like
+00:14:52.560 --> 00:14:54.550 align:start position:0%
+bit about 10,000 because everyone's like
+snoozefest. Like at the end of the day,
+00:14:54.550 --> 00:14:54.560 align:start position:0%
+snoozefest. Like at the end of the day,
+00:14:54.560 --> 00:14:56.230 align:start position:0%
+snoozefest. Like at the end of the day,
+you can't remember it.
+00:14:56.230 --> 00:14:56.240 align:start position:0%
+you can't remember it.
+00:14:56.240 --> 00:14:57.829 align:start position:0%
+you can't remember it.
+&gt;&gt; This is not your friend group. This is
+00:14:57.829 --> 00:14:57.839 align:start position:0%
+&gt;&gt; This is not your friend group. This is
+00:14:57.839 --> 00:14:59.430 align:start position:0%
+&gt;&gt; This is not your friend group. This is
+not your tight group of five friends who
+00:14:59.430 --> 00:14:59.440 align:start position:0%
+not your tight group of five friends who
+00:14:59.440 --> 00:15:00.949 align:start position:0%
+not your tight group of five friends who
+are like, "Really, you told this story
+00:15:00.949 --> 00:15:00.959 align:start position:0%
+are like, "Really, you told this story
+00:15:00.959 --> 00:15:03.910 align:start position:0%
+are like, "Really, you told this story
+last week." It is the opposite of that.
+00:15:03.910 --> 00:15:03.920 align:start position:0%
+last week." It is the opposite of that.
+00:15:03.920 --> 00:15:06.230 align:start position:0%
+last week." It is the opposite of that.
+&gt;&gt; Yeah, it sure is. I've been on the end
+00:15:06.230 --> 00:15:06.240 align:start position:0%
+&gt;&gt; Yeah, it sure is. I've been on the end
+00:15:06.240 --> 00:15:08.550 align:start position:0%
+&gt;&gt; Yeah, it sure is. I've been on the end
+of it myself where, you know, and I'm
+00:15:08.550 --> 00:15:08.560 align:start position:0%
+of it myself where, you know, and I'm
+00:15:08.560 --> 00:15:10.470 align:start position:0%
+of it myself where, you know, and I'm
+guilty of it right now. Okay, so I'm
+00:15:10.470 --> 00:15:10.480 align:start position:0%
+guilty of it right now. Okay, so I'm
+00:15:10.480 --> 00:15:11.910 align:start position:0%
+guilty of it right now. Okay, so I'm
+going to step into the confession box
+00:15:11.910 --> 00:15:11.920 align:start position:0%
+going to step into the confession box
+00:15:11.920 --> 00:15:14.949 align:start position:0%
+going to step into the confession box
+for a moment because I know better. So,
+00:15:14.949 --> 00:15:14.959 align:start position:0%
+for a moment because I know better. So,
+00:15:14.959 --> 00:15:16.790 align:start position:0%
+for a moment because I know better. So,
+I've written two books and I would be
+00:15:16.790 --> 00:15:16.800 align:start position:0%
+I've written two books and I would be
+00:15:16.800 --> 00:15:18.629 align:start position:0%
+I've written two books and I would be
+very confident that there would be a lot
+00:15:18.629 --> 00:15:18.639 align:start position:0%
+very confident that there would be a lot
+00:15:18.639 --> 00:15:20.310 align:start position:0%
+very confident that there would be a lot
+of people listening to this show that
+00:15:20.310 --> 00:15:20.320 align:start position:0%
+of people listening to this show that
+00:15:20.320 --> 00:15:22.629 align:start position:0%
+of people listening to this show that
+wouldn't even know I've written one. I
+00:15:22.629 --> 00:15:22.639 align:start position:0%
+wouldn't even know I've written one. I
+00:15:22.639 --> 00:15:24.949 align:start position:0%
+wouldn't even know I've written one. I
+did a poll a while back asking people
+00:15:24.949 --> 00:15:24.959 align:start position:0%
+did a poll a while back asking people
+00:15:24.959 --> 00:15:27.509 align:start position:0%
+did a poll a while back asking people
+did they know and I was really surprised
+00:15:27.509 --> 00:15:27.519 align:start position:0%
+did they know and I was really surprised
+00:15:27.519 --> 00:15:29.590 align:start position:0%
+did they know and I was really surprised
+that some of my close friends on
+00:15:29.590 --> 00:15:29.600 align:start position:0%
+that some of my close friends on
+00:15:29.600 --> 00:15:31.590 align:start position:0%
+that some of my close friends on
+LinkedIn were like when did you write a
+00:15:31.590 --> 00:15:31.600 align:start position:0%
+LinkedIn were like when did you write a
+00:15:31.600 --> 00:15:33.030 align:start position:0%
+LinkedIn were like when did you write a
+second book or I didn't know you wrote
+00:15:33.030 --> 00:15:33.040 align:start position:0%
+second book or I didn't know you wrote
+00:15:33.040 --> 00:15:34.710 align:start position:0%
+second book or I didn't know you wrote
+the first book and these are like the
+00:15:34.710 --> 00:15:34.720 align:start position:0%
+the first book and these are like the
+00:15:34.720 --> 00:15:36.470 align:start position:0%
+the first book and these are like the
+close people not even like the people
+00:15:36.470 --> 00:15:36.480 align:start position:0%
+close people not even like the people
+00:15:36.480 --> 00:15:38.550 align:start position:0%
+close people not even like the people
+that are like you know a bit further
+00:15:38.550 --> 00:15:38.560 align:start position:0%
+that are like you know a bit further
+00:15:38.560 --> 00:15:41.430 align:start position:0%
+that are like you know a bit further
+removed from my everyday world and I was
+00:15:41.430 --> 00:15:41.440 align:start position:0%
+removed from my everyday world and I was
+00:15:41.440 --> 00:15:44.389 align:start position:0%
+removed from my everyday world and I was
+like oh no and then so if you flip it to
+00:15:44.389 --> 00:15:44.399 align:start position:0%
+like oh no and then so if you flip it to
+00:15:44.399 --> 00:15:46.470 align:start position:0%
+like oh no and then so if you flip it to
+the other side I'm pretty sure everybody
+00:15:46.470 --> 00:15:46.480 align:start position:0%
+the other side I'm pretty sure everybody
+00:15:46.480 --> 00:15:49.030 align:start position:0%
+the other side I'm pretty sure everybody
+in the world knows me talking about Tim
+00:15:49.030 --> 00:15:49.040 align:start position:0%
+in the world knows me talking about Tim
+00:15:49.040 --> 00:15:50.949 align:start position:0%
+in the world knows me talking about Tim
+Tams every single Friday for the last
+00:15:50.949 --> 00:15:50.959 align:start position:0%
+Tams every single Friday for the last
+00:15:50.959 --> 00:15:53.350 align:start position:0%
+Tams every single Friday for the last
+kind of couple of years, I get pictures
+00:15:53.350 --> 00:15:53.360 align:start position:0%
+kind of couple of years, I get pictures
+00:15:53.360 --> 00:15:55.110 align:start position:0%
+kind of couple of years, I get pictures
+of them from all around the world.
+00:15:55.110 --> 00:15:55.120 align:start position:0%
+of them from all around the world.
+00:15:55.120 --> 00:15:57.030 align:start position:0%
+of them from all around the world.
+People buying them because they saw them
+00:15:57.030 --> 00:15:57.040 align:start position:0%
+People buying them because they saw them
+00:15:57.040 --> 00:15:59.269 align:start position:0%
+People buying them because they saw them
+in their local shops, which is like one
+00:15:59.269 --> 00:15:59.279 align:start position:0%
+in their local shops, which is like one
+00:15:59.279 --> 00:16:01.110 align:start position:0%
+in their local shops, which is like one
+of my favorite things. You
+00:16:01.110 --> 00:16:01.120 align:start position:0%
+of my favorite things. You
+00:16:01.120 --> 00:16:03.670 align:start position:0%
+of my favorite things. You
+&gt;&gt; Tim Tam, American, what is a Tim Tam?
+00:16:03.670 --> 00:16:03.680 align:start position:0%
+&gt;&gt; Tim Tam, American, what is a Tim Tam?
+00:16:03.680 --> 00:16:06.550 align:start position:0%
+&gt;&gt; Tim Tam, American, what is a Tim Tam?
+&gt;&gt; Tim Tams are chocolate I'm going to say
+00:16:06.550 --> 00:16:06.560 align:start position:0%
+&gt;&gt; Tim Tams are chocolate I'm going to say
+00:16:06.560 --> 00:16:08.310 align:start position:0%
+&gt;&gt; Tim Tams are chocolate I'm going to say
+cookies. I'd say biscuits here in
+00:16:08.310 --> 00:16:08.320 align:start position:0%
+cookies. I'd say biscuits here in
+00:16:08.320 --> 00:16:09.749 align:start position:0%
+cookies. I'd say biscuits here in
+Australia, but I I know I've got to
+00:16:09.749 --> 00:16:09.759 align:start position:0%
+Australia, but I I know I've got to
+00:16:09.759 --> 00:16:11.990 align:start position:0%
+Australia, but I I know I've got to
+interpret. So, they are chocolate
+00:16:11.990 --> 00:16:12.000 align:start position:0%
+interpret. So, they are chocolate
+00:16:12.000 --> 00:16:15.110 align:start position:0%
+interpret. So, they are chocolate
+delicious goodies that have just been
+00:16:15.110 --> 00:16:15.120 align:start position:0%
+delicious goodies that have just been
+00:16:15.120 --> 00:16:17.110 align:start position:0%
+delicious goodies that have just been
+launched in the US, so you can get them
+00:16:17.110 --> 00:16:17.120 align:start position:0%
+launched in the US, so you can get them
+00:16:17.120 --> 00:16:19.670 align:start position:0%
+launched in the US, so you can get them
+locally now. Uh, but ultimately every
+00:16:19.670 --> 00:16:19.680 align:start position:0%
+locally now. Uh, but ultimately every
+00:16:19.680 --> 00:16:21.509 align:start position:0%
+locally now. Uh, but ultimately every
+Friday I talk about a Tim Tam tip. So
+00:16:21.509 --> 00:16:21.519 align:start position:0%
+Friday I talk about a Tim Tam tip. So
+00:16:21.519 --> 00:16:24.150 align:start position:0%
+Friday I talk about a Tim Tam tip. So
+it's my excuse to eat them. I record
+00:16:24.150 --> 00:16:24.160 align:start position:0%
+it's my excuse to eat them. I record
+00:16:24.160 --> 00:16:25.829 align:start position:0%
+it's my excuse to eat them. I record
+something or take a photo and relate it
+00:16:25.829 --> 00:16:25.839 align:start position:0%
+something or take a photo and relate it
+00:16:25.839 --> 00:16:28.069 align:start position:0%
+something or take a photo and relate it
+back to a LinkedIn marketing tip. And
+00:16:28.069 --> 00:16:28.079 align:start position:0%
+back to a LinkedIn marketing tip. And
+00:16:28.079 --> 00:16:29.990 align:start position:0%
+back to a LinkedIn marketing tip. And
+when I go and speak, so I'll be at
+00:16:29.990 --> 00:16:30.000 align:start position:0%
+when I go and speak, so I'll be at
+00:16:30.000 --> 00:16:31.590 align:start position:0%
+when I go and speak, so I'll be at
+Social Media Marketing World in a few
+00:16:31.590 --> 00:16:31.600 align:start position:0%
+Social Media Marketing World in a few
+00:16:31.600 --> 00:16:35.030 align:start position:0%
+Social Media Marketing World in a few
+weeks. My suitcase will have 300 of
+00:16:35.030 --> 00:16:35.040 align:start position:0%
+weeks. My suitcase will have 300 of
+00:16:35.040 --> 00:16:38.230 align:start position:0%
+weeks. My suitcase will have 300 of
+these in my suitcase so I can share them
+00:16:38.230 --> 00:16:38.240 align:start position:0%
+these in my suitcase so I can share them
+00:16:38.240 --> 00:16:40.550 align:start position:0%
+these in my suitcase so I can share them
+with the people in the audience. So the
+00:16:40.550 --> 00:16:40.560 align:start position:0%
+with the people in the audience. So the
+00:16:40.560 --> 00:16:42.230 align:start position:0%
+with the people in the audience. So the
+first thing that happened when people
+00:16:42.230 --> 00:16:42.240 align:start position:0%
+first thing that happened when people
+00:16:42.240 --> 00:16:43.749 align:start position:0%
+first thing that happened when people
+found out I was speaking this year, the
+00:16:43.749 --> 00:16:43.759 align:start position:0%
+found out I was speaking this year, the
+00:16:43.759 --> 00:16:46.230 align:start position:0%
+found out I was speaking this year, the
+ones that had seen me in previous years,
+00:16:46.230 --> 00:16:46.240 align:start position:0%
+ones that had seen me in previous years,
+00:16:46.240 --> 00:16:47.990 align:start position:0%
+ones that had seen me in previous years,
+the first question, are you bringing the
+00:16:47.990 --> 00:16:48.000 align:start position:0%
+the first question, are you bringing the
+00:16:48.000 --> 00:16:50.389 align:start position:0%
+the first question, are you bringing the
+Tim Tams?
+00:16:50.389 --> 00:16:50.399 align:start position:0%
+Tim Tams?
+00:16:50.399 --> 00:16:52.230 align:start position:0%
+Tim Tams?
+&gt;&gt; Do you like chuck them at people from
+00:16:52.230 --> 00:16:52.240 align:start position:0%
+&gt;&gt; Do you like chuck them at people from
+00:16:52.240 --> 00:16:53.430 align:start position:0%
+&gt;&gt; Do you like chuck them at people from
+the audience?
+00:16:53.430 --> 00:16:53.440 align:start position:0%
+the audience?
+00:16:53.440 --> 00:16:56.150 align:start position:0%
+the audience?
+&gt;&gt; I have uh thought about that approach
+00:16:56.150 --> 00:16:56.160 align:start position:0%
+&gt;&gt; I have uh thought about that approach
+00:16:56.160 --> 00:16:57.829 align:start position:0%
+&gt;&gt; I have uh thought about that approach
+and now at least they're individually
+00:16:57.829 --> 00:16:57.839 align:start position:0%
+and now at least they're individually
+00:16:57.839 --> 00:17:00.310 align:start position:0%
+and now at least they're individually
+wrapped so I can make sure that they all
+00:17:00.310 --> 00:17:00.320 align:start position:0%
+wrapped so I can make sure that they all
+00:17:00.320 --> 00:17:01.749 align:start position:0%
+wrapped so I can make sure that they all
+get put on the seat or given to people
+00:17:01.749 --> 00:17:01.759 align:start position:0%
+get put on the seat or given to people
+00:17:01.759 --> 00:17:04.390 align:start position:0%
+get put on the seat or given to people
+as they walk in the door. But it's about
+00:17:04.390 --> 00:17:04.400 align:start position:0%
+as they walk in the door. But it's about
+00:17:04.400 --> 00:17:06.870 align:start position:0%
+as they walk in the door. But it's about
+creating memorable moments. And I think
+00:17:06.870 --> 00:17:06.880 align:start position:0%
+creating memorable moments. And I think
+00:17:06.880 --> 00:17:09.510 align:start position:0%
+creating memorable moments. And I think
+that's the purpose of this content is
+00:17:09.510 --> 00:17:09.520 align:start position:0%
+that's the purpose of this content is
+00:17:09.520 --> 00:17:11.429 align:start position:0%
+that's the purpose of this content is
+not just to post content for content's
+00:17:11.429 --> 00:17:11.439 align:start position:0%
+not just to post content for content's
+00:17:11.439 --> 00:17:14.230 align:start position:0%
+not just to post content for content's
+sake. To hit a KPI of, oh, I posted
+00:17:14.230 --> 00:17:14.240 align:start position:0%
+sake. To hit a KPI of, oh, I posted
+00:17:14.240 --> 00:17:16.069 align:start position:0%
+sake. To hit a KPI of, oh, I posted
+three times this week.
+00:17:16.069 --> 00:17:16.079 align:start position:0%
+three times this week.
+00:17:16.079 --> 00:17:18.470 align:start position:0%
+three times this week.
+&gt;&gt; Well, who cares? Like really, does
+00:17:18.470 --> 00:17:18.480 align:start position:0%
+&gt;&gt; Well, who cares? Like really, does
+00:17:18.480 --> 00:17:18.870 align:start position:0%
+&gt;&gt; Well, who cares? Like really, does
+anyone
+00:17:18.870 --> 00:17:18.880 align:start position:0%
+anyone
+00:17:18.880 --> 00:17:20.949 align:start position:0%
+anyone
+&gt;&gt; You're saying find your Tim Tam.
+00:17:20.949 --> 00:17:20.959 align:start position:0%
+&gt;&gt; You're saying find your Tim Tam.
+00:17:20.959 --> 00:17:22.710 align:start position:0%
+&gt;&gt; You're saying find your Tim Tam.
+&gt;&gt; Exactly. Find your Tim Tam.
+00:17:22.710 --> 00:17:22.720 align:start position:0%
+&gt;&gt; Exactly. Find your Tim Tam.
+00:17:22.720 --> 00:17:25.270 align:start position:0%
+&gt;&gt; Exactly. Find your Tim Tam.
+&gt;&gt; Tim, whatever it is, find your Tim Tam
+00:17:25.270 --> 00:17:25.280 align:start position:0%
+&gt;&gt; Tim, whatever it is, find your Tim Tam
+00:17:25.280 --> 00:17:27.750 align:start position:0%
+&gt;&gt; Tim, whatever it is, find your Tim Tam
+and keep on offering the Tim Tam.
+00:17:27.750 --> 00:17:27.760 align:start position:0%
+and keep on offering the Tim Tam.
+00:17:27.760 --> 00:17:29.510 align:start position:0%
+and keep on offering the Tim Tam.
+&gt;&gt; Yeah. Because people laugh and say, "But
+00:17:29.510 --> 00:17:29.520 align:start position:0%
+&gt;&gt; Yeah. Because people laugh and say, "But
+00:17:29.520 --> 00:17:30.630 align:start position:0%
+&gt;&gt; Yeah. Because people laugh and say, "But
+it's okay for you, Michelle. it's just
+00:17:30.630 --> 00:17:30.640 align:start position:0%
+it's okay for you, Michelle. it's just
+00:17:30.640 --> 00:17:32.150 align:start position:0%
+it's okay for you, Michelle. it's just
+Tim Tams. We can't talk about our
+00:17:32.150 --> 00:17:32.160 align:start position:0%
+Tim Tams. We can't talk about our
+00:17:32.160 --> 00:17:33.590 align:start position:0%
+Tim Tams. We can't talk about our
+product that much. And I'm like, you
+00:17:33.590 --> 00:17:33.600 align:start position:0%
+product that much. And I'm like, you
+00:17:33.600 --> 00:17:35.510 align:start position:0%
+product that much. And I'm like, you
+have even more reason to talk about your
+00:17:35.510 --> 00:17:35.520 align:start position:0%
+have even more reason to talk about your
+00:17:35.520 --> 00:17:37.909 align:start position:0%
+have even more reason to talk about your
+product that much. And you know, for me,
+00:17:37.909 --> 00:17:37.919 align:start position:0%
+product that much. And you know, for me,
+00:17:37.919 --> 00:17:39.669 align:start position:0%
+product that much. And you know, for me,
+it's always the reminder that I should
+00:17:39.669 --> 00:17:39.679 align:start position:0%
+it's always the reminder that I should
+00:17:39.679 --> 00:17:41.350 align:start position:0%
+it's always the reminder that I should
+be doing that for my other products and
+00:17:41.350 --> 00:17:41.360 align:start position:0%
+be doing that for my other products and
+00:17:41.360 --> 00:17:44.150 align:start position:0%
+be doing that for my other products and
+services that I do just as much so that
+00:17:44.150 --> 00:17:44.160 align:start position:0%
+services that I do just as much so that
+00:17:44.160 --> 00:17:45.990 align:start position:0%
+services that I do just as much so that
+they're connected, you know, and this is
+00:17:45.990 --> 00:17:46.000 align:start position:0%
+they're connected, you know, and this is
+00:17:46.000 --> 00:17:47.830 align:start position:0%
+they're connected, you know, and this is
+the thing listeners like
+00:17:47.830 --> 00:17:47.840 align:start position:0%
+the thing listeners like
+00:17:47.840 --> 00:17:49.830 align:start position:0%
+the thing listeners like
+&gt;&gt; I have these conversations cuz sometimes
+00:17:49.830 --> 00:17:49.840 align:start position:0%
+&gt;&gt; I have these conversations cuz sometimes
+00:17:49.840 --> 00:17:52.150 align:start position:0%
+&gt;&gt; I have these conversations cuz sometimes
+I need the reminder, you know, and so
+00:17:52.150 --> 00:17:52.160 align:start position:0%
+I need the reminder, you know, and so
+00:17:52.160 --> 00:17:53.990 align:start position:0%
+I need the reminder, you know, and so
+thanks for, you know, coming on Lee so I
+00:17:53.990 --> 00:17:54.000 align:start position:0%
+thanks for, you know, coming on Lee so I
+00:17:54.000 --> 00:17:55.990 align:start position:0%
+thanks for, you know, coming on Lee so I
+can talk about it. But let's go the
+00:17:55.990 --> 00:17:56.000 align:start position:0%
+can talk about it. But let's go the
+00:17:56.000 --> 00:17:59.029 align:start position:0%
+can talk about it. But let's go the
+other way. So, we know that there's a
+00:17:59.029 --> 00:17:59.039 align:start position:0%
+other way. So, we know that there's a
+00:17:59.039 --> 00:18:01.350 align:start position:0%
+other way. So, we know that there's a
+lot of waste going on out there with all
+00:18:01.350 --> 00:18:01.360 align:start position:0%
+lot of waste going on out there with all
+00:18:01.360 --> 00:18:04.150 align:start position:0%
+lot of waste going on out there with all
+of this corporate content. Let's go the
+00:18:04.150 --> 00:18:04.160 align:start position:0%
+of this corporate content. Let's go the
+00:18:04.160 --> 00:18:06.630 align:start position:0%
+of this corporate content. Let's go the
+other way. What does an actual strong
+00:18:06.630 --> 00:18:06.640 align:start position:0%
+other way. What does an actual strong
+00:18:06.640 --> 00:18:09.190 align:start position:0%
+other way. What does an actual strong
+content system look like when it's
+00:18:09.190 --> 00:18:09.200 align:start position:0%
+content system look like when it's
+00:18:09.200 --> 00:18:10.390 align:start position:0%
+content system look like when it's
+working properly?
+00:18:10.390 --> 00:18:10.400 align:start position:0%
+working properly?
+00:18:10.400 --> 00:18:12.390 align:start position:0%
+working properly?
+&gt;&gt; Sure. Three things. Okay, we talked
+00:18:12.390 --> 00:18:12.400 align:start position:0%
+&gt;&gt; Sure. Three things. Okay, we talked
+00:18:12.400 --> 00:18:13.590 align:start position:0%
+&gt;&gt; Sure. Three things. Okay, we talked
+about this before, but it's the
+00:18:13.590 --> 00:18:13.600 align:start position:0%
+about this before, but it's the
+00:18:13.600 --> 00:18:15.510 align:start position:0%
+about this before, but it's the
+alignment. Your sales, your product, and
+00:18:15.510 --> 00:18:15.520 align:start position:0%
+alignment. Your sales, your product, and
+00:18:15.520 --> 00:18:17.110 align:start position:0%
+alignment. Your sales, your product, and
+your account teams are all aware of
+00:18:17.110 --> 00:18:17.120 align:start position:0%
+your account teams are all aware of
+00:18:17.120 --> 00:18:19.830 align:start position:0%
+your account teams are all aware of
+content and how to use it. So, they've
+00:18:19.830 --> 00:18:19.840 align:start position:0%
+content and how to use it. So, they've
+00:18:19.840 --> 00:18:21.190 align:start position:0%
+content and how to use it. So, they've
+been trained. They're in synergy.
+00:18:21.190 --> 00:18:21.200 align:start position:0%
+been trained. They're in synergy.
+00:18:21.200 --> 00:18:22.630 align:start position:0%
+been trained. They're in synergy.
+They're passing information back and
+00:18:22.630 --> 00:18:22.640 align:start position:0%
+They're passing information back and
+00:18:22.640 --> 00:18:24.630 align:start position:0%
+They're passing information back and
+forth. So, that's the first one. The
+00:18:24.630 --> 00:18:24.640 align:start position:0%
+forth. So, that's the first one. The
+00:18:24.640 --> 00:18:26.470 align:start position:0%
+forth. So, that's the first one. The
+sales team is giving ideas to the
+00:18:26.470 --> 00:18:26.480 align:start position:0%
+sales team is giving ideas to the
+00:18:26.480 --> 00:18:28.150 align:start position:0%
+sales team is giving ideas to the
+content team based on customer
+00:18:28.150 --> 00:18:28.160 align:start position:0%
+content team based on customer
+00:18:28.160 --> 00:18:30.150 align:start position:0%
+content team based on customer
+conversations. They're the closest to
+00:18:30.150 --> 00:18:30.160 align:start position:0%
+conversations. They're the closest to
+00:18:30.160 --> 00:18:32.549 align:start position:0%
+conversations. They're the closest to
+the customer. They have to be informing
+00:18:32.549 --> 00:18:32.559 align:start position:0%
+the customer. They have to be informing
+00:18:32.559 --> 00:18:35.350 align:start position:0%
+the customer. They have to be informing
+content. And the content team is
+00:18:35.350 --> 00:18:35.360 align:start position:0%
+content. And the content team is
+00:18:35.360 --> 00:18:37.350 align:start position:0%
+content. And the content team is
+actively repurposing. We've talked about
+00:18:37.350 --> 00:18:37.360 align:start position:0%
+actively repurposing. We've talked about
+00:18:37.360 --> 00:18:39.990 align:start position:0%
+actively repurposing. We've talked about
+this. So taking the best things from the
+00:18:39.990 --> 00:18:40.000 align:start position:0%
+this. So taking the best things from the
+00:18:40.000 --> 00:18:42.789 align:start position:0%
+this. So taking the best things from the
+center of gravity and making assets that
+00:18:42.789 --> 00:18:42.799 align:start position:0%
+center of gravity and making assets that
+00:18:42.799 --> 00:18:45.190 align:start position:0%
+center of gravity and making assets that
+are easily usable and easily available
+00:18:45.190 --> 00:18:45.200 align:start position:0%
+are easily usable and easily available
+00:18:45.200 --> 00:18:47.590 align:start position:0%
+are easily usable and easily available
+for those other teams. That's what it
+00:18:47.590 --> 00:18:47.600 align:start position:0%
+for those other teams. That's what it
+00:18:47.600 --> 00:18:48.950 align:start position:0%
+for those other teams. That's what it
+that's what should be happening when
+00:18:48.950 --> 00:18:48.960 align:start position:0%
+that's what should be happening when
+00:18:48.960 --> 00:18:50.630 align:start position:0%
+that's what should be happening when
+it's all working well.
+00:18:50.630 --> 00:18:50.640 align:start position:0%
+it's all working well.
+00:18:50.640 --> 00:18:53.190 align:start position:0%
+it's all working well.
+&gt;&gt; Yeah. the emphasis on should, but it's
+00:18:53.190 --> 00:18:53.200 align:start position:0%
+&gt;&gt; Yeah. the emphasis on should, but it's
+00:18:53.200 --> 00:18:56.070 align:start position:0%
+&gt;&gt; Yeah. the emphasis on should, but it's
+not really hard. What we're talking here
+00:18:56.070 --> 00:18:56.080 align:start position:0%
+not really hard. What we're talking here
+00:18:56.080 --> 00:18:58.870 align:start position:0%
+not really hard. What we're talking here
+is actually not anything that's super
+00:18:58.870 --> 00:18:58.880 align:start position:0%
+is actually not anything that's super
+00:18:58.880 --> 00:19:00.390 align:start position:0%
+is actually not anything that's super
+complicated. No,
+00:19:00.390 --> 00:19:00.400 align:start position:0%
+complicated. No,
+00:19:00.400 --> 00:19:03.350 align:start position:0%
+complicated. No,
+&gt;&gt; but it does require planning and it's
+00:19:03.350 --> 00:19:03.360 align:start position:0%
+&gt;&gt; but it does require planning and it's
+00:19:03.360 --> 00:19:05.190 align:start position:0%
+&gt;&gt; but it does require planning and it's
+setting time aside. And I think quite
+00:19:05.190 --> 00:19:05.200 align:start position:0%
+setting time aside. And I think quite
+00:19:05.200 --> 00:19:07.590 align:start position:0%
+setting time aside. And I think quite
+often when everyone's pulled in every
+00:19:07.590 --> 00:19:07.600 align:start position:0%
+often when everyone's pulled in every
+00:19:07.600 --> 00:19:09.990 align:start position:0%
+often when everyone's pulled in every
+single direction and they're all
+00:19:09.990 --> 00:19:10.000 align:start position:0%
+single direction and they're all
+00:19:10.000 --> 00:19:12.310 align:start position:0%
+single direction and they're all
+juggling so many different hats that
+00:19:12.310 --> 00:19:12.320 align:start position:0%
+juggling so many different hats that
+00:19:12.320 --> 00:19:14.070 align:start position:0%
+juggling so many different hats that
+often like especially when it comes to
+00:19:14.070 --> 00:19:14.080 align:start position:0%
+often like especially when it comes to
+00:19:14.080 --> 00:19:15.510 align:start position:0%
+often like especially when it comes to
+LinkedIn and the company page, the
+00:19:15.510 --> 00:19:15.520 align:start position:0%
+LinkedIn and the company page, the
+00:19:15.520 --> 00:19:18.310 align:start position:0%
+LinkedIn and the company page, the
+content's like so far down the level of
+00:19:18.310 --> 00:19:18.320 align:start position:0%
+content's like so far down the level of
+00:19:18.320 --> 00:19:21.110 align:start position:0%
+content's like so far down the level of
+conversation uh that people forget about
+00:19:21.110 --> 00:19:21.120 align:start position:0%
+conversation uh that people forget about
+00:19:21.120 --> 00:19:23.430 align:start position:0%
+conversation uh that people forget about
+it, you know, and so we want to say
+00:19:23.430 --> 00:19:23.440 align:start position:0%
+it, you know, and so we want to say
+00:19:23.440 --> 00:19:25.190 align:start position:0%
+it, you know, and so we want to say
+look, the earlier that we get in the
+00:19:25.190 --> 00:19:25.200 align:start position:0%
+look, the earlier that we get in the
+00:19:25.200 --> 00:19:27.029 align:start position:0%
+look, the earlier that we get in the
+room together and have these
+00:19:27.029 --> 00:19:27.039 align:start position:0%
+room together and have these
+00:19:27.039 --> 00:19:28.789 align:start position:0%
+room together and have these
+conversations, you're not just creating
+00:19:28.789 --> 00:19:28.799 align:start position:0%
+conversations, you're not just creating
+00:19:28.799 --> 00:19:30.950 align:start position:0%
+conversations, you're not just creating
+good content, but effective content
+00:19:30.950 --> 00:19:30.960 align:start position:0%
+good content, but effective content
+00:19:30.960 --> 00:19:32.470 align:start position:0%
+good content, but effective content
+that's, you know, aligned to those
+00:19:32.470 --> 00:19:32.480 align:start position:0%
+that's, you know, aligned to those
+00:19:32.480 --> 00:19:33.590 align:start position:0%
+that's, you know, aligned to those
+goals.
+00:19:33.590 --> 00:19:33.600 align:start position:0%
+goals.
+00:19:33.600 --> 00:19:34.870 align:start position:0%
+goals.
+Why not?
+00:19:34.870 --> 00:19:34.880 align:start position:0%
+Why not?
+00:19:34.880 --> 00:19:36.950 align:start position:0%
+Why not?
+&gt;&gt; Somebody's in charge. Somebody has to be
+00:19:36.950 --> 00:19:36.960 align:start position:0%
+&gt;&gt; Somebody's in charge. Somebody has to be
+00:19:36.960 --> 00:19:39.029 align:start position:0%
+&gt;&gt; Somebody's in charge. Somebody has to be
+in charge of this. You can't just have,
+00:19:39.029 --> 00:19:39.039 align:start position:0%
+in charge of this. You can't just have,
+00:19:39.039 --> 00:19:40.710 align:start position:0%
+in charge of this. You can't just have,
+you know, your admin who has the spare
+00:19:40.710 --> 00:19:40.720 align:start position:0%
+you know, your admin who has the spare
+00:19:40.720 --> 00:19:42.950 align:start position:0%
+you know, your admin who has the spare
+time or your social media coordinator
+00:19:42.950 --> 00:19:42.960 align:start position:0%
+time or your social media coordinator
+00:19:42.960 --> 00:19:44.789 align:start position:0%
+time or your social media coordinator
+trying to run this. They may not be
+00:19:44.789 --> 00:19:44.799 align:start position:0%
+trying to run this. They may not be
+00:19:44.799 --> 00:19:45.830 align:start position:0%
+trying to run this. They may not be
+interested. They may not know what
+00:19:45.830 --> 00:19:45.840 align:start position:0%
+interested. They may not know what
+00:19:45.840 --> 00:19:47.510 align:start position:0%
+interested. They may not know what
+they're doing. They may be too busy. You
+00:19:47.510 --> 00:19:47.520 align:start position:0%
+they're doing. They may be too busy. You
+00:19:47.520 --> 00:19:49.510 align:start position:0%
+they're doing. They may be too busy. You
+have to properly put somebody in charge
+00:19:49.510 --> 00:19:49.520 align:start position:0%
+have to properly put somebody in charge
+00:19:49.520 --> 00:19:50.549 align:start position:0%
+have to properly put somebody in charge
+of this.
+00:19:50.549 --> 00:19:50.559 align:start position:0%
+of this.
+00:19:50.559 --> 00:19:52.789 align:start position:0%
+of this.
+&gt;&gt; And again, that sounds like, isn't that
+00:19:52.789 --> 00:19:52.799 align:start position:0%
+&gt;&gt; And again, that sounds like, isn't that
+00:19:52.799 --> 00:19:55.590 align:start position:0%
+&gt;&gt; And again, that sounds like, isn't that
+so obvious? Isn't it like something that
+00:19:55.590 --> 00:19:55.600 align:start position:0%
+so obvious? Isn't it like something that
+00:19:55.600 --> 00:19:57.669 align:start position:0%
+so obvious? Isn't it like something that
+everybody should already have? Yeah. No.
+00:19:57.669 --> 00:19:57.679 align:start position:0%
+everybody should already have? Yeah. No.
+00:19:57.679 --> 00:19:59.110 align:start position:0%
+everybody should already have? Yeah. No.
+Not in my experience either.
+00:19:59.110 --> 00:19:59.120 align:start position:0%
+Not in my experience either.
+00:19:59.120 --> 00:20:00.789 align:start position:0%
+Not in my experience either.
+&gt;&gt; No, not in my experience either. When
+00:20:00.789 --> 00:20:00.799 align:start position:0%
+&gt;&gt; No, not in my experience either. When
+00:20:00.799 --> 00:20:03.190 align:start position:0%
+&gt;&gt; No, not in my experience either. When
+I'm working with clients, like you often
+00:20:03.190 --> 00:20:03.200 align:start position:0%
+I'm working with clients, like you often
+00:20:03.200 --> 00:20:05.190 align:start position:0%
+I'm working with clients, like you often
+assume that these things are in place,
+00:20:05.190 --> 00:20:05.200 align:start position:0%
+assume that these things are in place,
+00:20:05.200 --> 00:20:06.870 align:start position:0%
+assume that these things are in place,
+but when you actually do a little bit of
+00:20:06.870 --> 00:20:06.880 align:start position:0%
+but when you actually do a little bit of
+00:20:06.880 --> 00:20:09.510 align:start position:0%
+but when you actually do a little bit of
+digging, it's really interesting to see
+00:20:09.510 --> 00:20:09.520 align:start position:0%
+digging, it's really interesting to see
+00:20:09.520 --> 00:20:12.230 align:start position:0%
+digging, it's really interesting to see
+that quite often content, I want to say,
+00:20:12.230 --> 00:20:12.240 align:start position:0%
+that quite often content, I want to say,
+00:20:12.240 --> 00:20:14.150 align:start position:0%
+that quite often content, I want to say,
+is like an afterthought. It's the last
+00:20:14.150 --> 00:20:14.160 align:start position:0%
+is like an afterthought. It's the last
+00:20:14.160 --> 00:20:15.669 align:start position:0%
+is like an afterthought. It's the last
+thing that people want to do and
+00:20:15.669 --> 00:20:15.679 align:start position:0%
+thing that people want to do and
+00:20:15.679 --> 00:20:17.909 align:start position:0%
+thing that people want to do and
+everything else is more important. And
+00:20:17.909 --> 00:20:17.919 align:start position:0%
+everything else is more important. And
+00:20:17.919 --> 00:20:19.909 align:start position:0%
+everything else is more important. And
+I'd like to see from this conversation
+00:20:19.909 --> 00:20:19.919 align:start position:0%
+I'd like to see from this conversation
+00:20:19.919 --> 00:20:22.070 align:start position:0%
+I'd like to see from this conversation
+that things get elevated. And I think
+00:20:22.070 --> 00:20:22.080 align:start position:0%
+that things get elevated. And I think
+00:20:22.080 --> 00:20:23.909 align:start position:0%
+that things get elevated. And I think
+when we create good content and have
+00:20:23.909 --> 00:20:23.919 align:start position:0%
+when we create good content and have
+00:20:23.919 --> 00:20:26.150 align:start position:0%
+when we create good content and have
+systems for distributing it as far and
+00:20:26.150 --> 00:20:26.160 align:start position:0%
+systems for distributing it as far and
+00:20:26.160 --> 00:20:28.230 align:start position:0%
+systems for distributing it as far and
+wide and as many times as possible where
+00:20:28.230 --> 00:20:28.240 align:start position:0%
+wide and as many times as possible where
+00:20:28.240 --> 00:20:30.230 align:start position:0%
+wide and as many times as possible where
+it makes sense, not just for the sake of
+00:20:30.230 --> 00:20:30.240 align:start position:0%
+it makes sense, not just for the sake of
+00:20:30.240 --> 00:20:31.830 align:start position:0%
+it makes sense, not just for the sake of
+it. I don't know, how do you feel? Like
+00:20:31.830 --> 00:20:31.840 align:start position:0%
+it. I don't know, how do you feel? Like
+00:20:31.840 --> 00:20:35.029 align:start position:0%
+it. I don't know, how do you feel? Like
+Gary Vee says like create 350,000 pieces
+00:20:35.029 --> 00:20:35.039 align:start position:0%
+Gary Vee says like create 350,000 pieces
+00:20:35.039 --> 00:20:36.630 align:start position:0%
+Gary Vee says like create 350,000 pieces
+of content a day or whatever number he's
+00:20:36.630 --> 00:20:36.640 align:start position:0%
+of content a day or whatever number he's
+00:20:36.640 --> 00:20:38.870 align:start position:0%
+of content a day or whatever number he's
+up to these days. How do you feel about
+00:20:38.870 --> 00:20:38.880 align:start position:0%
+up to these days. How do you feel about
+00:20:38.880 --> 00:20:41.110 align:start position:0%
+up to these days. How do you feel about
+that kind of volume game? I don't
+00:20:41.110 --> 00:20:41.120 align:start position:0%
+that kind of volume game? I don't
+00:20:41.120 --> 00:20:43.190 align:start position:0%
+that kind of volume game? I don't
+personally get it, but I'm always
+00:20:43.190 --> 00:20:43.200 align:start position:0%
+personally get it, but I'm always
+00:20:43.200 --> 00:20:46.870 align:start position:0%
+personally get it, but I'm always
+&gt;&gt; sounds like a purging of words or some
+00:20:46.870 --> 00:20:46.880 align:start position:0%
+&gt;&gt; sounds like a purging of words or some
+00:20:46.880 --> 00:20:49.029 align:start position:0%
+&gt;&gt; sounds like a purging of words or some
+sort of Yeah, it doesn't sound good to
+00:20:49.029 --> 00:20:49.039 align:start position:0%
+sort of Yeah, it doesn't sound good to
+00:20:49.039 --> 00:20:51.430 align:start position:0%
+sort of Yeah, it doesn't sound good to
+me at all. I would much rather see very
+00:20:51.430 --> 00:20:51.440 align:start position:0%
+me at all. I would much rather see very
+00:20:51.440 --> 00:20:55.029 align:start position:0%
+me at all. I would much rather see very
+aligned, high quality, strong content
+00:20:55.029 --> 00:20:55.039 align:start position:0%
+aligned, high quality, strong content
+00:20:55.039 --> 00:20:57.909 align:start position:0%
+aligned, high quality, strong content
+than I just picture some, you know, when
+00:20:57.909 --> 00:20:57.919 align:start position:0%
+than I just picture some, you know, when
+00:20:57.919 --> 00:21:00.310 align:start position:0%
+than I just picture some, you know, when
+you know when a kid throws a package of
+00:21:00.310 --> 00:21:00.320 align:start position:0%
+you know when a kid throws a package of
+00:21:00.320 --> 00:21:01.830 align:start position:0%
+you know when a kid throws a package of
+cards up in the air and they just go
+00:21:01.830 --> 00:21:01.840 align:start position:0%
+cards up in the air and they just go
+00:21:01.840 --> 00:21:03.990 align:start position:0%
+cards up in the air and they just go
+everywhere or you or you don't put the
+00:21:03.990 --> 00:21:04.000 align:start position:0%
+everywhere or you or you don't put the
+00:21:04.000 --> 00:21:05.590 align:start position:0%
+everywhere or you or you don't put the
+lid on the popcorn popper when you're
+00:21:05.590 --> 00:21:05.600 align:start position:0%
+lid on the popcorn popper when you're
+00:21:05.600 --> 00:21:07.430 align:start position:0%
+lid on the popcorn popper when you're
+popping and it just explodes. That is
+00:21:07.430 --> 00:21:07.440 align:start position:0%
+popping and it just explodes. That is
+00:21:07.440 --> 00:21:09.909 align:start position:0%
+popping and it just explodes. That is
+what Gary Vee makes me think of.
+00:21:09.909 --> 00:21:09.919 align:start position:0%
+what Gary Vee makes me think of.
+00:21:09.919 --> 00:21:12.310 align:start position:0%
+what Gary Vee makes me think of.
+&gt;&gt; It does make me think of that as well.
+00:21:12.310 --> 00:21:12.320 align:start position:0%
+&gt;&gt; It does make me think of that as well.
+00:21:12.320 --> 00:21:15.029 align:start position:0%
+&gt;&gt; It does make me think of that as well.
+And I I I I try I'm not a podcast
+00:21:15.029 --> 00:21:15.039 align:start position:0%
+And I I I I try I'm not a podcast
+00:21:15.039 --> 00:21:17.029 align:start position:0%
+And I I I I try I'm not a podcast
+listener as my listeners already know
+00:21:17.029 --> 00:21:17.039 align:start position:0%
+listener as my listeners already know
+00:21:17.039 --> 00:21:19.270 align:start position:0%
+listener as my listeners already know
+which is ironic given I do two podcasts
+00:21:19.270 --> 00:21:19.280 align:start position:0%
+which is ironic given I do two podcasts
+00:21:19.280 --> 00:21:22.070 align:start position:0%
+which is ironic given I do two podcasts
+but I was at the gym trying to listen to
+00:21:22.070 --> 00:21:22.080 align:start position:0%
+but I was at the gym trying to listen to
+00:21:22.080 --> 00:21:24.390 align:start position:0%
+but I was at the gym trying to listen to
+one of Gary Ve's podcast recently so I
+00:21:24.390 --> 00:21:24.400 align:start position:0%
+one of Gary Ve's podcast recently so I
+00:21:24.400 --> 00:21:26.710 align:start position:0%
+one of Gary Ve's podcast recently so I
+could learn from that and one of the
+00:21:26.710 --> 00:21:26.720 align:start position:0%
+could learn from that and one of the
+00:21:26.720 --> 00:21:28.950 align:start position:0%
+could learn from that and one of the
+interesting things he was saying that in
+00:21:28.950 --> 00:21:28.960 align:start position:0%
+interesting things he was saying that in
+00:21:28.960 --> 00:21:30.549 align:start position:0%
+interesting things he was saying that in
+a particular industry if they weren't
+00:21:30.549 --> 00:21:30.559 align:start position:0%
+a particular industry if they weren't
+00:21:30.559 --> 00:21:32.950 align:start position:0%
+a particular industry if they weren't
+putting out I think it was like five or
+00:21:32.950 --> 00:21:32.960 align:start position:0%
+putting out I think it was like five or
+00:21:32.960 --> 00:21:35.350 align:start position:0%
+putting out I think it was like five or
+10 or 15 pieces of content every single
+00:21:35.350 --> 00:21:35.360 align:start position:0%
+10 or 15 pieces of content every single
+00:21:35.360 --> 00:21:36.870 align:start position:0%
+10 or 15 pieces of content every single
+day and it was in the real estate
+00:21:36.870 --> 00:21:36.880 align:start position:0%
+day and it was in the real estate
+00:21:36.880 --> 00:21:38.630 align:start position:0%
+day and it was in the real estate
+industry actually they weren't putting
+00:21:38.630 --> 00:21:38.640 align:start position:0%
+industry actually they weren't putting
+00:21:38.640 --> 00:21:40.710 align:start position:0%
+industry actually they weren't putting
+out that much a day then they were
+00:21:40.710 --> 00:21:40.720 align:start position:0%
+out that much a day then they were
+00:21:40.720 --> 00:21:42.070 align:start position:0%
+out that much a day then they were
+losing and that's why they weren't
+00:21:42.070 --> 00:21:42.080 align:start position:0%
+losing and that's why they weren't
+00:21:42.080 --> 00:21:44.149 align:start position:0%
+losing and that's why they weren't
+selling and I was like 15 pieces of
+00:21:44.149 --> 00:21:44.159 align:start position:0%
+selling and I was like 15 pieces of
+00:21:44.159 --> 00:21:47.270 align:start position:0%
+selling and I was like 15 pieces of
+content for an individual to do like
+00:21:47.270 --> 00:21:47.280 align:start position:0%
+content for an individual to do like
+00:21:47.280 --> 00:21:50.070 align:start position:0%
+content for an individual to do like
+without systems and processes. I'm like
+00:21:50.070 --> 00:21:50.080 align:start position:0%
+without systems and processes. I'm like
+00:21:50.080 --> 00:21:52.630 align:start position:0%
+without systems and processes. I'm like
+thinking, okay, and yes, I get that
+00:21:52.630 --> 00:21:52.640 align:start position:0%
+thinking, okay, and yes, I get that
+00:21:52.640 --> 00:21:54.070 align:start position:0%
+thinking, okay, and yes, I get that
+there's a lot of platforms that we could
+00:21:54.070 --> 00:21:54.080 align:start position:0%
+there's a lot of platforms that we could
+00:21:54.080 --> 00:21:56.310 align:start position:0%
+there's a lot of platforms that we could
+do it and a lot of tools, but as I was
+00:21:56.310 --> 00:21:56.320 align:start position:0%
+do it and a lot of tools, but as I was
+00:21:56.320 --> 00:21:57.909 align:start position:0%
+do it and a lot of tools, but as I was
+listening to this podcast, which was
+00:21:57.909 --> 00:21:57.919 align:start position:0%
+listening to this podcast, which was
+00:21:57.919 --> 00:21:59.830 align:start position:0%
+listening to this podcast, which was
+just a recording of him speaking and a
+00:21:59.830 --> 00:21:59.840 align:start position:0%
+just a recording of him speaking and a
+00:21:59.840 --> 00:22:01.909 align:start position:0%
+just a recording of him speaking and a
+really bad recording at that, I was
+00:22:01.909 --> 00:22:01.919 align:start position:0%
+really bad recording at that, I was
+00:22:01.919 --> 00:22:03.350 align:start position:0%
+really bad recording at that, I was
+thinking the quality of this
+00:22:03.350 --> 00:22:03.360 align:start position:0%
+thinking the quality of this
+00:22:03.360 --> 00:22:06.549 align:start position:0%
+thinking the quality of this
+conversation is so hard to listen to and
+00:22:06.549 --> 00:22:06.559 align:start position:0%
+conversation is so hard to listen to and
+00:22:06.559 --> 00:22:08.710 align:start position:0%
+conversation is so hard to listen to and
+it's distracting. Like even for someone
+00:22:08.710 --> 00:22:08.720 align:start position:0%
+it's distracting. Like even for someone
+00:22:08.720 --> 00:22:10.710 align:start position:0%
+it's distracting. Like even for someone
+that doesn't particularly enjoy podcast,
+00:22:10.710 --> 00:22:10.720 align:start position:0%
+that doesn't particularly enjoy podcast,
+00:22:10.720 --> 00:22:13.110 align:start position:0%
+that doesn't particularly enjoy podcast,
+but I wanted to learn, but sometimes
+00:22:13.110 --> 00:22:13.120 align:start position:0%
+but I wanted to learn, but sometimes
+00:22:13.120 --> 00:22:15.029 align:start position:0%
+but I wanted to learn, but sometimes
+doing it just for the sake of doing it,
+00:22:15.029 --> 00:22:15.039 align:start position:0%
+doing it just for the sake of doing it,
+00:22:15.039 --> 00:22:17.510 align:start position:0%
+doing it just for the sake of doing it,
+it feels like for me, you're just
+00:22:17.510 --> 00:22:17.520 align:start position:0%
+it feels like for me, you're just
+00:22:17.520 --> 00:22:20.310 align:start position:0%
+it feels like for me, you're just
+getting slimed. It's like someone's just
+00:22:20.310 --> 00:22:20.320 align:start position:0%
+getting slimed. It's like someone's just
+00:22:20.320 --> 00:22:22.149 align:start position:0%
+getting slimed. It's like someone's just
+pouring stuff over you and you're like,
+00:22:22.149 --> 00:22:22.159 align:start position:0%
+pouring stuff over you and you're like,
+00:22:22.159 --> 00:22:24.789 align:start position:0%
+pouring stuff over you and you're like,
+"Get this stuff off me." And I don't
+00:22:24.789 --> 00:22:24.799 align:start position:0%
+"Get this stuff off me." And I don't
+00:22:24.799 --> 00:22:26.789 align:start position:0%
+"Get this stuff off me." And I don't
+know, like I This is where I'm like, I
+00:22:26.789 --> 00:22:26.799 align:start position:0%
+know, like I This is where I'm like, I
+00:22:26.799 --> 00:22:29.830 align:start position:0%
+know, like I This is where I'm like, I
+get that we can, but should we? I don't
+00:22:29.830 --> 00:22:29.840 align:start position:0%
+get that we can, but should we? I don't
+00:22:29.840 --> 00:22:30.230 align:start position:0%
+get that we can, but should we? I don't
+know.
+00:22:30.230 --> 00:22:30.240 align:start position:0%
+know.
+00:22:30.240 --> 00:22:32.630 align:start position:0%
+know.
+&gt;&gt; You should not. And AI makes it so much
+00:22:32.630 --> 00:22:32.640 align:start position:0%
+&gt;&gt; You should not. And AI makes it so much
+00:22:32.640 --> 00:22:34.549 align:start position:0%
+&gt;&gt; You should not. And AI makes it so much
+easier to publish and publish and
+00:22:34.549 --> 00:22:34.559 align:start position:0%
+easier to publish and publish and
+00:22:34.559 --> 00:22:35.270 align:start position:0%
+easier to publish and publish and
+publish.
+00:22:35.270 --> 00:22:35.280 align:start position:0%
+publish.
+00:22:35.280 --> 00:22:37.350 align:start position:0%
+publish.
+&gt;&gt; Yeah. Look, and again, this is where a
+00:22:37.350 --> 00:22:37.360 align:start position:0%
+&gt;&gt; Yeah. Look, and again, this is where a
+00:22:37.360 --> 00:22:39.270 align:start position:0%
+&gt;&gt; Yeah. Look, and again, this is where a
+bit of discretion and coming back to
+00:22:39.270 --> 00:22:39.280 align:start position:0%
+bit of discretion and coming back to
+00:22:39.280 --> 00:22:41.990 align:start position:0%
+bit of discretion and coming back to
+that strategy comes in into play. And I
+00:22:41.990 --> 00:22:42.000 align:start position:0%
+that strategy comes in into play. And I
+00:22:42.000 --> 00:22:43.590 align:start position:0%
+that strategy comes in into play. And I
+mean, I'm a fan of playing with the
+00:22:43.590 --> 00:22:43.600 align:start position:0%
+mean, I'm a fan of playing with the
+00:22:43.600 --> 00:22:45.830 align:start position:0%
+mean, I'm a fan of playing with the
+tools to see what's out there. And
+00:22:45.830 --> 00:22:45.840 align:start position:0%
+tools to see what's out there. And
+00:22:45.840 --> 00:22:47.510 align:start position:0%
+tools to see what's out there. And
+there's a an interesting one that I'm
+00:22:47.510 --> 00:22:47.520 align:start position:0%
+there's a an interesting one that I'm
+00:22:47.520 --> 00:22:49.029 align:start position:0%
+there's a an interesting one that I'm
+playing around with at the moment from
+00:22:49.029 --> 00:22:49.039 align:start position:0%
+playing around with at the moment from
+00:22:49.039 --> 00:22:51.990 align:start position:0%
+playing around with at the moment from
+the the team at OpusP Pro. And basically
+00:22:51.990 --> 00:22:52.000 align:start position:0%
+the the team at OpusP Pro. And basically
+00:22:52.000 --> 00:22:54.310 align:start position:0%
+the the team at OpusP Pro. And basically
+what that does is takes your blog
+00:22:54.310 --> 00:22:54.320 align:start position:0%
+what that does is takes your blog
+00:22:54.320 --> 00:22:57.190 align:start position:0%
+what that does is takes your blog
+articles and turns it into videos. And
+00:22:57.190 --> 00:22:57.200 align:start position:0%
+articles and turns it into videos. And
+00:22:57.200 --> 00:22:59.110 align:start position:0%
+articles and turns it into videos. And
+you know, the technology is new, but
+00:22:59.110 --> 00:22:59.120 align:start position:0%
+you know, the technology is new, but
+00:22:59.120 --> 00:23:01.029 align:start position:0%
+you know, the technology is new, but
+some of the stuff that it pulls out is
+00:23:01.029 --> 00:23:01.039 align:start position:0%
+some of the stuff that it pulls out is
+00:23:01.039 --> 00:23:03.430 align:start position:0%
+some of the stuff that it pulls out is
+cool because yes, we don't have time to
+00:23:03.430 --> 00:23:03.440 align:start position:0%
+cool because yes, we don't have time to
+00:23:03.440 --> 00:23:05.430 align:start position:0%
+cool because yes, we don't have time to
+all be video content creators and write
+00:23:05.430 --> 00:23:05.440 align:start position:0%
+all be video content creators and write
+00:23:05.440 --> 00:23:07.350 align:start position:0%
+all be video content creators and write
+long form blogs and do this and do that.
+00:23:07.350 --> 00:23:07.360 align:start position:0%
+long form blogs and do this and do that.
+00:23:07.360 --> 00:23:09.590 align:start position:0%
+long form blogs and do this and do that.
+Like it's just not practical. So, I love
+00:23:09.590 --> 00:23:09.600 align:start position:0%
+Like it's just not practical. So, I love
+00:23:09.600 --> 00:23:11.590 align:start position:0%
+Like it's just not practical. So, I love
+the idea and I'm playing around with it
+00:23:11.590 --> 00:23:11.600 align:start position:0%
+the idea and I'm playing around with it
+00:23:11.600 --> 00:23:13.430 align:start position:0%
+the idea and I'm playing around with it
+so I can share it with like you know the
+00:23:13.430 --> 00:23:13.440 align:start position:0%
+so I can share it with like you know the
+00:23:13.440 --> 00:23:15.190 align:start position:0%
+so I can share it with like you know the
+listeners and some of the clients but
+00:23:15.190 --> 00:23:15.200 align:start position:0%
+listeners and some of the clients but
+00:23:15.200 --> 00:23:16.789 align:start position:0%
+listeners and some of the clients but
+it's something I was like yeah that's a
+00:23:16.789 --> 00:23:16.799 align:start position:0%
+it's something I was like yeah that's a
+00:23:16.799 --> 00:23:19.110 align:start position:0%
+it's something I was like yeah that's a
+cool use of AI like take it in one
+00:23:19.110 --> 00:23:19.120 align:start position:0%
+cool use of AI like take it in one
+00:23:19.120 --> 00:23:21.190 align:start position:0%
+cool use of AI like take it in one
+format that's what I do with the podcast
+00:23:21.190 --> 00:23:21.200 align:start position:0%
+format that's what I do with the podcast
+00:23:21.200 --> 00:23:24.390 align:start position:0%
+format that's what I do with the podcast
+I use that tool so that I can then clip
+00:23:24.390 --> 00:23:24.400 align:start position:0%
+I use that tool so that I can then clip
+00:23:24.400 --> 00:23:26.950 align:start position:0%
+I use that tool so that I can then clip
+it and take my long form and you know we
+00:23:26.950 --> 00:23:26.960 align:start position:0%
+it and take my long form and you know we
+00:23:26.960 --> 00:23:28.630 align:start position:0%
+it and take my long form and you know we
+get five or so clips out of every
+00:23:28.630 --> 00:23:28.640 align:start position:0%
+get five or so clips out of every
+00:23:28.640 --> 00:23:31.190 align:start position:0%
+get five or so clips out of every
+podcast episode and then that just makes
+00:23:31.190 --> 00:23:31.200 align:start position:0%
+podcast episode and then that just makes
+00:23:31.200 --> 00:23:33.270 align:start position:0%
+podcast episode and then that just makes
+my content you know so much easier to
+00:23:33.270 --> 00:23:33.280 align:start position:0%
+my content you know so much easier to
+00:23:33.280 --> 00:23:36.149 align:start position:0%
+my content you know so much easier to
+keep up with. So yeah, I'm not anti-AII
+00:23:36.149 --> 00:23:36.159 align:start position:0%
+keep up with. So yeah, I'm not anti-AII
+00:23:36.159 --> 00:23:37.510 align:start position:0%
+keep up with. So yeah, I'm not anti-AII
+or the tools, but
+00:23:37.510 --> 00:23:37.520 align:start position:0%
+or the tools, but
+00:23:37.520 --> 00:23:38.310 align:start position:0%
+or the tools, but
+&gt;&gt; not at all.
+00:23:38.310 --> 00:23:38.320 align:start position:0%
+&gt;&gt; not at all.
+00:23:38.320 --> 00:23:39.990 align:start position:0%
+&gt;&gt; not at all.
+&gt;&gt; Just cause isn't a reason.
+00:23:39.990 --> 00:23:40.000 align:start position:0%
+&gt;&gt; Just cause isn't a reason.
+00:23:40.000 --> 00:23:42.230 align:start position:0%
+&gt;&gt; Just cause isn't a reason.
+&gt;&gt; Yeah, just cause is never a reason,
+00:23:42.230 --> 00:23:42.240 align:start position:0%
+&gt;&gt; Yeah, just cause is never a reason,
+00:23:42.240 --> 00:23:45.110 align:start position:0%
+&gt;&gt; Yeah, just cause is never a reason,
+&gt;&gt; right? It isn't. So, a question for you,
+00:23:45.110 --> 00:23:45.120 align:start position:0%
+&gt;&gt; right? It isn't. So, a question for you,
+00:23:45.120 --> 00:23:46.549 align:start position:0%
+&gt;&gt; right? It isn't. So, a question for you,
+Lee, as we, you know, kind of come
+00:23:46.549 --> 00:23:46.559 align:start position:0%
+Lee, as we, you know, kind of come
+00:23:46.559 --> 00:23:48.310 align:start position:0%
+Lee, as we, you know, kind of come
+around to the end of the conversation,
+00:23:48.310 --> 00:23:48.320 align:start position:0%
+around to the end of the conversation,
+00:23:48.320 --> 00:23:50.950 align:start position:0%
+around to the end of the conversation,
+but if someone's listening to this and
+00:23:50.950 --> 00:23:50.960 align:start position:0%
+but if someone's listening to this and
+00:23:50.960 --> 00:23:52.870 align:start position:0%
+but if someone's listening to this and
+realizing that they're actually wasting
+00:23:52.870 --> 00:23:52.880 align:start position:0%
+realizing that they're actually wasting
+00:23:52.880 --> 00:23:54.870 align:start position:0%
+realizing that they're actually wasting
+content, and let's assume that it's the
+00:23:54.870 --> 00:23:54.880 align:start position:0%
+content, and let's assume that it's the
+00:23:54.880 --> 00:23:56.390 align:start position:0%
+content, and let's assume that it's the
+good content that they've done the
+00:23:56.390 --> 00:23:56.400 align:start position:0%
+good content that they've done the
+00:23:56.400 --> 00:23:58.710 align:start position:0%
+good content that they've done the
+research, understand the clients, but
+00:23:58.710 --> 00:23:58.720 align:start position:0%
+research, understand the clients, but
+00:23:58.720 --> 00:24:00.470 align:start position:0%
+research, understand the clients, but
+have a goal in mind that's aligned to
+00:24:00.470 --> 00:24:00.480 align:start position:0%
+have a goal in mind that's aligned to
+00:24:00.480 --> 00:24:02.310 align:start position:0%
+have a goal in mind that's aligned to
+the business goals for that piece of
+00:24:02.310 --> 00:24:02.320 align:start position:0%
+the business goals for that piece of
+00:24:02.320 --> 00:24:04.230 align:start position:0%
+the business goals for that piece of
+content, and they've figured all of that
+00:24:04.230 --> 00:24:04.240 align:start position:0%
+content, and they've figured all of that
+00:24:04.240 --> 00:24:06.789 align:start position:0%
+content, and they've figured all of that
+out, but they're still wasting it. What
+00:24:06.789 --> 00:24:06.799 align:start position:0%
+out, but they're still wasting it. What
+00:24:06.799 --> 00:24:09.430 align:start position:0%
+out, but they're still wasting it. What
+do you think that they should fix first?
+00:24:09.430 --> 00:24:09.440 align:start position:0%
+do you think that they should fix first?
+00:24:09.440 --> 00:24:12.630 align:start position:0%
+do you think that they should fix first?
+Probably the first thing to do is well
+00:24:12.630 --> 00:24:12.640 align:start position:0%
+Probably the first thing to do is well
+00:24:12.640 --> 00:24:14.310 align:start position:0%
+Probably the first thing to do is well
+get your arms around what you've got.
+00:24:14.310 --> 00:24:14.320 align:start position:0%
+get your arms around what you've got.
+00:24:14.320 --> 00:24:16.630 align:start position:0%
+get your arms around what you've got.
+Catalog it. Do you how many blog posts
+00:24:16.630 --> 00:24:16.640 align:start position:0%
+Catalog it. Do you how many blog posts
+00:24:16.640 --> 00:24:18.630 align:start position:0%
+Catalog it. Do you how many blog posts
+do you have? How many what whatever the
+00:24:18.630 --> 00:24:18.640 align:start position:0%
+do you have? How many what whatever the
+00:24:18.640 --> 00:24:20.870 align:start position:0%
+do you have? How many what whatever the
+content pieces are, catalog it so you
+00:24:20.870 --> 00:24:20.880 align:start position:0%
+content pieces are, catalog it so you
+00:24:20.880 --> 00:24:24.070 align:start position:0%
+content pieces are, catalog it so you
+can understand what to update, make it
+00:24:24.070 --> 00:24:24.080 align:start position:0%
+can understand what to update, make it
+00:24:24.080 --> 00:24:26.789 align:start position:0%
+can understand what to update, make it
+fresh, keep it current, what to deep,
+00:24:26.789 --> 00:24:26.799 align:start position:0%
+fresh, keep it current, what to deep,
+00:24:26.799 --> 00:24:28.710 align:start position:0%
+fresh, keep it current, what to deep,
+what to literally get rid of because
+00:24:28.710 --> 00:24:28.720 align:start position:0%
+what to literally get rid of because
+00:24:28.720 --> 00:24:31.669 align:start position:0%
+what to literally get rid of because
+there is usually a case for archiving
+00:24:31.669 --> 00:24:31.679 align:start position:0%
+there is usually a case for archiving
+00:24:31.679 --> 00:24:33.590 align:start position:0%
+there is usually a case for archiving
+half of your blogs if you have 500 of
+00:24:33.590 --> 00:24:33.600 align:start position:0%
+half of your blogs if you have 500 of
+00:24:33.600 --> 00:24:35.669 align:start position:0%
+half of your blogs if you have 500 of
+them and where your gaps are. You can't
+00:24:35.669 --> 00:24:35.679 align:start position:0%
+them and where your gaps are. You can't
+00:24:35.679 --> 00:24:37.430 align:start position:0%
+them and where your gaps are. You can't
+possibly know where your gaps are unless
+00:24:37.430 --> 00:24:37.440 align:start position:0%
+possibly know where your gaps are unless
+00:24:37.440 --> 00:24:38.710 align:start position:0%
+possibly know where your gaps are unless
+you know what you've got. And lots of
+00:24:38.710 --> 00:24:38.720 align:start position:0%
+you know what you've got. And lots of
+00:24:38.720 --> 00:24:40.390 align:start position:0%
+you know what you've got. And lots of
+the teams I meet with don't they don't
+00:24:40.390 --> 00:24:40.400 align:start position:0%
+the teams I meet with don't they don't
+00:24:40.400 --> 00:24:41.590 align:start position:0%
+the teams I meet with don't they don't
+even know what they've got. So they
+00:24:41.590 --> 00:24:41.600 align:start position:0%
+even know what they've got. So they
+00:24:41.600 --> 00:24:42.630 align:start position:0%
+even know what they've got. So they
+don't even know if they have good
+00:24:42.630 --> 00:24:42.640 align:start position:0%
+don't even know if they have good
+00:24:42.640 --> 00:24:45.590 align:start position:0%
+don't even know if they have good
+content because there's a trash pile, a
+00:24:45.590 --> 00:24:45.600 align:start position:0%
+content because there's a trash pile, a
+00:24:45.600 --> 00:24:47.590 align:start position:0%
+content because there's a trash pile, a
+zombie wasteland of content over here on
+00:24:47.590 --> 00:24:47.600 align:start position:0%
+zombie wasteland of content over here on
+00:24:47.600 --> 00:24:50.870 align:start position:0%
+zombie wasteland of content over here on
+the left. So figure out what you've got,
+00:24:50.870 --> 00:24:50.880 align:start position:0%
+the left. So figure out what you've got,
+00:24:50.880 --> 00:24:53.669 align:start position:0%
+the left. So figure out what you've got,
+update it, keep it current, and figure
+00:24:53.669 --> 00:24:53.679 align:start position:0%
+update it, keep it current, and figure
+00:24:53.679 --> 00:24:56.630 align:start position:0%
+update it, keep it current, and figure
+out how to repurpose it. Focus on that
+00:24:56.630 --> 00:24:56.640 align:start position:0%
+out how to repurpose it. Focus on that
+00:24:56.640 --> 00:24:59.190 align:start position:0%
+out how to repurpose it. Focus on that
+before you go creating all new stuff.
+00:24:59.190 --> 00:24:59.200 align:start position:0%
+before you go creating all new stuff.
+00:24:59.200 --> 00:25:00.789 align:start position:0%
+before you go creating all new stuff.
+And if you look at your content and none
+00:25:00.789 --> 00:25:00.799 align:start position:0%
+And if you look at your content and none
+00:25:00.799 --> 00:25:02.470 align:start position:0%
+And if you look at your content and none
+of it has a point of view and none of
+00:25:02.470 --> 00:25:02.480 align:start position:0%
+of it has a point of view and none of
+00:25:02.480 --> 00:25:03.990 align:start position:0%
+of it has a point of view and none of
+it's aligned with the buyer and it's
+00:25:03.990 --> 00:25:04.000 align:start position:0%
+it's aligned with the buyer and it's
+00:25:04.000 --> 00:25:05.510 align:start position:0%
+it's aligned with the buyer and it's
+really all bad, then you kind of need to
+00:25:05.510 --> 00:25:05.520 align:start position:0%
+really all bad, then you kind of need to
+00:25:05.520 --> 00:25:07.669 align:start position:0%
+really all bad, then you kind of need to
+start over. that I meet very few brands
+00:25:07.669 --> 00:25:07.679 align:start position:0%
+start over. that I meet very few brands
+00:25:07.679 --> 00:25:09.990 align:start position:0%
+start over. that I meet very few brands
+who are actually in that situation.
+00:25:09.990 --> 00:25:10.000 align:start position:0%
+who are actually in that situation.
+00:25:10.000 --> 00:25:12.549 align:start position:0%
+who are actually in that situation.
+They're sitting on good content, a great
+00:25:12.549 --> 00:25:12.559 align:start position:0%
+They're sitting on good content, a great
+00:25:12.559 --> 00:25:14.470 align:start position:0%
+They're sitting on good content, a great
+report from a year ago that just needs
+00:25:14.470 --> 00:25:14.480 align:start position:0%
+report from a year ago that just needs
+00:25:14.480 --> 00:25:16.470 align:start position:0%
+report from a year ago that just needs
+to be updated and then you write three
+00:25:16.470 --> 00:25:16.480 align:start position:0%
+to be updated and then you write three
+00:25:16.480 --> 00:25:18.470 align:start position:0%
+to be updated and then you write three
+blogs from that and four newsletters
+00:25:18.470 --> 00:25:18.480 align:start position:0%
+blogs from that and four newsletters
+00:25:18.480 --> 00:25:21.510 align:start position:0%
+blogs from that and four newsletters
+from it and 25 social posts and an email
+00:25:21.510 --> 00:25:21.520 align:start position:0%
+from it and 25 social posts and an email
+00:25:21.520 --> 00:25:23.190 align:start position:0%
+from it and 25 social posts and an email
+nurture sequence can come out of it.
+00:25:23.190 --> 00:25:23.200 align:start position:0%
+nurture sequence can come out of it.
+00:25:23.200 --> 00:25:25.510 align:start position:0%
+nurture sequence can come out of it.
+Look, and and I was just thinking you as
+00:25:25.510 --> 00:25:25.520 align:start position:0%
+Look, and and I was just thinking you as
+00:25:25.520 --> 00:25:27.750 align:start position:0%
+Look, and and I was just thinking you as
+you were talking, there was like another
+00:25:27.750 --> 00:25:27.760 align:start position:0%
+you were talking, there was like another
+00:25:27.760 --> 00:25:29.590 align:start position:0%
+you were talking, there was like another
+client, you know, these clients popped
+00:25:29.590 --> 00:25:29.600 align:start position:0%
+client, you know, these clients popped
+00:25:29.600 --> 00:25:32.630 align:start position:0%
+client, you know, these clients popped
+to mind because this is actually really
+00:25:32.630 --> 00:25:32.640 align:start position:0%
+to mind because this is actually really
+00:25:32.640 --> 00:25:35.510 align:start position:0%
+to mind because this is actually really
+real problems that we see out there.
+00:25:35.510 --> 00:25:35.520 align:start position:0%
+real problems that we see out there.
+00:25:35.520 --> 00:25:37.590 align:start position:0%
+real problems that we see out there.
+And, you know, I had a client that they
+00:25:37.590 --> 00:25:37.600 align:start position:0%
+And, you know, I had a client that they
+00:25:37.600 --> 00:25:40.230 align:start position:0%
+And, you know, I had a client that they
+spend the best part of 6 to 12 months, a
+00:25:40.230 --> 00:25:40.240 align:start position:0%
+spend the best part of 6 to 12 months, a
+00:25:40.240 --> 00:25:42.870 align:start position:0%
+spend the best part of 6 to 12 months, a
+whole team coming up with these amazing
+00:25:42.870 --> 00:25:42.880 align:start position:0%
+whole team coming up with these amazing
+00:25:42.880 --> 00:25:45.110 align:start position:0%
+whole team coming up with these amazing
+research papers that are, you know, like
+00:25:45.110 --> 00:25:45.120 align:start position:0%
+research papers that are, you know, like
+00:25:45.120 --> 00:25:46.710 align:start position:0%
+research papers that are, you know, like
+there's there's a lot that goes into it,
+00:25:46.710 --> 00:25:46.720 align:start position:0%
+there's there's a lot that goes into it,
+00:25:46.720 --> 00:25:48.149 align:start position:0%
+there's there's a lot that goes into it,
+not just one that you do to try and get
+00:25:48.149 --> 00:25:48.159 align:start position:0%
+not just one that you do to try and get
+00:25:48.159 --> 00:25:50.710 align:start position:0%
+not just one that you do to try and get
+email signups, but this is part of, you
+00:25:50.710 --> 00:25:50.720 align:start position:0%
+email signups, but this is part of, you
+00:25:50.720 --> 00:25:52.710 align:start position:0%
+email signups, but this is part of, you
+know, their business. And I just
+00:25:52.710 --> 00:25:52.720 align:start position:0%
+know, their business. And I just
+00:25:52.720 --> 00:25:54.549 align:start position:0%
+know, their business. And I just
+remember their only goal was, you know,
+00:25:54.549 --> 00:25:54.559 align:start position:0%
+remember their only goal was, you know,
+00:25:54.559 --> 00:25:56.070 align:start position:0%
+remember their only goal was, you know,
+throw it on the website so you can sign
+00:25:56.070 --> 00:25:56.080 align:start position:0%
+throw it on the website so you can sign
+00:25:56.080 --> 00:25:57.830 align:start position:0%
+throw it on the website so you can sign
+up for something, probably send out the
+00:25:57.830 --> 00:25:57.840 align:start position:0%
+up for something, probably send out the
+00:25:57.840 --> 00:25:59.830 align:start position:0%
+up for something, probably send out the
+corporate email newsletter and do one
+00:25:59.830 --> 00:25:59.840 align:start position:0%
+corporate email newsletter and do one
+00:25:59.840 --> 00:26:02.870 align:start position:0%
+corporate email newsletter and do one
+post on LinkedIn. And no one could see
+00:26:02.870 --> 00:26:02.880 align:start position:0%
+post on LinkedIn. And no one could see
+00:26:02.880 --> 00:26:05.029 align:start position:0%
+post on LinkedIn. And no one could see
+any of it. And I was like, we need to
+00:26:05.029 --> 00:26:05.039 align:start position:0%
+any of it. And I was like, we need to
+00:26:05.039 --> 00:26:06.470 align:start position:0%
+any of it. And I was like, we need to
+switch this up because this is where I
+00:26:06.470 --> 00:26:06.480 align:start position:0%
+switch this up because this is where I
+00:26:06.480 --> 00:26:09.510 align:start position:0%
+switch this up because this is where I
+think LinkedIn can come in very handy,
+00:26:09.510 --> 00:26:09.520 align:start position:0%
+think LinkedIn can come in very handy,
+00:26:09.520 --> 00:26:11.029 align:start position:0%
+think LinkedIn can come in very handy,
+especially if you've got your company
+00:26:11.029 --> 00:26:11.039 align:start position:0%
+especially if you've got your company
+00:26:11.039 --> 00:26:12.789 align:start position:0%
+especially if you've got your company
+page and your employees both being
+00:26:12.789 --> 00:26:12.799 align:start position:0%
+page and your employees both being
+00:26:12.799 --> 00:26:15.669 align:start position:0%
+page and your employees both being
+active like you were sharing before. And
+00:26:15.669 --> 00:26:15.679 align:start position:0%
+active like you were sharing before. And
+00:26:15.679 --> 00:26:18.470 align:start position:0%
+active like you were sharing before. And
+I was like, no, no, no. We need to let
+00:26:18.470 --> 00:26:18.480 align:start position:0%
+I was like, no, no, no. We need to let
+00:26:18.480 --> 00:26:20.470 align:start position:0%
+I was like, no, no, no. We need to let
+everybody know. I call it like the big
+00:26:20.470 --> 00:26:20.480 align:start position:0%
+everybody know. I call it like the big
+00:26:20.480 --> 00:26:22.870 align:start position:0%
+everybody know. I call it like the big
+bang effect like you know drown the
+00:26:22.870 --> 00:26:22.880 align:start position:0%
+bang effect like you know drown the
+00:26:22.880 --> 00:26:25.269 align:start position:0%
+bang effect like you know drown the
+platform on you know a couple of days
+00:26:25.269 --> 00:26:25.279 align:start position:0%
+platform on you know a couple of days
+00:26:25.279 --> 00:26:27.909 align:start position:0%
+platform on you know a couple of days
+and go really hard so every which way
+00:26:27.909 --> 00:26:27.919 align:start position:0%
+and go really hard so every which way
+00:26:27.919 --> 00:26:30.310 align:start position:0%
+and go really hard so every which way
+that somebody looks all they see is
+00:26:30.310 --> 00:26:30.320 align:start position:0%
+that somebody looks all they see is
+00:26:30.320 --> 00:26:31.990 align:start position:0%
+that somebody looks all they see is
+people talking about this particular
+00:26:31.990 --> 00:26:32.000 align:start position:0%
+people talking about this particular
+00:26:32.000 --> 00:26:34.789 align:start position:0%
+people talking about this particular
+report and research and because this was
+00:26:34.789 --> 00:26:34.799 align:start position:0%
+report and research and because this was
+00:26:34.799 --> 00:26:37.430 align:start position:0%
+report and research and because this was
+like next level. This wasn't just this
+00:26:37.430 --> 00:26:37.440 align:start position:0%
+like next level. This wasn't just this
+00:26:37.440 --> 00:26:39.190 align:start position:0%
+like next level. This wasn't just this
+is like a whole team of people working
+00:26:39.190 --> 00:26:39.200 align:start position:0%
+is like a whole team of people working
+00:26:39.200 --> 00:26:41.590 align:start position:0%
+is like a whole team of people working
+on nothing but this cutting edge
+00:26:41.590 --> 00:26:41.600 align:start position:0%
+on nothing but this cutting edge
+00:26:41.600 --> 00:26:44.070 align:start position:0%
+on nothing but this cutting edge
+research for a period of time that was
+00:26:44.070 --> 00:26:44.080 align:start position:0%
+research for a period of time that was
+00:26:44.080 --> 00:26:46.390 align:start position:0%
+research for a period of time that was
+literally just getting the plunker on
+00:26:46.390 --> 00:26:46.400 align:start position:0%
+literally just getting the plunker on
+00:26:46.400 --> 00:26:49.750 align:start position:0%
+literally just getting the plunker on
+the website treatment and one post and
+00:26:49.750 --> 00:26:49.760 align:start position:0%
+the website treatment and one post and
+00:26:49.760 --> 00:26:51.430 align:start position:0%
+the website treatment and one post and
+it I'm sure it makes your little heart
+00:26:51.430 --> 00:26:51.440 align:start position:0%
+it I'm sure it makes your little heart
+00:26:51.440 --> 00:26:53.909 align:start position:0%
+it I'm sure it makes your little heart
+cry when you hear things like this cry.
+00:26:53.909 --> 00:26:53.919 align:start position:0%
+cry when you hear things like this cry.
+00:26:53.919 --> 00:26:56.630 align:start position:0%
+cry when you hear things like this cry.
+So that needed a full launch plan.
+00:26:56.630 --> 00:26:56.640 align:start position:0%
+So that needed a full launch plan.
+00:26:56.640 --> 00:26:56.950 align:start position:0%
+So that needed a full launch plan.
+&gt;&gt; Yeah,
+00:26:56.950 --> 00:26:56.960 align:start position:0%
+&gt;&gt; Yeah,
+00:26:56.960 --> 00:26:59.350 align:start position:0%
+&gt;&gt; Yeah,
+&gt;&gt; that needed an email nurture sequence.
+00:26:59.350 --> 00:26:59.360 align:start position:0%
+&gt;&gt; that needed an email nurture sequence.
+00:26:59.360 --> 00:27:01.190 align:start position:0%
+&gt;&gt; that needed an email nurture sequence.
+It needs to be in the company's featured
+00:27:01.190 --> 00:27:01.200 align:start position:0%
+It needs to be in the company's featured
+00:27:01.200 --> 00:27:02.950 align:start position:0%
+It needs to be in the company's featured
+section and the featured section of the
+00:27:02.950 --> 00:27:02.960 align:start position:0%
+section and the featured section of the
+00:27:02.960 --> 00:27:05.029 align:start position:0%
+section and the featured section of the
+employees. It needs to be downloadable
+00:27:05.029 --> 00:27:05.039 align:start position:0%
+employees. It needs to be downloadable
+00:27:05.039 --> 00:27:08.390 align:start position:0%
+employees. It needs to be downloadable
+from email footers, from about sections.
+00:27:08.390 --> 00:27:08.400 align:start position:0%
+from email footers, from about sections.
+00:27:08.400 --> 00:27:10.230 align:start position:0%
+from email footers, from about sections.
+It needs to be all over the place and
+00:27:10.230 --> 00:27:10.240 align:start position:0%
+It needs to be all over the place and
+00:27:10.240 --> 00:27:12.789 align:start position:0%
+It needs to be all over the place and
+then three blog posts on it and 10
+00:27:12.789 --> 00:27:12.799 align:start position:0%
+then three blog posts on it and 10
+00:27:12.799 --> 00:27:15.669 align:start position:0%
+then three blog posts on it and 10
+social posts on it, fullcourt press, and
+00:27:15.669 --> 00:27:15.679 align:start position:0%
+social posts on it, fullcourt press, and
+00:27:15.679 --> 00:27:17.190 align:start position:0%
+social posts on it, fullcourt press, and
+then don't take your foot off the gas
+00:27:17.190 --> 00:27:17.200 align:start position:0%
+then don't take your foot off the gas
+00:27:17.200 --> 00:27:19.510 align:start position:0%
+then don't take your foot off the gas
+because that report doesn't expire after
+00:27:19.510 --> 00:27:19.520 align:start position:0%
+because that report doesn't expire after
+00:27:19.520 --> 00:27:21.669 align:start position:0%
+because that report doesn't expire after
+12 days. Hopefully, you wrote something
+00:27:21.669 --> 00:27:21.679 align:start position:0%
+12 days. Hopefully, you wrote something
+00:27:21.679 --> 00:27:23.190 align:start position:0%
+12 days. Hopefully, you wrote something
+with a shelf life.
+00:27:23.190 --> 00:27:23.200 align:start position:0%
+with a shelf life.
+00:27:23.200 --> 00:27:25.269 align:start position:0%
+with a shelf life.
+&gt;&gt; That's the thing. That's the craziness
+00:27:25.269 --> 00:27:25.279 align:start position:0%
+&gt;&gt; That's the thing. That's the craziness
+00:27:25.279 --> 00:27:27.669 align:start position:0%
+&gt;&gt; That's the thing. That's the craziness
+that people often think, oh, I already
+00:27:27.669 --> 00:27:27.679 align:start position:0%
+that people often think, oh, I already
+00:27:27.679 --> 00:27:29.430 align:start position:0%
+that people often think, oh, I already
+posted that 3 months ago. It's too old.
+00:27:29.430 --> 00:27:29.440 align:start position:0%
+posted that 3 months ago. It's too old.
+00:27:29.440 --> 00:27:31.830 align:start position:0%
+posted that 3 months ago. It's too old.
+It's like, no, no, no. that research is
+00:27:31.830 --> 00:27:31.840 align:start position:0%
+It's like, no, no, no. that research is
+00:27:31.840 --> 00:27:33.830 align:start position:0%
+It's like, no, no, no. that research is
+not going out of date that quickly or if
+00:27:33.830 --> 00:27:33.840 align:start position:0%
+not going out of date that quickly or if
+00:27:33.840 --> 00:27:35.430 align:start position:0%
+not going out of date that quickly or if
+it is why did you put that much effort
+00:27:35.430 --> 00:27:35.440 align:start position:0%
+it is why did you put that much effort
+00:27:35.440 --> 00:27:37.029 align:start position:0%
+it is why did you put that much effort
+into it if it's something that's
+00:27:37.029 --> 00:27:37.039 align:start position:0%
+into it if it's something that's
+00:27:37.039 --> 00:27:39.590 align:start position:0%
+into it if it's something that's
+disappears so quickly you know and you
+00:27:39.590 --> 00:27:39.600 align:start position:0%
+disappears so quickly you know and you
+00:27:39.600 --> 00:27:41.110 align:start position:0%
+disappears so quickly you know and you
+know so this is where the thought
+00:27:41.110 --> 00:27:41.120 align:start position:0%
+know so this is where the thought
+00:27:41.120 --> 00:27:43.590 align:start position:0%
+know so this is where the thought
+leadership comes into it and you know
+00:27:43.590 --> 00:27:43.600 align:start position:0%
+leadership comes into it and you know
+00:27:43.600 --> 00:27:47.830 align:start position:0%
+leadership comes into it and you know
+really like you said planning not just
+00:27:47.830 --> 00:27:47.840 align:start position:0%
+really like you said planning not just
+00:27:47.840 --> 00:27:49.750 align:start position:0%
+really like you said planning not just
+what research is going into it but how
+00:27:49.750 --> 00:27:49.760 align:start position:0%
+what research is going into it but how
+00:27:49.760 --> 00:27:51.110 align:start position:0%
+what research is going into it but how
+are we going to distribute it in the
+00:27:51.110 --> 00:27:51.120 align:start position:0%
+are we going to distribute it in the
+00:27:51.120 --> 00:27:53.430 align:start position:0%
+are we going to distribute it in the
+best way possible so we are not wasting
+00:27:53.430 --> 00:27:53.440 align:start position:0%
+best way possible so we are not wasting
+00:27:53.440 --> 00:27:56.630 align:start position:0%
+best way possible so we are not wasting
+this great content so Lee thank you for
+00:27:56.630 --> 00:27:56.640 align:start position:0%
+this great content so Lee thank you for
+00:27:56.640 --> 00:27:59.029 align:start position:0%
+this great content so Lee thank you for
+such a wonderful conversation today I
+00:27:59.029 --> 00:27:59.039 align:start position:0%
+such a wonderful conversation today I
+00:27:59.039 --> 00:28:00.789 align:start position:0%
+such a wonderful conversation today I
+hope it's the first of many that you and
+00:28:00.789 --> 00:28:00.799 align:start position:0%
+hope it's the first of many that you and
+00:28:00.799 --> 00:28:03.990 align:start position:0%
+hope it's the first of many that you and
+I will have because I do really think
+00:28:03.990 --> 00:28:04.000 align:start position:0%
+I will have because I do really think
+00:28:04.000 --> 00:28:05.510 align:start position:0%
+I will have because I do really think
+that listeners, if you enjoy
+00:28:05.510 --> 00:28:05.520 align:start position:0%
+that listeners, if you enjoy
+00:28:05.520 --> 00:28:06.789 align:start position:0%
+that listeners, if you enjoy
+newsletters, I'm going to put the
+00:28:06.789 --> 00:28:06.799 align:start position:0%
+newsletters, I'm going to put the
+00:28:06.799 --> 00:28:08.870 align:start position:0%
+newsletters, I'm going to put the
+details on how you can sign up for these
+00:28:08.870 --> 00:28:08.880 align:start position:0%
+details on how you can sign up for these
+00:28:08.880 --> 00:28:10.950 align:start position:0%
+details on how you can sign up for these
+on the show notes. So, go and check
+00:28:10.950 --> 00:28:10.960 align:start position:0%
+on the show notes. So, go and check
+00:28:10.960 --> 00:28:13.190 align:start position:0%
+on the show notes. So, go and check
+those out because I enjoy it because it
+00:28:13.190 --> 00:28:13.200 align:start position:0%
+those out because I enjoy it because it
+00:28:13.200 --> 00:28:15.909 align:start position:0%
+those out because I enjoy it because it
+makes me think, how can I improve my
+00:28:15.909 --> 00:28:15.919 align:start position:0%
+makes me think, how can I improve my
+00:28:15.919 --> 00:28:18.310 align:start position:0%
+makes me think, how can I improve my
+content planning? So, I appreciate you
+00:28:18.310 --> 00:28:18.320 align:start position:0%
+content planning? So, I appreciate you
+00:28:18.320 --> 00:28:20.389 align:start position:0%
+content planning? So, I appreciate you
+sharing everything that you have today.
+00:28:20.389 --> 00:28:20.399 align:start position:0%
+sharing everything that you have today.
+00:28:20.399 --> 00:28:22.070 align:start position:0%
+sharing everything that you have today.
+&gt;&gt; Absolutely. Thanks for having me.
+00:28:22.070 --> 00:28:22.080 align:start position:0%
+&gt;&gt; Absolutely. Thanks for having me.
+00:28:22.080 --> 00:28:26.840 align:start position:0%
+&gt;&gt; Absolutely. Thanks for having me.
+&gt;&gt; So, until next week, listeners, cheers.

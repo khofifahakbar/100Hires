@@ -1,0 +1,2290 @@
+Author: Diandra Escobar
+Source File: This AI Agent Gets Me LinkedIn Content Before I Wake Up_KlawrDJuqYc.en.vtt
+
+WEBVTT
+Kind: captions
+Language: en
+00:00:00.000 --> 00:00:03.870 align:start position:0%
+I built an AI agent [music] that finds
+00:00:03.870 --> 00:00:03.880 align:start position:0%
+I built an AI agent [music] that finds
+00:00:03.880 --> 00:00:06.510 align:start position:0%
+I built an AI agent [music] that finds
+breaking news, drafts LinkedIn posts,
+00:00:06.510 --> 00:00:06.520 align:start position:0%
+breaking news, drafts LinkedIn posts,
+00:00:06.520 --> 00:00:09.190 align:start position:0%
+breaking news, drafts LinkedIn posts,
+and delivers them to our inbox every
+00:00:09.190 --> 00:00:09.200 align:start position:0%
+and delivers them to our inbox every
+00:00:09.200 --> 00:00:12.070 align:start position:0%
+and delivers them to our inbox every
+morning before me and my team even open
+00:00:12.070 --> 00:00:12.080 align:start position:0%
+morning before me and my team even open
+00:00:12.080 --> 00:00:15.030 align:start position:0%
+morning before me and my team even open
+our laptops. And these aren't throwaway
+00:00:15.030 --> 00:00:15.040 align:start position:0%
+our laptops. And these aren't throwaway
+00:00:15.040 --> 00:00:17.790 align:start position:0%
+our laptops. And these aren't throwaway
+drafts. This system has produced posts
+00:00:17.790 --> 00:00:17.800 align:start position:0%
+drafts. This system has produced posts
+00:00:17.800 --> 00:00:20.550 align:start position:0%
+drafts. This system has produced posts
+that hit over 200,000
+00:00:20.550 --> 00:00:20.560 align:start position:0%
+that hit over 200,000
+00:00:20.560 --> 00:00:23.230 align:start position:0%
+that hit over 200,000
+impressions for a single client. [music]
+00:00:23.230 --> 00:00:23.240 align:start position:0%
+impressions for a single client. [music]
+00:00:23.240 --> 00:00:25.470 align:start position:0%
+impressions for a single client. [music]
+I'm going to show you three ways to
+00:00:25.470 --> 00:00:25.480 align:start position:0%
+I'm going to show you three ways to
+00:00:25.480 --> 00:00:28.310 align:start position:0%
+I'm going to show you three ways to
+build this. One works inside a tool you
+00:00:28.310 --> 00:00:28.320 align:start position:0%
+build this. One works inside a tool you
+00:00:28.320 --> 00:00:31.270 align:start position:0%
+build this. One works inside a tool you
+probably already have. The other scrapes
+00:00:31.270 --> 00:00:31.280 align:start position:0%
+probably already have. The other scrapes
+00:00:31.280 --> 00:00:33.470 align:start position:0%
+probably already have. The other scrapes
+X [music] accounts live and services
+00:00:33.470 --> 00:00:33.480 align:start position:0%
+X [music] accounts live and services
+00:00:33.480 --> 00:00:36.230 align:start position:0%
+X [music] accounts live and services
+breaking stories the moment they happen.
+00:00:36.230 --> 00:00:36.240 align:start position:0%
+breaking stories the moment they happen.
+00:00:36.240 --> 00:00:38.830 align:start position:0%
+breaking stories the moment they happen.
+And the other one, it's a full AI agent
+00:00:38.830 --> 00:00:38.840 align:start position:0%
+And the other one, it's a full AI agent
+00:00:38.840 --> 00:00:42.030 align:start position:0%
+And the other one, it's a full AI agent
+that runs 24/7 like a content employee
+00:00:42.030 --> 00:00:42.040 align:start position:0%
+that runs 24/7 like a content employee
+00:00:42.040 --> 00:00:45.110 align:start position:0%
+that runs 24/7 like a content employee
+who never sleeps. I'm putting my bets
+00:00:45.110 --> 00:00:45.120 align:start position:0%
+who never sleeps. I'm putting my bets
+00:00:45.120 --> 00:00:47.710 align:start position:0%
+who never sleeps. I'm putting my bets
+that this is where AI in content is
+00:00:47.710 --> 00:00:47.720 align:start position:0%
+that this is where AI in content is
+00:00:47.720 --> 00:00:50.150 align:start position:0%
+that this is where AI in content is
+heading. So, stay until the end because
+00:00:50.150 --> 00:00:50.160 align:start position:0%
+heading. So, stay until the end because
+00:00:50.160 --> 00:00:52.150 align:start position:0%
+heading. So, stay until the end because
+that last one is going to change how you
+00:00:52.150 --> 00:00:52.160 align:start position:0%
+that last one is going to change how you
+00:00:52.160 --> 00:00:55.350 align:start position:0%
+that last one is going to change how you
+think about AI entirely. And I'm giving
+00:00:55.350 --> 00:00:55.360 align:start position:0%
+think about AI entirely. And I'm giving
+00:00:55.360 --> 00:00:59.030 align:start position:0%
+think about AI entirely. And I'm giving
+you every prompt, every config file, and
+00:00:59.030 --> 00:00:59.040 align:start position:0%
+you every prompt, every config file, and
+00:00:59.040 --> 00:01:02.110 align:start position:0%
+you every prompt, every config file, and
+every workflow template so you can copy
+00:01:02.110 --> 00:01:02.120 align:start position:0%
+every workflow template so you can copy
+00:01:02.120 --> 00:01:04.229 align:start position:0%
+every workflow template so you can copy
+the entire thing. It's all linked in the
+00:01:04.229 --> 00:01:04.239 align:start position:0%
+the entire thing. It's all linked in the
+00:01:04.239 --> 00:01:07.670 align:start position:0%
+the entire thing. It's all linked in the
+description.
+00:01:07.670 --> 00:01:07.680 align:start position:0%
+00:01:07.680 --> 00:01:10.190 align:start position:0%
+Now, quick context. If you haven't seen
+00:01:10.190 --> 00:01:10.200 align:start position:0%
+Now, quick context. If you haven't seen
+00:01:10.200 --> 00:01:12.950 align:start position:0%
+Now, quick context. If you haven't seen
+my breakdown on LinkedIn growth formats,
+00:01:12.950 --> 00:01:12.960 align:start position:0%
+my breakdown on LinkedIn growth formats,
+00:01:12.960 --> 00:01:16.510 align:start position:0%
+my breakdown on LinkedIn growth formats,
+there's a specific type of post we call
+00:01:16.510 --> 00:01:16.520 align:start position:0%
+there's a specific type of post we call
+00:01:16.520 --> 00:01:18.790 align:start position:0%
+there's a specific type of post we call
+newsjacking. You take something that
+00:01:18.790 --> 00:01:18.800 align:start position:0%
+newsjacking. You take something that
+00:01:18.800 --> 00:01:20.630 align:start position:0%
+newsjacking. You take something that
+just happened in your industry and you
+00:01:20.630 --> 00:01:20.640 align:start position:0%
+just happened in your industry and you
+00:01:20.640 --> 00:01:22.430 align:start position:0%
+just happened in your industry and you
+add your own perspective [music]
+00:01:22.430 --> 00:01:22.440 align:start position:0%
+add your own perspective [music]
+00:01:22.440 --> 00:01:25.310 align:start position:0%
+add your own perspective [music]
+to it before anyone else does. Not
+00:01:25.310 --> 00:01:25.320 align:start position:0%
+to it before anyone else does. Not
+00:01:25.320 --> 00:01:27.790 align:start position:0%
+to it before anyone else does. Not
+summarizing the news, contextualizing
+00:01:27.790 --> 00:01:27.800 align:start position:0%
+summarizing the news, contextualizing
+00:01:27.800 --> 00:01:28.415 align:start position:0%
+summarizing the news, contextualizing
+it.
+00:01:28.415 --> 00:01:28.425 align:start position:0%
+it.
+00:01:28.425 --> 00:01:28.470 align:start position:0%
+it.
+&gt;&gt; [music]
+00:01:28.470 --> 00:01:28.480 align:start position:0%
+&gt;&gt; [music]
+00:01:28.480 --> 00:01:30.430 align:start position:0%
+&gt;&gt; [music]
+&gt;&gt; Telling your audience what it actually
+00:01:30.430 --> 00:01:30.440 align:start position:0%
+&gt;&gt; Telling your audience what it actually
+00:01:30.440 --> 00:01:33.390 align:start position:0%
+&gt;&gt; Telling your audience what it actually
+means for them. It works because you are
+00:01:33.390 --> 00:01:33.400 align:start position:0%
+means for them. It works because you are
+00:01:33.400 --> 00:01:35.550 align:start position:0%
+means for them. It works because you are
+attaching your expertise to something
+00:01:35.550 --> 00:01:35.560 align:start position:0%
+attaching your expertise to something
+00:01:35.560 --> 00:01:38.110 align:start position:0%
+attaching your expertise to something
+that already has an audience. The news
+00:01:38.110 --> 00:01:38.120 align:start position:0%
+that already has an audience. The news
+00:01:38.120 --> 00:01:40.630 align:start position:0%
+that already has an audience. The news
+story does the heavy lifting of getting
+00:01:40.630 --> 00:01:40.640 align:start position:0%
+story does the heavy lifting of getting
+00:01:40.640 --> 00:01:42.950 align:start position:0%
+story does the heavy lifting of getting
+people to stop scrolling, and your job
+00:01:42.950 --> 00:01:42.960 align:start position:0%
+people to stop scrolling, and your job
+00:01:42.960 --> 00:01:45.630 align:start position:0%
+people to stop scrolling, and your job
+is to tell them what it actually means.
+00:01:45.630 --> 00:01:45.640 align:start position:0%
+is to tell them what it actually means.
+00:01:45.640 --> 00:01:48.230 align:start position:0%
+is to tell them what it actually means.
+And when that story directly impacts
+00:01:48.230 --> 00:01:48.240 align:start position:0%
+And when that story directly impacts
+00:01:48.240 --> 00:01:50.790 align:start position:0%
+And when that story directly impacts
+your audience's industry, their jobs,
+00:01:50.790 --> 00:01:50.800 align:start position:0%
+your audience's industry, their jobs,
+00:01:50.800 --> 00:01:53.150 align:start position:0%
+your audience's industry, their jobs,
+their strategy, they're not casually
+00:01:53.150 --> 00:01:53.160 align:start position:0%
+their strategy, they're not casually
+00:01:53.160 --> 00:01:55.590 align:start position:0%
+their strategy, they're not casually
+scrolling past it. They need someone to
+00:01:55.590 --> 00:01:55.600 align:start position:0%
+scrolling past it. They need someone to
+00:01:55.600 --> 00:01:56.581 align:start position:0%
+scrolling past it. They need someone to
+break it down,
+00:01:56.581 --> 00:01:56.591 align:start position:0%
+break it down,
+00:01:56.591 --> 00:01:56.630 align:start position:0%
+break it down,
+&gt;&gt; [music]
+00:01:56.630 --> 00:01:56.640 align:start position:0%
+&gt;&gt; [music]
+00:01:56.640 --> 00:01:59.310 align:start position:0%
+&gt;&gt; [music]
+&gt;&gt; and that's you. All of that attention
+00:01:59.310 --> 00:01:59.320 align:start position:0%
+&gt;&gt; and that's you. All of that attention
+00:01:59.320 --> 00:02:01.510 align:start position:0%
+&gt;&gt; and that's you. All of that attention
+lands on your profile. And when you are
+00:02:01.510 --> 00:02:01.520 align:start position:0%
+lands on your profile. And when you are
+00:02:01.520 --> 00:02:04.310 align:start position:0%
+lands on your profile. And when you are
+early, the distribution compounds. One
+00:02:04.310 --> 00:02:04.320 align:start position:0%
+early, the distribution compounds. One
+00:02:04.320 --> 00:02:06.510 align:start position:0%
+early, the distribution compounds. One
+of our clients covered the revelation
+00:02:06.510 --> 00:02:06.520 align:start position:0%
+of our clients covered the revelation
+00:02:06.520 --> 00:02:08.990 align:start position:0%
+of our clients covered the revelation
+that ChatGPT pulls directly from Google
+00:02:08.990 --> 00:02:09.000 align:start position:0%
+that ChatGPT pulls directly from Google
+00:02:09.000 --> 00:02:11.150 align:start position:0%
+that ChatGPT pulls directly from Google
+search and what that means for SEO
+00:02:11.150 --> 00:02:11.160 align:start position:0%
+search and what that means for SEO
+00:02:11.160 --> 00:02:15.310 align:start position:0%
+search and what that means for SEO
+strategy. 293 comments, 234 reposts,
+00:02:15.310 --> 00:02:15.320 align:start position:0%
+strategy. 293 comments, 234 reposts,
+00:02:15.320 --> 00:02:17.070 align:start position:0%
+strategy. 293 comments, 234 reposts,
+208,000
+00:02:17.070 --> 00:02:17.080 align:start position:0%
+208,000
+00:02:17.080 --> 00:02:19.390 align:start position:0%
+208,000
+impressions. And that's not a one-off.
+00:02:19.390 --> 00:02:19.400 align:start position:0%
+impressions. And that's not a one-off.
+00:02:19.400 --> 00:02:22.310 align:start position:0%
+impressions. And that's not a one-off.
+In the last months, we've been blowing
+00:02:22.310 --> 00:02:22.320 align:start position:0%
+In the last months, we've been blowing
+00:02:22.320 --> 00:02:24.630 align:start position:0%
+In the last months, we've been blowing
+up clients' accounts with this same
+00:02:24.630 --> 00:02:24.640 align:start position:0%
+up clients' accounts with this same
+00:02:24.640 --> 00:02:28.430 align:start position:0%
+up clients' accounts with this same
+strategy over and over. The problem,
+00:02:28.430 --> 00:02:28.440 align:start position:0%
+strategy over and over. The problem,
+00:02:28.440 --> 00:02:30.950 align:start position:0%
+strategy over and over. The problem,
+finding the right story at the right
+00:02:30.950 --> 00:02:30.960 align:start position:0%
+finding the right story at the right
+00:02:30.960 --> 00:02:33.790 align:start position:0%
+finding the right story at the right
+time and having the angle ready to go.
+00:02:33.790 --> 00:02:33.800 align:start position:0%
+time and having the angle ready to go.
+00:02:33.800 --> 00:02:35.630 align:start position:0%
+time and having the angle ready to go.
+And that's the bottleneck, and that's
+00:02:35.630 --> 00:02:35.640 align:start position:0%
+And that's the bottleneck, and that's
+00:02:35.640 --> 00:02:39.110 align:start position:0%
+And that's the bottleneck, and that's
+exactly what we automated. Three ways to
+00:02:39.110 --> 00:02:39.120 align:start position:0%
+exactly what we automated. Three ways to
+00:02:39.120 --> 00:02:41.630 align:start position:0%
+exactly what we automated. Three ways to
+build this. They scale in what they can
+00:02:41.630 --> 00:02:41.640 align:start position:0%
+build this. They scale in what they can
+00:02:41.640 --> 00:02:44.310 align:start position:0%
+build this. They scale in what they can
+do for you. Level one,
+00:02:44.310 --> 00:02:44.320 align:start position:0%
+do for you. Level one,
+00:02:44.320 --> 00:02:47.110 align:start position:0%
+do for you. Level one,
+Claude Co-work. If you already use
+00:02:47.110 --> 00:02:47.120 align:start position:0%
+Claude Co-work. If you already use
+00:02:47.120 --> 00:02:49.310 align:start position:0%
+Claude Co-work. If you already use
+Claude, you can set this up today. You
+00:02:49.310 --> 00:02:49.320 align:start position:0%
+Claude, you can set this up today. You
+00:02:49.320 --> 00:02:51.110 align:start position:0%
+Claude, you can set this up today. You
+give it a prompt, it researches the
+00:02:51.110 --> 00:02:51.120 align:start position:0%
+give it a prompt, it researches the
+00:02:51.120 --> 00:02:53.110 align:start position:0%
+give it a prompt, it researches the
+latest news in your space, and it comes
+00:02:53.110 --> 00:02:53.120 align:start position:0%
+latest news in your space, and it comes
+00:02:53.120 --> 00:02:55.790 align:start position:0%
+latest news in your space, and it comes
+back with newsjacking drafts ready to
+00:02:55.790 --> 00:02:55.800 align:start position:0%
+back with newsjacking drafts ready to
+00:02:55.800 --> 00:02:58.950 align:start position:0%
+back with newsjacking drafts ready to
+edit. Level two, N8N. This is for the
+00:02:58.950 --> 00:02:58.960 align:start position:0%
+edit. Level two, N8N. This is for the
+00:02:58.960 --> 00:03:01.230 align:start position:0%
+edit. Level two, N8N. This is for the
+people who want the real-time edge. It
+00:03:01.230 --> 00:03:01.240 align:start position:0%
+people who want the real-time edge. It
+00:03:01.240 --> 00:03:03.790 align:start position:0%
+people who want the real-time edge. It
+scrapes X accounts, pulls live news, and
+00:03:03.790 --> 00:03:03.800 align:start position:0%
+scrapes X accounts, pulls live news, and
+00:03:03.800 --> 00:03:05.950 align:start position:0%
+scrapes X accounts, pulls live news, and
+delivers everything to your inbox on a
+00:03:05.950 --> 00:03:05.960 align:start position:0%
+delivers everything to your inbox on a
+00:03:05.960 --> 00:03:08.430 align:start position:0%
+delivers everything to your inbox on a
+schedule. More tools involved, more
+00:03:08.430 --> 00:03:08.440 align:start position:0%
+schedule. More tools involved, more
+00:03:08.440 --> 00:03:10.470 align:start position:0%
+schedule. More tools involved, more
+setup, but you will be the first person
+00:03:10.470 --> 00:03:10.480 align:start position:0%
+setup, but you will be the first person
+00:03:10.480 --> 00:03:13.830 align:start position:0%
+setup, but you will be the first person
+on LinkedIn with the take. And level
+00:03:13.830 --> 00:03:13.840 align:start position:0%
+on LinkedIn with the take. And level
+00:03:13.840 --> 00:03:17.670 align:start position:0%
+on LinkedIn with the take. And level
+three, Open Claw. This is an AI agent,
+00:03:17.670 --> 00:03:17.680 align:start position:0%
+three, Open Claw. This is an AI agent,
+00:03:17.680 --> 00:03:20.310 align:start position:0%
+three, Open Claw. This is an AI agent,
+not a workflow, an agent. It runs on a
+00:03:20.310 --> 00:03:20.320 align:start position:0%
+not a workflow, an agent. It runs on a
+00:03:20.320 --> 00:03:23.470 align:start position:0%
+not a workflow, an agent. It runs on a
+server around the clock. I think we are
+00:03:23.470 --> 00:03:23.480 align:start position:0%
+server around the clock. I think we are
+00:03:23.480 --> 00:03:25.710 align:start position:0%
+server around the clock. I think we are
+at the same moment with AI agents that
+00:03:25.710 --> 00:03:25.720 align:start position:0%
+at the same moment with AI agents that
+00:03:25.720 --> 00:03:28.230 align:start position:0%
+at the same moment with AI agents that
+we were with ChatGPT 2 years ago. People
+00:03:28.230 --> 00:03:28.240 align:start position:0%
+we were with ChatGPT 2 years ago. People
+00:03:28.240 --> 00:03:30.630 align:start position:0%
+we were with ChatGPT 2 years ago. People
+are cautious, there are real security
+00:03:30.630 --> 00:03:30.640 align:start position:0%
+are cautious, there are real security
+00:03:30.640 --> 00:03:32.950 align:start position:0%
+are cautious, there are real security
+questions to work through, but this is
+00:03:32.950 --> 00:03:32.960 align:start position:0%
+questions to work through, but this is
+00:03:32.960 --> 00:03:35.510 align:start position:0%
+questions to work through, but this is
+going mainstream. And when it does, it's
+00:03:35.510 --> 00:03:35.520 align:start position:0%
+going mainstream. And when it does, it's
+00:03:35.520 --> 00:03:38.230 align:start position:0%
+going mainstream. And when it does, it's
+like having an employee that never stops
+00:03:38.230 --> 00:03:38.240 align:start position:0%
+like having an employee that never stops
+00:03:38.240 --> 00:03:41.510 align:start position:0%
+like having an employee that never stops
+working. So, now we are ready to start
+00:03:41.510 --> 00:03:41.520 align:start position:0%
+working. So, now we are ready to start
+00:03:41.520 --> 00:03:43.790 align:start position:0%
+working. So, now we are ready to start
+building. Pause for a second before I
+00:03:43.790 --> 00:03:43.800 align:start position:0%
+building. Pause for a second before I
+00:03:43.800 --> 00:03:45.430 align:start position:0%
+building. Pause for a second before I
+walk you through all three methods,
+00:03:45.430 --> 00:03:45.440 align:start position:0%
+walk you through all three methods,
+00:03:45.440 --> 00:03:47.430 align:start position:0%
+walk you through all three methods,
+remember to grab the newsjacking toolkit
+00:03:47.430 --> 00:03:47.440 align:start position:0%
+remember to grab the newsjacking toolkit
+00:03:47.440 --> 00:03:49.590 align:start position:0%
+remember to grab the newsjacking toolkit
+from the link in the description. That
+00:03:49.590 --> 00:03:49.600 align:start position:0%
+from the link in the description. That
+00:03:49.600 --> 00:03:51.950 align:start position:0%
+from the link in the description. That
+way, you have the prompts and config
+00:03:51.950 --> 00:03:51.960 align:start position:0%
+way, you have the prompts and config
+00:03:51.960 --> 00:03:55.070 align:start position:0%
+way, you have the prompts and config
+files open right next to this video, and
+00:03:55.070 --> 00:03:55.080 align:start position:0%
+files open right next to this video, and
+00:03:55.080 --> 00:03:56.990 align:start position:0%
+files open right next to this video, and
+when I show you each method, you just
+00:03:56.990 --> 00:03:57.000 align:start position:0%
+when I show you each method, you just
+00:03:57.000 --> 00:03:58.870 align:start position:0%
+when I show you each method, you just
+paste what's in the doc and follow
+00:03:58.870 --> 00:03:58.880 align:start position:0%
+paste what's in the doc and follow
+00:03:58.880 --> 00:04:01.030 align:start position:0%
+paste what's in the doc and follow
+along. It's going to take you 10 seconds
+00:04:01.030 --> 00:04:01.040 align:start position:0%
+along. It's going to take you 10 seconds
+00:04:01.040 --> 00:04:03.310 align:start position:0%
+along. It's going to take you 10 seconds
+and it'll make the rest of this video 10
+00:04:03.310 --> 00:04:03.320 align:start position:0%
+and it'll make the rest of this video 10
+00:04:03.320 --> 00:04:06.230 align:start position:0%
+and it'll make the rest of this video 10
+times more useful. Okay, let's go.
+00:04:06.230 --> 00:04:06.240 align:start position:0%
+times more useful. Okay, let's go.
+00:04:06.240 --> 00:04:09.950 align:start position:0%
+times more useful. Okay, let's go.
+Enough chitchat.
+00:04:09.950 --> 00:04:09.960 align:start position:0%
+00:04:09.960 --> 00:04:12.070 align:start position:0%
+Let's start with the simplest version.
+00:04:12.070 --> 00:04:12.080 align:start position:0%
+Let's start with the simplest version.
+00:04:12.080 --> 00:04:14.910 align:start position:0%
+Let's start with the simplest version.
+If you've never built anything with AI
+00:04:14.910 --> 00:04:14.920 align:start position:0%
+If you've never built anything with AI
+00:04:14.920 --> 00:04:16.990 align:start position:0%
+If you've never built anything with AI
+beyond chatting with it, this is your
+00:04:16.990 --> 00:04:17.000 align:start position:0%
+beyond chatting with it, this is your
+00:04:17.000 --> 00:04:19.830 align:start position:0%
+beyond chatting with it, this is your
+entry point. Claude Co-work is a desktop
+00:04:19.830 --> 00:04:19.840 align:start position:0%
+entry point. Claude Co-work is a desktop
+00:04:19.840 --> 00:04:22.470 align:start position:0%
+entry point. Claude Co-work is a desktop
+tool from Anthropic that lets you give
+00:04:22.470 --> 00:04:22.480 align:start position:0%
+tool from Anthropic that lets you give
+00:04:22.480 --> 00:04:25.110 align:start position:0%
+tool from Anthropic that lets you give
+Claude a task and it just goes and does
+00:04:25.110 --> 00:04:25.120 align:start position:0%
+Claude a task and it just goes and does
+00:04:25.120 --> 00:04:27.990 align:start position:0%
+Claude a task and it just goes and does
+it. On your computer, in real time, you
+00:04:27.990 --> 00:04:28.000 align:start position:0%
+it. On your computer, in real time, you
+00:04:28.000 --> 00:04:30.670 align:start position:0%
+it. On your computer, in real time, you
+watch it work. It's kind of unreal. And
+00:04:30.670 --> 00:04:30.680 align:start position:0%
+watch it work. It's kind of unreal. And
+00:04:30.680 --> 00:04:33.190 align:start position:0%
+watch it work. It's kind of unreal. And
+what we're using it for is a newsjacking
+00:04:33.190 --> 00:04:33.200 align:start position:0%
+what we're using it for is a newsjacking
+00:04:33.200 --> 00:04:35.270 align:start position:0%
+what we're using it for is a newsjacking
+research assistant that scans the latest
+00:04:35.270 --> 00:04:35.280 align:start position:0%
+research assistant that scans the latest
+00:04:35.280 --> 00:04:37.590 align:start position:0%
+research assistant that scans the latest
+news in your niche and drafts LinkedIn
+00:04:37.590 --> 00:04:37.600 align:start position:0%
+news in your niche and drafts LinkedIn
+00:04:37.600 --> 00:04:39.950 align:start position:0%
+news in your niche and drafts LinkedIn
+posts based on what it finds. Okay, so
+00:04:39.950 --> 00:04:39.960 align:start position:0%
+posts based on what it finds. Okay, so
+00:04:39.960 --> 00:04:42.470 align:start position:0%
+posts based on what it finds. Okay, so
+now we are actually going to set it up
+00:04:42.470 --> 00:04:42.480 align:start position:0%
+now we are actually going to set it up
+00:04:42.480 --> 00:04:43.630 align:start position:0%
+now we are actually going to set it up
+together.
+00:04:43.630 --> 00:04:43.640 align:start position:0%
+together.
+00:04:43.640 --> 00:04:46.110 align:start position:0%
+together.
+So, you go into your Claude, you press
+00:04:46.110 --> 00:04:46.120 align:start position:0%
+So, you go into your Claude, you press
+00:04:46.120 --> 00:04:47.550 align:start position:0%
+So, you go into your Claude, you press
+Co-work cuz that's where we're going to
+00:04:47.550 --> 00:04:47.560 align:start position:0%
+Co-work cuz that's where we're going to
+00:04:47.560 --> 00:04:49.430 align:start position:0%
+Co-work cuz that's where we're going to
+chat with it so we can build it live
+00:04:49.430 --> 00:04:49.440 align:start position:0%
+chat with it so we can build it live
+00:04:49.440 --> 00:04:51.190 align:start position:0%
+chat with it so we can build it live
+with us. This is the cool thing about
+00:04:51.190 --> 00:04:51.200 align:start position:0%
+with us. This is the cool thing about
+00:04:51.200 --> 00:04:53.110 align:start position:0%
+with us. This is the cool thing about
+it. We don't really have to know what
+00:04:53.110 --> 00:04:53.120 align:start position:0%
+it. We don't really have to know what
+00:04:53.120 --> 00:04:55.470 align:start position:0%
+it. We don't really have to know what
+we're doing because it will help us do
+00:04:55.470 --> 00:04:55.480 align:start position:0%
+we're doing because it will help us do
+00:04:55.480 --> 00:04:57.070 align:start position:0%
+we're doing because it will help us do
+it all. So, we're going to press work in
+00:04:57.070 --> 00:04:57.080 align:start position:0%
+it all. So, we're going to press work in
+00:04:57.080 --> 00:04:58.750 align:start position:0%
+it all. So, we're going to press work in
+a folder, choose a different folder,
+00:04:58.750 --> 00:04:58.760 align:start position:0%
+a folder, choose a different folder,
+00:04:58.760 --> 00:05:01.430 align:start position:0%
+a folder, choose a different folder,
+just choose a specific folder where you
+00:05:01.430 --> 00:05:01.440 align:start position:0%
+just choose a specific folder where you
+00:05:01.440 --> 00:05:04.710 align:start position:0%
+just choose a specific folder where you
+want our newsjacking report to be
+00:05:04.710 --> 00:05:04.720 align:start position:0%
+want our newsjacking report to be
+00:05:04.720 --> 00:05:06.630 align:start position:0%
+want our newsjacking report to be
+sent to every day. I'm going to name it
+00:05:06.630 --> 00:05:06.640 align:start position:0%
+sent to every day. I'm going to name it
+00:05:06.640 --> 00:05:09.590 align:start position:0%
+sent to every day. I'm going to name it
+Claude Co-work. Awesome.
+00:05:09.590 --> 00:05:09.600 align:start position:0%
+Claude Co-work. Awesome.
+00:05:09.600 --> 00:05:12.550 align:start position:0%
+Claude Co-work. Awesome.
+Always allow. Okay, now let's actually
+00:05:12.550 --> 00:05:12.560 align:start position:0%
+Always allow. Okay, now let's actually
+00:05:12.560 --> 00:05:16.790 align:start position:0%
+Always allow. Okay, now let's actually
+prompt it. So, I want to create a new
+00:05:16.790 --> 00:05:16.800 align:start position:0%
+prompt it. So, I want to create a new
+00:05:16.800 --> 00:05:19.950 align:start position:0%
+prompt it. So, I want to create a new
+skill which will research
+00:05:19.950 --> 00:05:19.960 align:start position:0%
+skill which will research
+00:05:19.960 --> 00:05:24.870 align:start position:0%
+skill which will research
+and find the latest news for LinkedIn
+00:05:24.870 --> 00:05:24.880 align:start position:0%
+and find the latest news for LinkedIn
+00:05:24.880 --> 00:05:26.630 align:start position:0%
+and find the latest news for LinkedIn
+post ideas. So, now it's actually
+00:05:26.630 --> 00:05:26.640 align:start position:0%
+post ideas. So, now it's actually
+00:05:26.640 --> 00:05:28.030 align:start position:0%
+post ideas. So, now it's actually
+running a skill.
+00:05:28.030 --> 00:05:28.040 align:start position:0%
+running a skill.
+00:05:28.040 --> 00:05:31.150 align:start position:0%
+running a skill.
+And let's It's going to ask me a few
+00:05:31.150 --> 00:05:31.160 align:start position:0%
+And let's It's going to ask me a few
+00:05:31.160 --> 00:05:34.630 align:start position:0%
+And let's It's going to ask me a few
+questions here. I want to research the
+00:05:34.630 --> 00:05:34.640 align:start position:0%
+questions here. I want to research the
+00:05:34.640 --> 00:05:38.750 align:start position:0%
+questions here. I want to research the
+latest news on AI LLMs,
+00:05:38.750 --> 00:05:38.760 align:start position:0%
+latest news on AI LLMs,
+00:05:38.760 --> 00:05:44.910 align:start position:0%
+latest news on AI LLMs,
+tech industry VC backing of startups.
+00:05:44.910 --> 00:05:44.920 align:start position:0%
+tech industry VC backing of startups.
+00:05:44.920 --> 00:05:48.510 align:start position:0%
+tech industry VC backing of startups.
+I want to look at the latest news from
+00:05:48.510 --> 00:05:48.520 align:start position:0%
+I want to look at the latest news from
+00:05:48.520 --> 00:05:53.230 align:start position:0%
+I want to look at the latest news from
+the last 24 hours as well as look at
+00:05:53.230 --> 00:05:53.240 align:start position:0%
+the last 24 hours as well as look at
+00:05:53.240 --> 00:05:56.950 align:start position:0%
+the last 24 hours as well as look at
+tweets from a set of X accounts. And
+00:05:56.950 --> 00:05:56.960 align:start position:0%
+tweets from a set of X accounts. And
+00:05:56.960 --> 00:05:58.510 align:start position:0%
+tweets from a set of X accounts. And
+because we have a client that has a
+00:05:58.510 --> 00:05:58.520 align:start position:0%
+because we have a client that has a
+00:05:58.520 --> 00:06:00.870 align:start position:0%
+because we have a client that has a
+200-person software agency and an
+00:06:00.870 --> 00:06:00.880 align:start position:0%
+200-person software agency and an
+00:06:00.880 --> 00:06:03.110 align:start position:0%
+200-person software agency and an
+investment firm, our best bet for the
+00:06:03.110 --> 00:06:03.120 align:start position:0%
+investment firm, our best bet for the
+00:06:03.120 --> 00:06:05.070 align:start position:0%
+investment firm, our best bet for the
+newsjacking post for him, and that's why
+00:06:05.070 --> 00:06:05.080 align:start position:0%
+newsjacking post for him, and that's why
+00:06:05.080 --> 00:06:07.510 align:start position:0%
+newsjacking post for him, and that's why
+we're creating this one in specific, is
+00:06:07.510 --> 00:06:07.520 align:start position:0%
+we're creating this one in specific, is
+00:06:07.520 --> 00:06:11.030 align:start position:0%
+we're creating this one in specific, is
+to be very focused on AI and everything
+00:06:11.030 --> 00:06:11.040 align:start position:0%
+to be very focused on AI and everything
+00:06:11.040 --> 00:06:13.870 align:start position:0%
+to be very focused on AI and everything
+that has to do around investment. So,
+00:06:13.870 --> 00:06:13.880 align:start position:0%
+that has to do around investment. So,
+00:06:13.880 --> 00:06:16.470 align:start position:0%
+that has to do around investment. So,
+what I've done before this is I've
+00:06:16.470 --> 00:06:16.480 align:start position:0%
+what I've done before this is I've
+00:06:16.480 --> 00:06:19.310 align:start position:0%
+what I've done before this is I've
+created a list of X accounts that I
+00:06:19.310 --> 00:06:19.320 align:start position:0%
+created a list of X accounts that I
+00:06:19.320 --> 00:06:22.030 align:start position:0%
+created a list of X accounts that I
+trust, that are always posting
+00:06:22.030 --> 00:06:22.040 align:start position:0%
+trust, that are always posting
+00:06:22.040 --> 00:06:24.950 align:start position:0%
+trust, that are always posting
+interesting latest AI news that will
+00:06:24.950 --> 00:06:24.960 align:start position:0%
+interesting latest AI news that will
+00:06:24.960 --> 00:06:26.510 align:start position:0%
+interesting latest AI news that will
+help us be able to be the first on
+00:06:26.510 --> 00:06:26.520 align:start position:0%
+help us be able to be the first on
+00:06:26.520 --> 00:06:28.070 align:start position:0%
+help us be able to be the first on
+LinkedIn because as I said before,
+00:06:28.070 --> 00:06:28.080 align:start position:0%
+LinkedIn because as I said before,
+00:06:28.080 --> 00:06:29.950 align:start position:0%
+LinkedIn because as I said before,
+LinkedIn is always late, so X is the
+00:06:29.950 --> 00:06:29.960 align:start position:0%
+LinkedIn is always late, so X is the
+00:06:29.960 --> 00:06:32.030 align:start position:0%
+LinkedIn is always late, so X is the
+best place to find this. Okay, so I'm
+00:06:32.030 --> 00:06:32.040 align:start position:0%
+best place to find this. Okay, so I'm
+00:06:32.040 --> 00:06:33.870 align:start position:0%
+best place to find this. Okay, so I'm
+copying these X accounts and I'm pasting
+00:06:33.870 --> 00:06:33.880 align:start position:0%
+copying these X accounts and I'm pasting
+00:06:33.880 --> 00:06:37.510 align:start position:0%
+copying these X accounts and I'm pasting
+them here. You will likely need to use
+00:06:37.510 --> 00:06:37.520 align:start position:0%
+them here. You will likely need to use
+00:06:37.520 --> 00:06:41.870 align:start position:0%
+them here. You will likely need to use
+Google search to find these, too. I want
+00:06:41.870 --> 00:06:41.880 align:start position:0%
+Google search to find these, too. I want
+00:06:41.880 --> 00:06:44.390 align:start position:0%
+Google search to find these, too. I want
+you to look for
+00:06:44.390 --> 00:06:44.400 align:start position:0%
+you to look for
+00:06:44.400 --> 00:06:48.950 align:start position:0%
+you to look for
+the news and create newsjacking
+00:06:48.950 --> 00:06:48.960 align:start position:0%
+the news and create newsjacking
+00:06:48.960 --> 00:06:51.950 align:start position:0%
+the news and create newsjacking
+type LinkedIn posts.
+00:06:51.950 --> 00:06:51.960 align:start position:0%
+type LinkedIn posts.
+00:06:51.960 --> 00:06:55.230 align:start position:0%
+type LinkedIn posts.
+I would like roughly 10 posts. Give me
+00:06:55.230 --> 00:06:55.240 align:start position:0%
+I would like roughly 10 posts. Give me
+00:06:55.240 --> 00:06:59.230 align:start position:0%
+I would like roughly 10 posts. Give me
+the raw news and posts with the URLs to
+00:06:59.230 --> 00:06:59.240 align:start position:0%
+the raw news and posts with the URLs to
+00:06:59.240 --> 00:07:04.030 align:start position:0%
+the raw news and posts with the URLs to
+them, and then give me the actual posts
+00:07:04.030 --> 00:07:04.040 align:start position:0%
+them, and then give me the actual posts
+00:07:04.040 --> 00:07:06.990 align:start position:0%
+them, and then give me the actual posts
+at the end. I then want you to save the
+00:07:06.990 --> 00:07:07.000 align:start position:0%
+at the end. I then want you to save the
+00:07:07.000 --> 00:07:08.590 align:start position:0%
+at the end. I then want you to save the
+result to
+00:07:08.590 --> 00:07:08.600 align:start position:0%
+result to
+00:07:08.600 --> 00:07:10.910 align:start position:0%
+result to
+a PDF in the folder with the current
+00:07:10.910 --> 00:07:10.920 align:start position:0%
+a PDF in the folder with the current
+00:07:10.920 --> 00:07:15.510 align:start position:0%
+a PDF in the folder with the current
+date, example 2026 0315. I then want you
+00:07:15.510 --> 00:07:15.520 align:start position:0%
+date, example 2026 0315. I then want you
+00:07:15.520 --> 00:07:19.870 align:start position:0%
+date, example 2026 0315. I then want you
+to set it to run on a schedule in
+00:07:19.870 --> 00:07:19.880 align:start position:0%
+to set it to run on a schedule in
+00:07:19.880 --> 00:07:23.550 align:start position:0%
+to set it to run on a schedule in
+Co-work to run at 6:00 a.m. in EST.
+00:07:23.550 --> 00:07:23.560 align:start position:0%
+Co-work to run at 6:00 a.m. in EST.
+00:07:23.560 --> 00:07:24.630 align:start position:0%
+Co-work to run at 6:00 a.m. in EST.
+Okay?
+00:07:24.630 --> 00:07:24.640 align:start position:0%
+Okay?
+00:07:24.640 --> 00:07:28.150 align:start position:0%
+Okay?
+Let's go. Okay, now we press schedule,
+00:07:28.150 --> 00:07:28.160 align:start position:0%
+Let's go. Okay, now we press schedule,
+00:07:28.160 --> 00:07:29.510 align:start position:0%
+Let's go. Okay, now we press schedule,
+and
+00:07:29.510 --> 00:07:29.520 align:start position:0%
+and
+00:07:29.520 --> 00:07:32.950 align:start position:0%
+and
+now we press copy to your skills, allow,
+00:07:32.950 --> 00:07:32.960 align:start position:0%
+now we press copy to your skills, allow,
+00:07:32.960 --> 00:07:35.030 align:start position:0%
+now we press copy to your skills, allow,
+and
+00:07:35.030 --> 00:07:35.040 align:start position:0%
+and
+00:07:35.040 --> 00:07:38.110 align:start position:0%
+and
+upload and replace, and we look over
+00:07:38.110 --> 00:07:38.120 align:start position:0%
+upload and replace, and we look over
+00:07:38.120 --> 00:07:41.070 align:start position:0%
+upload and replace, and we look over
+here in our scheduled tasks, and there
+00:07:41.070 --> 00:07:41.080 align:start position:0%
+here in our scheduled tasks, and there
+00:07:41.080 --> 00:07:44.830 align:start position:0%
+here in our scheduled tasks, and there
+you have it. You have your LinkedIn
+00:07:44.830 --> 00:07:44.840 align:start position:0%
+you have it. You have your LinkedIn
+00:07:44.840 --> 00:07:46.350 align:start position:0%
+you have it. You have your LinkedIn
+newsjacking
+00:07:46.350 --> 00:07:46.360 align:start position:0%
+newsjacking
+00:07:46.360 --> 00:07:48.430 align:start position:0%
+newsjacking
+scheduled for 6:00 a.m. Let's actually
+00:07:48.430 --> 00:07:48.440 align:start position:0%
+scheduled for 6:00 a.m. Let's actually
+00:07:48.440 --> 00:07:49.790 align:start position:0%
+scheduled for 6:00 a.m. Let's actually
+look at the preview of how that looks
+00:07:49.790 --> 00:07:49.800 align:start position:0%
+look at the preview of how that looks
+00:07:49.800 --> 00:07:52.350 align:start position:0%
+look at the preview of how that looks
+like. Create a nice-looking PDF showing
+00:07:52.350 --> 00:07:52.360 align:start position:0%
+like. Create a nice-looking PDF showing
+00:07:52.360 --> 00:07:54.350 align:start position:0%
+like. Create a nice-looking PDF showing
+us raw news and sources with the actual
+00:07:54.350 --> 00:07:54.360 align:start position:0%
+us raw news and sources with the actual
+00:07:54.360 --> 00:07:56.510 align:start position:0%
+us raw news and sources with the actual
+links so you can go and verify, go dig
+00:07:56.510 --> 00:07:56.520 align:start position:0%
+links so you can go and verify, go dig
+00:07:56.520 --> 00:07:59.470 align:start position:0%
+links so you can go and verify, go dig
+in, and actually find what's your point
+00:07:59.470 --> 00:07:59.480 align:start position:0%
+in, and actually find what's your point
+00:07:59.480 --> 00:08:00.830 align:start position:0%
+in, and actually find what's your point
+of view in the post that you're going to
+00:08:00.830 --> 00:08:00.840 align:start position:0%
+of view in the post that you're going to
+00:08:00.840 --> 00:08:04.870 align:start position:0%
+of view in the post that you're going to
+write. We also have the key tweets from
+00:08:04.870 --> 00:08:04.880 align:start position:0%
+write. We also have the key tweets from
+00:08:04.880 --> 00:08:06.790 align:start position:0%
+write. We also have the key tweets from
+those tracked accounts that I created
+00:08:06.790 --> 00:08:06.800 align:start position:0%
+those tracked accounts that I created
+00:08:06.800 --> 00:08:09.750 align:start position:0%
+those tracked accounts that I created
+already, that I researched beforehand.
+00:08:09.750 --> 00:08:09.760 align:start position:0%
+already, that I researched beforehand.
+00:08:09.760 --> 00:08:12.270 align:start position:0%
+already, that I researched beforehand.
+And then we actually get the part three,
+00:08:12.270 --> 00:08:12.280 align:start position:0%
+And then we actually get the part three,
+00:08:12.280 --> 00:08:13.950 align:start position:0%
+And then we actually get the part three,
+which is the interesting part and the
+00:08:13.950 --> 00:08:13.960 align:start position:0%
+which is the interesting part and the
+00:08:13.960 --> 00:08:15.990 align:start position:0%
+which is the interesting part and the
+funnest for us, is we're actually
+00:08:15.990 --> 00:08:16.000 align:start position:0%
+funnest for us, is we're actually
+00:08:16.000 --> 00:08:18.430 align:start position:0%
+funnest for us, is we're actually
+getting LinkedIn posts drafted. So,
+00:08:18.430 --> 00:08:18.440 align:start position:0%
+getting LinkedIn posts drafted. So,
+00:08:18.440 --> 00:08:19.630 align:start position:0%
+getting LinkedIn posts drafted. So,
+there's so many other things you could
+00:08:19.630 --> 00:08:19.640 align:start position:0%
+there's so many other things you could
+00:08:19.640 --> 00:08:22.070 align:start position:0%
+there's so many other things you could
+do with this specific setup, like for
+00:08:22.070 --> 00:08:22.080 align:start position:0%
+do with this specific setup, like for
+00:08:22.080 --> 00:08:23.550 align:start position:0%
+do with this specific setup, like for
+example, connect it to your Slack.
+00:08:23.550 --> 00:08:23.560 align:start position:0%
+example, connect it to your Slack.
+00:08:23.560 --> 00:08:25.350 align:start position:0%
+example, connect it to your Slack.
+Instead of getting a PDF, making it send
+00:08:25.350 --> 00:08:25.360 align:start position:0%
+Instead of getting a PDF, making it send
+00:08:25.360 --> 00:08:27.390 align:start position:0%
+Instead of getting a PDF, making it send
+you a Slack message to your whole team.
+00:08:27.390 --> 00:08:27.400 align:start position:0%
+you a Slack message to your whole team.
+00:08:27.400 --> 00:08:30.230 align:start position:0%
+you a Slack message to your whole team.
+Or send it as an email. And in this
+00:08:30.230 --> 00:08:30.240 align:start position:0%
+Or send it as an email. And in this
+00:08:30.240 --> 00:08:33.750 align:start position:0%
+Or send it as an email. And in this
+case, we have created our first
+00:08:33.750 --> 00:08:33.760 align:start position:0%
+case, we have created our first
+00:08:33.760 --> 00:08:36.070 align:start position:0%
+case, we have created our first
+automation. And for example, you go here
+00:08:36.070 --> 00:08:36.080 align:start position:0%
+automation. And for example, you go here
+00:08:36.080 --> 00:08:37.469 align:start position:0%
+automation. And for example, you go here
+to this link, you can get all the
+00:08:37.469 --> 00:08:37.479 align:start position:0%
+to this link, you can get all the
+00:08:37.479 --> 00:08:39.750 align:start position:0%
+to this link, you can get all the
+information and draft up a viral post.
+00:08:39.750 --> 00:08:39.760 align:start position:0%
+information and draft up a viral post.
+00:08:39.760 --> 00:08:42.510 align:start position:0%
+information and draft up a viral post.
+And draft up your first newsjacking
+00:08:42.510 --> 00:08:42.520 align:start position:0%
+And draft up your first newsjacking
+00:08:42.520 --> 00:08:44.510 align:start position:0%
+And draft up your first newsjacking
+post. So, you notice, the good thing
+00:08:44.510 --> 00:08:44.520 align:start position:0%
+post. So, you notice, the good thing
+00:08:44.520 --> 00:08:47.350 align:start position:0%
+post. So, you notice, the good thing
+it's not just regurgitating headlines.
+00:08:47.350 --> 00:08:47.360 align:start position:0%
+it's not just regurgitating headlines.
+00:08:47.360 --> 00:08:49.070 align:start position:0%
+it's not just regurgitating headlines.
+It's about what we talked about. It's
+00:08:49.070 --> 00:08:49.080 align:start position:0%
+It's about what we talked about. It's
+00:08:49.080 --> 00:08:50.790 align:start position:0%
+It's about what we talked about. It's
+adding a perspective, it's telling the
+00:08:50.790 --> 00:08:50.800 align:start position:0%
+adding a perspective, it's telling the
+00:08:50.800 --> 00:08:53.470 align:start position:0%
+adding a perspective, it's telling the
+audience what this means, not just what
+00:08:53.470 --> 00:08:53.480 align:start position:0%
+audience what this means, not just what
+00:08:53.480 --> 00:08:56.550 align:start position:0%
+audience what this means, not just what
+happened. The drafts won't be perfect
+00:08:56.550 --> 00:08:56.560 align:start position:0%
+happened. The drafts won't be perfect
+00:08:56.560 --> 00:08:59.710 align:start position:0%
+happened. The drafts won't be perfect
+because they never are with any AI tool.
+00:08:59.710 --> 00:08:59.720 align:start position:0%
+because they never are with any AI tool.
+00:08:59.720 --> 00:09:02.030 align:start position:0%
+because they never are with any AI tool.
+You'll want to spend 5 to 10 minutes at
+00:09:02.030 --> 00:09:02.040 align:start position:0%
+You'll want to spend 5 to 10 minutes at
+00:09:02.040 --> 00:09:03.950 align:start position:0%
+You'll want to spend 5 to 10 minutes at
+least editing, adding your voice,
+00:09:03.950 --> 00:09:03.960 align:start position:0%
+least editing, adding your voice,
+00:09:03.960 --> 00:09:06.070 align:start position:0%
+least editing, adding your voice,
+sharpening the take, but the research,
+00:09:06.070 --> 00:09:06.080 align:start position:0%
+sharpening the take, but the research,
+00:09:06.080 --> 00:09:08.350 align:start position:0%
+sharpening the take, but the research,
+the part that normally takes an hour of
+00:09:08.350 --> 00:09:08.360 align:start position:0%
+the part that normally takes an hour of
+00:09:08.360 --> 00:09:11.150 align:start position:0%
+the part that normally takes an hour of
+scanning news sites and X, that's done
+00:09:11.150 --> 00:09:11.160 align:start position:0%
+scanning news sites and X, that's done
+00:09:11.160 --> 00:09:14.150 align:start position:0%
+scanning news sites and X, that's done
+in seconds. That's the whole flow with
+00:09:14.150 --> 00:09:14.160 align:start position:0%
+in seconds. That's the whole flow with
+00:09:14.160 --> 00:09:16.070 align:start position:0%
+in seconds. That's the whole flow with
+Co-work. Give it the prompt, let it
+00:09:16.070 --> 00:09:16.080 align:start position:0%
+Co-work. Give it the prompt, let it
+00:09:16.080 --> 00:09:18.590 align:start position:0%
+Co-work. Give it the prompt, let it
+research, edit the drafts, and it's all
+00:09:18.590 --> 00:09:18.600 align:start position:0%
+research, edit the drafts, and it's all
+00:09:18.600 --> 00:09:20.510 align:start position:0%
+research, edit the drafts, and it's all
+in the kit linked in the description.
+00:09:20.510 --> 00:09:20.520 align:start position:0%
+in the kit linked in the description.
+00:09:20.520 --> 00:09:23.590 align:start position:0%
+in the kit linked in the description.
+The limitation with Co-work, it runs on
+00:09:23.590 --> 00:09:23.600 align:start position:0%
+The limitation with Co-work, it runs on
+00:09:23.600 --> 00:09:26.030 align:start position:0%
+The limitation with Co-work, it runs on
+a schedule, but your laptop needs to be
+00:09:26.030 --> 00:09:26.040 align:start position:0%
+a schedule, but your laptop needs to be
+00:09:26.040 --> 00:09:28.870 align:start position:0%
+a schedule, but your laptop needs to be
+on. If your laptop's off, it'll run the
+00:09:28.870 --> 00:09:28.880 align:start position:0%
+on. If your laptop's off, it'll run the
+00:09:28.880 --> 00:09:30.750 align:start position:0%
+on. If your laptop's off, it'll run the
+task the moment you actually turn it on.
+00:09:30.750 --> 00:09:30.760 align:start position:0%
+task the moment you actually turn it on.
+00:09:30.760 --> 00:09:31.910 align:start position:0%
+task the moment you actually turn it on.
+For a lot of people, that's more than
+00:09:31.910 --> 00:09:31.920 align:start position:0%
+For a lot of people, that's more than
+00:09:31.920 --> 00:09:33.830 align:start position:0%
+For a lot of people, that's more than
+enough. Set it up once, and you have
+00:09:33.830 --> 00:09:33.840 align:start position:0%
+enough. Set it up once, and you have
+00:09:33.840 --> 00:09:35.470 align:start position:0%
+enough. Set it up once, and you have
+newsjacking drafts waiting for you every
+00:09:35.470 --> 00:09:35.480 align:start position:0%
+newsjacking drafts waiting for you every
+00:09:35.480 --> 00:09:38.230 align:start position:0%
+newsjacking drafts waiting for you every
+day. But Co-work researches through
+00:09:38.230 --> 00:09:38.240 align:start position:0%
+day. But Co-work researches through
+00:09:38.240 --> 00:09:40.670 align:start position:0%
+day. But Co-work researches through
+Google, which means if a story breaks on
+00:09:40.670 --> 00:09:40.680 align:start position:0%
+Google, which means if a story breaks on
+00:09:40.680 --> 00:09:43.390 align:start position:0%
+Google, which means if a story breaks on
+X first, you're waiting for it to get
+00:09:43.390 --> 00:09:43.400 align:start position:0%
+X first, you're waiting for it to get
+00:09:43.400 --> 00:09:45.950 align:start position:0%
+X first, you're waiting for it to get
+indexed. That can take a couple of days.
+00:09:45.950 --> 00:09:45.960 align:start position:0%
+indexed. That can take a couple of days.
+00:09:45.960 --> 00:09:48.550 align:start position:0%
+indexed. That can take a couple of days.
+By then, you might not be early anymore.
+00:09:48.550 --> 00:09:48.560 align:start position:0%
+By then, you might not be early anymore.
+00:09:48.560 --> 00:09:51.510 align:start position:0%
+By then, you might not be early anymore.
+So, if you want real-time signal from
+00:09:51.510 --> 00:09:51.520 align:start position:0%
+So, if you want real-time signal from
+00:09:51.520 --> 00:09:53.470 align:start position:0%
+So, if you want real-time signal from
+the places where news actually breaks
+00:09:53.470 --> 00:09:53.480 align:start position:0%
+the places where news actually breaks
+00:09:53.480 --> 00:09:55.990 align:start position:0%
+the places where news actually breaks
+first, this is where it gets
+00:09:55.990 --> 00:09:56.000 align:start position:0%
+first, this is where it gets
+00:09:56.000 --> 00:09:59.030 align:start position:0%
+first, this is where it gets
+interesting.
+00:09:59.030 --> 00:09:59.040 align:start position:0%
+00:09:59.040 --> 00:10:01.710 align:start position:0%
+An 8 N is a workflow automation tool.
+00:10:01.710 --> 00:10:01.720 align:start position:0%
+An 8 N is a workflow automation tool.
+00:10:01.720 --> 00:10:03.950 align:start position:0%
+An 8 N is a workflow automation tool.
+Think of it like Zapier, but way more
+00:10:03.950 --> 00:10:03.960 align:start position:0%
+Think of it like Zapier, but way more
+00:10:03.960 --> 00:10:06.310 align:start position:0%
+Think of it like Zapier, but way more
+powerful for AI workflows. What we are
+00:10:06.310 --> 00:10:06.320 align:start position:0%
+powerful for AI workflows. What we are
+00:10:06.320 --> 00:10:08.590 align:start position:0%
+powerful for AI workflows. What we are
+building here does something Co Work
+00:10:08.590 --> 00:10:08.600 align:start position:0%
+building here does something Co Work
+00:10:08.600 --> 00:10:11.870 align:start position:0%
+building here does something Co Work
+can't. It scrapes X accounts directly
+00:10:11.870 --> 00:10:11.880 align:start position:0%
+can't. It scrapes X accounts directly
+00:10:11.880 --> 00:10:14.110 align:start position:0%
+can't. It scrapes X accounts directly
+from X. The people in your industry who
+00:10:14.110 --> 00:10:14.120 align:start position:0%
+from X. The people in your industry who
+00:10:14.120 --> 00:10:16.430 align:start position:0%
+from X. The people in your industry who
+break news first, the ones whose tweets
+00:10:16.430 --> 00:10:16.440 align:start position:0%
+break news first, the ones whose tweets
+00:10:16.440 --> 00:10:19.790 align:start position:0%
+break news first, the ones whose tweets
+become LinkedIn posts 48 hours later.
+00:10:19.790 --> 00:10:19.800 align:start position:0%
+become LinkedIn posts 48 hours later.
+00:10:19.800 --> 00:10:21.910 align:start position:0%
+become LinkedIn posts 48 hours later.
+And that's where the fastest signal
+00:10:21.910 --> 00:10:21.920 align:start position:0%
+And that's where the fastest signal
+00:10:21.920 --> 00:10:24.030 align:start position:0%
+And that's where the fastest signal
+lives. By the time a story trends on
+00:10:24.030 --> 00:10:24.040 align:start position:0%
+lives. By the time a story trends on
+00:10:24.040 --> 00:10:26.150 align:start position:0%
+lives. By the time a story trends on
+LinkedIn, it already happened on X days
+00:10:26.150 --> 00:10:26.160 align:start position:0%
+LinkedIn, it already happened on X days
+00:10:26.160 --> 00:10:29.070 align:start position:0%
+LinkedIn, it already happened on X days
+ago. So, this workflow catches it in
+00:10:29.070 --> 00:10:29.080 align:start position:0%
+ago. So, this workflow catches it in
+00:10:29.080 --> 00:10:31.870 align:start position:0%
+ago. So, this workflow catches it in
+real time. On top of that, it pulls from
+00:10:31.870 --> 00:10:31.880 align:start position:0%
+real time. On top of that, it pulls from
+00:10:31.880 --> 00:10:33.710 align:start position:0%
+real time. On top of that, it pulls from
+Google News and passes everything
+00:10:33.710 --> 00:10:33.720 align:start position:0%
+Google News and passes everything
+00:10:33.720 --> 00:10:36.870 align:start position:0%
+Google News and passes everything
+through an AI node that evaluates news
+00:10:36.870 --> 00:10:36.880 align:start position:0%
+through an AI node that evaluates news
+00:10:36.880 --> 00:10:37.967 align:start position:0%
+through an AI node that evaluates news
+jacking potential.
+00:10:37.967 --> 00:10:37.977 align:start position:0%
+jacking potential.
+00:10:37.977 --> 00:10:38.030 align:start position:0%
+jacking potential.
+&gt;&gt; [music]
+00:10:38.030 --> 00:10:38.040 align:start position:0%
+&gt;&gt; [music]
+00:10:38.040 --> 00:10:40.750 align:start position:0%
+&gt;&gt; [music]
+&gt;&gt; Drafts supposed ideas and delivers them
+00:10:40.750 --> 00:10:40.760 align:start position:0%
+&gt;&gt; Drafts supposed ideas and delivers them
+00:10:40.760 --> 00:10:43.590 align:start position:0%
+&gt;&gt; Drafts supposed ideas and delivers them
+to your inbox or Slack on a schedule.
+00:10:43.590 --> 00:10:43.600 align:start position:0%
+to your inbox or Slack on a schedule.
+00:10:43.600 --> 00:10:47.350 align:start position:0%
+to your inbox or Slack on a schedule.
+So, the workflow we have here is going
+00:10:47.350 --> 00:10:47.360 align:start position:0%
+So, the workflow we have here is going
+00:10:47.360 --> 00:10:49.510 align:start position:0%
+So, the workflow we have here is going
+to be pretty simple for you guys because
+00:10:49.510 --> 00:10:49.520 align:start position:0%
+to be pretty simple for you guys because
+00:10:49.520 --> 00:10:51.390 align:start position:0%
+to be pretty simple for you guys because
+all you have to do is copy and paste the
+00:10:51.390 --> 00:10:51.400 align:start position:0%
+all you have to do is copy and paste the
+00:10:51.400 --> 00:10:53.710 align:start position:0%
+all you have to do is copy and paste the
+config file that is in the link in the
+00:10:53.710 --> 00:10:53.720 align:start position:0%
+config file that is in the link in the
+00:10:53.720 --> 00:10:55.030 align:start position:0%
+config file that is in the link in the
+description, but I'm still going to
+00:10:55.030 --> 00:10:55.040 align:start position:0%
+description, but I'm still going to
+00:10:55.040 --> 00:10:56.510 align:start position:0%
+description, but I'm still going to
+explain it so you understand exactly
+00:10:56.510 --> 00:10:56.520 align:start position:0%
+explain it so you understand exactly
+00:10:56.520 --> 00:10:58.830 align:start position:0%
+explain it so you understand exactly
+what's working through in this workflow.
+00:10:58.830 --> 00:10:58.840 align:start position:0%
+what's working through in this workflow.
+00:10:58.840 --> 00:11:01.390 align:start position:0%
+what's working through in this workflow.
+Okay, so we have a first node, which is
+00:11:01.390 --> 00:11:01.400 align:start position:0%
+Okay, so we have a first node, which is
+00:11:01.400 --> 00:11:02.510 align:start position:0%
+Okay, so we have a first node, which is
+a trigger
+00:11:02.510 --> 00:11:02.520 align:start position:0%
+a trigger
+00:11:02.520 --> 00:11:05.510 align:start position:0%
+a trigger
+everyday at 7:00 a.m. Then, we have
+00:11:05.510 --> 00:11:05.520 align:start position:0%
+everyday at 7:00 a.m. Then, we have
+00:11:05.520 --> 00:11:08.910 align:start position:0%
+everyday at 7:00 a.m. Then, we have
+three other ones here. One is tracking
+00:11:08.910 --> 00:11:08.920 align:start position:0%
+three other ones here. One is tracking
+00:11:08.920 --> 00:11:11.190 align:start position:0%
+three other ones here. One is tracking
+the accounts that you have already done
+00:11:11.190 --> 00:11:11.200 align:start position:0%
+the accounts that you have already done
+00:11:11.200 --> 00:11:13.710 align:start position:0%
+the accounts that you have already done
+the research and you've listed.
+00:11:13.710 --> 00:11:13.720 align:start position:0%
+the research and you've listed.
+00:11:13.720 --> 00:11:15.590 align:start position:0%
+the research and you've listed.
+Then, the second one is going to not
+00:11:15.590 --> 00:11:15.600 align:start position:0%
+Then, the second one is going to not
+00:11:15.600 --> 00:11:16.790 align:start position:0%
+Then, the second one is going to not
+only
+00:11:16.790 --> 00:11:16.800 align:start position:0%
+only
+00:11:16.800 --> 00:11:18.430 align:start position:0%
+only
+apart from the ones that we're already
+00:11:18.430 --> 00:11:18.440 align:start position:0%
+apart from the ones that we're already
+00:11:18.440 --> 00:11:20.310 align:start position:0%
+apart from the ones that we're already
+tracking, it's going to go find other
+00:11:20.310 --> 00:11:20.320 align:start position:0%
+tracking, it's going to go find other
+00:11:20.320 --> 00:11:22.630 align:start position:0%
+tracking, it's going to go find other
+trending tweets.
+00:11:22.630 --> 00:11:22.640 align:start position:0%
+trending tweets.
+00:11:22.640 --> 00:11:23.950 align:start position:0%
+trending tweets.
+And then, the third one is going to
+00:11:23.950 --> 00:11:23.960 align:start position:0%
+And then, the third one is going to
+00:11:23.960 --> 00:11:26.870 align:start position:0%
+And then, the third one is going to
+actually fetch AI news stories. All that
+00:11:26.870 --> 00:11:26.880 align:start position:0%
+actually fetch AI news stories. All that
+00:11:26.880 --> 00:11:30.910 align:start position:0%
+actually fetch AI news stories. All that
+data gets combined into this one. Claude
+00:11:30.910 --> 00:11:30.920 align:start position:0%
+data gets combined into this one. Claude
+00:11:30.920 --> 00:11:34.030 align:start position:0%
+data gets combined into this one. Claude
+analyzes it. The next steps converts it
+00:11:34.030 --> 00:11:34.040 align:start position:0%
+analyzes it. The next steps converts it
+00:11:34.040 --> 00:11:37.670 align:start position:0%
+analyzes it. The next steps converts it
+into HTML so that we get a nice-looking
+00:11:37.670 --> 00:11:37.680 align:start position:0%
+into HTML so that we get a nice-looking
+00:11:37.680 --> 00:11:40.550 align:start position:0%
+into HTML so that we get a nice-looking
+email report every single day. But, if
+00:11:40.550 --> 00:11:40.560 align:start position:0%
+email report every single day. But, if
+00:11:40.560 --> 00:11:42.750 align:start position:0%
+email report every single day. But, if
+you want to send it as a Slack message,
+00:11:42.750 --> 00:11:42.760 align:start position:0%
+you want to send it as a Slack message,
+00:11:42.760 --> 00:11:44.510 align:start position:0%
+you want to send it as a Slack message,
+then we have an extra little step here
+00:11:44.510 --> 00:11:44.520 align:start position:0%
+then we have an extra little step here
+00:11:44.520 --> 00:11:47.310 align:start position:0%
+then we have an extra little step here
+because you can't use the same format
+00:11:47.310 --> 00:11:47.320 align:start position:0%
+because you can't use the same format
+00:11:47.320 --> 00:11:49.710 align:start position:0%
+because you can't use the same format
+for both email and a Slack. So, that's
+00:11:49.710 --> 00:11:49.720 align:start position:0%
+for both email and a Slack. So, that's
+00:11:49.720 --> 00:11:51.670 align:start position:0%
+for both email and a Slack. So, that's
+basically it. The good thing is you
+00:11:51.670 --> 00:11:51.680 align:start position:0%
+basically it. The good thing is you
+00:11:51.680 --> 00:11:53.350 align:start position:0%
+basically it. The good thing is you
+don't have to build this yourself. You
+00:11:53.350 --> 00:11:53.360 align:start position:0%
+don't have to build this yourself. You
+00:11:53.360 --> 00:11:56.710 align:start position:0%
+don't have to build this yourself. You
+just copy and paste and you get an N8N
+00:11:56.710 --> 00:11:56.720 align:start position:0%
+just copy and paste and you get an N8N
+00:11:56.720 --> 00:11:59.190 align:start position:0%
+just copy and paste and you get an N8N
+workflow and it's going to track live
+00:11:59.190 --> 00:11:59.200 align:start position:0%
+workflow and it's going to track live
+00:11:59.200 --> 00:12:02.590 align:start position:0%
+workflow and it's going to track live
+tweets, trending tweets, news stories,
+00:12:02.590 --> 00:12:02.600 align:start position:0%
+tweets, trending tweets, news stories,
+00:12:02.600 --> 00:12:04.710 align:start position:0%
+tweets, trending tweets, news stories,
+and send it to you in a beautiful email
+00:12:04.710 --> 00:12:04.720 align:start position:0%
+and send it to you in a beautiful email
+00:12:04.720 --> 00:12:06.990 align:start position:0%
+and send it to you in a beautiful email
+or in a Slack message. The advantage
+00:12:06.990 --> 00:12:07.000 align:start position:0%
+or in a Slack message. The advantage
+00:12:07.000 --> 00:12:09.910 align:start position:0%
+or in a Slack message. The advantage
+over Co Work, real-time data from X, and
+00:12:09.910 --> 00:12:09.920 align:start position:0%
+over Co Work, real-time data from X, and
+00:12:09.920 --> 00:12:12.110 align:start position:0%
+over Co Work, real-time data from X, and
+it runs without you. Every morning, you
+00:12:12.110 --> 00:12:12.120 align:start position:0%
+it runs without you. Every morning, you
+00:12:12.120 --> 00:12:14.390 align:start position:0%
+it runs without you. Every morning, you
+wake up to news jacking drafts sitting
+00:12:14.390 --> 00:12:14.400 align:start position:0%
+wake up to news jacking drafts sitting
+00:12:14.400 --> 00:12:16.350 align:start position:0%
+wake up to news jacking drafts sitting
+in your inbox. You didn't open a tool,
+00:12:16.350 --> 00:12:16.360 align:start position:0%
+in your inbox. You didn't open a tool,
+00:12:16.360 --> 00:12:18.430 align:start position:0%
+in your inbox. You didn't open a tool,
+you didn't paste a prompt. The workflow
+00:12:18.430 --> 00:12:18.440 align:start position:0%
+you didn't paste a prompt. The workflow
+00:12:18.440 --> 00:12:20.590 align:start position:0%
+you didn't paste a prompt. The workflow
+handed it overnight. The trade-off is
+00:12:20.590 --> 00:12:20.600 align:start position:0%
+handed it overnight. The trade-off is
+00:12:20.600 --> 00:12:23.470 align:start position:0%
+handed it overnight. The trade-off is
+more of setup, more tools involved. API
+00:12:23.470 --> 00:12:23.480 align:start position:0%
+more of setup, more tools involved. API
+00:12:23.480 --> 00:12:25.390 align:start position:0%
+more of setup, more tools involved. API
+keys, you need to configure the X
+00:12:25.390 --> 00:12:25.400 align:start position:0%
+keys, you need to configure the X
+00:12:25.400 --> 00:12:27.590 align:start position:0%
+keys, you need to configure the X
+scraping, you need to set up the
+00:12:27.590 --> 00:12:27.600 align:start position:0%
+scraping, you need to set up the
+00:12:27.600 --> 00:12:29.790 align:start position:0%
+scraping, you need to set up the
+workflow nodes. But again, the full
+00:12:29.790 --> 00:12:29.800 align:start position:0%
+workflow nodes. But again, the full
+00:12:29.800 --> 00:12:31.990 align:start position:0%
+workflow nodes. But again, the full
+workflow JSON, I've made sure to get
+00:12:31.990 --> 00:12:32.000 align:start position:0%
+workflow JSON, I've made sure to get
+00:12:32.000 --> 00:12:34.150 align:start position:0%
+workflow JSON, I've made sure to get
+this perfect to the T for you guys, and
+00:12:34.150 --> 00:12:34.160 align:start position:0%
+this perfect to the T for you guys, and
+00:12:34.160 --> 00:12:35.950 align:start position:0%
+this perfect to the T for you guys, and
+it is in the toolkit. You're not
+00:12:35.950 --> 00:12:35.960 align:start position:0%
+it is in the toolkit. You're not
+00:12:35.960 --> 00:12:37.950 align:start position:0%
+it is in the toolkit. You're not
+building from scratch. You import it and
+00:12:37.950 --> 00:12:37.960 align:start position:0%
+building from scratch. You import it and
+00:12:37.960 --> 00:12:39.829 align:start position:0%
+building from scratch. You import it and
+customize a few fields if you want.
+00:12:39.829 --> 00:12:39.839 align:start position:0%
+customize a few fields if you want.
+00:12:39.839 --> 00:12:43.390 align:start position:0%
+customize a few fields if you want.
+These first two methods are powerful,
+00:12:43.390 --> 00:12:43.400 align:start position:0%
+These first two methods are powerful,
+00:12:43.400 --> 00:12:45.350 align:start position:0%
+These first two methods are powerful,
+but they are still tools. You give them
+00:12:45.350 --> 00:12:45.360 align:start position:0%
+but they are still tools. You give them
+00:12:45.360 --> 00:12:48.110 align:start position:0%
+but they are still tools. You give them
+a task, they do it. The next [music] one
+00:12:48.110 --> 00:12:48.120 align:start position:0%
+a task, they do it. The next [music] one
+00:12:48.120 --> 00:12:50.510 align:start position:0%
+a task, they do it. The next [music] one
+is different. It doesn't wait for you to
+00:12:50.510 --> 00:12:50.520 align:start position:0%
+is different. It doesn't wait for you to
+00:12:50.520 --> 00:12:54.110 align:start position:0%
+is different. It doesn't wait for you to
+ask. It thinks, it decides, it acts. And
+00:12:54.110 --> 00:12:54.120 align:start position:0%
+ask. It thinks, it decides, it acts. And
+00:12:54.120 --> 00:12:56.270 align:start position:0%
+ask. It thinks, it decides, it acts. And
+I genuinely believe this is where all of
+00:12:56.270 --> 00:12:56.280 align:start position:0%
+I genuinely believe this is where all of
+00:12:56.280 --> 00:13:01.829 align:start position:0%
+I genuinely believe this is where all of
+this is going for everyone.
+00:13:01.829 --> 00:13:01.839 align:start position:0%
+00:13:01.839 --> 00:13:04.590 align:start position:0%
+Open Claw isn't a workflow builder. It's
+00:13:04.590 --> 00:13:04.600 align:start position:0%
+Open Claw isn't a workflow builder. It's
+00:13:04.600 --> 00:13:08.070 align:start position:0%
+Open Claw isn't a workflow builder. It's
+an AI agent platform. Meaning, you
+00:13:08.070 --> 00:13:08.080 align:start position:0%
+an AI agent platform. Meaning, you
+00:13:08.080 --> 00:13:10.590 align:start position:0%
+an AI agent platform. Meaning, you
+define a task and it executes
+00:13:10.590 --> 00:13:10.600 align:start position:0%
+define a task and it executes
+00:13:10.600 --> 00:13:13.990 align:start position:0%
+define a task and it executes
+autonomously on a server. No trigger, no
+00:13:13.990 --> 00:13:14.000 align:start position:0%
+autonomously on a server. No trigger, no
+00:13:14.000 --> 00:13:16.630 align:start position:0%
+autonomously on a server. No trigger, no
+manual run, it just works. So, think
+00:13:16.630 --> 00:13:16.640 align:start position:0%
+manual run, it just works. So, think
+00:13:16.640 --> 00:13:18.950 align:start position:0%
+manual run, it just works. So, think
+about when ChatGPT first came out.
+00:13:18.950 --> 00:13:18.960 align:start position:0%
+about when ChatGPT first came out.
+00:13:18.960 --> 00:13:21.550 align:start position:0%
+about when ChatGPT first came out.
+People were skeptical, some were scared,
+00:13:21.550 --> 00:13:21.560 align:start position:0%
+People were skeptical, some were scared,
+00:13:21.560 --> 00:13:23.510 align:start position:0%
+People were skeptical, some were scared,
+most didn't know what to do with it.
+00:13:23.510 --> 00:13:23.520 align:start position:0%
+most didn't know what to do with it.
+00:13:23.520 --> 00:13:26.470 align:start position:0%
+most didn't know what to do with it.
+Now, everyone uses it daily. I think AI
+00:13:26.470 --> 00:13:26.480 align:start position:0%
+Now, everyone uses it daily. I think AI
+00:13:26.480 --> 00:13:29.190 align:start position:0%
+Now, everyone uses it daily. I think AI
+agents are at that exact same inflection
+00:13:29.190 --> 00:13:29.200 align:start position:0%
+agents are at that exact same inflection
+00:13:29.200 --> 00:13:32.350 align:start position:0%
+agents are at that exact same inflection
+point right now. The people who figure
+00:13:32.350 --> 00:13:32.360 align:start position:0%
+point right now. The people who figure
+00:13:32.360 --> 00:13:34.750 align:start position:0%
+point right now. The people who figure
+this out early are going to have an
+00:13:34.750 --> 00:13:34.760 align:start position:0%
+this out early are going to have an
+00:13:34.760 --> 00:13:38.590 align:start position:0%
+this out early are going to have an
+insane advantage. But, there are real
+00:13:38.590 --> 00:13:38.600 align:start position:0%
+insane advantage. But, there are real
+00:13:38.600 --> 00:13:41.470 align:start position:0%
+insane advantage. But, there are real
+security considerations. You're giving
+00:13:41.470 --> 00:13:41.480 align:start position:0%
+security considerations. You're giving
+00:13:41.480 --> 00:13:43.910 align:start position:0%
+security considerations. You're giving
+an AI agent access to data sources and
+00:13:43.910 --> 00:13:43.920 align:start position:0%
+an AI agent access to data sources and
+00:13:43.920 --> 00:13:46.110 align:start position:0%
+an AI agent access to data sources and
+APIs. That needs to be handled
+00:13:46.110 --> 00:13:46.120 align:start position:0%
+APIs. That needs to be handled
+00:13:46.120 --> 00:13:49.110 align:start position:0%
+APIs. That needs to be handled
+carefully. But, the capability is real.
+00:13:49.110 --> 00:13:49.120 align:start position:0%
+carefully. But, the capability is real.
+00:13:49.120 --> 00:13:52.150 align:start position:0%
+carefully. But, the capability is real.
+And it's like having a content employee
+00:13:52.150 --> 00:13:52.160 align:start position:0%
+And it's like having a content employee
+00:13:52.160 --> 00:13:54.470 align:start position:0%
+And it's like having a content employee
+who works around the clock, never misses
+00:13:54.470 --> 00:13:54.480 align:start position:0%
+who works around the clock, never misses
+00:13:54.480 --> 00:13:56.630 align:start position:0%
+who works around the clock, never misses
+a story, and has drafts ready before
+00:13:56.630 --> 00:13:56.640 align:start position:0%
+a story, and has drafts ready before
+00:13:56.640 --> 00:13:59.590 align:start position:0%
+a story, and has drafts ready before
+your alarm goes off. Now, let me walk
+00:13:59.590 --> 00:13:59.600 align:start position:0%
+your alarm goes off. Now, let me walk
+00:13:59.600 --> 00:14:02.190 align:start position:0%
+your alarm goes off. Now, let me walk
+you through how it works. At Distinct
+00:14:02.190 --> 00:14:02.200 align:start position:0%
+you through how it works. At Distinct
+00:14:02.200 --> 00:14:04.910 align:start position:0%
+you through how it works. At Distinct
+Idea, we always want to be ahead of the
+00:14:04.910 --> 00:14:04.920 align:start position:0%
+Idea, we always want to be ahead of the
+00:14:04.920 --> 00:14:07.750 align:start position:0%
+Idea, we always want to be ahead of the
+curve. So, we've been experimenting with
+00:14:07.750 --> 00:14:07.760 align:start position:0%
+curve. So, we've been experimenting with
+00:14:07.760 --> 00:14:10.230 align:start position:0%
+curve. So, we've been experimenting with
+Open Claw as we believe this is the
+00:14:10.230 --> 00:14:10.240 align:start position:0%
+Open Claw as we believe this is the
+00:14:10.240 --> 00:14:12.790 align:start position:0%
+Open Claw as we believe this is the
+future in AI. And this is what we have
+00:14:12.790 --> 00:14:12.800 align:start position:0%
+future in AI. And this is what we have
+00:14:12.800 --> 00:14:14.590 align:start position:0%
+future in AI. And this is what we have
+been running right now. Like I showed
+00:14:14.590 --> 00:14:14.600 align:start position:0%
+been running right now. Like I showed
+00:14:14.600 --> 00:14:17.150 align:start position:0%
+been running right now. Like I showed
+you, the agent scrapes the web just like
+00:14:17.150 --> 00:14:17.160 align:start position:0%
+you, the agent scrapes the web just like
+00:14:17.160 --> 00:14:19.310 align:start position:0%
+you, the agent scrapes the web just like
+the N8N method, but the difference is
+00:14:19.310 --> 00:14:19.320 align:start position:0%
+the N8N method, but the difference is
+00:14:19.320 --> 00:14:22.310 align:start position:0%
+the N8N method, but the difference is
+what happens after the data comes in. It
+00:14:22.310 --> 00:14:22.320 align:start position:0%
+what happens after the data comes in. It
+00:14:22.320 --> 00:14:24.829 align:start position:0%
+what happens after the data comes in. It
+makes decisions, runs on itself without
+00:14:24.829 --> 00:14:24.839 align:start position:0%
+makes decisions, runs on itself without
+00:14:24.839 --> 00:14:27.270 align:start position:0%
+makes decisions, runs on itself without
+having to go through nodes, tabs, and
+00:14:27.270 --> 00:14:27.280 align:start position:0%
+having to go through nodes, tabs, and
+00:14:27.280 --> 00:14:29.630 align:start position:0%
+having to go through nodes, tabs, and
+complicated setups. Like an employee,
+00:14:29.630 --> 00:14:29.640 align:start position:0%
+complicated setups. Like an employee,
+00:14:29.640 --> 00:14:31.630 align:start position:0%
+complicated setups. Like an employee,
+you give it a prompt and it executes,
+00:14:31.630 --> 00:14:31.640 align:start position:0%
+you give it a prompt and it executes,
+00:14:31.640 --> 00:14:33.630 align:start position:0%
+you give it a prompt and it executes,
+and it can walk you through anything you
+00:14:33.630 --> 00:14:33.640 align:start position:0%
+and it can walk you through anything you
+00:14:33.640 --> 00:14:36.870 align:start position:0%
+and it can walk you through anything you
+want to set up. That's what makes it an
+00:14:36.870 --> 00:14:36.880 align:start position:0%
+want to set up. That's what makes it an
+00:14:36.880 --> 00:14:40.630 align:start position:0%
+want to set up. That's what makes it an
+agent. Okay, so let's build this
+00:14:40.630 --> 00:14:40.640 align:start position:0%
+agent. Okay, so let's build this
+00:14:40.640 --> 00:14:42.270 align:start position:0%
+agent. Okay, so let's build this
+together. So, we're going to go to
+00:14:42.270 --> 00:14:42.280 align:start position:0%
+together. So, we're going to go to
+00:14:42.280 --> 00:14:45.270 align:start position:0%
+together. So, we're going to go to
+Hostinger and in their website, you're
+00:14:45.270 --> 00:14:45.280 align:start position:0%
+Hostinger and in their website, you're
+00:14:45.280 --> 00:14:47.430 align:start position:0%
+Hostinger and in their website, you're
+going to see an easy link called
+00:14:47.430 --> 00:14:47.440 align:start position:0%
+going to see an easy link called
+00:14:47.440 --> 00:14:49.190 align:start position:0%
+going to see an easy link called
+one-click Open Claw. We're going to
+00:14:49.190 --> 00:14:49.200 align:start position:0%
+one-click Open Claw. We're going to
+00:14:49.200 --> 00:14:50.790 align:start position:0%
+one-click Open Claw. We're going to
+press there. Then, what we're going to
+00:14:50.790 --> 00:14:50.800 align:start position:0%
+press there. Then, what we're going to
+00:14:50.800 --> 00:14:52.270 align:start position:0%
+press there. Then, what we're going to
+do is we're going to choose a plan.
+00:14:52.270 --> 00:14:52.280 align:start position:0%
+do is we're going to choose a plan.
+00:14:52.280 --> 00:14:54.310 align:start position:0%
+do is we're going to choose a plan.
+We're going to choose the most popular
+00:14:54.310 --> 00:14:54.320 align:start position:0%
+We're going to choose the most popular
+00:14:54.320 --> 00:14:58.430 align:start position:0%
+We're going to choose the most popular
+one. Okay, so then you will change from
+00:14:58.430 --> 00:14:58.440 align:start position:0%
+one. Okay, so then you will change from
+00:14:58.440 --> 00:15:01.590 align:start position:0%
+one. Okay, so then you will change from
+24 months to 1 month because you don't
+00:15:01.590 --> 00:15:01.600 align:start position:0%
+24 months to 1 month because you don't
+00:15:01.600 --> 00:15:03.390 align:start position:0%
+24 months to 1 month because you don't
+have to pay for all of that unless you
+00:15:03.390 --> 00:15:03.400 align:start position:0%
+have to pay for all of that unless you
+00:15:03.400 --> 00:15:04.550 align:start position:0%
+have to pay for all of that unless you
+know you're actually going to use it.
+00:15:04.550 --> 00:15:04.560 align:start position:0%
+know you're actually going to use it.
+00:15:04.560 --> 00:15:08.390 align:start position:0%
+know you're actually going to use it.
+And now, we press ready to use AI. The
+00:15:08.390 --> 00:15:08.400 align:start position:0%
+And now, we press ready to use AI. The
+00:15:08.400 --> 00:15:09.590 align:start position:0%
+And now, we press ready to use AI. The
+good thing about this is that you get
+00:15:09.590 --> 00:15:09.600 align:start position:0%
+good thing about this is that you get
+00:15:09.600 --> 00:15:14.710 align:start position:0%
+good thing about this is that you get
+Open AI, Anthropic, Google, and XAI all
+00:15:14.710 --> 00:15:14.720 align:start position:0%
+Open AI, Anthropic, Google, and XAI all
+00:15:14.720 --> 00:15:17.110 align:start position:0%
+Open AI, Anthropic, Google, and XAI all
+instantly within Open Claw, which is
+00:15:17.110 --> 00:15:17.120 align:start position:0%
+instantly within Open Claw, which is
+00:15:17.120 --> 00:15:20.630 align:start position:0%
+instantly within Open Claw, which is
+insane. Next, we press instant web
+00:15:20.630 --> 00:15:20.640 align:start position:0%
+insane. Next, we press instant web
+00:15:20.640 --> 00:15:22.390 align:start position:0%
+insane. Next, we press instant web
+scraping. The good thing here is that
+00:15:22.390 --> 00:15:22.400 align:start position:0%
+scraping. The good thing here is that
+00:15:22.400 --> 00:15:23.550 align:start position:0%
+scraping. The good thing here is that
+we're going to be able to power AI
+00:15:23.550 --> 00:15:23.560 align:start position:0%
+we're going to be able to power AI
+00:15:23.560 --> 00:15:26.949 align:start position:0%
+we're going to be able to power AI
+agents with real-time web data. So,
+00:15:26.949 --> 00:15:26.959 align:start position:0%
+agents with real-time web data. So,
+00:15:26.959 --> 00:15:28.550 align:start position:0%
+agents with real-time web data. So,
+again, we don't have to set this all up.
+00:15:28.550 --> 00:15:28.560 align:start position:0%
+again, we don't have to set this all up.
+00:15:28.560 --> 00:15:30.270 align:start position:0%
+again, we don't have to set this all up.
+Just press that button and it's all set
+00:15:30.270 --> 00:15:30.280 align:start position:0%
+Just press that button and it's all set
+00:15:30.280 --> 00:15:33.710 align:start position:0%
+Just press that button and it's all set
+up for you. Okay, perfect. So, now
+00:15:33.710 --> 00:15:33.720 align:start position:0%
+up for you. Okay, perfect. So, now
+00:15:33.720 --> 00:15:35.030 align:start position:0%
+up for you. Okay, perfect. So, now
+register.
+00:15:35.030 --> 00:15:35.040 align:start position:0%
+register.
+00:15:35.040 --> 00:15:36.590 align:start position:0%
+register.
+You put in your card details, make sure
+00:15:36.590 --> 00:15:36.600 align:start position:0%
+You put in your card details, make sure
+00:15:36.600 --> 00:15:38.430 align:start position:0%
+You put in your card details, make sure
+you actually pay it, and we will set it
+00:15:38.430 --> 00:15:38.440 align:start position:0%
+you actually pay it, and we will set it
+00:15:38.440 --> 00:15:41.470 align:start position:0%
+you actually pay it, and we will set it
+up once we are inside. Don't change
+00:15:41.470 --> 00:15:41.480 align:start position:0%
+up once we are inside. Don't change
+00:15:41.480 --> 00:15:45.510 align:start position:0%
+up once we are inside. Don't change
+anything here. Just press deploy. Okay,
+00:15:45.510 --> 00:15:45.520 align:start position:0%
+anything here. Just press deploy. Okay,
+00:15:45.520 --> 00:15:48.590 align:start position:0%
+anything here. Just press deploy. Okay,
+now we are in. So, press gateway token.
+00:15:48.590 --> 00:15:48.600 align:start position:0%
+now we are in. So, press gateway token.
+00:15:48.600 --> 00:15:50.750 align:start position:0%
+now we are in. So, press gateway token.
+Now, we're actually going to open Open
+00:15:50.750 --> 00:15:50.760 align:start position:0%
+Now, we're actually going to open Open
+00:15:50.760 --> 00:15:55.350 align:start position:0%
+Now, we're actually going to open Open
+Claw, paste here, and log in. Okay, so
+00:15:55.350 --> 00:15:55.360 align:start position:0%
+Claw, paste here, and log in. Okay, so
+00:15:55.360 --> 00:15:58.710 align:start position:0%
+Claw, paste here, and log in. Okay, so
+now we're inside, but because we want to
+00:15:58.710 --> 00:15:58.720 align:start position:0%
+now we're inside, but because we want to
+00:15:58.720 --> 00:16:01.350 align:start position:0%
+now we're inside, but because we want to
+be able to chat with it on Telegram,
+00:16:01.350 --> 00:16:01.360 align:start position:0%
+be able to chat with it on Telegram,
+00:16:01.360 --> 00:16:02.390 align:start position:0%
+be able to chat with it on Telegram,
+what we're going to do is we're going to
+00:16:02.390 --> 00:16:02.400 align:start position:0%
+what we're going to do is we're going to
+00:16:02.400 --> 00:16:04.590 align:start position:0%
+what we're going to do is we're going to
+set it up. So,
+00:16:04.590 --> 00:16:04.600 align:start position:0%
+set it up. So,
+00:16:04.600 --> 00:16:07.949 align:start position:0%
+set it up. So,
+press channels. Okay, so start a chat
+00:16:07.949 --> 00:16:07.959 align:start position:0%
+press channels. Okay, so start a chat
+00:16:07.959 --> 00:16:11.230 align:start position:0%
+press channels. Okay, so start a chat
+and look for Bot Father. You press here,
+00:16:11.230 --> 00:16:11.240 align:start position:0%
+and look for Bot Father. You press here,
+00:16:11.240 --> 00:16:13.270 align:start position:0%
+and look for Bot Father. You press here,
+we press start. You're going to type
+00:16:13.270 --> 00:16:13.280 align:start position:0%
+we press start. You're going to type
+00:16:13.280 --> 00:16:15.870 align:start position:0%
+we press start. You're going to type
+{slash} new bot and you're going to give
+00:16:15.870 --> 00:16:15.880 align:start position:0%
+{slash} new bot and you're going to give
+00:16:15.880 --> 00:16:18.949 align:start position:0%
+{slash} new bot and you're going to give
+your agent an actual name, a username as
+00:16:18.949 --> 00:16:18.959 align:start position:0%
+your agent an actual name, a username as
+00:16:18.959 --> 00:16:21.710 align:start position:0%
+your agent an actual name, a username as
+well. Now, you're going to copy this
+00:16:21.710 --> 00:16:21.720 align:start position:0%
+well. Now, you're going to copy this
+00:16:21.720 --> 00:16:24.510 align:start position:0%
+well. Now, you're going to copy this
+token that Bot Father just gave you, you
+00:16:24.510 --> 00:16:24.520 align:start position:0%
+token that Bot Father just gave you, you
+00:16:24.520 --> 00:16:28.230 align:start position:0%
+token that Bot Father just gave you, you
+put it in this field, and hit save. Now,
+00:16:28.230 --> 00:16:28.240 align:start position:0%
+put it in this field, and hit save. Now,
+00:16:28.240 --> 00:16:29.829 align:start position:0%
+put it in this field, and hit save. Now,
+we're going to press on this link. We
+00:16:29.829 --> 00:16:29.839 align:start position:0%
+we're going to press on this link. We
+00:16:29.839 --> 00:16:33.150 align:start position:0%
+we're going to press on this link. We
+copy and paste this Telegram user ID and
+00:16:33.150 --> 00:16:33.160 align:start position:0%
+copy and paste this Telegram user ID and
+00:16:33.160 --> 00:16:36.949 align:start position:0%
+copy and paste this Telegram user ID and
+place it in this field. Also, make sure
+00:16:36.949 --> 00:16:36.959 align:start position:0%
+place it in this field. Also, make sure
+00:16:36.959 --> 00:16:40.270 align:start position:0%
+place it in this field. Also, make sure
+save that. And now, our bot should be
+00:16:40.270 --> 00:16:40.280 align:start position:0%
+save that. And now, our bot should be
+00:16:40.280 --> 00:16:42.590 align:start position:0%
+save that. And now, our bot should be
+ready. So, now it's going to ask you,
+00:16:42.590 --> 00:16:42.600 align:start position:0%
+ready. So, now it's going to ask you,
+00:16:42.600 --> 00:16:46.470 align:start position:0%
+ready. So, now it's going to ask you,
+because it's online now, who the bot is
+00:16:46.470 --> 00:16:46.480 align:start position:0%
+because it's online now, who the bot is
+00:16:46.480 --> 00:16:47.710 align:start position:0%
+because it's online now, who the bot is
+to you.
+00:16:47.710 --> 00:16:47.720 align:start position:0%
+to you.
+00:16:47.720 --> 00:16:50.110 align:start position:0%
+to you.
+So, you can tell it's your AI agent that
+00:16:50.110 --> 00:16:50.120 align:start position:0%
+So, you can tell it's your AI agent that
+00:16:50.120 --> 00:16:52.790 align:start position:0%
+So, you can tell it's your AI agent that
+helps you with XYZ and what you want to
+00:16:52.790 --> 00:16:52.800 align:start position:0%
+helps you with XYZ and what you want to
+00:16:52.800 --> 00:16:54.910 align:start position:0%
+helps you with XYZ and what you want to
+be called. In this case, it's going to
+00:16:54.910 --> 00:16:54.920 align:start position:0%
+be called. In this case, it's going to
+00:16:54.920 --> 00:16:57.670 align:start position:0%
+be called. In this case, it's going to
+ask for more context. In this case,
+00:16:57.670 --> 00:16:57.680 align:start position:0%
+ask for more context. In this case,
+00:16:57.680 --> 00:16:59.710 align:start position:0%
+ask for more context. In this case,
+we're going to write online SaaS, which
+00:16:59.710 --> 00:16:59.720 align:start position:0%
+we're going to write online SaaS, which
+00:16:59.720 --> 00:17:01.390 align:start position:0%
+we're going to write online SaaS, which
+helps people write the best content
+00:17:01.390 --> 00:17:01.400 align:start position:0%
+helps people write the best content
+00:17:01.400 --> 00:17:03.350 align:start position:0%
+helps people write the best content
+online. I'm going to get you to start
+00:17:03.350 --> 00:17:03.360 align:start position:0%
+online. I'm going to get you to start
+00:17:03.360 --> 00:17:05.030 align:start position:0%
+online. I'm going to get you to start
+with researching everything, but we can
+00:17:05.030 --> 00:17:05.040 align:start position:0%
+with researching everything, but we can
+00:17:05.040 --> 00:17:07.829 align:start position:0%
+with researching everything, but we can
+worry about that later. So, now let's
+00:17:07.829 --> 00:17:07.839 align:start position:0%
+worry about that later. So, now let's
+00:17:07.839 --> 00:17:10.669 align:start position:0%
+worry about that later. So, now let's
+actually prompt the bot to help us with
+00:17:10.669 --> 00:17:10.679 align:start position:0%
+actually prompt the bot to help us with
+00:17:10.679 --> 00:17:12.910 align:start position:0%
+actually prompt the bot to help us with
+the news jacking. I want you to research
+00:17:12.910 --> 00:17:12.920 align:start position:0%
+the news jacking. I want you to research
+00:17:12.920 --> 00:17:16.230 align:start position:0%
+the news jacking. I want you to research
+for the 10 latest AI stores from the
+00:17:16.230 --> 00:17:16.240 align:start position:0%
+for the 10 latest AI stores from the
+00:17:16.240 --> 00:17:19.110 align:start position:0%
+for the 10 latest AI stores from the
+last 24 hours that I can use for news
+00:17:19.110 --> 00:17:19.120 align:start position:0%
+last 24 hours that I can use for news
+00:17:19.120 --> 00:17:21.630 align:start position:0%
+last 24 hours that I can use for news
+jacking LinkedIn post. I then also want
+00:17:21.630 --> 00:17:21.640 align:start position:0%
+jacking LinkedIn post. I then also want
+00:17:21.640 --> 00:17:24.510 align:start position:0%
+jacking LinkedIn post. I then also want
+you to give me 10 LinkedIn post ideas.
+00:17:24.510 --> 00:17:24.520 align:start position:0%
+you to give me 10 LinkedIn post ideas.
+00:17:24.520 --> 00:17:27.189 align:start position:0%
+you to give me 10 LinkedIn post ideas.
+Include all the URLs. I want you to do
+00:17:27.189 --> 00:17:27.199 align:start position:0%
+Include all the URLs. I want you to do
+00:17:27.199 --> 00:17:30.950 align:start position:0%
+Include all the URLs. I want you to do
+this automatically everyday at 8:00 a.m.
+00:17:30.950 --> 00:17:30.960 align:start position:0%
+this automatically everyday at 8:00 a.m.
+00:17:30.960 --> 00:17:32.710 align:start position:0%
+this automatically everyday at 8:00 a.m.
+Eastern Time
+00:17:32.710 --> 00:17:32.720 align:start position:0%
+Eastern Time
+00:17:32.720 --> 00:17:36.030 align:start position:0%
+Eastern Time
+so that I can have this when I wake up.
+00:17:36.030 --> 00:17:36.040 align:start position:0%
+so that I can have this when I wake up.
+00:17:36.040 --> 00:17:39.070 align:start position:0%
+so that I can have this when I wake up.
+So, AI stories and latest news would be
+00:17:39.070 --> 00:17:39.080 align:start position:0%
+So, AI stories and latest news would be
+00:17:39.080 --> 00:17:41.270 align:start position:0%
+So, AI stories and latest news would be
+what we answer here. And let's actually
+00:17:41.270 --> 00:17:41.280 align:start position:0%
+what we answer here. And let's actually
+00:17:41.280 --> 00:17:43.870 align:start position:0%
+what we answer here. And let's actually
+run it now as an example to see what
+00:17:43.870 --> 00:17:43.880 align:start position:0%
+run it now as an example to see what
+00:17:43.880 --> 00:17:47.390 align:start position:0%
+run it now as an example to see what
+results we get. And voila, we just got
+00:17:47.390 --> 00:17:47.400 align:start position:0%
+results we get. And voila, we just got
+00:17:47.400 --> 00:17:50.510 align:start position:0%
+results we get. And voila, we just got
+10 latest AI stories for LinkedIn news
+00:17:50.510 --> 00:17:50.520 align:start position:0%
+10 latest AI stories for LinkedIn news
+00:17:50.520 --> 00:17:52.950 align:start position:0%
+10 latest AI stories for LinkedIn news
+jacking, 10 LinkedIn post ideas and
+00:17:52.950 --> 00:17:52.960 align:start position:0%
+jacking, 10 LinkedIn post ideas and
+00:17:52.960 --> 00:17:54.550 align:start position:0%
+jacking, 10 LinkedIn post ideas and
+hooks. So, we just want to make sure
+00:17:54.550 --> 00:17:54.560 align:start position:0%
+hooks. So, we just want to make sure
+00:17:54.560 --> 00:17:57.150 align:start position:0%
+hooks. So, we just want to make sure
+that it actually uses Oxylabs to Google
+00:17:57.150 --> 00:17:57.160 align:start position:0%
+that it actually uses Oxylabs to Google
+00:17:57.160 --> 00:17:59.190 align:start position:0%
+that it actually uses Oxylabs to Google
+search. So, I'm prompting it. Finally,
+00:17:59.190 --> 00:17:59.200 align:start position:0%
+search. So, I'm prompting it. Finally,
+00:17:59.200 --> 00:18:04.070 align:start position:0%
+search. So, I'm prompting it. Finally,
+we have the 10 news jacking ideas with
+00:18:04.070 --> 00:18:04.080 align:start position:0%
+we have the 10 news jacking ideas with
+00:18:04.080 --> 00:18:06.390 align:start position:0%
+we have the 10 news jacking ideas with
+URLs. You can directly go there,
+00:18:06.390 --> 00:18:06.400 align:start position:0%
+URLs. You can directly go there,
+00:18:06.400 --> 00:18:09.190 align:start position:0%
+URLs. You can directly go there,
+research more. Same thing we just built
+00:18:09.190 --> 00:18:09.200 align:start position:0%
+research more. Same thing we just built
+00:18:09.200 --> 00:18:12.350 align:start position:0%
+research more. Same thing we just built
+with Claude Co Work, with N8N, but
+00:18:12.350 --> 00:18:12.360 align:start position:0%
+with Claude Co Work, with N8N, but
+00:18:12.360 --> 00:18:14.990 align:start position:0%
+with Claude Co Work, with N8N, but
+through Open Claw, your own AI agent
+00:18:14.990 --> 00:18:15.000 align:start position:0%
+through Open Claw, your own AI agent
+00:18:15.000 --> 00:18:17.390 align:start position:0%
+through Open Claw, your own AI agent
+that sits in your Telegram, in your
+00:18:17.390 --> 00:18:17.400 align:start position:0%
+that sits in your Telegram, in your
+00:18:17.400 --> 00:18:20.190 align:start position:0%
+that sits in your Telegram, in your
+messages as if it was another employee.
+00:18:20.190 --> 00:18:20.200 align:start position:0%
+messages as if it was another employee.
+00:18:20.200 --> 00:18:23.790 align:start position:0%
+messages as if it was another employee.
+Three methods, same outcome, different
+00:18:23.790 --> 00:18:23.800 align:start position:0%
+Three methods, same outcome, different
+00:18:23.800 --> 00:18:27.470 align:start position:0%
+Three methods, same outcome, different
+levels of automation and control. If you
+00:18:27.470 --> 00:18:27.480 align:start position:0%
+levels of automation and control. If you
+00:18:27.480 --> 00:18:30.230 align:start position:0%
+levels of automation and control. If you
+want to understand the strategy behind
+00:18:30.230 --> 00:18:30.240 align:start position:0%
+want to understand the strategy behind
+00:18:30.240 --> 00:18:32.790 align:start position:0%
+want to understand the strategy behind
+news jacking and the three other growth
+00:18:32.790 --> 00:18:32.800 align:start position:0%
+news jacking and the three other growth
+00:18:32.800 --> 00:18:35.510 align:start position:0%
+news jacking and the three other growth
+formats that drive it, watch this video
+00:18:35.510 --> 00:18:35.520 align:start position:0%
+formats that drive it, watch this video
+00:18:35.520 --> 00:18:38.470 align:start position:0%
+formats that drive it, watch this video
+right here. That's the full breakdown of
+00:18:38.470 --> 00:18:38.480 align:start position:0%
+right here. That's the full breakdown of
+00:18:38.480 --> 00:18:40.990 align:start position:0%
+right here. That's the full breakdown of
+every format we use to take clients from
+00:18:40.990 --> 00:18:41.000 align:start position:0%
+every format we use to take clients from
+00:18:41.000 --> 00:18:43.830 align:start position:0%
+every format we use to take clients from
+zero to hundreds of thousands of
+00:18:43.830 --> 00:18:43.840 align:start position:0%
+zero to hundreds of thousands of
+00:18:43.840 --> 00:18:46.310 align:start position:0%
+zero to hundreds of thousands of
+impressions. And if you want us to build
+00:18:46.310 --> 00:18:46.320 align:start position:0%
+impressions. And if you want us to build
+00:18:46.320 --> 00:18:49.070 align:start position:0%
+impressions. And if you want us to build
+this entire system and run it for your
+00:18:49.070 --> 00:18:49.080 align:start position:0%
+this entire system and run it for your
+00:18:49.080 --> 00:18:51.550 align:start position:0%
+this entire system and run it for your
+company, that's what Distinct Idea does.
+00:18:51.550 --> 00:18:51.560 align:start position:0%
+company, that's what Distinct Idea does.
+00:18:51.560 --> 00:18:53.710 align:start position:0%
+company, that's what Distinct Idea does.
+Links in the description. And one more
+00:18:53.710 --> 00:18:53.720 align:start position:0%
+Links in the description. And one more
+00:18:53.720 --> 00:18:56.430 align:start position:0%
+Links in the description. And one more
+thing, we are building a course and
+00:18:56.430 --> 00:18:56.440 align:start position:0%
+thing, we are building a course and
+00:18:56.440 --> 00:18:59.430 align:start position:0%
+thing, we are building a course and
+community around everything we teach on
+00:18:59.430 --> 00:18:59.440 align:start position:0%
+community around everything we teach on
+00:18:59.440 --> 00:19:00.510 align:start position:0%
+community around everything we teach on
+this channel. [music]
+00:19:00.510 --> 00:19:00.520 align:start position:0%
+this channel. [music]
+00:19:00.520 --> 00:19:03.830 align:start position:0%
+this channel. [music]
+Real systems, real workflows, no fluff.
+00:19:03.830 --> 00:19:03.840 align:start position:0%
+Real systems, real workflows, no fluff.
+00:19:03.840 --> 00:19:05.590 align:start position:0%
+Real systems, real workflows, no fluff.
+If you want early access, the waiting
+00:19:05.590 --> 00:19:05.600 align:start position:0%
+If you want early access, the waiting
+00:19:05.600 --> 00:19:08.070 align:start position:0%
+If you want early access, the waiting
+list is open. Links in the description
+00:19:08.070 --> 00:19:08.080 align:start position:0%
+list is open. Links in the description
+00:19:08.080 --> 00:19:09.870 align:start position:0%
+list is open. Links in the description
+as well. And again, apparently there's a
+00:19:09.870 --> 00:19:09.880 align:start position:0%
+as well. And again, apparently there's a
+00:19:09.880 --> 00:19:11.550 align:start position:0%
+as well. And again, apparently there's a
+million links in the description now,
+00:19:11.550 --> 00:19:11.560 align:start position:0%
+million links in the description now,
+00:19:11.560 --> 00:19:12.590 align:start position:0%
+million links in the description now,
+but
+00:19:12.590 --> 00:19:12.600 align:start position:0%
+but
+00:19:12.600 --> 00:19:14.190 align:start position:0%
+but
+friendly reminder that the complete
+00:19:14.190 --> 00:19:14.200 align:start position:0%
+friendly reminder that the complete
+00:19:14.200 --> 00:19:16.149 align:start position:0%
+friendly reminder that the complete
+toolkit to build the three things I did
+00:19:16.149 --> 00:19:16.159 align:start position:0%
+toolkit to build the three things I did
+00:19:16.159 --> 00:19:18.669 align:start position:0%
+toolkit to build the three things I did
+are also in the description. And
+00:19:18.669 --> 00:19:18.679 align:start position:0%
+are also in the description. And
+00:19:18.679 --> 00:19:21.750 align:start position:0%
+are also in the description. And
+finally, subscribe if you haven't. Every
+00:19:21.750 --> 00:19:21.760 align:start position:0%
+finally, subscribe if you haven't. Every
+00:19:21.760 --> 00:19:23.630 align:start position:0%
+finally, subscribe if you haven't. Every
+week, I'm breaking down what's actually
+00:19:23.630 --> 00:19:23.640 align:start position:0%
+week, I'm breaking down what's actually
+00:19:23.640 --> 00:19:26.470 align:start position:0%
+week, I'm breaking down what's actually
+working for B2B brands on LinkedIn right
+00:19:26.470 --> 00:19:26.480 align:start position:0%
+working for B2B brands on LinkedIn right
+00:19:26.480 --> 00:19:29.880 align:start position:0%
+working for B2B brands on LinkedIn right
+now. [music] See you in the next one.

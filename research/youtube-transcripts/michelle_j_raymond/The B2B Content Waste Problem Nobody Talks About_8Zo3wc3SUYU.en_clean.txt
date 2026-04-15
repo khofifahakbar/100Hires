@@ -1,0 +1,664 @@
+Author: Michelle J Raymond
+Source File: The B2B Content Waste Problem Nobody Talks About_8Zo3wc3SUYU.en.vtt
+
+WEBVTT Kind: captions Language: en Good day everyone.
+
+It's Michelle J.
+
+Raymond and listeners.
+
+This week I'm excited because we've got another guest on the show who normally I say this is someone I'm friends with, but we're actually talking for the first time after I've been secretly stalking pretty much newsletters, content, anything I could get my hands on.
+
+Lee Denma, welcome to the show.
+
+&gt;&gt; Thank you.
+
+I'm so happy to be here.
+
+But we're friends now.
+
+I It's legit now.
+
+We We've spoken for half an hour.
+
+We're friends now.
+
+&gt;&gt; That is exactly it.
+
+And I knew we would be talking a lot because honestly, like when I see your posts and I sit there and I'm like, "Yes, that's the same thing I see with my clients, and I'm like high-fiving you from a distance." And as I said, I read your newsletter as well because &gt;&gt; today's episode listeners, we are here to help you stamp out corporate content waste because Lee, you and I, we've seen too much and this just has to stop, right?
+
+&gt;&gt; Has to stop.
+
+So in today's episode, let's start with when we talk about content waste, what does that actually look like in a B2B company and your experience?
+
+&gt;&gt; Yeah, let me tell you a story.
+
+It's going to demonstrate all of it.
+
+So I had a client a couple years back now and I walked in and began auditing their content.
+
+And after a couple days, I realized that they had in the the thousands of pieces of content.
+
+They had, I think, 1,700 pieces of content that I found on SharePoint drives and here and there and on hard drives and people kept sending me content and I was like, "This stuff isn't updated.
+
+It's not maintained.
+
+It's not findable.
+
+Sales isn't using it." That's what waste looks like.
+
+Somebody spent money to write each of those pieces and nobody was using it.
+
+&gt;&gt; That makes me cry.
+
+And I'm also at the same time not judging anyone out there because I'm pretty sure my website is where great blog articles go to die and very rarely make their way back.
+
+And the thing that also makes me cry a little bit is with how much effort and sometimes cost also goes into content that goes out onto LinkedIn that for me this waste is often content that's not helping anybody.
+
+Like it's just literally done for the sake of it.
+
+And I'm pretty sure you would see that as well.
+
+But post after post with no strategy.
+
+You don't know where it's going.
+
+You don't know who it's for.
+
+And I'm thinking, how much time and money is going into this?
+
+And it's just going down the drain.
+
+Like, it's crazy.
+
+&gt;&gt; Yeah.
+
+I guess there's two forms of waste.
+
+One is good content that nobody's using, and then the other one is content that never had any purpose.
+
+And either way, you've wasted time, you've wasted money, you've lost an opportunity.
+
+The opportunity cost of this crappy content is pretty high.
+
+&gt;&gt; Yeah, it sure is.
+
+And the other thing that I look at that is as someone that's putting out the content, I don't think anyone Lee is sitting there going, "Oh, today I'm going to go to work and I'm going to write some great content that no one sees and I'm going to feel good about myself or I'm never going to get trained in how to do great content or build a strategy or understand things.
+
+So then I'm going to put it out there and it's going to flop.
+
+It just feels awful for people when that that's happening.
+
+And I think that's why I want to have this conversation today and make it practical for our listeners so that they don't get stuck in feeling like I'm working my butt off.
+
+&gt;&gt; I feel like I'm getting nowhere and everyone in the business is actually judging me thinking, you know, marketing or content is pointless and my job isn't really that important.
+
+So, I think we can change that conversation today.
+
+But why do you think that so much good content out there never actually gets used?
+
+&gt;&gt; Right?
+
+If we're talking about good content, you know, you did understand the buyer, right?
+
+You did understand your audience and and it's good content.
+
+It's well written.
+
+It's unique.
+
+It's even differentiated.
+
+It never gets used.
+
+It goes to waste because no one knows about it.
+
+So, your sales team doesn't even know it exists.
+
+You never told people that you published it and wrote it.
+
+Nobody can find it.
+
+You're not working in a tool that's searchable and nobody knows how to use it.
+
+And this is sales enablement I talk about all the time.
+
+You've not literally not trained people who aren't content people how to use content to do their jobs.
+
+They don't know what to do with an ebook.
+
+So that needs to be discussed.
+
+Another thing that really contributes to this is silos in your organization.
+
+So the marketing team goes about creating content.
+
+Who is using it internally?
+
+It's your sales team using it.
+
+It's your account team.
+
+It's maybe the product team, but since they're silos, there's no synergy.
+
+There's no information passed back and forth.
+
+There's absolutely no way that you can help them do their jobs if you never talk to them.
+
+&gt;&gt; I know that we laugh around that, but I remember having a conversation with a client and I got to talk to both sides.
+
+I got to talk to the marketing team who had a goal of what they wanted to achieve and then I took that and had a conversation to understand a few things more with the sales manager and I asked him why he hadn't been sharing any of the content and quite frankly he embarrassed because it didn't sound like him.
+
+It wasn't aligned with who they were targeting.
+
+It wasn't speaking to the problems he'd discovered.
+
+And I know that that's not good content, but it like for me it kind of underpins the problem here when teams are working as you say in silos and nobody's actually getting in a room and having a conversation and saying what should we be doing to help you sell more and the feedback from the sales team around what they're hearing, what kinds of content would make good content for them to be able to share.
+
+So, who would have thought, Lee, that a conversation between teams is the secret to good content?
+
+Do we have to really repeat this?
+
+I think we do.
+
+&gt;&gt; We do.
+
+It is one of the secrets.
+
+It's one of the hacks, if you will.
+
+Get your people to talk to each other.
+
+Sales tells the content team about customer conversations.
+
+The content team tells sales about what formats they're experimenting or where they want to publish content.
+
+and events team gets involved and tells people what conversations they had at events and where they're going and what they're planning.
+
+&gt;&gt; Yeah.
+
+And that's the thing is when we all work together and come up with the strategy that is actually aligned to the whole team's business goals, then you can actually start creating content that really lands, really sticks, it performs.
+
+Everybody's high-fiving themselves.
+
+And it's kind of funny because obviously like my specialty that I talk about is all things LinkedIn, LinkedIn company pages and getting your employees active as well.
+
+But I realized a long time ago that when I was creating content on LinkedIn and it could be some of my best work, you know, there there are sometimes when you create something and you're like high-fiving yourself, but what actually was happening was it was drowning down the feed, down the gurgler, never to be seen again.
+
+At that time it was 24 to 48 hours.
+
+Maybe now content lasts for a couple of weeks.
+
+But when I was putting my heart and soul into this thing and only putting it in the LinkedIn feed, that's when I went, "Oh no.
+
+Oh no.
+
+This this has to stop because I want to put it in other places where people can find it.
+
+So this is how this podcast was born because it's searchable.
+
+The longevity was there." And same with my YouTube channel.
+
+And I guess you would see that with businesses as well where they're putting all this effort into some really cool content but maybe only using it once.
+
+That to me is another waste.
+
+&gt;&gt; It's insane.
+
+Yeah.
+
+I see LinkedIn as one distribution channel for content.
+
+It's a channel.
+
+Channel meaning where people go for information.
+
+LinkedIn is a big place where B2B businesses, buyers go for information, but it's one channel.
+
+So there are other channels you should be exploring with the content.
+
+Your content should be going out in multiple channels.
+
+&gt;&gt; Is it because we don't have a strategy that we end up just the goal is post three times a week?
+
+Is that the underpinning problem that we need to solve first?
+
+&gt;&gt; I think that it's possible that there just isn't the awareness of the way different channels and different content types should fit together.
+
+So, for example, you've got your spicy point of view, right?
+
+You you're taking a stand on something in the market and you've written a blog post about it.
+
+You use that post on social media.
+
+You write zero-click content based on that post.
+
+So, you're putting the idea on your website.
+
+You're putting it on social media and then you also send a newsletter on it.
+
+And then your employees also post around those concepts on their pages.
+
+So, it's one concept, right?
+
+Multiple channels.
+
+and LinkedIn, you know, in your corporate page, on your employee handles, in a newsletter that's also on the platform.
+
+So, it's one content piece, multiple venues.
+
+&gt;&gt; Yeah.
+
+And the cool thing about this that I'm seeing right now with all the research and dare I say the words AI when we're talking about content because I know it's meant to be the solution to everything.
+
+But what I've been reading is large language models, even if they're reading your LinkedIn content, whether it's a newsletter or posts or things along those lines, actually looking for credibility that comes not just from one source, but how you show up on your website, how you show up with blog or YouTube or LinkedIn post.
+
+And they all work together, which makes this even more important to take the good stuff and make sure we repurpose it.
+
+So to your point, I currently write an email newsletter.
+
+That's my baby email newsletter.
+
+So hopefully all of my listeners today, you'll subscribe to it.
+
+But I started that and that has like 600 subscribers roughly, right?
+
+And so that's my, you know, favorite kind of audience that I can have, you know, particular conversations with in a much closer kind of way.
+
+And I enjoy that, but it takes time.
+
+Everything that you create takes time.
+
+So then I realized, oh actually I've spent a lot of time on that.
+
+Maybe I could create like a LinkedIn newsletter from it.
+
+And then from there there are ideas that go to the website and you know sometimes podcast ideas and they all come together.
+
+But even I was like wasting so many good ideas only putting it in one spot because that was the thing.
+
+I wrote this for my email newsletter.
+
+It must stay in that bucket.
+
+And actually no, you can adapt it into so many different ways.
+
+And you know the podcast is the classic example of ends up in a newsletter, ends up a blog on the website, ends up in the emails, short form video clips.
+
+Like there are so many cool tools now.
+
+That's what I love AI for.
+
+Take the good long stuff and turn it into some cool short stuff.
+
+&gt;&gt; It's a really So I like to think of content strategy as it's a discussion around your center of gravity.
+
+Your center of gravity, Michelle, is your podcast.
+
+That's your anchor center of gravity.
+
+And from your center of gravity, you have other kind of planets in the orbit, right?
+
+LinkedIn post, a newsletter, a LinkedIn article, and so an offplatform newsletter, an onplatform newsletter.
+
+So some of the companies that I work with have their blog is their center of gravity, and that's great.
+
+It's great.
+
+It's a good mid mid-length content format.
+
+So, I think I would encourage listeners to think about what their center of gravity is and how they're going to put forward big ideas in that venue and then distribute it in other ways across channels.
+
+So, a podcast is a very logical center of gravity, but I won't tell everybody to go start a podcast.
+
+No way.
+
+&gt;&gt; Yeah.
+
+Who would have thought that it's not right for everybody?
+
+And this is the thing that I'm getting a a little worried for people out there that are going to tools like chat GPT or the large language models and saying give me a strategy and the strategy comes up the one-sizefits-all for everybody.
+
+You know based on the averages out on the internet this is what we think that you should do.
+
+And I know you and I are very aligned in the fact that no that is not a one-sizefits-all approach to this but finding the thing that you're really good at.
+
+So, one of my clients, you know, shout out to the team at Pluggable.
+
+They have this amazing YouTube channel that is just really has picked up and grown in the last 12 months.
+
+They've been doing it for like 10 plus years, but in the last 12 months, they've nailed it.
+
+And so, what we were able to do is look and go, well, what's working over there?
+
+What can we bring to LinkedIn with your employees and with your company page?
+
+And so I can't wait to see when they enable that strategy to number one get so much more return on the effort that they're putting into a lot of that video content and switching up the formats.
+
+But I think LinkedIn works really great for that distribution side of things.
+
+you know, you've built communities and you can get that message in front of as many people as possible because Lee, one of the things that I think people get worried about is but if everyone posts all at the same time or, you know, in a similar kind of period around the same topic, won't people get bored of that?
+
+Won't they judge us?
+
+Won't they hate us because we keep saying the same thing?
+
+Not at all.
+
+&gt;&gt; What's your opinion on this?
+
+Because I have a pretty strong one, but I'll I'll let you do some talking.
+
+So, &gt;&gt; let's agree.
+
+You will get bored of your point of view way before your audience does.
+
+And if you have two, three, four, five, you know, pillars, points of view on specific things that you stand by, you must be, it's mandatory for you to repeat those.
+
+Don't start coming up with opinions outside of those lanes because pretty soon your market's not going to know what you really stand for.
+
+But keep repeating the four or five things where you really want to plant your flag.
+
+Yeah, the repetition I think is the biggest easiest thing that you can do to have wins across all the platforms that most people go.
+
+We already posted about that.
+
+We did a post on that two months ago.
+
+We've already talked about that.
+
+And if you think about organic distribution, especially on social platforms like LinkedIn, we know that our content more and more and more is not being shown to as many people.
+
+And you're relying on your ideal audience having been online at the time that you spoke about that once, right?
+
+&gt;&gt; And when I say it like this, it sounds crazy that people think it, but our brains, I think, protect us and go, we don't want to say it too much.
+
+What if we say it too much?
+
+And it's the repetition &gt;&gt; that is critical.
+
+And this is why I try and say to people, if you've got 10,000 different products that you can sell, pick your five favorites that are your best sellers or the one that you want to promote and just talk non-stop about five instead of trying to talk a little bit about 10,000 because everyone's like snoozefest.
+
+Like at the end of the day, you can't remember it.
+
+&gt;&gt; This is not your friend group.
+
+This is not your tight group of five friends who are like, "Really, you told this story last week." It is the opposite of that.
+
+&gt;&gt; Yeah, it sure is.
+
+I've been on the end of it myself where, you know, and I'm guilty of it right now.
+
+Okay, so I'm going to step into the confession box for a moment because I know better.
+
+So, I've written two books and I would be very confident that there would be a lot of people listening to this show that wouldn't even know I've written one.
+
+I did a poll a while back asking people did they know and I was really surprised that some of my close friends on LinkedIn were like when did you write a second book or I didn't know you wrote the first book and these are like the close people not even like the people that are like you know a bit further removed from my everyday world and I was like oh no and then so if you flip it to the other side I'm pretty sure everybody in the world knows me talking about Tim Tams every single Friday for the last kind of couple of years, I get pictures of them from all around the world.
+
+People buying them because they saw them in their local shops, which is like one of my favorite things.
+
+You &gt;&gt; Tim Tam, American, what is a Tim Tam?
+
+&gt;&gt; Tim Tams are chocolate I'm going to say cookies.
+
+I'd say biscuits here in Australia, but I I know I've got to interpret.
+
+So, they are chocolate delicious goodies that have just been launched in the US, so you can get them locally now.
+
+Uh, but ultimately every Friday I talk about a Tim Tam tip.
+
+So it's my excuse to eat them.
+
+I record something or take a photo and relate it back to a LinkedIn marketing tip.
+
+And when I go and speak, so I'll be at Social Media Marketing World in a few weeks.
+
+My suitcase will have 300 of these in my suitcase so I can share them with the people in the audience.
+
+So the first thing that happened when people found out I was speaking this year, the ones that had seen me in previous years, the first question, are you bringing the Tim Tams?
+
+&gt;&gt; Do you like chuck them at people from the audience?
+
+&gt;&gt; I have uh thought about that approach and now at least they're individually wrapped so I can make sure that they all get put on the seat or given to people as they walk in the door.
+
+But it's about creating memorable moments.
+
+And I think that's the purpose of this content is not just to post content for content's sake.
+
+To hit a KPI of, oh, I posted three times this week.
+
+&gt;&gt; Well, who cares?
+
+Like really, does anyone &gt;&gt; You're saying find your Tim Tam.
+
+&gt;&gt; Exactly.
+
+Find your Tim Tam.
+
+&gt;&gt; Tim, whatever it is, find your Tim Tam and keep on offering the Tim Tam.
+
+&gt;&gt; Yeah.
+
+Because people laugh and say, "But it's okay for you, Michelle.
+
+it's just Tim Tams.
+
+We can't talk about our product that much.
+
+And I'm like, you have even more reason to talk about your product that much.
+
+And you know, for me, it's always the reminder that I should be doing that for my other products and services that I do just as much so that they're connected, you know, and this is the thing listeners like &gt;&gt; I have these conversations cuz sometimes I need the reminder, you know, and so thanks for, you know, coming on Lee so I can talk about it.
+
+But let's go the other way.
+
+So, we know that there's a lot of waste going on out there with all of this corporate content.
+
+Let's go the other way.
+
+What does an actual strong content system look like when it's working properly?
+
+&gt;&gt; Sure.
+
+Three things.
+
+Okay, we talked about this before, but it's the alignment.
+
+Your sales, your product, and your account teams are all aware of content and how to use it.
+
+So, they've been trained.
+
+They're in synergy.
+
+They're passing information back and forth.
+
+So, that's the first one.
+
+The sales team is giving ideas to the content team based on customer conversations.
+
+They're the closest to the customer.
+
+They have to be informing content.
+
+And the content team is actively repurposing.
+
+We've talked about this.
+
+So taking the best things from the center of gravity and making assets that are easily usable and easily available for those other teams.
+
+That's what it that's what should be happening when it's all working well.
+
+&gt;&gt; Yeah.
+
+the emphasis on should, but it's not really hard.
+
+What we're talking here is actually not anything that's super complicated.
+
+No, &gt;&gt; but it does require planning and it's setting time aside.
+
+And I think quite often when everyone's pulled in every single direction and they're all juggling so many different hats that often like especially when it comes to LinkedIn and the company page, the content's like so far down the level of conversation uh that people forget about it, you know, and so we want to say look, the earlier that we get in the room together and have these conversations, you're not just creating good content, but effective content that's, you know, aligned to those goals.
+
+Why not?
+
+&gt;&gt; Somebody's in charge.
+
+Somebody has to be in charge of this.
+
+You can't just have, you know, your admin who has the spare time or your social media coordinator trying to run this.
+
+They may not be interested.
+
+They may not know what they're doing.
+
+They may be too busy.
+
+You have to properly put somebody in charge of this.
+
+&gt;&gt; And again, that sounds like, isn't that so obvious?
+
+Isn't it like something that everybody should already have?
+
+Yeah.
+
+No.
+
+Not in my experience either.
+
+&gt;&gt; No, not in my experience either.
+
+When I'm working with clients, like you often assume that these things are in place, but when you actually do a little bit of digging, it's really interesting to see that quite often content, I want to say, is like an afterthought.
+
+It's the last thing that people want to do and everything else is more important.
+
+And I'd like to see from this conversation that things get elevated.
+
+And I think when we create good content and have systems for distributing it as far and wide and as many times as possible where it makes sense, not just for the sake of it.
+
+I don't know, how do you feel?
+
+Like Gary Vee says like create 350,000 pieces of content a day or whatever number he's up to these days.
+
+How do you feel about that kind of volume game?
+
+I don't personally get it, but I'm always &gt;&gt; sounds like a purging of words or some sort of Yeah, it doesn't sound good to me at all.
+
+I would much rather see very aligned, high quality, strong content than I just picture some, you know, when you know when a kid throws a package of cards up in the air and they just go everywhere or you or you don't put the lid on the popcorn popper when you're popping and it just explodes.
+
+That is what Gary Vee makes me think of.
+
+&gt;&gt; It does make me think of that as well.
+
+And I I I I try I'm not a podcast listener as my listeners already know which is ironic given I do two podcasts but I was at the gym trying to listen to one of Gary Ve's podcast recently so I could learn from that and one of the interesting things he was saying that in a particular industry if they weren't putting out I think it was like five or 10 or 15 pieces of content every single day and it was in the real estate industry actually they weren't putting out that much a day then they were losing and that's why they weren't selling and I was like 15 pieces of content for an individual to do like without systems and processes.
+
+I'm like thinking, okay, and yes, I get that there's a lot of platforms that we could do it and a lot of tools, but as I was listening to this podcast, which was just a recording of him speaking and a really bad recording at that, I was thinking the quality of this conversation is so hard to listen to and it's distracting.
+
+Like even for someone that doesn't particularly enjoy podcast, but I wanted to learn, but sometimes doing it just for the sake of doing it, it feels like for me, you're just getting slimed.
+
+It's like someone's just pouring stuff over you and you're like, "Get this stuff off me." And I don't know, like I This is where I'm like, I get that we can, but should we?
+
+I don't know.
+
+&gt;&gt; You should not.
+
+And AI makes it so much easier to publish and publish and publish.
+
+&gt;&gt; Yeah.
+
+Look, and again, this is where a bit of discretion and coming back to that strategy comes in into play.
+
+And I mean, I'm a fan of playing with the tools to see what's out there.
+
+And there's a an interesting one that I'm playing around with at the moment from the the team at OpusP Pro.
+
+And basically what that does is takes your blog articles and turns it into videos.
+
+And you know, the technology is new, but some of the stuff that it pulls out is cool because yes, we don't have time to all be video content creators and write long form blogs and do this and do that.
+
+Like it's just not practical.
+
+So, I love the idea and I'm playing around with it so I can share it with like you know the listeners and some of the clients but it's something I was like yeah that's a cool use of AI like take it in one format that's what I do with the podcast I use that tool so that I can then clip it and take my long form and you know we get five or so clips out of every podcast episode and then that just makes my content you know so much easier to keep up with.
+
+So yeah, I'm not anti-AII or the tools, but &gt;&gt; not at all.
+
+&gt;&gt; Just cause isn't a reason.
+
+&gt;&gt; Yeah, just cause is never a reason, &gt;&gt; right?
+
+It isn't.
+
+So, a question for you, Lee, as we, you know, kind of come around to the end of the conversation, but if someone's listening to this and realizing that they're actually wasting content, and let's assume that it's the good content that they've done the research, understand the clients, but have a goal in mind that's aligned to the business goals for that piece of content, and they've figured all of that out, but they're still wasting it.
+
+What do you think that they should fix first?
+
+Probably the first thing to do is well get your arms around what you've got.
+
+Catalog it.
+
+Do you how many blog posts do you have?
+
+How many what whatever the content pieces are, catalog it so you can understand what to update, make it fresh, keep it current, what to deep, what to literally get rid of because there is usually a case for archiving half of your blogs if you have 500 of them and where your gaps are.
+
+You can't possibly know where your gaps are unless you know what you've got.
+
+And lots of the teams I meet with don't they don't even know what they've got.
+
+So they don't even know if they have good content because there's a trash pile, a zombie wasteland of content over here on the left.
+
+So figure out what you've got, update it, keep it current, and figure out how to repurpose it.
+
+Focus on that before you go creating all new stuff.
+
+And if you look at your content and none of it has a point of view and none of it's aligned with the buyer and it's really all bad, then you kind of need to start over.
+
+that I meet very few brands who are actually in that situation.
+
+They're sitting on good content, a great report from a year ago that just needs to be updated and then you write three blogs from that and four newsletters from it and 25 social posts and an email nurture sequence can come out of it.
+
+Look, and and I was just thinking you as you were talking, there was like another client, you know, these clients popped to mind because this is actually really real problems that we see out there.
+
+And, you know, I had a client that they spend the best part of 6 to 12 months, a whole team coming up with these amazing research papers that are, you know, like there's there's a lot that goes into it, not just one that you do to try and get email signups, but this is part of, you know, their business.
+
+And I just remember their only goal was, you know, throw it on the website so you can sign up for something, probably send out the corporate email newsletter and do one post on LinkedIn.
+
+And no one could see any of it.
+
+And I was like, we need to switch this up because this is where I think LinkedIn can come in very handy, especially if you've got your company page and your employees both being active like you were sharing before.
+
+And I was like, no, no, no.
+
+We need to let everybody know.
+
+I call it like the big bang effect like you know drown the platform on you know a couple of days and go really hard so every which way that somebody looks all they see is people talking about this particular report and research and because this was like next level.
+
+This wasn't just this is like a whole team of people working on nothing but this cutting edge research for a period of time that was literally just getting the plunker on the website treatment and one post and it I'm sure it makes your little heart cry when you hear things like this cry.
+
+So that needed a full launch plan.
+
+&gt;&gt; Yeah, &gt;&gt; that needed an email nurture sequence.
+
+It needs to be in the company's featured section and the featured section of the employees.
+
+It needs to be downloadable from email footers, from about sections.
+
+It needs to be all over the place and then three blog posts on it and 10 social posts on it, fullcourt press, and then don't take your foot off the gas because that report doesn't expire after 12 days.
+
+Hopefully, you wrote something with a shelf life.
+
+&gt;&gt; That's the thing.
+
+That's the craziness that people often think, oh, I already posted that 3 months ago.
+
+It's too old.
+
+It's like, no, no, no.
+
+that research is not going out of date that quickly or if it is why did you put that much effort into it if it's something that's disappears so quickly you know and you know so this is where the thought leadership comes into it and you know really like you said planning not just what research is going into it but how are we going to distribute it in the best way possible so we are not wasting this great content so Lee thank you for such a wonderful conversation today I hope it's the first of many that you and I will have because I do really think that listeners, if you enjoy newsletters, I'm going to put the details on how you can sign up for these on the show notes.
+
+So, go and check those out because I enjoy it because it makes me think, how can I improve my content planning?
+
+So, I appreciate you sharing everything that you have today.
+
+&gt;&gt; Absolutely.
+
+Thanks for having me.
+
+&gt;&gt; So, until next week, listeners, cheers.

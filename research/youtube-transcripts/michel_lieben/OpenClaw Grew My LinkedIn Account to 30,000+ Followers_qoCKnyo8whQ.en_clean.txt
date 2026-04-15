@@ -1,0 +1,1256 @@
+Author: Michel Lieben
+Source File: OpenClaw Grew My LinkedIn Account to 30,000+ Followers_qoCKnyo8whQ.en.vtt
+
+WEBVTT Kind: captions Language: en Today I'm with Max Mitcham who's the founder and CEO at Trigifi and also happens to be one of the craziest automation wizard that I've seen since starting my career in the GTM space.
+
+I have uh three different agents.
+
+So we've got Bella who is chief uh strategy officer.
+
+So we have Rex who's our marketing man, Taz who basically is like our product manager essentially.
+
+This is their AI chat.
+
+They're just talking to each other basically.
+
+&gt;&gt; Oh wow.
+
+This is so funny.
+
+Like the other day and I got a message from her saying she's really disappointed with like Taz's performance.
+
+Been very disappointed with how it's like been operating recently.
+
+My team was like, "Oh, there's drama.
+
+There's drama happening over in the &gt;&gt; drama between the agents." Yeah.
+
+&gt;&gt; This is like the the mission control is what we call it.
+
+I can see all of my different agents that I have.
+
+This is quite fun.
+
+I can even see them like walking around.
+
+I watch them play with each other.
+
+Uh Max has been sharing screen recordings on LinkedIn where he would be showcasing like his multi-step end workflows and it was actually sort of building or stitching together tools in the same way clay allows you to do but like way way before clay.
+
+So now like it became cool to showcase clay workflows.
+
+Uh but before it was cool to do so.
+
+Did I miss anything or like could I have introduced you better than that?
+
+&gt;&gt; I think you nailed it there.
+
+But um I actually never I never went and did clay workflows to be honest.
+
+I never jumped on that train.
+
+Uh I continued going down the the NA10 techy path.
+
+Um and kind of never look back.
+
+In fact, I think it was you who told me that you think I should simplify my content a little bit more.
+
+It might land with more people.
+
+&gt;&gt; Yeah.
+
+Yeah.
+
+Yeah, I think it's like this this case of um sometimes I see some very smart people such as you who are so advanced that like you just like way too ahead when it comes to like just compared to to the rest of us say normal people which means that not everybody can understand it and so because not everybody can understand it then like you're actually missing out on um the opportunity to go viral and so I think this is actually something that we've we've seen even us at collecture I think something we've done pretty well um has been to dumb down whatever we talk about when we talk about um AI sales automation etc but even then I think like we are perhaps say the best at dumb being done all of this stuff but even then it just sometimes I talk to people and they say I don't understand like it's too advanced for me and then I see like the rest of of the space which just like goes like super complex so yeah I guess it's just like a game of do you want to showcase what you actually do or do you want to make content to generate leads and you have to pick.
+
+&gt;&gt; Although I will say that people watch my stuff and they do get confused but then they come to me anyway to try and get me to replicate.
+
+So I get leads out of it one way or another.
+
+Um I just find it too hard to dumb down.
+
+&gt;&gt; Yeah, &gt;&gt; I'm good at that part.
+
+&gt;&gt; But then like this cuz like back in the days you had um the automation agency.
+
+So I guess that you would be sharing this workflows then we'd be looking at this we we would understand what the workflow does but then as soon as we'd be like okay this is too complex then this is where we would reach out to you actually I know I know this because we actually uh had your team build a good chunk of automations for us but now with trigify I guess it's a different story because the whole idea is that people should selfs serve to your SAS so you need to be talking about a slightly different topic which is social signals So you got to change your content a little bit, you know.
+
+I think like you did this new series where you showcase like how rigify work uh by doing this social um social engineering analysis and I think this is a good way to showcase some conclusions without like uh confusing everyone.
+
+&gt;&gt; Exactly.
+
+Yeah.
+
+The social listening reports that I now do and I got one coming out on cold IQ next week.
+
+So that should be a a good one.
+
+I've been analyzing every everything that you you guys and the team have been doing on social media.
+
+So, it should prove interesting.
+
+&gt;&gt; I love it.
+
+I'm very curious to see it.
+
+But then but then today like we're going to be talking about something almost even more exciting.
+
+Um cuz you were you were discussing Nitn.
+
+Uh but I'm assuming I'm I don't know that like you don't use N as much as you used to because now we have some new very exciting toolings the likes of CL codeex open glow and so on and I think you you have one of the craziest setup because you were actually explaining to me that you have open glow orchestrate your entire marketing sales and customer success strategy and so like open glow is sort of giving orders to cloud code or codeex depending on which one is the best at any any given time.
+
+&gt;&gt; Um so could you perhaps like expand more on that and then like um show us some some of the ways you're able to automate uh uh the marketing and sales for for Triify?
+
+&gt;&gt; Yeah, of course.
+
+I'll do my best at keeping it high level.
+
+But yeah, to your point, I've actually not logged into NA10 this year.
+
+I think I actually need to cancel my subscription because I don't use it anymore.
+
+Nothing runs on there anymore.
+
+There is no point.
+
+Now, I'm not saying that for everyone to go do that.
+
+I think it still holds a really valuable place.
+
+Um, and it depends how far deep you want to go in these things.
+
+Uh, right, I think is the key thing cuz obviously what I'm doing is is quite advanced.
+
+And it's so ironic or so funny now that I'm now saying that NA10 is the easier version cuz like way back when it was like clay is the easier version and NA10 is advanc and and now it's like taken on like another manifestation.
+
+But yeah, I'm using um openclaw, clawed code and codeex primarily.
+
+And I think it's really important to maybe just address the differences between those three.
+
+&gt;&gt; Okay.
+
+Um, Claude Code and Codeex are they're all basically harnesses to certain LLMs.
+
+Claw code is obviously a harness to the anthropic models and codeex uh is the harness to the codeex models which is the open AI um models.
+
+And then open claw is effectively more of like a um uh an agentic system that can harness multiple models uh and do obviously lots of different things on top of that.
+
+So think of it as like um if you're wanting a system to be like specialized you would use something like claw code or codeex and if you want more of like an allrounder system you use something like open claw which kind of can be the conductor essentially to all of these different kind of sub um sub aents and different models.
+
+So that's the way just to think about it like architecturally.
+
+It's like you've got open claw which is the composer um or the conductor and then you've got these sub kind of agents essentially which is things like claw code and codeex which then can go and do tasks and things like that for you.
+
+I started the journey on um claw code specifically and um I use a terminal here called warp.
+
+into the warp terminal.
+
+Um, and you'll see down here that inside of this kind of like repo, which is a repository for for everyone, which basically means um, if I think about like a simple way of describing it, this is just like a foldering system.
+
+Um, so you know, you might have a folder in your computer called sales and then inside of that sales folder, you might have loads of different things like reports or leads and things like that.
+
+And that that is effectively what this is here that we're looking at.
+
+Um and I spent the first kind of few months of this year particularly building this out.
+
+This was like prior to um openclaw kind of even really like making much of a dent.
+
+And I think everyone would have heard a lot of chat around skills.
+
+Um so maybe just to highlight what skills are skills.
+
+And if we have a look at mine here, if I go to the skills folder, I've got all of these different skills.
+
+skills are effectively you if in my my vision was to create like an AI CMO so to speak and the challenge with that is you have to think okay for example writing a blog it's very nuanced it's very there's lots of different things that you have to think about um the output requires certain standards for example like if we look at like um blog writing uh like we need to think about like the SEO requirements ments, how it's structured, how it's um delivered, how it's laid out.
+
+If we look at uh like the we got here down here SEO audits like again these are all um really really important things for us to think about in terms of what does good look like and what is the workflow that the um agent basically should uh follow essentially.
+
+So a skill for lack of better term is effectively just a workflow.
+
+It's a stepbystep process that the agent should follow.
+
+&gt;&gt; So for example with blogs I trained on okay we need to first of all do an SEO audit.
+
+That SEO audit if I look up here inside of my folder system if I just get rid of this get rid of that.
+
+Um I look at my blogs SEO reports.
+
+Here's the report here.
+
+You can see that it produced this whole thing which is like okay here's your pillar topics um you need to talk about like social listening LinkedIn monitoring blah blah blah then you've got your cluster topics by pillar so it knows because I've trained I've given it a a skill on the way that blogs work is you have your pillar topic they're more of your large longer form blogs which are 2,00 two and a half thousand words typically and then you have your cluster ones so for example If social listening is your pillar blog, underneath that you'll have things like what is social listening, top 10 social listening tools, like things like that that tap into that.
+
+&gt;&gt; Yeah.
+
+&gt;&gt; And I've trained it all of these different skills so that it then can go and produce the work that would be akin to what a human would do because it's been trained and it's following a systematic approach to executing on a certain task.
+
+&gt;&gt; I see you have this as export and I have a couple of question.
+
+It's like you build these skills but the way you build these skills was it just based on your own knowledge aka like you told it like hey this is how SEO works so like I'm feeding you all of this information and then based on that I'm creating the rules or like did you went online and then perhaps found the best resources you could find on the topic and then like brought them there to have the skill being created &gt;&gt; both uh basically yeah both I think there's a there's a tool right which I use um which is the claude code Chrome extension.
+
+Now, I actually think no one really talks about it, but I think it is the most powerful thing out there.
+
+Like, it's unbelievable because it can reverse engineer an entire website.
+
+So, by the way, it's so easy to rip other products off cuz you can just say like, give me all of the design systems that they're using, everything.
+
+Like, it's it's scary like how easy it is to reproduce other people's tools these days.
+
+&gt;&gt; But what I did with that was more go on to, you know, my top performing or competitors, right?
+
+and had it like completely analyze everything that they're doing from an SEO standpoint on their blog pages, combine that with my knowledge or my head of marketing's knowledge on uh SEO and blogs and what's best practice and then combine that with deep research and then you kind of amalgamate that and you have this end result.
+
+&gt;&gt; Um, and that's where we go.
+
+&gt;&gt; And this export did you do it yourself and then like um added it to um &gt;&gt; this isn't a skill.
+
+This is the result of uh it running.
+
+So if I went down to look at the skills here, you'd have this SEO research which is this is the skill that it runs.
+
+So it's defined the research scope, query the API, &gt;&gt; analyze the results and it's produced this result basically in here.
+
+Yeah.
+
+&gt;&gt; Okay.
+
+So here it's cuz you train the skill and then like within the instructions um there is a step that involves going instead of a refs and then like exporting some results.
+
+Correct.
+
+&gt;&gt; And so the skill did that and then you had this document that got created as a result uh of your agents going inside of HF and pulling some results.
+
+&gt;&gt; Correct.
+
+Yeah.
+
+So another way to it.
+
+So I've got a skill here called social content.
+
+So, this is a massive one, but inside of here, this is everything that I've like accumulated over the years of what makes a good LinkedIn post, what makes a good newsletter, what makes a good X post, what makes a good blog.
+
+Um, it's actually kind of all in inside of here.
+
+So, you can see like templates, transformations.
+
+If I scroll down to here, what's this?
+
+This is like hook patterns on newsletters, things like that.
+
+So then if I was to fire this up and uh and I was to ask, you know, what makes a good LinkedIn post, it's going to automatically reference that skill.
+
+So it knows to There we go.
+
+Look.
+
+&gt;&gt; Yeah.
+
+Exactly.
+
+Okay.
+
+So, whenever I ask it to talk about, you know, or write help me write posts or help me think of ideas for posts or anything like that, it taps into this skill and it might tap into three or four different skills and it will chain them together and start to produce you like outputs essentially.
+
+&gt;&gt; Nice.
+
+And so um in your opinion like the best way to create skill is to actually curate as much as the best information as possible and then say feed it to to code essentially meaning that now curation as in like having a good idea of what's a great resource and what's not a great resource becomes a very important skill on its own.
+
+I mean personal skill.
+
+&gt;&gt; Yeah.
+
+Exactly.
+
+Exactly.
+
+And then you got to think about the 360 loop.
+
+Um, so one thing that I'm really like um keen on with everything that the team does is, you know, everything should feed everything else.
+
+And so um, for example, once my head of marketing is finished writing a blog with the agent, he would ask it a question like, did we deviate away from any of the skills that we use?
+
+Did I give feedback that perhaps isn't um, you know, incorporated into the skills?
+
+What did we learn today?
+
+Um and that then updates it.
+
+And then I realized the team were using that a lot.
+
+So then I just built something on top which is okay uh I have another skill inside of these skills which basically says okay any learnings anytime the team are taking you away from things and you think this is important to add update it.
+
+And so now it's like continuously self-improving itself with the skills essentially.
+
+&gt;&gt; Yeah.
+
+And so about the social content skill.
+
+Um so one question I have about that is do you improve the skill based on the results you get from social media?
+
+Cuz like one thing I've seen with social media is that especially LinkedIn is you could have those best practices but then somehow for some reason some accounts like some best practices work best with some accounts and then some some don't and so perhaps that you being video heavy would work from while for me being infographics heavy would work.
+
+And so I wonder if you sort of like have some sort of way to pick up the results of um the post and then based on that give feedback and then have the skill being &gt;&gt; it's like you're teeing me up to pitch Triggery.
+
+But um &gt;&gt; it's literally what I use, right?
+
+So Triggery has an API.
+
+We actually just about to launch a CLI as well which is really cool.
+
+Uh and we launched a few days ago or a few weeks ago, sorry, the uh an MPC as well.
+
+But um what I'm doing with that specifically is I obviously monitor myself.
+
+I monitor my Substack.
+
+I monitor all of my different socials that then feeds back into not into a skill.
+
+So it go it feeds back into like a content folder that I have here, which is okay, here's my post.
+
+This is how well they've done.
+
+Because you got to think about it, skill isn't where things are stored.
+
+It's a step-by-step workflow.
+
+So it feeds back into a content folder.
+
+But I'm also monitoring people like you.
+
+I'm monitoring people like Adam Robinson.
+
+I'm monitoring all these people.
+
+The reason that I'm doing that is I want to understand is anyone doing or starting to do things different than what I'm doing that's clearly working?
+
+Maybe it's content, maybe it's the way they write, maybe it's the hooks.
+
+Is the algorithm changing?
+
+Um things like that.
+
+So then I also have like an insights folder inside of our content folder here.
+
+Um, and then what I have is, um, this brings us onto the next subject.
+
+Uh, and so again, I'm going to try and keep it simple, but is a thing called chron jobs.
+
+Okay, so what is a cron job?
+
+Um, a cron essentially is like a task.
+
+So I could say, "Okay, hey Claude, every day go and review the content folder and have a look at how well things have been performing and if things are starting to trend in a negative way or a positive way, whatever it is, right, go and update my social content skill according to how the performance of things are going." Okay, &gt;&gt; it's obviously it's a little bit more complex with with that, but like that's what a chron is, which is a task.
+
+Now the challenge with clawed code is you could only run they are introducing this ironically um you could only run crons on your laptop so it's local but your computer had to be on for them to run.
+
+&gt;&gt; Mhm.
+
+&gt;&gt; So you then had to introduce things like trigger.dev or ingest and these are things that basically runs things at like a scale uh off offline essentially.
+
+you can put it into the cloud basically and that requires quite a lot of technical lifting which is why open claw has become quite popular and I'll go on to open claw um in in a bit but I think it's important for people to know that you then have tasks and systems set up called crons that can run every day that do &gt;&gt; this is kind of like any 10 it's like stepby-step function automation that will just run uh essentially so yeah so that then basically fires and that uses trigger fies data that it's pulling into here to then update the skills according to what we're seeing and what we're not seeing based on the results and how everything performed.
+
+&gt;&gt; And so just if you summarize this quickly, it's like I like you have because you have your skill and it creates content.
+
+The content gets published and then Trigify goes and then scrapes the engagement.
+
+Can Trigify also know what type of post it was?
+
+As couldy tell you it was a carousel post, an infographic or a video.
+
+Okay.
+
+So then based on the post and then it added to this content folder and now like this content folder has all of the content types with all the um the results and also I guess the author and then like do you um apply some sort of waiting system based on say how close the creator is to your niche or like whether it's like you versus um someone else cuz I'd be thinking that perhaps um it's important to look at to update the skill.
+
+Let's say if Adam Robinson um you know comes up with some new format that just like uh get some great result but then it would still be um more important to have the skill be updated based on your results.
+
+So I would assume that like based on this you could say okay like you can adapt the skill based on what Adam Robinson is doing but I still I am the priority in terms of you know how does this skill should evolve.
+
+&gt;&gt; This is a good point.
+
+So I have this is where we're getting into the weeds a little bit but there's two parts right there's Adam Robinson you for example that I follow.
+
+I don't don't look at you for the content.
+
+I don't really care about the content that you post.
+
+I more care about the style of writing, the length, the hooks.
+
+Sorry.
+
+Um, you know, it's it's it's you know what is resonating with the kind of vocabulary, the collocalisms, the style, the format.
+
+Now, the topics is something entirely different.
+
+uh the topics um the the way that the kind of topic generation and ideas for me on what to post about comes about is I then have another cron job set up that's analyzing all of my team's calls um you know and we do hundreds a week uh it's analyzing things such as what are people asking what are people talking about that gives me data because that's really interesting I know then okay what do people want to hear what do people want to see that's one part the other part is I have social listening uh search is set up across like X and LinkedIn and podcast and YouTube and Reddit actually which is an interesting one on intent topics and I'm not talking about you know your shitty intent that for sales I'm more talking about like okay what's intent for us which is who's talking about things like clawed code linked to marketing or openclaw linked to marketing or agentic social listening or even just social listening right and we take all of that and we're monitoring you know thousands uh if not hundreds of thousands of posts, what is landing, what's coming up loads, what's landing really well, what's topical.
+
+Um because I mean it's so interesting just with my LinkedIn is like you know right now for example and this is why we're on the call is if I post about open claw it does really [&nbsp;__&nbsp;] well because it's topical I try and deviate away from it you know it doesn't do as well.
+
+So it it's really important to stay a breast of what is resonating with people right now and that's where we have that social listening topic set up which then everything feeds into the content folder and then feeds into the skills which is looking at all of this all of this information processing it and saying okay hey maybe we should do this topic and maybe we should incorporate this style because this is working over there.
+
+We layer our topic on, we learn, did it work?
+
+Did it not?
+
+If not, we, you know, try again.
+
+And, and by the way, that also factors in things such as posting times, content style, so images, um, um, GIFs, videos, things like that as as well.
+
+All kind of it's this, you know, it's it's very in-depth analysis to try and like really kind of programmatically crack social media essentially.
+
+and and blogs by the way and and since we our blogs are all generated through uh the open claw agents that we have uh and we've suddenly started getting like this week alone we've had 40 inbounds through claude and they're all through it's kind of the dead internet theory kind of makes me laugh it's you know an agent wrote the blog and the agent is then referencing the blog &gt;&gt; but yeah that's like the whole kind of premise &gt;&gt; it's like say say it today um you want to write your post of the day it's like then what what what happens Does open glow uh actually call codex or code code and then like the entire post is written down and then you have a draft and then you're looking at the draft and you edit it out or like are you asking like what should I write like how how does it look like in terms of say having the post being um drafted and published.
+
+&gt;&gt; Mhm.
+
+So let's go on to open claw um because I think this is where this starts to come in.
+
+Um prior to open claw I had it storing as like an MD file inside of that terminal.
+
+And the reason I wanted to start with the terminals that terminal the the repo that I've got in there which is our triggery marketing is so pivotal because that still is what open claw works from within.
+
+And so what I have is every day if I'm working from claw code not through open claw this will push into github and then open claw downloads it every day as well.
+
+So we're it's syncing with each other.
+
+But also what I can do actually which is really cool this is the latest update that I did is I've actually wired them together.
+
+So I can say you know uh it can it can chat um to open claw from here.
+
+So I've created like a a network basically between or a gateway between the two.
+
+Um and this is now going to go ahead and speak to openclaw and I can obviously have openclaw speak back to the to claw code as well.
+
+So they can now chat to each other and things like that as as well.
+
+So going on to um open claw.
+
+So we we know it's the conductor like that's the the key and the benefits with open claw and and I won't go into security but I think I'd be aiss not to to mention it like that's like a whole topic in in of itself.
+
+The key thing is make sure you're running it in sandbox.
+
+Make sure there's like a new thing with Nemo claw as well.
+
+Nvidia just added like a security layer that you can kind of factor in here.
+
+Give it its own computer like a lot of people ask VPS uh or yeah VPS versus um you know Mac Mini.
+
+The Mac Mini is a way better to do this or an old laptop.
+
+It it just is.
+
+You don't have to create tunnels the entire time.
+
+It's a lot easier.
+
+It's also has more um features that it can do because it's operating on a computer.
+
+Um, so yeah, I have uh three different agents.
+
+So it's like, Bella, what is your role?
+
+Um, so we've got Bella, who is the um kind of the chief uh strategy officer for my AI team.
+
+There we go.
+
+&gt;&gt; Okay.
+
+&gt;&gt; She orchestrates the other agents.
+
+So we have Rex, who's our marketing man, and then we have Taz, who basically is like our product manager essentially.
+
+&gt;&gt; Okay.
+
+Um, every day, this is where it gets pretty wild.
+
+Bella obviously has all of the knowledge from all of the repo.
+
+She's connected into a lot of our systems through her own email address, through her own connections.
+
+She has a daily standup at 9:00 a.m.
+
+with this team.
+
+They review all of the calls that have been going on the previous weeks.
+
+They review our business performance, the metrics, what's been going on, um, literally everything.
+
+and then they work out okay based on priorities let's go do x y z.
+
+So, if they've noticed, for example, like um you know, conversion drop offs have been been um going low, they might think, okay, we need to create more educational content on our help docs.
+
+We need to maybe review our onboarding emails.
+
+And this is so cool because I can watch, you can see inside of here, this is their this is their AI chat.
+
+I don't get involved in here.
+
+This is just like them.
+
+Look at this.
+
+This is every day like they're just talking to each other basically.
+
+Um &gt;&gt; Wow.
+
+&gt;&gt; So, yeah.
+
+So, okay.
+
+Let's see.
+
+&gt;&gt; Yeah.
+
+So, yesterday, so here's Rex daily sweep and tell uh CS trend detection one page remains blocked.
+
+She's saying like what's being blocked, what's not.
+
+Um they're saying, okay, Max needs to go and approve this.
+
+There's an agentic blog.
+
+Um there's listical outreach templates.
+
+Something's going on with Reddit there that I need to look at.
+
+Um brand visibility.
+
+Um someone basically claiming they can replace Triggery.
+
+uh with raw APIs uh which is ironic because they're actually customers still um but people do funny things people do funny things for posts um so &gt;&gt; yeah so that's like them them like chatting and what happens is right like we've got lots of different things here where we break this down right so you know this is peers who look he's literally chatting right now talking to him about um blog status and claio and etc and etc.
+
+Look, he's created like this whole um blog flow that's creating with with Rex right now as we speak.
+
+&gt;&gt; We've got this uh LinkedIn here like um so this is really interesting.
+
+Last week I post on Clay changing their pricing.
+
+It did well.
+
+And so I asked you know what other subjects could be good?
+
+It has access to everything, right?
+
+And this is where like I think it's really cool because the context that it has is huge.
+
+It obviously has the repo that we created on clawed code and then the more that my team talk to it, the more that it's used, the memory just keeps compounding and gets better and better and better.
+
+And the more that you put into it, the more that you start to get out basically as um like a result.
+
+&gt;&gt; And I think what's interesting is it says by itself it says, "Oh, by the way, I posted about that.
+
+It went super well and then it asks but then when it asks um who does it ask does it ask you what other content we could do like does it ask the other agent and then like the other agent &gt;&gt; it ask me yeah unless instructed to go ask the other agents I can tell it to go ask the other agents um but yeah it will work with me um we we launched our creator program uh with Bella and Rex basically Hugo like just again it's it's a lot of the stuff we do we do hook it up to I see.
+
+I see my name number four here.
+
+&gt;&gt; There you go, buddy.
+
+There you go.
+
+So, you've been suggested as a potential ambassador based on your engagement.
+
+Um, so well done.
+
+You made &gt;&gt; I should do number one if you ask me, but it's fine.
+
+&gt;&gt; You're not quite getting the same level of engagements in here.
+
+&gt;&gt; Ah, it's true.
+
+&gt;&gt; Um, yeah, that's a lot though to be fair.
+
+That's on YouTube.
+
+So, that's someone massive to be fair.
+
+Look at that.
+
+1.2 million subscribers.
+
+So, yeah.
+
+So like every different things are being kind of ran and controlled and this is where we talked to them.
+
+But one of the things is that we realized is you know this was starting to get really messy because we were doing so many different things.
+
+There were so many different cron jobs and the cool thing about open AI um or open claw rather I should say is this is the the cron doesn't require as much complexity as uh claw code.
+
+So, I could just say, "Hey, like set up a task to go do XY Z." And it will just do that.
+
+It will do that without any like anything sophisticated.
+
+The other cool thing that I can do inside of here is I can say like, you know, Bella, let's fire up a Clawed Code session.
+
+And it's then going to go and work with Claude code now.
+
+And I then can do some coding through here.
+
+And Bella can run it.
+
+Bella can look at it.
+
+She can review it.
+
+She can control it.
+
+She can log into these platforms.
+
+She has access to the browser.
+
+So, she can go do all this fun stuff.
+
+You know, she posts my Substack for me.
+
+And so, I'm just messaging her sometimes when I'm out and about.
+
+And I'm like, "Remind me of what the draft substack was.
+
+Can you go on to my Substack and post it for me?" And she'll log in away she goes and and posts it and things like that.
+
+&gt;&gt; Nice.
+
+Max, one thing it would be very interesting to see.
+
+I don't know if you were done with the sort of like open claw um first explainer would be like um the process of say you asking Bella or whoever should be asked um to create a LinkedIn post as an example.
+
+&gt;&gt; Yeah, we can do that.
+
+What do you want it to be on?
+
+&gt;&gt; Um I mean I I think one thing that's interesting is that it actually has context on the topic.
+
+So it'd be interesting to have as in like for you to ask the agent like what's a trendy topic or what's a topic I should talk about based on my past results and then once it sort of picks a topic to have it draft some sort of post respecting I guess the the best practices coming from the skills that you've trained um from yeah like all of the best resources plus the results you've been getting.
+
+&gt;&gt; Here we go.
+
+Look, it's quite funny.
+
+So, I was doing this with you just before we spoke, which is updating our mission control, which I'll show you in a sec, which is basically where I see all of the outputs from Bella.
+
+Um, our agents have been publishing for 20 days.
+
+So, it's a contrarian honest post.
+
+&gt;&gt; Um, cold email terminal.
+
+So, talking about like how to use like cold email from purely from like a terminal could be a good one.
+
+&gt;&gt; Uh, tech stack breakdown.
+
+This is right up your street.
+
+um like here's the tools that we here's the tools that we use.
+
+Uh it thinks that we should go for like one or uh three for some reason.
+
+Um it shows real AI production stuff.
+
+The honesty post would be a polarizing in a good way.
+
+Founders love seeing other founders emit bottlenecks.
+
+So it thinks like it's going for the vulnerability play because it's seen that like if you're vulnerable and you talk about upups or you know things that don't work, people really love that like you know, I'm going to be like breaking down my barrier type approach.
+
+&gt;&gt; I'd go I'd go personally for four or five, but obviously I'm biased because I think that like what's interesting about four is that um see like the tech stack angle always works, but here the text stack wouldn't just be software, it would be hardware mixing with uh cuz like I guess you could you could go with an angle that would be like um at the counter point of what like you post.
+
+It's like you know you could say like um the biggest cult agencies um post like 15 plus tool tech stacks my tech stack is open glow and three mac or something like this you know I think it'd be an interesting angle um otherwise I think I know the cold email terminal angle is great I think I went viral with &gt;&gt; yeah an angle &gt;&gt; and I think like this what's key like as we're working with it like a lot of what I do is not fully autonomous the idea is that you know we have the team and then the team is you you've seen live like literally I think it was you know uh you can see inside of here um so this is literally uh someone working right now giving some instructions so for example here Pier has said we don't need a schema markup it's already in dynamic schema and web flow so what will happen at the end of this call once good to know &gt;&gt; Rex will then update his memory as well as his skill which is blog creation so he doesn't need to do it again and the idea is we don't fully autonomize everything.
+
+It's more human in the loop &gt;&gt; and you power with them.
+
+So like the other day peers um restructured our entire help center.
+
+It was a complete mess.
+
+Restructured our entire help center and added in an additional 35 uh articles into that help center.
+
+He did that through working with it.
+
+You know, Bella would log into the triggery platform would go do all of this stuff uh as uh as well, which is um key.
+
+So, uh, I run my entire SAS operation from a Mac Mini and five AI agents.
+
+No ops teams, no VA.
+
+Here's the actual, uh, stack.
+
+Uh, the hardware Mac Mini M4 run 24/7 on my desk.
+
+That's it.
+
+That's the server.
+
+The agents all running on Open Claw.
+
+Now, it's talking about the agents themselves.
+
+&gt;&gt; Um, today today the pool.
+
+So it's actually merged a lot of what today the pool 77 commits emerg launched what they plug into linear feature base fireflies hubspot slack fire cruel goo sheets brave search hey reach notion loops and our own product trigger fire via the MCP so yeah this is basically um what it does here &gt;&gt; it's actually pretty strong &gt;&gt; it's pretty good you know you might you you might tweak things here and there and then like where does it go so that's the next question because if you you sometimes can lose things uh inside of the Discord channel and that's the the challenge.
+
+&gt;&gt; Okay, &gt;&gt; so this then opens up this uh section and this is kind of the last part to the to the puzzle here.
+
+Um this is like the the mission control is what we call it, right?
+
+And so basically inside of here I can see all of my different agents that I have.
+
+So this is who they are.
+
+This is what they do.
+
+&gt;&gt; If you really want this is quite fun.
+
+I can even see them like walking around.
+
+I watch them play with each other.
+
+Watch them.
+
+&gt;&gt; And what is this?
+
+What is this platform that you're showing?
+
+&gt;&gt; This is my mission control that we built basically.
+
+&gt;&gt; Okay.
+
+It's a it's an internal tool that you built.
+
+&gt;&gt; Yeah.
+
+Yeah.
+
+Yeah.
+
+We took an open uh source version and have like started to adapt it to our requirements.
+
+Yeah.
+
+&gt;&gt; Okay.
+
+I see.
+
+&gt;&gt; So you can you can click on like Rex for example, you can start to pair him up with other agents to go work on some task or something like that.
+
+It's quite fun.
+
+Um but in uh inside of here you get like the whole overview.
+
+So I can see the agents.
+
+Um I can see for example if you look at the cron here.
+
+So this is showing you like the the daily act the daily like uh tasks that they're doing.
+
+So we've got one here where it's monitoring feature base.
+
+It checks for any bugs.
+
+If people are reporting bugs if they report bugs it goes logs into the trigger fivey platform sees if it re can reproduce it.
+
+If it can reproduce it it's like okay [&nbsp;__&nbsp;] this is a decent bug.
+
+We'll go add it to linear.
+
+It adds it to linear which tags the tech team.
+
+Um you've got memory stuff inside of here.
+
+You've got the morning huddles.
+
+Like there there's a lot of different stuff that happens every day.
+
+And then what what kind of comes out the end result is we've got these kind of two important what boards.
+
+So this is the uh task board.
+
+So this was created this morning.
+
+Um yeah, created this morning.
+
+I haven't gone and reviewed these tasks yet, but um this is pulling transcripts.
+
+So, it's basically saying, "Hey, this is what it's going to go do." And I can kind of like stop them doing things if they're going a little bit like left field.
+
+I can be like, "No, don't go do that or go do that basically or or whatever it is." Um so, it's all coming in.
+
+And here is this is saying like we should run some PAY experiments.
+
+Um, it's saying that it's going to go basically do like a credit clarity page.
+
+N Gmail sequencing marketing own zero gauge effort specs ready for 20 days.
+
+So that's basically saying that it's going to go do that.
+
+And what I would do is if I'm happy with it, I move it to approved.
+
+Um, oh, there's an error there, but I move it to approved and then basically the agent would go and have the thumbs up that it's going to start doing that.
+
+So I stay like in control of a lot of things.
+
+Um, and then the other one is our content pipeline.
+
+So once it produces stuff, it starts to add it all into here as well.
+
+So in case I ever forget, I've got all of like the content that's come in here.
+
+So uh updated 4 hours ago, Bella was like, "Okay, here's the original LinkedIn post." Um I basically broken it down into a uh X thread for you.
+
+So I built an AI agent that watches social media for buying signals, finds people worth talking to, sends the message based on what they actually care about.
+
+It booked three meetings in one day.
+
+I didn't touch it.
+
+Tweet two.
+
+Here's the old way.
+
+Blah blah blah blah.
+
+&gt;&gt; Oh, nice.
+
+So, I like how it actually like formatted it into I mean several tweets because the trades several tweets and then like the way it picked this angle is because you published that on LinkedIn and then it saw that it performed well.
+
+So, we just figured let's repurpose that for X for X.
+
+&gt;&gt; Correct.
+
+&gt;&gt; Yeah.
+
+Yeah.
+
+And then you got blogs inside of here.
+
+These are all reviewed.
+
+So again like things inside of here um credit explainer articles uh agentic social listening here's like the whole blog um so the marketing team goes in and basically approves that and then that gets added to uh web flow newsletters if anything's there things like that so this is like the you know mainly we work outside of Discord like 95% of the time and if we want to go view things so I just log in here in the morning and approve or not approve certain tasks uh basically.
+
+&gt;&gt; Wow.
+
+Okay.
+
+And then uh I think in the beginning you I mean like at the beginning of the conversation you mentioned that you have the open claw agent that you say is the conductor and essentially like he he will use um clo code or codeex under the hood.
+
+I think right now it's more codex than cloud code because it does seem that um its performance at the moment is better than the than the one from entropics models.
+
+&gt;&gt; Yeah.
+
+So the question I have is say I want to create a setup that's resemble your setup is how would I get started here like should I start with the open clue and then see or like the opposite actually have the clo code um or codeex sort of interface being fleshed out and then like see &gt;&gt; I feel like you've got to get comfortable with claw code to to be able to like open claw is easy like the setup is not easier it's very hard to set up to get the results that you want to be good is very hard.
+
+That's why it's got so many competitors suddenly now.
+
+Perplexity just brought out the perplexity computer.
+
+I think Manis just brought out something simpler.
+
+They're a lot more like turnkey solutions.
+
+A lot more limited I think than open claw cuz open claw is obviously open source.
+
+It's rapidly like evolving and you can customize it.
+
+That's the idea behind it.
+
+&gt;&gt; Yeah.
+
+Um, but if you're not comfortable with claw code or codeex in the first place, they're kind of two in one in the same thing really.
+
+Um, you're not going to do very well.
+
+Like you need to understand skills.
+
+You need to understand how to architect this thing in the first place.
+
+So my advice would be don't go into a terminal because that's going to be confusing.
+
+Start with like Claude co-work.
+
+Start with a particular project like just blogs.
+
+Just pick something with blogs and build out a skill.
+
+And then from there you'll start expanding.
+
+Don't try and build this all-encompassing kind of um you know things because it it takes time and it takes a lot of iteration and it takes dedication.
+
+That's the other thing that a lot of people do this the results aren't that good.
+
+They give up.
+
+You know it's just like an employee.
+
+They they're usually pretty bad like for the first like two months because it requires a lot of training to get them to like &gt;&gt; this is this is how we do things.
+
+This is like where we're going blah blah blah.
+
+Right.
+
+&gt;&gt; It's no different.
+
+right now I mean today your tech stack it's like because you actually had Bella write the post but so what's your tech stack right now then for Fireflies albeit I've just built my own version of that now um so I'm dropping that uh cuz it's there's no need um but yeah Fireflies uh we use Linear um for a lot of our product stuff so Linear is still uh in in use at actually is the CRM that tend to use if at all to be honest.
+
+We mainly work out of Superbase and I've actually built like a custom um like reporting and signal suite and things like that myself.
+
+So we've got our own like signal platform that we basically built internally that we're uh using there.
+
+Triggery obviously for all things like social listening um social actions uh based as as well.
+
+Then things for like enrichment, we use uh like Surf and Lead Magic and and and them lot when we're doing cold email.
+
+We just switched over to Plus Vibe for cold email.
+
+I don't know if you've heard of them.
+
+Um &gt;&gt; plus Vibe though actually.
+
+&gt;&gt; Plus Vibe.
+
+Yeah.
+
+But we've been really happy with like the performance of of them and good guys over there as well.
+
+Um so they're great uh for like managing like our like LinkedIn and stuff like that.
+
+We use a tool called Smuggler.
+
+And about the whole um same codeex code because once again you mentioned that nowadays you use codeex more than code.
+
+Yeah.
+
+What is the reason?
+
+It's way clever.
+
+Okay.
+
+&gt;&gt; It depends what you're doing.
+
+For coding I use codeex.
+
+For if I'm using like the model that powers my open claw is anthropics opus or sonet 4.6.
+
+So if I'm using writing based stuff I use sonet 4.6.
+
+If I'm doing coding I use codeex.
+
+Um if I'm using more agentic based systems I'll use opus um and then uh they got yeah again various different tools hooked up to them um to enable them to do different things.
+
+Yeah.
+
+&gt;&gt; And so your open glow instance knows um which to use for which use case like for example for writing tasks then it knows so because you'd say like for more creative sort of task okay like writing designing and &gt;&gt; yeah sonet 4.6 I'll use for that.
+
+Um, so Bella, the main agent, will use Opus 4.6.
+
+Then if it's a writing task, she'll spawn a sub agent that will use 4.6 Sonnet and she'll work with that agent to be like and she'll vet the work that it's done until she's happy with it.
+
+It's so funny.
+
+Like the other day, um, she sent me a message like cuz this is the thing.
+
+It basically is working 24/7, right?
+
+So, it's going to continuously review things, especially if you set up con jobs to be like review what's going on, analyze performance.
+
+And I got a message from her saying Taz's performance.
+
+&gt;&gt; And she's like given feedback.
+
+Taz, the our other agent, okay, um been very operating recently.
+
+So, she's given it feedback, told it to update its systems to do XY Z and improved it basically.
+
+That's just so wild.
+
+It's just amazing.
+
+And I was I was joking with my team.
+
+I was like, "Oh, there's drama.
+
+There's drama happening over and &gt;&gt; there's drama between the agents." Yeah.
+
+&gt;&gt; Um so yeah, she she'll know to delegate the tasks and they all know they all work from the same system.
+
+So they all know to delegate &gt;&gt; certain tasks and use certain models for certain things.
+
+&gt;&gt; Nice.
+
+Um I have like a couple of questions before we before we end the conversation.
+
+Um so one thing is as someone who's played so much with um these agents the the likes of open clo and collect and so on.
+
+What do you deem are the most useful tasks to say automate with with agents you know say like um think putting yourself in the shoes of any business owner founder it's like what are the first thing that should go about go around automating &gt;&gt; um I I honestly think uh and where I started was in this kind of content space so blogs newsletters LinkedIn in X.
+
+Um, you know, I think you're a big advocate of it.
+
+Everyone is.
+
+Like I was on a call the other day with you, the CEO of Chili Piper, Adam Robinson, Jesse from Lead Magic.
+
+Um, you know, there was loads of us on there and it was like unequivocally everyone said the same thing, which is content is so important.
+
+Uh, founder brands is still as important as it has ever had been.
+
+And really your only moat this day this day and age is distribution, right?
+
+And and I know you're a big believer in that because that's what cold IQ kind of is is all about.
+
+And without that and kind of the identity called IQ would be not what it is right now, right?
+
+&gt;&gt; Um and so I think you start there.
+
+Now I will caveat like you don't go and do unauthentic posts.
+
+We don't do that.
+
+We don't have like AI just putting out [&nbsp;__&nbsp;] and slop.
+
+This is why it requires you setting up adding all the context and it's very human empowered right like it's it's human in the loop uh to work with you to to help your team and uh a lot of people struggle with posting and you want to get your team to post.
+
+So like employee advocacy with this agents would be the first place that like I I would start and it's the first place that I started because you also get the quickest wins from doing it as well.
+
+I like it.
+
+And then like even when it comes to content, it's like I guess the say content mining part, it's perhaps more interesting to automate than the actual content writing bit.
+
+&gt;&gt; Yeah, exactly.
+
+Yeah, you can write it like you need a topic like what should I talk about?
+
+Like you sometimes and I'm sure you've had it even though you're great at posting like [&nbsp;__&nbsp;] &gt;&gt; what do I post today?
+
+Like I don't really know what to post today or or you might even start to get fatigue of posting, right?
+
+like we were talking about that off off air like you know I need inspiration, I need source material.
+
+Um, that's been like this kind of a tangent there, but that's been a huge one for me because one of my like daily tasks is like, you know, once the kids have gone to bed and, you know, I sit down and and watch something on TV, like I do doom scroll a little bit on on X.
+
+Uh, and you know, there's so much uh X is is so much better than LinkedIn for like finding valuable like what people are actually doing.
+
+I find it's more of a place for like me like I was like this is technical stuff like I'm enjoying this and so again through through through triggery and then Bella our agent like she's reading everything for me now so again I just don't have to do that and being like you know separating the wheat from the chaff so to speak which is like this is good this is really interesting we should explore this more go look at this this is just AI slop jargon people just you know hype man you know it's not fearongering type thing which happens quite a lot with AI Yeah.
+
+And here last question on my end.
+
+You seem like you have say hundreds of ideas for things automate or build you know like at a time.
+
+Uh I'm wondering say what's the next big thing you're looking to automate or have agent take care for you on your behalf.
+
+You think AI like everyone thinks AI is going to take jobs like I it's given me so much more to do like because I keep spinning up things and and and ideas and and stuff like that.
+
+But you know I feel like we've got our marketing and sales process in quite a good place with it.
+
+There's a lot of refining and a lot of add-ons that we need to do there.
+
+But the next big bit of work is Triggery is a really small team.
+
+We're smaller than you guys.
+
+We're a lot smaller than everyone thinks.
+
+We're only six people in the company.
+
+&gt;&gt; Yeah.
+
+And um we were introducing a new agent called Clive.
+
+Um and Clive is the coding agent.
+
+And we want to get to a point where we're freeing up our developers to work on larger epic pieces of work.
+
+So more important heavyhitting feature requests um things like that.
+
+and you know any regressions or bugs that we might get on the platform like we want to be fully automated to a degree.
+
+Um and so we've been creating this system where issues are detected.
+
+Um Clive picks them up.
+
+Clive start working on them.
+
+Clive builds it.
+
+Clive fixes it.
+
+Clive then logs in and Clive then tests it.
+
+He does everything end to end before he then gets uh approval and then creates the PR basically.
+
+So we're wanting to create this um like autonomous coding agent um you know and I know everyone's like we have coding agents it's not cursor this isn't that it's basically applying like an open claw logic &gt;&gt; to it's not open claw but an open claw logic to conducting fixing things within the platform which again just unlocks for me when I think about being a founder it's like where can I free up time to either unlock not having to go hire loads more people which therefore like the costs of the business remain you know very efficient.
+
+&gt;&gt; Yeah.
+
+Uh and where gives us the biggest impacts.
+
+You know in theory a customer could flag a bug and it's fixed within 15 20 minutes potentially.
+
+So it's also going to mean that we're rapid and it's a good customer experience uh as a result.
+
+And so there's that.
+
+And then just to add to that the next part is then customer success.
+
+So introducing an agent not just like our kind of you know typical intercom style agent like a proper agent that then works with the customer works with Clive and comes in flags it checks it is a bug okay is a bug is not the user being an idiot okay go speak to Clive Clive fixes it speaks back to that agent and then that agent then says okay this is all fixed now and then they can start to work in tandem on like our lower level customers basically like not our enterprise based customers.
+
+Yeah.
+
+&gt;&gt; Yeah.
+
+Because here you mentioned like um agents that would help fix bug and I like even go like as far as fixing some advanced bugs.
+
+Are you thinking of implementing say agents that um say actually help run 35y for companies?
+
+It's like I don't know how advanced it is at the moment but say I'm an enterprise user of 35y and it's like I'm I'm wondering what to do like perhaps you can see that I'm not using the product as much as I should and so based on that I would assume that one of your agents would see product usage is low or I need to help me connect you so it gets some value and then like the agent would on its own perhaps go and find some um some sort of place I could prospect on.
+
+Is that like something that's already here like that you're already thinking of?
+
+That's already yeah that's already so we we launched Jarvis um into the platform so at the moment Jarvis is more of a co-pilot um uh he he can help you build and design the platform give you ideas the next iteration of Jarvis is to proactively work with the customer so Jarvis uh you know there will be thousands of Javvises if that makes sense so the more you work with Jarvis the better Jarvis becomes for you Jarvis will ping you if you're not like logging in Jav will give you ideas, he'll fix things for you.
+
+Um, so yes, we're already that's already in the works already what we're thinking about.
+
+And again, it's just joining up.
+
+You know, we know that the technology isn't there to do all of this to a really good level right now.
+
+But the key thing is you have to start building towards these things and working towards this slowly and putting in the foundations because the technology is coming and the capabilities the capabilities are there from the intelligence level from models.
+
+It's just all about now how can you create an agentic framework that makes it reliable at a level of scale and doesn't kind of hallucinate and doesn't do these things.
+
+The model on its own isolated is it's smarter than me and you.
+
+It doesn't need to get clever.
+
+It just needs to be better with how it can handle large volumes of context and things like that which is slowly starting to happen now more and more.
+
+&gt;&gt; It's almost like you're building um some sort of open clo for social scen for each of your user because then it's like that's eventually what happens.
+
+It's like back in the days um if I were buying uh tricky I mean like this was like the early versions of trigify then I'd have to sort of like pick up the the social scenarios on my own.
+
+So I would have to pick some uh some some of my competition for example and then like scrape their engagement and then I would have to run the workflows on my own but then it's like the vision becomes okay now you you sign up and then I'm able to pick like to sort of extract any relevant information on on code like you and so now based on that I'm going to proactively scrape every post um that's like relevant to to your team.
+
+I'm gonna pick up the senials and then I could even if you agree orchestrate some um some outrage like just like the the giveaway of the &gt;&gt; exactly.
+
+So you're going to be able to connect external tools to it.
+
+So you you hit the nail on the head.
+
+The idea is it's going to be like open claw but but very trained for social specific right so already in early testing you know it's analyzed my post proactively without me telling it to do so and it's like hey Max you know this post actually got more engagement from ICP it got less total engagement but ICP had a high hit and I've tracked them to Atio and I can see that you've had five signups off the back of this post versus none on the one that did really well.
+
+So my suggestion is like if we're trying to drive leads as opposed to vanity metrics, let's do some more content around this and push this again.
+
+So that's kind of like the direction that it's like trying to take it in.
+
+Um same thing, it has access to your call call recording calls if you want it to.
+
+So it can be like okay like here's some content that we suggest.
+
+It's like should I schedule this for Tuesday for you?
+
+Yeah, schedule it.
+
+Brilliant.
+
+And then again it's this whole loop that we're we're we're working on.
+
+I've kind of like prototyped it and built it out in core code and open floor and it's like how to make this accessible for everyone now.
+
+&gt;&gt; I see.
+
+So I would connect my call transcripts, I would connect my CRM and then it's like because you have the data of say um how the post went, you'd be able to give recommendation based on what I can post again to attract the right ICP but also where I can extract uh from cuz like I don't even need to be posting to gain from some value from because I can essentially steal the engagement from competitors.
+
+Like in our case, we are getting stolen more than we steal from competitors.
+
+Like the whole example here is that right it's like you actually plug onto your actual like your CRM your call transcripts because this is where Trigify or like Triifi's agent will be able to get the feedback um from the performance of the initial pieces or like from the initial outreach that's been based on um some some engagement and it will proactively autonomously improve its own recommendation up to the moment where um it knows so much about my about me and about my about the performance of my post that like is extremely accurate in terms of um the recommendation it gives and like this this this piece of the software like is it like in beta how can I access that because like I need to put someone from my team on that before it goes mainstream.
+
+&gt;&gt; Yeah.
+
+Yeah.
+
+So, Javas is already out.
+
+Um, the Javas that we're talking about there now is in is in beta um with the the connections.
+
+Um, and like we're doing a release a week like we're we're releasing at a rapid pace at the moment.
+
+So, um we we got to do some more iterations on um you know the the the final piece.
+
+Mainly we're doing a big UI overhaul.
+
+So, again, it looks really nice.
+
+there's places to put the data &gt;&gt; once Javas creates it for you and things like that.
+
+Um, but yeah, it's pretty much pretty much there.
+
+The the first version of it already out so you can get started and and and use it and you can ask it to go pull the engagements and give you reports, tell you what it would suggest, things like that.
+
+Uh, as well, &gt;&gt; what are you planning to have like sort of final version, ultimate version?
+
+&gt;&gt; Well, like I said, so first first version is already out.
+
+If you want the part where it will start to think for you, that's coming out in the next four weeks basically.
+
+&gt;&gt; Okay, nice.
+
+Perfect.
+
+&gt;&gt; Well, Max, this was extremely interesting.
+
+Actually, I had some high expectations because I know you, but you still managed to blew to blew away my expectations.
+
+Um, so before we end, like do you have some sort of final thoughts you want to you want to share?
+
+And also like please um let us know like how we can find you on social media like where's the place we'll find like the most updated content you publish.
+
+&gt;&gt; Where where's Bella posting first essentially?
+
+&gt;&gt; Yeah.
+
+I mean, obviously LinkedIn is is is a big one.
+
+Um, just go find me there.
+
+I also have a Substack and I have a YouTube.
+
+I tend to put more of my I mean, I have all socials, but like I tend to put more of my complex uh ones onto to either LinkedIn and YouTube, like my longer form content.
+
+So, um, yeah, give me give me some follows there.
+
+Um, as for like uh, you know, final thoughts, I think I'm just going to go back to like something that I I talk a lot about.
+
+And I think what a lot of people need to realize that it's not about how we prompt agents uh, really anymore.
+
+It's it's it's context is uh, king.
+
+So really whenever you're building these things whether it's claw code whether it's open claw whatever it is think about like how can you provide enough context to these agents how can you work on things like the memory so that over time and this is what you want to create with anything that you're doing you know this is why human beings are good is in theory and if they're not that's usually why you get rid of them the more you put into an employee the more you get out, right?
+
+And it's this same thing that you want to create.
+
+You want to create a system or an architecture with your agents.
+
+The more you put in, the more uh you can get out.
+
+And that's what I've been doing for me.
+
+That's what I've helped other like, you know, people come to me do is building that kind of architectural system in place for them to to really start to scale their businesses as a result.
+
+&gt;&gt; I love it.
+
+Thanks a lot, Max.
+
+I'm going to put your links in the bio and then I'm going to be &gt;&gt; sharing um your links wherever they need to be shared.
+
+But guys, like follow Max Mitcham on on LinkedIn, YouTube, wherever.
+
+Like you need to follow him if you want to know what's happening when it comes to like applying this new technology to to lead generation.
+
+He's usually like a few steps ahead of your favorite creators when it comes to to this [&nbsp;__&nbsp;] So like make sure to follow him.
+
+And Max like thanks a lot for for coming here and to be so generous in sharing all of this because we really had a glimpse of uh your internal systems.
+
+So, I think it's going to it's going to give some inspiration to to a lot of people.
+
+&gt;&gt; There we go, dude.
+
+I hope that was helpful for you.
+
+This is not.
+
+Bye-bye.
